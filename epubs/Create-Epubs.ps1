@@ -1,3 +1,5 @@
+#! /usr/bin/pwsh
+
 Set-Location $PSScriptRoot\..
 Get-ChildItem .\reviewed\ | ForEach-Object { 
     $name = $_.Name
