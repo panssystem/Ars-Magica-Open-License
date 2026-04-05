@@ -1081,11 +1081,8 @@ If the test is failed, Divine Gloom occurs as normal. If the roll succeeds, the 
 
 - She may choose not to lose experience from mundane Abilities, though the character still gains the Warping Points and the experience points in her Holy Abilities; OR,
 - The character may take a new appropriate Minor Virtue if 3 or more Warping Points were gained, or Major Virtue if 5 or more Warping Points were gained — one that reflects the nature of the Revelation. The first Revelation gained is always the Virtue Second Sight; OR,
-- If the character gains 7 or more Warping Points from the experience, and succeeds in the Spiritual Integration test, this option may be selected. The character may choose either the Magic
-
-or Faerie Realm, and may subsequently substitute her Dominion Lore Ability for that (Realm) Lore Ability in any total or test. She has come to recognize the Divine within that Realm. She may choose this option again on another occasion, so that she becomes able to substitute Dominion Lore for both Faerie Lore and Magic Lore; OR,
-
-• Finally, having integrated both the the Magic and Faerie Realms into her cosmological understanding, the character may choose to do the same with the Infernal, seeing the Infernal as simply an agent of the Divine that is subservient to the Divine Will.
+- If the character gains 7 or more Warping Points from the experience, and succeeds in the Spiritual Integration test, this option may be selected. The character may choose either the Magic or Faerie Realm, and may subsequently substitute her Dominion Lore Ability for that (Realm) Lore Ability in any total or test. She has come to recognize the Divine within that Realm. She may choose this option again on another occasion, so that she becomes able to substitute Dominion Lore for both Faerie Lore and Magic Lore; OR,
+- Finally, having integrated both the the Magic and Faerie Realms into her cosmological understanding, the character may choose to do the same with the Infernal, seeing the Infernal as simply an agent of the Divine that is subservient to the Divine Will.
 
 >#### Divine Warping and the Monistic Mystic
 >
@@ -1493,15 +1490,13 @@ Ordination is a seasonal activity, with a Source Quality of 2 in either Civil an
 
 During the ordination season, the ordinand is examined by the bishop (or the delegated archdeacon or dean). The examination is oral and can take up to several hours; there is no requirement for clergy to be literate. Normally, the ordinand must travel for the examination, or he will have to wait until his parish receives a visitation.
 
-#### The Church
-
 In game terms, the examination is represented by comparing the character's Examination Total against the appropriate Ease Factor for that rank:
 
 **Rank:** Doorkeeper <br>
 **Church Lore Ease Factor:** 3
 
-> **Rank:** Lector <br>
-> **Church Lore Ease Factor:** 6
+**Rank:** Lector <br>
+**Church Lore Ease Factor:** 6
 
 **Rank:** Exorcist: <br>
 **Civil & Canon Law Ease Factor:** 3 
@@ -1846,8 +1841,7 @@ The benefice is the income associated with a parish church. This is usually assi
 
 There are three main reasons why a priest might be legitimately absent from his parish:
 
-• He could have leave to study in a university, to go on pilgrimage, or similar. A leave of absence of several years for these purposes is common.
-
+- He could have leave to study in a university, to go on pilgrimage, or similar. A leave of absence of several years for these purposes is common.
 - He could be in service elsewhere. The canons of the cathedral, for example, usually hold rural benefices within the diocese, as do the priests who serve in the private chapels of important nobles.
 - The final (and most frequent) reason for non-residence is the widespread practice of a single priest holding several benefices. Pluralism, as this is called, is technically outlawed in canon law, and arouses much hostility within the Church. However, even the papacy frequently engages in pluralism. Some clergy (consequently the wealthiest) hold more than a dozen benefices, from which they collect total incomes of hundreds of pounds a year.
 
@@ -1871,10 +1865,8 @@ Two priests can exchange benefices, the usual reason being a falling out between
 >
 >An entire diocese might be affected by a Boundary target spell with a +7 Size Modifier, but the diocese's borders must also be very well defined (perhaps by rivers and forests) for such a spell to be possible.
 >
->#### The Great Discord
->
->CrVi 55
->
+>##### The Great Discord
+>CrVi 55<br>
 >R: Touch, D: Moon, T: Boundary, Ritual
 >
 >The whole parish is tainted by magic, and for the spell duration everyone in the parish suffers from the social penalties of The Gift: husbands and wives bicker and feud, brawls erupt in the fields, and animals flee from their masters. The parish is paralyzed by the social breakdown, and by the end of the spell several parishioners may have been murdered. The parish immediately gains a reputation for being cursed, and it can take years for harmony to be restored. Also, as the parish animals have fled and the fields have been only erratically tended, it is likely that the parish will suffer from famine and starvation in the following year.
@@ -1981,10 +1973,7 @@ Bishops are also required by canon law to report, in person, to the pope every f
 
 Synods are meetings of the clergy. The dean, archdeacon, bishop, and archbishop all regularly convoke synods to discuss the spiritual and material needs of their respective jurisdictions, and the meetings are usually hosted by their church. Most parish priests attend at least one synod a year, and maybe as many as one a season. Noble and monastic representatives are often invited to synods, and known Hermetic covenants might be invited to send representatives too. The synod itself takes a couple of days and, unless a character needs to travel an extraordinarily long distance, attending a synod does not disrupt his seasonal activities. Occasional absences from regional synods are willingly tolerated, but many absences will be seen as possible evidence of heretical beliefs.
 
-#### The Church
-
-
-## Ecumenical Councils
+### Ecumenical Councils
 
 Ecumenical councils are special synods called and presided over by the pope. The last Ecumenical council was called in 1213 by Pope Innocent III and began in November 1215. The council was held in Rome and was attended by more than 400 bishops, the heads of the military orders, and over 800 abbots and deans of chapters. Envoys were sent by most of the major nobles of Mythic Europe and several attended in person, but there was little participation by the Greek Church. A number of magi also attended the council in the retinue of either lay or clerical dignitaries. As far as the Order of Hermes is aware, these magi only witnessed proceedings; none are known to have interfered in the council using magic. The council process took about two weeks, and its main purposes were to make ready for a new crusade, to issue new Church doctrines, and to consolidate the pope's reforms of the Church and canon law.
 
@@ -2264,26 +2253,24 @@ By custom, anyone may seek sanctuary within a vast area of land several miles ar
 >
 >This parish is in one of the larger towns in the diocese. The town also has a substantial minority of Jews who the church canons must sometimes protect from persecution. The town guild master is a close ally of the dean, and the guild has sponsored its own altar in the church.
 >
->**Hooks:** Urban; Protector (Jews)
->
->**Boons:** Chapter of Canons, Edifice (church tower), Local Ally (guild master), Minority (Jews).
->
+>**Hooks:** Urban; Protector (Jews)<br>
+>**Boons:** Chapter of Canons, Edifice (church tower), Local Ally (guild master), Minority (Jews).<br>
 >**Resources:** Divine aura 5. Books: 150 Build Points. Relics: Two relics (Faith Score 3; each with two powers), ten minor relics (Faith Score 1). Vis Sources: 5 pawns Creo (sound of the pealing bells at Easter Mass). Specialists: 6 Canons (Church Lore 5), 2 Notaries (Profession: Scribe 5), 1 Master Stonemason (Profession: Mason 6), 8 Churchwardens (Brawl 4). (295 Build Points)
 >
 >#### Village Parish
 >
 >This church serves three small villages constructed on the edge of a forest, which was once a nobleman's hunting estate and is now used as a resource by the peasants. The church is very old and in a bad state of repair, which makes climbing the bell tower perilous. The decay is caused by spells cast by the lords of a faerie court, who haunt the dark places in the forest. In addition, perhaps due to the presence of the faerie court, unless the church relics are carried on the perambulation the Divine aura reduces to 3 for the following year. The curate's cousin is the bishop of the diocese.
 >
->**Hooks:** Absent Rector, Crumbling, Faerie Court, Flickering Aura.
->
->**Boons:** Powerful Ally (bishop); Chase. **Resources:** Divine aura 4. Books: *Bible*, *Missal*, *Parish Register* (Level 7). Relics: one relic (Faith Score 2; with two powers), three minor relics (Faith Score 1). Vis Sources: 3 pawns Animal (first boar of the hunt), 5 pawns Imaginem (mid-summer dawn light penetrating the bell tower). (141 Build Points)
+>**Hooks:** Absent Rector, Crumbling, Faerie Court, Flickering Aura.<br>
+>**Boons:** Powerful Ally (bishop); Chase. <br>
+>**Resources:** Divine aura 4. Books: *Bible*, *Missal*, *Parish Register* (Level 7). Relics: one relic (Faith Score 2; with two powers), three minor relics (Faith Score 1). Vis Sources: 3 pawns Animal (first boar of the hunt), 5 pawns Imaginem (mid-summer dawn light penetrating the bell tower). (141 Build Points)
 >
 >#### Covenant Chapel
 >
 >The chapel is a separate building built in a shaded glen a few minutes' walk from the covenant tower. It was once the site of a pagan temple. The parish clerk secretly reports to the bishop on the affairs of the priest.
 >
->**Hooks:** Fallen Temple, Spies. **Boons:** Burial Rights, Seclusion.
->
+>**Hooks:** Fallen Temple, Spies. <br>
+>**Boons:** Burial Rights, Seclusion.<br>
 >**Resources:** Divine Aura 3. Books: *Breviary* (Quality 6), *Missal*. Relics: Saint's Thigh Bone (Faith Score 3; Cure Blindness power). (29 Build Points)
 
 # Chapter Four: The Rule & Religious Life
@@ -3290,7 +3277,7 @@ While with the beguines, she is a player character with useful contacts in town,
 
 **Personality Traits:** Careful +2, Cheerful +1, Practical +1
 
-#### Combat:
+**Combat:**
 
 *Dodge:* Init –1, Atk n/a, Def +2, Dam n/a *Fist:* Init –1, Atk +3, Def +1, Dam +0 *Kick:* Init –2, Atk +3, Def +0, Dam +3 **Soak:** 0
 
@@ -3669,9 +3656,7 @@ The following character stats are provided to help storyguides integrate a corru
 
 **Confidence Score:** 4 (8)
 
-**Virtues and Flaws:** Diabolist; Senior Clergy; Ceremony, Debauchery, Diablerie, Educated, Enticer of Multitudes, Great Communication x 2, Improved Characteristics, Incantation, Inspirational, Psychomachia; Corrupted Abilities, Diabolic Past, Dark Secret (Infernalist), (False) Visions, Palsied Hands, Plagued by Supernatural Entity,
-
-Witch Marks.
+**Virtues and Flaws:** Diabolist; Senior Clergy; Ceremony, Debauchery, Diablerie, Educated, Enticer of Multitudes, Great Communication x 2, Improved Characteristics, Incantation, Inspirational, Psychomachia; Corrupted Abilities, Diabolic Past, Dark Secret (Infernalist), (False) Visions, Palsied Hands, Plagued by Supernatural Entity, Witch Marks.
 
 **Personality Traits**: Inspiring +3, Spiritual +2, Charming +1
 
