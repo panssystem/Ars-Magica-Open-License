@@ -341,13 +341,13 @@ There are also a number of differences. None of these features are unique to **A
 
 First, the available character types are not equal in power. Hermetic magi are more powerful than other possible player characters, far more powerful in many cases. Power does not necessarily correspond to how interesting a character is to play, and The Gift that allows magi to work magic also causes them problems in most social situations.
 
-Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This Europe, apart from all the mythic power around the place, the rule system works well for a magiccentered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
+Second, most players have more than one character. This is called troupe-style roleplaying, and is discussed in detail in the Sagas chapter. The role of storyguide may also pass around the group, or troupe, and player characters are divided between central characters (magi and companions) and supporting cast (grogs). A player would normally only play one central character at a time, but might play several grogs at once. This Europe, apart from all the mythic power around the place, the rule system works well for a magic-centered campaign in any fantasy setting. The Mythic Europe, Stories, and Sagas chapters discuss ways to run the game, and provide hints to help you do whatever you want with it.
 
 In the last analysis, Ars Magica is a game. If you have fun with it, you are doing it right.
 
 ## Structure of the Book
 
-This is a big book, as it needs to be to explain all the rules and abackground for Ars Magica. The first chapter, this Introduction, provides a quick overview of the game, and explains the basic die-rolling mechanic.
+This is a big book, as it needs to be to explain all the rules and background for Ars Magica. The first chapter, this Introduction, provides a quick overview of the game, and explains the basic die-rolling mechanic.
 
 Chapter 2, Order of Hermes, describes the order of wizards that is central to the game.
 
@@ -395,10 +395,6 @@ The following terms are some of the more important in the game, and they come up
 
 **maga/magus:** A member of the Order of Hermes who can use Hermetic magic. Used by both players and characters. 'Maga' is the feminine form, 'magus' the masculine. The neuter is 'magum', while the plural form used in the Order is 'magi'.
 
-> #### Rounding
->
-> The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
-
 **Magic:** One of the four supernatural realms. Magical creatures often do not care one way or the other about humans.
 
 **Mythic Europe:** The world of Ars Magica. Much like medieval Europe in 1220, except that the myths are true.
@@ -425,6 +421,8 @@ The following terms are some of the more important in the game, and they come up
 
 **Trianoma:** The maga who met Bonisagus soon after he invented the Parma Magica. She took on the political mission of bringing Europe's wizards together in a single Order.
 
+**Tribunal:**
+
 1) One of the thirteen areas into which the Order of Hermes divides Mythic Europe.
 2) The meetings of the magi in one of those areas, normally held once every seven years.
 
@@ -432,9 +430,7 @@ The following terms are some of the more important in the game, and they come up
 
 ## Die Rolls
 
-The success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability
-
-+ Die Roll against an Ease Factor. If the total equals or exceeds the Ease Factor, the action succeeds. The amount by which the result exceeds the Ease Factor gives some indication of how successful the action was. Magic uses the same basic rules, but there are special rules for determining what to add to the die roll, and the number that the total must beat.
+The success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability+ Die Roll against an Ease Factor. If the total equals or exceeds the Ease Factor, the action succeeds. The amount by which the result exceeds the Ease Factor gives some indication of how successful the action was. Magic uses the same basic rules, but there are special rules for determining what to add to the die roll, and the number that the total must beat.
 
 ## Simple Die
 
@@ -455,7 +451,6 @@ On a botch, your total for the roll is never any higher than zero, in addition t
 For example, consider a character with a Characteristic + Ability total of 9 making a stress roll.
 
 ## Stress Die
-
 
 | Initial Roll | Result                                                                                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -485,8 +480,7 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 
 ## Botch Dice
 
-
-| Number<br>of Botch<br>Dice | CHANCE<br>OF BOTCH | Example Situation                                                                                                                                         |
+| Number of Botch Dice | Chance Of Botch | Example Situation                                                                                                                                         |
 | ---------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                          | 1%                 | Good conditions; the default number of botch dice.                                                                                                        |
 | 2                          | 1.9%               | Running through undergrowth.                                                                                                                              |
@@ -494,7 +488,7 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 | 4                          | 3.4%               | Fighting in driving rain while in running water up to your ankles.                                                                                        |
 | 5                          | 4.1%               | Translating negotiations between the Pope, a Faerie Lord who speaks only ancient Egyptian, and a powerful elemental spirit who speaks no human languages. |
 | 6                          | 4.7%               | Fighting exact faerie copies of yourself and your companions on a crumbling ice floe in a blizzard.                                                       |
-| 7                          | 5.2%               | Climbing a sheer wall of ice in<br>a blizzard. (The Ease Factor<br>for this would be very high as<br>well, probably about 21.)                            |
+| 7                          | 5.2%               | Climbing a sheer wall of ice in a blizzard. (The Ease Factor for this would be very high as well, probably about 21.)                            |
 | 8                          | 5.7%               | Fighting exact faerie copies of yourself and your companions in a faerie forest where the plants are actively interfering with you.                       |
 | 9                          | 6.1%               | Juggling five full cups of wine while four dancing bears cavort around you.                                                                               |
 | 10                         | 6.5%               | Casting a spell in the church of the Holy Sepulcher in Jerusalem.                                                                                         |
@@ -516,13 +510,15 @@ For example, consider the character climbing a crumbling cliff in a high wind. I
 
 Notes: An average character has a score of 0 in the relevant Characteristic, while a highly talented character has a score of +3. Moderate skill is a score of 3 in an Ability, 'Skilled' means a score of 6, and 'Very Skilled' means 9.
 
+> #### Rounding
+>
+> The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
+
 ---
 
 # II. The Order of Hermes
 
-The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200
-
-members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
+The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
 
 ## The History of the Order
 
@@ -558,9 +554,7 @@ The result of these studies was Bonisagus's second great discovery, the theory o
 
 ## The Houses of Hermes
 
-The first magi of the Order are always referred to as the Twelve Founders, for all that there were thirteen magi at the first Tribunal. Trianoma refused to put herself on an equal footing with Bonisagus, or the other magi she had brought to him, an astute political move that left her free to mediate power struggles rather than being drawn into them. Each of the Twelve Founders established a House. The current House Ex Miscellanea was founded later in the Order's history, and in the beginning House Diedne made up the complement. House Diedne were bound together by their adherence to an
-
-ancient pagan religion, which they soon came to dominate completely.
+The first magi of the Order are always referred to as the Twelve Founders, for all that there were thirteen magi at the first Tribunal. Trianoma refused to put herself on an equal footing with Bonisagus, or the other magi she had brought to him, an astute political move that left her free to mediate power struggles rather than being drawn into them. Each of the Twelve Founders established a House. The current House Ex Miscellanea was founded later in the Order's history, and in the beginning House Diedne made up the complement. House Diedne were bound together by their adherence to an ancient pagan religion, which they soon came to dominate completely.
 
 The Order immediately entered a period of rapid growth. The founders of the True Lineages recruited apprentices, and their Houses grew organically. The founders of the Mystery Cults initiated more members, recruiting eagerly from among those other wizards who seemed congenial. House Merinita was not yet a Mystery Cult, and recruited magi with an interest in the wilderness. House Diedne sought converts to its religion. House Jerbiton extended the reach of the Order into the higher culture of the mundane world, even making overtures to Charlemagne himself. And the magi of Houses Flambeau and Tytalus criss-crossed the continent, giving all magicians they found a simple choice: Join, or Die.
 
@@ -576,9 +570,7 @@ In the early years of the ninth century Damhan-Allaidh (DAH-van ALL-ath), a powe
 
 Tytalus the Founder entrusted Pralix, his most gifted apprentice, with the task of defeating Damhan-Allaidh. She brought as much cunning to the task as her opponent, and in a series of devious raids and spectacular magical battles she was able to defeat Damhan-Allaidh and bring many of his followers over to her side. Despite the victory, rumors persist to the present day that Damhan-Allaidh was not destroyed, and still plots revenge against the Order.
 
-As the Order prepared to welcome the victor home, it received a message. Pralix had established her own Order, the Ordo Miscellanea, which would serve as a competitor to the Order of Hermes, keeping it strong. Flambeau wanted to march against
-
-her immediately, but Tytalus, impressed by his filia's nerve, forced a negotiated settlement. In 817 the Ordo Miscellanea joined the Order of Hermes as a thirteenth House, House Ex Miscellanea.
+As the Order prepared to welcome the victor home, it received a message. Pralix had established her own Order, the Ordo Miscellanea, which would serve as a competitor to the Order of Hermes, keeping it strong. Flambeau wanted to march against her immediately, but Tytalus, impressed by his filia's nerve, forced a negotiated settlement. In 817 the Ordo Miscellanea joined the Order of Hermes as a thirteenth House, House Ex Miscellanea.
 
 ## The Domination of House Tremere
 
@@ -592,9 +584,7 @@ House Tytalus has always sought challenges. In the late tenth century, leaders o
 
 ## The Schism War
 
-Just after the turn of the millennium, the Order of Hermes began to descend into anarchy. The corruption of House Tytalus made magi more paranoid about the secret activities of other magi, even without the incitement of The Gift. Magi also became more concerned about attempts to pry into their secrets, and thus rebuffed attempts at investigation. Many disputes reached Tribunal, where the voting was deadlocked as magi refused to get drawn in. In this period, many Tribunals
-
-were inquorate, as magi were reluctant to leave the security of their own covenants.
+Just after the turn of the millennium, the Order of Hermes began to descend into anarchy. The corruption of House Tytalus made magi more paranoid about the secret activities of other magi, even without the incitement of The Gift. Magi also became more concerned about attempts to pry into their secrets, and thus rebuffed attempts at investigation. Many disputes reached Tribunal, where the voting was deadlocked as magi refused to get drawn in. In this period, many Tribunals were inquorate, as magi were reluctant to leave the security of their own covenants.
 
 Magi who felt themselves threatened resorted to Wizards' War, and even to illegal raids on other covenants. The Quaesitores, Redcaps, Bonisagi, and other magi interested in keeping the Order together were stretched too thin, and found that they could not impose order on magi who did not want it.
 
@@ -624,7 +614,7 @@ Magi of Bjornaer (BYORE-nayr) concern themselves primarily with beasts and the a
 
 Due to their nature, Bjornaer magi are unable to forge the necessary links to have a familiar, and the very concept is alien to them. Some Bjornaer deride magi who take familiars, which they call "substitute" heartbeasts. On the other hand, other magi are wary of followers of Bjornaer because of their fascination with the bestial. Furthermore, House Biornaer is less respected than it might otherwise be because its founder was from a Germanic rather than a Roman magical tradition.
 
-The House is divided into six clans. Clan Arelie is concerned with remembering the past, Clan Ilfetu is responsible for Initiating members of the House, Clan Maruhs seeks selfrealization, Clan Midusulf leads, Clan Sirnas protects, and Clan Wilkis nurtures magi and strengthens the House. Philosophically, the House is divided between Harmonists, who want to see humans and nature live in harmony, and Wilderists, who want to drive humans back to the cities, restoring the wilderness to its dominance. The Wilderist philosophy was the original philosophy of the House, while the first Harmonist was Hérisson, a magus of the tenth century whose ideas only became popular after the Schism War.
+The House is divided into six clans. Clan Arelie is concerned with remembering the past, Clan Ilfetu is responsible for Initiating members of the House, Clan Maruhs seeks self-realization, Clan Midusulf leads, Clan Sirnas protects, and Clan Wilkis nurtures magi and strengthens the House. Philosophically, the House is divided between Harmonists, who want to see humans and nature live in harmony, and Wilderists, who want to drive humans back to the cities, restoring the wilderness to its dominance. The Wilderist philosophy was the original philosophy of the House, while the first Harmonist was Hérisson, a magus of the tenth century whose ideas only became popular after the Schism War.
 
 The Prima of the House is Falke. and its domus magna is Crintera, in the Rhine Tribunal, described in Guardians of the Forests, page 92. The former Primus, Archmagus Urgen, is the chief of Clan Midusulf, and still important in the House, sitting on its council and residing at Crintera.
 
@@ -684,9 +674,7 @@ The Prima of the House is the Archmaga Bilera, a maga with a long history of fin
 
 House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift (page 82) is particularly common in this House.
 
-Many members of other Houses believe that followers of Jerbiton are too closely bound to the mundane powers to be trusted. On the other hand, Jerbiton magi fear that members of the Order have become isolated from humanity, risking bloody conflict with the mundanes. They try energetically to heal this rift, and pursue aesthetic and Classical knowledge with a passion. The fall of Constantinople to the Fourth Crusade in 1204 has inspired the Primus, Andru, to rally the House to its original values, the defense of civilization, a call that the younger generation of magi have heeded. The domus magna of House Jerbiton is Valnastium, in the Tribunal of the Greater Alps. Two historically
-
-important Primi were Petrus, in the tenth century, who advocated life within mundane communities, and Mattieus, in the twelfth, who believed that Jerbiton should live with other magi and serve as their ambassadors to the mundanes. These two philosophies remain strong within the House.
+Many members of other Houses believe that followers of Jerbiton are too closely bound to the mundane powers to be trusted. On the other hand, Jerbiton magi fear that members of the Order have become isolated from humanity, risking bloody conflict with the mundanes. They try energetically to heal this rift, and pursue aesthetic and Classical knowledge with a passion. The fall of Constantinople to the Fourth Crusade in 1204 has inspired the Primus, Andru, to rally the House to its original values, the defense of civilization, a call that the younger generation of magi have heeded. The domus magna of House Jerbiton is Valnastium, in the Tribunal of the Greater Alps. Two historically important Primi were Petrus, in the tenth century, who advocated life within mundane communities, and Mattieus, in the twelfth, who believed that Jerbiton should live with other magi and serve as their ambassadors to the mundanes. These two philosophies remain strong within the House.
 
 Members of House Jerbiton are trained in mundane study, the arts, and politics, and the House is held together by these common interests. The House is not tightly organized. and its magi group themselves into leagues based on a common interest. A maga may join many leagues, to find companionship with other magi who share her interests. Examples of leagues include The Gastronomers. who cooperate to hold a lavish party every year (this is a very popular league, and has members from other Houses), The Silent Ones, who are led by a magus of House Bonisagus and seek to remove the need for words and gestures from Hermetic magic, and The Humble Brethren, who work to subtly influence the College of Cardinals and ensure that no one with strong anti-magic opinions is elected Pope.
 
@@ -716,15 +704,13 @@ Quendalon returned two years later, his eyes replaced by rubies, and announced a
 
 The current Primus is Handri, who lives at the domus magna of Irencillia in the Rhine Tribunal. The previous Prima, Vinaria, also lives there. In 1202, she vanished much as Quendalon had done, leaving Handri in charge. However, when Vinaria returned in 1209, she made no moves to regain control of the House, and still lives quietly at Irencillia (see Guardians of the Forests, page 104).
 
-Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the floor of the Aegean Sea in the Theban Tribunal. He is renowned for his deep knowledge of the literary traditions of the Byzantine
-
-Empire and ancient Greece, and is rumored to have been Initiated into secrets of story magic (see The Sundered Eagle, page 81). Dama, the Praeco of the Provençal Tribunal, was born in 993. She fell into Twilight in 1061, but emerged 19 years later, and remains active today. She is one of only two members of the covenant of Mimizan, and is rumored to lead a Mystery Cult that is not part of House Merinita (see Faith & Flame, pages 29 and 64).
+Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the floor of the Aegean Sea in the Theban Tribunal. He is renowned for his deep knowledge of the literary traditions of the Byzantine Empire and ancient Greece, and is rumored to have been Initiated into secrets of story magic (see The Sundered Eagle, page 81). Dama, the Praeco of the Provençal Tribunal, was born in 993. She fell into Twilight in 1061, but emerged 19 years later, and remains active today. She is one of only two members of the covenant of Mimizan, and is rumored to lead a Mystery Cult that is not part of House Merinita (see Faith & Flame, pages 29 and 64).
 
 House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see page 236).
 
 ## House Tremere
 
-Members of House Tremere (trav-MARE-av or trav-MARE) emphasize the importance of judgment, strategy, and detailed planning. They believe in respect for superiors and in asserting authority over minions. Dignity is of the utmost concern.
+Members of House Tremere (tray-MARE-ay or tray-MARE) emphasize the importance of judgment, strategy, and detailed planning. They believe in respect for superiors and in asserting authority over minions. Dignity is of the utmost concern.
 
 House Tremere is considered one of the more sensible and stable Houses, providing strength and courage when needed and refraining from action when peace better serves the Order.
 
@@ -988,9 +974,7 @@ As minor characters, grogs tend to have bad things happen to them. Warrior grogs
 
 On the other hand, grogs are a great deal of fun to play. You don't need to worry too much about the consequences of your actions, because you probably won't be playing this character next week. You can ham up the acting, and have the grog do something stupidly heroic, or heroically stupid. If a grog charges into lone battle against a dragon, in order to defend a magus, he might die in a couple of rounds, in which case he is remembered fondly, or make some stupendously lucky rolls and kill the dragon, in which case he becomes a hero. With a grog, you can take that risk, while with a companion or magus you will probably want to be more cautious. Of course, it's also fun to play a grog who debates with the magus about the wisdom of staying to face a dragon.
 
-Grogs are often generated from the grog templates, starting on page 31. They may be created by detailed character creation, but should have no Maior Virtues or Flaws, and no more than three Minor Flaws, balanced by an equal number of
-
-Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
+Grogs are often generated from the grog templates, starting on page 31. They may be created by detailed character creation, but should have no Major Virtues or Flaws, and no more than three Minor Flaws, balanced by an equal number of Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
 
 # Character Basics
 
@@ -1026,9 +1010,7 @@ Strength measures physical power: lifting, pushing, shoving, heaving, and moving
 
 #### Stamina (Sta)
 
-Stamina represents the limits of a character's exertion, as well as how much physical punishment he can sustain. It is staying power, both mental and physical, and one of its most important components is simply the will to live. Spellcasting relies on Stamina. Stamina also measures someone's ability to
-
-carry a load for an extended period, ignore fatigue, and withstand wounds.
+Stamina represents the limits of a character's exertion, as well as how much physical punishment he can sustain. It is staying power, both mental and physical, and one of its most important components is simply the will to live. Spellcasting relies on Stamina. Stamina also measures someone's ability to carry a load for an extended period, ignore fatigue, and withstand wounds.
 
 #### Presence (Pre)
 
