@@ -16504,19 +16504,19 @@ R: Eye, D: Sun, T: Ind<br>
 The target of the spell is strongly inclined to obey you, as if you were his natural superior.<br>
 (Base 5, +1 Eve, +2 Sun)
 
-##### Coerce the spirits of the night
+##### Coerce the Spirits of the Night
 R: Voice, D: Conc, T: Ind<br>
 Makes a ghost obey you as long as you can coerce it with threats, such as a threat to defile its grave or to banish it to Hell. The more lurid and dramatic the threat, the more cooperative the ghost is. If the spell penetrates the ghost's Magic Resistance, roll Communication + Leadership to see how effective your threats are. The storyguide should always give a bonus or penalty that depends on the potency of the threat, and any roll other than a botch will compel at least minimal obedience.<br>
 (Base 5, +2 Voice, +1 Conc)
 
-##### Scent of peaceful slumber
+##### Scent of Peaceful Slumber
 R: Voice, D: Mom, T: Room<br>
 Everyone in the room falls asleep over a few seconds, with the smell of lilacs in their nostrils<br>
 (Base 4, +2 Voice, +2 Room)
 
 #### LEVEL 30
 
-##### Visions of the infernal terrors
+##### Visions of the Infernal Terrors
 R: Voice, D: Sun, T: Ind<br>
 Causes everything the target sees to look and sound terrifying. The world looks basically the same, save that everything is hideously transformed somehow. The target must roll a stress die, adding his Stamina and adding or subtracting an appropriate Personality Trait to see what the effects are. The nature of the Personality Trait used determines how it affects the Stamina roll. A Trait like Brave makes you resistant to fear, while one like Cowardly reduces the result of your roll.
 
@@ -16542,7 +16542,7 @@ R: Arc, D: Conc, T: Ind, Ritual<br>
 Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven. If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.<br>
 (Base 15, +4 Arc, +1 Conc)
 
-##### The shrouded glen
+##### The Shrouded Glen
 R: Touch, D: Year, T: Bound, Ritual<br>
 Enchants the Boundary in which the ritual is cast so that anyone moving through it is subtly diverted, effectively keeping some place within it from being discovered accidentally. Anyone not actively searching for the hidden place never finds it. Those actively searching can find the place by making a Perception stress roll against an Ease Factor of 12 (allowed once per day). If the surrounding terrain is more difficult to search than the average forest, the Ease Factor increases. Likewise, the Ease Factor drops if the terrain is more open than a forest, and completely open terrain is unsuitable for this spell. Once a searcher spots the hidden place, the spell does not prevent approach. Those who are present for the ritual are unaffected by the spell. This spell mimics the properties of many faerie forests.<br>
 (Base 3, +1 Touch, +4 Year, +4 Bound)
@@ -16582,7 +16582,7 @@ Creo Terram botches can entomb the caster in earth or stone, as well as creating
 
 #### LEVEL 15
 
-##### Seal the earth
+##### Seal the Earth
 R: Voice, D: Sun, T: Group<br>
 Creates enough dirt to fill in a pit of up to 6 paces across and 3 paces deep.<br>
 (Base 1, +2 Voice, +2 Sun, +2 Group)
@@ -16596,7 +16596,7 @@ This spell creates a roughly spherical lump of gold about six inches across. Thi
 
 #### LEVEL 25
 
-##### Wall of protecting stone
+##### Wall of Protecting Stone
 R: Voice, D: Sun, T: Ind<br>
 Makes a wall of granite up to 25 paces wide, 4 paces high, and 1 pace thick. One needs miner's tools to break through it, though it can be toppled if it is not connected to a support on its side or top.<br>
 (Base 3, +2 Voice, +2 Sun, +2 size)
@@ -16631,7 +16631,7 @@ Intellego Terram botches normally provide false information.
 
 #### LEVEL 4
 
-##### Probe for pure silver
+##### Probe for Pure Silver
 R: Per, D: Mom, T: Smell<br>
 You can smell silver, and follow the scent.<br>
 (Base 2, +2 Smell)
@@ -16652,7 +16652,7 @@ You can tell intuitively if any natural terrain you see is treacherous, such as 
 
 #### LEVEL 20
 
-##### The miner's keen eye
+##### The Miner's Keen Eye
 R: Per, D: Conc, T: Vision<br>
 You can see any one type of mineral (gold, diamond, sand), specified at the time of casting, through up to 3 paces of intervening material. You have a good idea of how much is there and how pure it is, if appropriate.<br>
 (Base 2, +1 Conc, +4 Vision, +1 see through intervening material)
@@ -16666,21 +16666,21 @@ Causes even faintly perceptible tracks of a specific being to glow with a faint 
 
 #### LEVEL 30
 
-##### Stone tell of the mind that sits
+##### Stone Tell of the Mind That Sits
 R: Touch, D: Conc, T: Ind<br>
 Allows you to talk with natural stone. A stone's answers feel slow and ponderous, but do not actually take any longer than a normal conversation. Though a stone is usually willing to talk, its direction sense and awareness of quickly moving things (such as people) are limited.<br>
 (Base 20, +1 Touch, +1 Conc)
 
 #### LEVEL 30
 
-##### Sense the Feet that Thread the Earth
+##### Sense the Feet That Thread the Earth
 R: Touch, D: Conc, T: Part<br>
 You touch the earth and feel what is moving along the ground within a mile of where you stand. You can tell the direction, distance, weight, number, and manner of movement of moving things. For instance, you might sense "a single 50-stone creature slithering toward us, a hundred rods in that direction." This spell is derived from the Terram tradition from which Guernicus the Founder came, and does not fit well into Hermetic theory.<br>
 (Base 4, +1 Touch, +1 Conc, +1 Part, +3 size)
 
 #### LEVEL 50
 
-##### Dream of the mind that sits
+##### Dream of the Mind That Sits
 R: Touch, D: Sun, T: Ind<br>
 Req: Creo<br>
 Allows you to probe the memories of a spirit within a natural stone object. The spell also perfects those memories. Probing the memories of such a spirit is extremely slow. A typical session lasts between six and twelve hours, during which the caster is oblivious to the outside world. The spell allows the caster to perceive the memories of the spirit. The spirit's senses are limited and slow, but its memory of them is very long. Using this spell the caster can relive events witnessed by the spirit, as it recalls them. Larger stone objects have more powerful spirits and so have better perceptions. Precisely what level of detail an individual spirit can perceive is up to the storyguide.<br>
@@ -16708,44 +16708,44 @@ Serious Muto Terram botches have a tendency to turn the caster to stone or metal
 
 #### LEVEL 10
 
-##### The crystal dart
+##### The Crystal Dart
 R: Voice, D: Mom, T: Ind<br>
 Req: Rego<br>
 The spell transforms a stone into a 10-inch crystal dart that rises from the ground at your feet, floats into the air, and speeds off like an arrow at a target that is within Voice range. It does +5 damage (because of the sharp edges of the crystal as much as its speed), and always hits its target, although it must Penetrate Magic Resistance to have any real effect.<br>
 (Base 3, +2 Voice, +1 Rego requisite)
 
-##### Supple iron and rigid rope
+##### Supple Iron and Rigid Rope
 R: Touch, D: Sun, T: Ind<br>
 Makes a flexible object stiff or a stiff object flexible. Casting requisites of Forms appropriate to the materials affected are required. Note that, despite the name, this spell is not high enough level to affect iron.<br>
 (Base 3, +1 Touch, +2 Sun)
 
 #### LEVEL 15
 
-##### Rock of viscid clay
+##### Rock of Viscid Clay
 R: Touch, D: Sun, T: Part<br>
 Softens rock enough that it may be dug out, molded, and otherwise manipulated in the same way that hard river clay can be. The rock is slightly sticky. The spell affects rock in a roughly spherical shape with a three-foot diameter.<br>
 (Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part)
 
 #### LEVEL 20
 
-##### Edge of the razor
+##### Edge of the Razor
 R: Touch, D: Sun, T: Ind<br>
 Sharpens any metal edge to a degree unequaled by manual methods. An edged or pointed weapon gains a +2 bonus to Damage. Good-natured magi reward grogs by enchanting their weapons in this way, although since the resulting sword is resisted by Magic Resistance they rarely do this for all their grogs.<br>
 (Base 3, +1 Touch, +2 Sun, +2 metal)
 
-##### Earth that breaks no more
+##### Earth That Breaks No More
 R: Touch, D: Sun, T: Part<br>
 Turns a volume of packed dirt up to ten cubic paces into stone.<br>
 (Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part, +1 size)
 
-##### Object of increased size
+##### Object of Increased Size
 R: Touch, D: Sun, T: Ind<br>
 This spell enlarges an inanimate object originally no bigger than a large chest. The object doubles in each dimension and increases its weight eight times. The size increase is based on the object's original, natural size, so casting the spell more than once on an object has no effect. Noble elements like gold, silver, and gems, are not affected by this spell. If any part of the item resists growth, the item as a whole does not grow. Casting requisites are required for the appropriate Form for the target.<br>
 (Base 4, +1 Touch, +2 Sun, +1 stone)
 
 #### LEVEL 35
 
-##### Teeth of the earth mother
+##### Teeth of the Earth Mother
 R: Voice, D: Sun, T: Group<br>
 You cause twenty pointed pillars of white marble to spring up from the ground to a height of 12 feet, forming a circle 3 paces in diameter. At their tops, the pillars are thin and as sharp as spears. At the base, where they touch, they are 18 inches thick. When the pillars spring up, they can be used to cage people, to form a wall, or simply to skewer enemies. Climbing to the top of the pillars requires three Dexterity + Athletics stress rolls against an Ease Factor of 12, and the tops break away when the target reaches them, causing the victim to fall. Skewering a target does +25 damage, possibly more on following rounds if the victim struggles or is exceptionally heavy. When the spell ends, the pillars crumble to dust.<br>
 (Base 3, +2 Voice, +2 Sun, +2 Group, +2 fancy effect)
@@ -16767,46 +16767,46 @@ Perdo Terram botches, as well as destroying the wrong thing, can destroy the gro
 
 #### LEVEL 10
 
-##### Fist of shattering
+##### Fist of Shattering
 R: Voice, D: Mom, T: Ind<br>
 An object of stone or weaker material up to a pace across breaks apart. The appropriate Form for the target is a casting requisite.<br>
 (Base 3, +1 stone, +2 Voice)
 
-##### Rusted decay of ten-score years
+##### Rusted Decay of Ten-score Years
 R: Voice, D: Mom, T: Ind<br>
 After the spell is cast, the metal of the target becomes so thoroughly rusted that it breaks if used in any demanding way (for example, used to strike a blow in combat or to pry open a door). It also loses any sharpness it might once have had.<br>
 (Base 2, +2 metal, +2 Voice)
 
 #### LEVEL 15
 
-##### Pit of the gaping earth
+##### Pit of the Gaping Earth
 R: Voice, D: Mom, T: Part<br>
 The dirt in a circle 6 paces across recedes into the ground, leaving a pit 9 feet deep. If the target area contains material other than dirt, that material is not affected.<br>
 (Base 3, +2 Voice, +1 Part, +1 size)
 
 #### LEVEL 20
 
-##### Obliteration of the metallic barrier
+##### Obliteration of the Metallic Barrier
 R: Touch, D: Mom, T: Ind<br>
 Reg: Rego<br>
 Shatters a barrier of metal or stone up to one foot thick. Those within one pace of the barrier, on the opposite side from you, take +10 Damage. Alchemically refined and magical metals may be able to withstand this spell.<br>
 (Base 3, +2 metal, +1 Touch, +1 size, +1 Rego to fling the fragments away)
 
-##### Stone to falling dust
+##### Stone to Falling Dust
 R: Sight, D: Mom, T: Ind<br>
 One solid non-living object turns to a pile of dust. The object must be a base Individual or smaller, so a stone item can be a pace across while a metal item can only be one tenth that size in total. A casting requisite may be required, of the Form appropriate to the target.<br>
 (Base 3, +2 metal/gems, +3 Sight)
 
 #### LEVEL 25
 
-##### End of the mighty castle
+##### End of the Mighty Castle
 R: Voice, D: Mom, T: Str<br>
 A single stone structure, such as a castle keep or manor house, crumbles to dust and small pebbles. Anyone inside at the time takes +10 damage from falling and having stones land on them, possibly more if the structure is particularly large.<br>
 (Base 3, +1 stone, +2 Voice, +3 Str)
 
 #### LEVEL 40
 
-##### Cascade of rocks
+##### Cascade of Rocks
 R: Sight, D: Mom, T: Part<br>
 Makes a cliff collapse, causing an avalanche. The effects depend on the size of the cliff and what lies below it.<br>
 (Base 3, +1 stone, +3 Sight, +1 Part, +4 size)
@@ -16832,7 +16832,7 @@ Rego Terram botches often result in the caster being struck by large amounts of 
 
 #### GENERAL
 
-##### Ward against faeries of the mountain
+##### Ward against Faeries of the Mountain
 R: Touch, D: Ring, T: Circle<br>
 As Ward Against Faeries of the Waters (ReAg Gen). but for faeries of earth and stone. At some angles at night, the ring may be seen as a dark brown dome.<br>
 
@@ -16845,45 +16845,45 @@ Slowly moves a nonliving thing, like a mug, instrument, or small pouch of coins;
 
 #### LEVEL 10
 
-##### Trackless step
+##### Trackless Step
 R: Touch, D: Special, T: Part<br>
 You leave no tracks in the earth until you come to a stop, such as to rest or fight. This spell draws on pre-Hermetic traditions, and does not perfectly fit the categories of Hermetic magic.<br>
 (Base 2, +1 Touch, +2 Special (based on Concentration), +1 Part)
 
-##### Invisible sling of vilano
+##### Invisible Sling of Vilano
 R: Touch, D: Mom, T: Ind<br>
 Hurl a stone (of a size that could be thrown with a mundane sling) at a target within range. Unlike Wielding the Invisible Sling, this spell hurls the stone as a projectile. An aiming roll is required to hit the intended target, but if it succeeds, Magic Resistance offers no protection. The stone inflicts +5 damage on impact and has a range increment of 20 paces.<br>
 (Base 5, +1 Touch)
 
-##### Wielding the invisible sling
+##### Wielding the Invisible Sling
 R: Voice, D: Mom, T: Ind<br>
 Hurls any nearby object that could normally be thrown by a person at any target within range. The object must not be held down or otherwise restrained. Damage depends on the object thrown, up to +5 for a fist-sized stone. The object always hits, but it is resisted by Magic Resistance. Casting requisites of an appropriate Form for the target are required.<br>
 (Base 4, +2 Voice)
 
-##### The forgiving earth
+##### The Forgiving Earth
 R: Voice, D: Mom, T: Part<br>
 Loosens earth in a 15-pace-by-15-pace area to a depth of one foot, making packed dirt as loose as plowed ground.<br>
 (Base 2, +2 Voice, +1 Part, +1 size)
 
-##### The unseen porter
+##### The Unseen Porter
 R: Voice, D: Conc, T: Ind<br>
 Like *Unseen Arm* (ReTe 5), but it can carry large objects such as crates. Roughly speaking, it has the capabilities of a very strong person (Str +5). The heavier the object is, the slower the unseen porter moves. If delicacy is required, high Finesse stress rolls (Ease Factor 12 or so) are needed. The spell can only carry inanimate objects, and cannot carry you. It also cannot lift things more than 6 feet above the ground. Casting requisites of an appropriate Form for the target are required.<br>
 (Base 3, +2 Voice, +1 Conc)
 
-##### Unyielding earth
+##### Unyielding Earth
 R: Voice, D: Mom, T: Part<br>
 Compacts the surface of the ground in a 15-pace-by-15-pace area to a depth of one foot, making it more solid. Mud becomes as soft earth, and soft earth becomes as packed dirt.<br>
 (Base 2, +2 Voice, +1 Part, +1 size)
 
 #### LEVEL 15
 
-##### The earth's carbuncle
+##### The Earth's Carbuncle
 R: Voice, D: Mom, T: Part<br>
 Req: Muto<br>
 Causes a 1-pace circle of ground to become jagged stone, just under the surface, and those fragments burst into the air. Anyone standing on the circle is thrown into the air and hit with flying debris. Damage is +10.<br>
 (Base 3, +2 Voice, +1 Part, +1 Muto requisite)
 
-##### Hands of the grasping earth
+##### Hands of the Grasping Earth
 R: Voice, D: Diam, T: Part<br>
 Reg: Muto<br>
 Earthen hands from beneath the target rise out of the ground, and grasp the target's ankles. To break free requires a Strength stress roll of 15+. (One attempt is allowed per round, and each requires a Fatigue roll.) Each hand can be destroyed by beating its +25 Soak roll (hacking weapons do double normal damage) and inflicting a Light Wound.<br>
@@ -16891,31 +16891,31 @@ Earthen hands from beneath the target rise out of the ground, and grasp the targ
 
 #### LEVEL 20
 
-##### Crest of the earth wave
+##### Crest of the Earth Wave
 R: Voice, D: Mom, T: Part<br>
 Creates a wave in the earth that starts at your feet and travels out to the range of your Voice in a designated direction. It starts as a narrow ripple and within 5 paces reaches its full size of 5 feet high and 30 paces wide. It moves about 50 paces per round. Those caught in its path must make Dexterity stress rolls against an Ease Factor of 12 to leap over the wave, or they are tossed aside and take +10 Damage. The wave overturns trees and damages buildings in its path.<br>
 (Base 3, +2 Voice, +1 Part, +2 size)
 
 #### LEVEL 30
 
-##### Creeping chasm
+##### Creeping Chasm
 R: Voice, D: Mom, T: Part<br>
 Creates a chasm that runs from the ground in front of your feet towards some target within range that you designate. The chasm travels about 4 paces per round, growing wider as it travels, reaching a maximum width of 20 feet at a distance of 30 paces. The chasm is 20 to 30 feet deep, and the sides are likely to collapse, so any caught in it are in a bit of a bind. To avoid the growing chasm, a target must make a Quickness stress roll against an Ease Factor of 9. The spell effect lasts a moment, creating the stresses that then open the chasm over a few rounds. The normal forces of the earth tend to close the chasm in a week or so, but may not in some locations.<br>
 (Base 3, +2 Voice, +1 Part, +3 size, +1 fancy effect)
 
-##### Earth shock
+##### Earth Shock
 R: Voice, D: Mom, T: Part<br>
 Shakes the ground in a 100 pace radius. All affected by this spell must make a Quickness - Encumbrance stress roll against an Ease Factor of 10 or fall. Apply these modifiers: standing still, +2; on solid stone, +2; moving slowly, +0; on earth, +0; running, -2; standing on a narrow bridge, -6.<br>
 (Base 3, +2 Voice, +1 Part, +4 size)
 
-##### The earth split asunder
+##### The Earth Split Asunder
 R: Voice, D: Spec, T: Part<br>
 Creates a 5-foot-wide, 60-foot-long, 10-footdeep crack in the ground. It opens on one round, stays open for another round, and closes at the start of a third round, crushing all within it for +25 damage. You must maintain concentration for all three rounds, or the pit slowly closes, over an hour's time, rather than shutting quickly and violently. To avoid the pit, those in its vicinity other than the caster must make a Quickness stress roll against an Ease Factor of 9. Falling in incurs +5 damage. To escape, another such roll is made. Unless outside help is provided, people in the pit only get one chance to escape.<br>
 (Base 3, +2 Voice, +1 Special based on Mom, +1 Part, +2 size, +1 fancy effect)
 
 #### LEVEL 75
 
-##### Hermes' portal
+##### Hermes' Portal
 R: Arc. D: Year, T: Ind, Ritual<br>
 Creates a magical portal through which people, animals, and objects can travel almost instantaneously. The ritual must be cast twice, simultaneously at two different locations, and after the rituals are performed, there is a magical connection between them. The magi conducting each ritual must have an Arcane Connection (such as a clod of dirt) to the other location when they are conducting the ritual. The portal is activated by some command word or ritual determined when the portal is enchanted. Inanimate things and unwilling creatures may be transmitted if someone else says the command word, and pushes the subject through.<br>
 (Mercurian Ritual)
@@ -16961,31 +16961,31 @@ Creo Vim botches often give the caster additional Warping Points, as the raw mag
 
 #### GENERAL
 
-##### Restore the faded threads
+##### Restore the Faded Threads
 R: Touch, D: Diam, T: Circle<br>
 Once a spell trace has been found or suspected, this spell is used to make it examinable. This spell temporarily restores spell traces to a fresh state (as if they had just expired). The spell will restore spell traces of negative magnitude up to the magnitude of this spell –3. The trace must still be existent to be affected (magnitude -9 or greater). Versions of this spell also exist for all standard Targets. Diameter duration is normally long enough to conduct Intellego Vim investigations of the spell traces.<br>
 (Base, +1 Touch, +1 Dia)
 
-##### Shell of false determinations
+##### Shell of False Determinations
 R: Touch, D: Mom, T: Ind, Ritual<br>
 Creates a "shell" of magic on an item, helping to shield it from investigation by other magi. All attempts to investigate the magic item give false information about its powers unless half of the level of the shell is exceeded by the magus's Investigation roll.<br>
 (Base effect, +1 Touch)
 
-##### Shell of opaque mysteries
+##### Shell of Opaque Mysteries
 R: Touch, D: Mom, T: Ind, Ritual<br>
 This spell is similar to Shell of False Determinations (above), but it causes all attempts to investigate the magic item to utterly fail, unless the level of the ritual is exceeded by the magus's Investigation roll. Once a magus determines the presence of a particular shell (that is, by overcoming it), it has no more power against him or her.<br>
 (Base effect, +1 Touch)
 
 #### LEVEL 15
 
-##### The phantom gift
+##### The Phantom Gift
 R: Voice, D: Sun, T: Ind<br>
 The target of the spell becomes tainted with magic as most magi are. Beasts and people react to the target as though he were a magus. Those who normally associate with the victim do not become hostile, but do give him or her a wider berth. The spell has no effect on those who already have The Gift, including those blessed with the Gentle Gift.<br>
 (Base 3, +2 Voice, +2 Sun)
 
 #### LEVEL 30
 
-##### The enigma's gift
+##### The Enigma's Gift
 R: Voice, D: Mom, T: Ind<br>
 The target of the spell gains four Warping Points (plus the normal one for being affected by a powerful supernatural effect, in most cases) and, if a Hermetic magus, must check to see whether he enters Twilight in the normal way. Although the burst of magic that causes the Warping lasts but a moment, the resulting Warping is permanent.<br>
 (Base 20, +2 Voice)
@@ -17023,14 +17023,14 @@ Intellego Vim botches generally give false information.
 
 #### GENERAL
 
-##### The invisible eye revealed
+##### The Invisible Eye Revealed
 R: Per, D: Conc, T: Touch<br>
 The caster can feel any magical means currently being used to spy on him. The representation varies in a way that depends on the spell, but it often feels like something touching the magus's back. For example, a magus being spied upon with Enchantment of the Scrying Pool might feel wet fingers, while a magus who is being tracked by The Inexorable Search might feel a finger running over his skin. This spell detects the use of Intellego spells of up to double the level of this spell. A special spell is required because most Intellego spells are designed to be subtle, and they are more subtle at higher levels.<br>
 (Base effect)
 
 #### LEVEL 2
 
-##### Sense of magical power
+##### Sense of Magical Power
 R: Touch, D: Mom, T: Ind<br>
 This spell tells the caster whether he is currently in a Magic aura. It does not give any further information. Other spells do the same for other kinds of aura.<br>
 (Base 1, +1 Touch)
@@ -17042,14 +17042,14 @@ R: Touch, D: Mom, T: Ind<br>
 When casting this spell, you typically hold your hands straight out from your body, place a known amount of Vim vis in your left hand (usually one pawn), and then place an unknown amount of vis in your right hand. After casting the spell, you may sense how heavy the unknown vis is in relation to the known, determining the number of pawns present. If you cast the spell without anything to measure the unknown vis against, you only have a very general idea of how valuable it is. The spell cannot be used to determine the amount of raw vis invested in an enchanted item.<br>
 (Base 4, +1 Touch)
 
-##### Sense the nature of vis
+##### Sense the Nature of Vis
 R: Touch, D: Mom, T: Ind<br>
 You can tell what Art a supply of raw vis is connected to. To you, the vis appears to glow with an aura that is appropriate to the Technique or Form that the vis is associated with. Creo is white, Intellego gold, Muto constantly fluctuating, Perdo black, Rego purple, Animal brown, Aquam blue, Auram violet, Corpus dark red, Herbam green, Imaginem pearly blue, Ignem bright red, Mentem orange, Terram dark brown, and Vim silver. Some of the colors are very similar, but are easy to distinguish if the item is held steadily and studied for a few seconds.<br>
 (Base 4, +1 Touch)
 
 #### LEVEL 20
 
-##### Piercing the faerie veil
+##### Piercing the Faerie Veil
 R: Per, D: Conc, T: Vision<br>
 This spell allows the caster to see through the boundaries of Faerie regiones, and therefore divine the path to the next level (more details about regiones are given on page 420). There are separate but related spells for Divine, Magical and Infernal regiones.<br>
 (Base 3, +1 Conc, +4 Vision)
@@ -17063,7 +17063,7 @@ This spell can detect the presence of many magical residues, even from weak spel
 
 #### LEVEL 40
 
-##### Sight of the active magics
+##### Sight of the Active Magics
 R: Per, D: Conc, T: Vision<br>
 You can see spells as "auras" around things and people. The color of the aura indicates the Form of the spell working on a subject, the color matching the appropriate one described in Sense the Nature of Vis (page 367). The Technique of a spell working on the subject is recognized by the aura's shape, not color. Creo and Rego are both very orderly auras. Muto is constantly shifting, and Intellego usually is as well, but more slowly. A Perdo aura is usually in fragments. Thus, a magus with both Endurance of the Berserkers and The Invisible Eye Revealed upon him has a very controlled, orderly aura of deep red around his or her entire body, and the magus's eyes are surrounded with slowly shifting auras of a silvery hue. You should be warned: Imaginem or Vim spells may be used to disguise auras. Also note that this spell will detect the residues of some spells.<br>
 (Base 5, +1 Conc, +4 Vision, +2 Techniques and Forms)
@@ -17118,17 +17118,17 @@ An increase in power or parameters may not raise the level of the target spell a
 
 #### GENERAL
 
-##### Mirror of opposition (form)
+##### Mirror of Opposition (form)
 R: Voice, D: Mom, T: Ind<br>
 Cast on another spell while the other spell is being cast, this causes the targeted spell to have the exact opposite of its normal effects. This effect works on spells up to half the (level – 5) of the Mirror of Opposition spell. The effects of the inversion are up to the storyguide to determine, but the target of the inverted spell usually remains the same as that of the original spell. The inverted spell cannot overcome any limitations of Hermetic magic. For example, if a Momentary Perdo Corpus spell is cast, the inversion is probably a Creo Corpus spell of Sun duration. There are ten versions of this spell, each affecting spells of one of the Hermetic forms.<br>
 (Base effect, +2 Voice)
 
-##### Shroud magic
+##### Shroud Magic
 R: Touch, D: Mom, T: Ind<br>
 This spell allows a magus to suppress or alter the sigil in a spell that is currently being cast. The spell to be shrouded can be up to double the Shroud's level, and *Shroud Magic* has the same sigil (or lack of) as that given to the shrouded spell.<br>
 (Base effect, +1 Touch)
 
-##### The sorcerer's fork
+##### The Sorcerer's Fork
 R: Touch, D: Mom, T: Ind<br>
 This spell splits another spell (whose level must be less than or equal to the level of this spell) into two or more identical spells of reduced power, which may be cast against two or more separate targets. Each resulting spell has the same Range and Target (target category, that is — the actual target may be different) as the original spell, but the power of the effect is divided by the number of resulting split spells. The precise effect is at storyguide discretion. One casting die is rolled, and the Penetration total is split between the spells. *The Sorcerer's Fork* must be equal to or greater than the level of the spell that is to be split. The split spell has a targeting penalty as for multiple casting (see page 225). If the casting magus is not cooperating, all the split spells will strike the original target.<br>
 (Base effect, +1 Touch)
@@ -17148,7 +17148,7 @@ R: Voice, D: Mom, T: Ind<br>
 The range of the targeted spell increases by one category. You may not affect a single spell more than once with this spell, and the targeted spell must be at least one magnitude lower in level than this spell. There are ten versions of *Wizard's Reach*, one for each Form.<br>
 (Base effect, +2 Voice)
 
-##### Wizard's vigil
+##### Wizard's Vigil
 R: Voice, D: Sun, T: Group<br>
 This spell functions as *Wizard's Communion*, except that the longer duration allows it to be used with Ritual spells. For the purposes of its effect, treat it as a *Wizard's Communion* of two magnitudes lower.<br>
 
@@ -17170,7 +17170,7 @@ Most Perdo Vim spells are specific to one of the four Supernatural Realms. If yo
 
 #### GENERAL
 
-##### Demon's eternal oblivion
+##### Demon's Eternal Oblivion
 R: Voice, D: Mom, T: Ind<br>
 Weakens and possibly destroys a creature with Infernal Might. If the spell penetrates the creature's Magic Resistance, the creature loses Might Score equal to the spell's level.<br>
 (Base effect, +2 Voice)
@@ -17190,7 +17190,7 @@ R: Voice, D: Mom, T: Ind<br>
 This spell will cancel the effects of any one spell of a specified Form whose level is less than or equal to (spell level + 10 + stress die (no botch)). There are 10 variants that cover each Hermetic Form, and a number of much rarer variants for different kinds of non-Hermetic magic.<br>
 (Base effect, +2 Voice)
 
-##### Wind of mundane silence
+##### Wind of Mundane Silence
 R: Voice, D: Mom, T: Room<br>
 You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of vour spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."<br>
 (Base effect, +2 Voice, +2 Room)
@@ -17234,7 +17234,7 @@ The Aegis is often cast on the Winter Solstice, as the Magic aura may be slightl
 
 Aegis of the Hearth was created by Notatus, the first Primus of House Bonisagus. It was a Major Breakthrough (see page 277), incorporating Mercurian rituals as well as Hermetic theory, and was the reason Notatus was chosen to succeed Bonisagus. As a result, the spell is more powerful than it ought to be, and has no Perdo requisite. By 1220, Notatus's discoveries have spread, and any magus in the Order is capable of inventing versions of the Aegis with the above parameters, but different levels or sizes, or both. Inventing a version with different parameters, however, would require at least a Minor Breakthrough, and vears of research.
 
-##### Circular ward against demons
+##### Circular Ward against Demons
 R: Touch, D: Ring, T: Circle<br>
 All creatures with Infernal Might equal to or less than or equal to the level of the spell are unable to enter the circle or harm those within it. If you cast the spell again, the stronger ring dispels the weaker, regardless of the order of casting. Some magi cast this spell before going to sleep at night. At night, from certain angles, the ring may be seen as a silver-hued dome.<br>
 (Base spell)
@@ -17244,7 +17244,7 @@ R: Touch, D: Diam, T: Ind<br>
 You cast this spell on a spell that you have already cast and are maintaining through concentration. The spell that requires concentration is then automatically maintained for the duration of this spell. whether you concentrate or not. You cannot change the effects of the first spell without concentrating on it again. For instance, you can use The Unseen Arm (ReTe 5) to hold an object in the air without concentrating, but to move the object still requires concentration. A Stamina + Concentration stress roll against an Ease Factor of 6 must be made in order to cast this spell while keeping the first one going (a lower roll than normal because this is what the spell is designed for). This spell only works on spells of equal or lower level.<br>
 (Base effect, +1 Touch, +1 Diam)
 
-##### Opening the intangible tunnel
+##### Opening the Intangible Tunnel
 R: Arc, D: Conc, T: Ind<br>
 You can open a magical channel from yourself to some target, allowing you to cast any spell with a range greater than Personal on that target. The tunnel does not, of itself, grant any sense impressions of the target — you must cast appropriate spells through it if you wish to see.
 
@@ -17255,12 +17255,12 @@ A magus who magically recognizes the tunnel (through *The Invisible Eye Revealed
 If the target of the spell has Magic Resistance, you must Penetrate that resistance to open the tunnel. Spells cast through the tunnel must also Penetrate Magic Resistance normally.<br>
 (Base effect, +4 Arc, +1 Conc)
 
-##### Suppressing the wizard's handiwork
+##### Suppressing the Wizard's Handiwork
 R: Touch, D: Conc, T: Ind<br>
 Cancels one spell that you have cast, but only as long as you concentrate. When concentration is broken the effects of the spell return. The level of the spell to be suppressed must be less than or equal to the level of this spell. The effects of the spell being suppressed take about one round to fade out, and then another round to return after concentration is broken. The spell to be affected must be active to be suppressed — in particular, it may not be of Momentary duration. Common uses of this spell include providing access to some place normally blocked by magic (for example, having a MuTe blocking the door to your lab, and then suppressing it to enter), and avoiding traps (such as suppressing a *Watching Ward* [ReVi Gen] on your rear door). This spell is designed to be held while you do something else, so the magus gets a +3 bonus to all Concentration rolls.<br>
 (Base, +1 Touch, +1 Conc)
 
-##### Watching ward
+##### Watching Ward
 R: Touch, D: Spec, T: Ind, Ritual<br>
 Watching Ward puts another spell on a given target on hold until that spell is triggered by a simple condition, which is determined when this ritual is cast. The target of the Watching Ward must be present for the entire casting ritual. When the conditions you specify come to pass, the suspended spell takes effect.
 
@@ -17275,7 +17275,7 @@ A version of this spell with target Room, known as *Waiting Spell*, is also well
 
 #### LEVEL 15
 
-##### Gather the essence of the beast
+##### Gather the Essence of the Beast
 R: Touch, D: Mom, T: Ind<br>
 Concentrates the raw vis in a corpse into one part of that corpse, which can then be removed. This spell lets you gather all the raw vis you find without lugging around entire corpses of beasts. Note that the vis in many magical creatures is already concentrated in this manner in some specific organ, though this spell will allow you to relocate that vis if you wish.<br>
 (Base 10, +1 Touch)
@@ -17294,10 +17294,9 @@ As time progresses, characters get better. In Ars Magica, experience points are 
 
 Experience points are used to increase Arts and Abilities. A character gains experience points in an Art or Ability when she spends seasons studying it. Once she has spent enough experience points, the Art or Ability increases by one. A character may, in general, raise an Art or Ability by more than one level per season.
 
-Increase an Ability by one:
-(Ability + 1) x 5 experience points
+**INCREASE AN ABILITY BY ONE: (Ability + 1) x 5 experience points**
 
-Increase an Art by one: Art + 1 experience points
+**INCREASE AN ART BY ONE: Art + 1 experience points**
 
 ## Advancement
 
