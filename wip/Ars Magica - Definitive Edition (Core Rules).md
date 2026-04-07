@@ -102,103 +102,55 @@ Spanning nearly 40 years, Ars Magica is an intergenerational game that has spark
 
 Magica was a signifiant part of their lives. Here we pay tribute to the memory of those Ars Magica players we've lost. Vale sodales.
 
-**FATHER JOHN ALEXIS**
-
-**IVAN BALABUCK**
-
-**RHIANNON BATES**
-
-**CHRIS BOMMERSHEIM**
-
-**HAL BOWMAN**
-
-**OTIS DANIEL BROPHY**
-
-**JOHN FRANCIS BULL**
-
-**KITTY "ISIS REGULON" CARLISLE**
-
-**FRANCESCO CHERSTICH**
-
-**LUDOVICO CONTI**
-
-**JERRY CORRICK**
-
-**AETHEL DE DIEDNE**
-
-**ØYVIND ELIASSEN**
-
-**TIM ELLIOT**
-
-**CHRISTOPHER EVANS**
-
-**CONNOR FRASER**
-
-**MIGUEL ÁNGEL GARCÍA**
-
-**PATRICE GERMAIN**
-
-**YOSSI GURVITZ**
-
-**SERENITY HALL**
-
-**AARON HARMON**
-
-**DONNA HECK**
-
-**SHAWN HICKEY**
-
-**DR. KATH HODGES**
-
-**ANDREW JONES**
-
-**ROBERT MAJOR**
-
-**ERIK/DANIEL MARKSTEDT**
-
-**FREDRICK OTTO MOEHRLE**
-
-**EDUARD MONTER**
-
-**ALBERTO PAGNOTTI**
-
-**TONY POINTON**
-
-**NICK POST**
-
-**WADE RACINE**
-
-**PAUL ROCCI**
-
-**RUSSELL "WOMBLE" SAKNE**
-
-**JAMES SANHEIM**
-
-**RUSSELL MORRIS SCHOOLS, JR.**
-
-**LO SMILODONTE**
-
-**ROLAND SPEITH**
-
-**JEROEN STOKMAN**
-
-**JULIUS STONIS**
-
-**DAVID H. TERNES**
-
-**MARGO TOTH**
-
-**KITE UNION**
-
-**GIULIANO VERTUAN**
-
-**BEN LUCIUS WALSH**
-
-**STEWART WIECK**
-
-**KARA WENDT**
-
-**RICHARD B. WHITE**
+**FATHER JOHN ALEXIS**<br>
+**IVAN BALABUCK**<br>
+**RHIANNON BATES**<br>
+**CHRIS BOMMERSHEIM**<br>
+**HAL BOWMAN**<br>
+**OTIS DANIEL BROPHY**<br>
+**JOHN FRANCIS BULL**<br>
+**KITTY "ISIS REGULON" CARLISLE**<br>
+**FRANCESCO CHERSTICH**<br>
+**LUDOVICO CONTI**<br>
+**JERRY CORRICK**<br>
+**AETHEL DE DIEDNE**<br>
+**ØYVIND ELIASSEN**<br>
+**TIM ELLIOT**<br>
+**CHRISTOPHER EVANS**<br>
+**CONNOR FRASER**<br>
+**MIGUEL ÁNGEL GARCÍA**<br>
+**PATRICE GERMAIN**<br>
+**YOSSI GURVITZ**<br>
+**SERENITY HALL**<br>
+**AARON HARMON**<br>
+**DONNA HECK**<br>
+**SHAWN HICKEY**<br>
+**DR. KATH HODGES**<br>
+**ANDREW JONES**<br>
+**ROBERT MAJOR**<br>
+**ERIK/DANIEL MARKSTEDT**<br>
+**FREDRICK OTTO MOEHRLE**<br>
+**EDUARD MONTER**<br>
+**ALBERTO PAGNOTTI**<br>
+**TONY POINTON**<br>
+**NICK POST**<br>
+**WADE RACINE**<br>
+**PAUL ROCCI**<br>
+**RUSSELL "WOMBLE" SAKNE**<br>
+**JAMES SANHEIM**<br>
+**RUSSELL MORRIS SCHOOLS, JR.**<br>
+**LO SMILODONTE**<br>
+**ROLAND SPEITH**<br>
+**JEROEN STOKMAN**<br>
+**JULIUS STONIS**<br>
+**DAVID H. TERNES**<br>
+**MARGO TOTH**<br>
+**KITE UNION**<br>
+**GIULIANO VERTUAN**<br>
+**BEN LUCIUS WALSH**<br>
+**STEWART WIECK**<br>
+**KARA WENDT**<br>
+**RICHARD B. WHITE**<br>
 
 ## Preface
 
@@ -285,22 +237,22 @@ December 2024
 
 |    |    |    |    |
 | ----- | ------------------------------ | ----- | --------------------------------------------- |
-| ii  | Credits                      | 423 | CHAPTER 13: Bestiary                        |
+| ii  | Credits                      | 423 | Chapter 13: Bestiary                        |
 | iv  | Memorials                    | 493 | Map of                                            |
 | V   | Preface                      |     | Mythic Europe                               |
 | vi  | Table of Illustrations       | 495 | Chapter 14: Mythic Europe                   |
-| 1   | Chapter 1: Introduction      | 515 | CHAPTER 15:  STORIES                        |
-| 9   | Chapter 2: Order of Hermes   | 523 | CHAPTER 16: SAGAS                           |
-| 25  | CHAPTER 3: CHARACTERS        | 535 | Appendix A: Editor's Note                   |
-| 59  | Chapter 4: Virtues & Flaws   | 536 | APPENDIX B: ARS MAGICA                      |
-| 155 | CHAPTER 5: ABILITIES         | 527 | OPEN LICENSE                                |
-| 173 | CHAPTER 6: COVENANTS         | 33/ | APPENDIX C: FOURTH EDITION CONVERSION |
+| 1   | Chapter 1: Introduction      | 515 | Chapter 15:  Stories                        |
+| 9   | Chapter 2: Order of Hermes   | 523 | Chapter 16: Sagas                           |
+| 25  | Chapter 3: Characters        | 535 | Appendix A: Editor's Note                   |
+| 59  | Chapter 4: Virtues & Flaws   | 536 | Appendix B: ARS MAGICA                      |
+| 155 | Chapter 5: Abilities         |     | OPEN LICENSE                                |
+| 173 | Chapter 6: Covenants         | 537 | Appendix C: Fourth edition conversion |
 | 201 | Chapter 7: Hermetic Magic    | 539 | Appendix D: Reference Guide                 |
-| 247 | Chapter 8: Laboratory        | 553 | APPENDIX E: SPELL INDEX                  |
-| 299 | CHAPTER 9: Spells            | 557 | Appendix F: Bestiary Index                  |
+| 247 | Chapter 8: Laboratory        | 553 | Appendix E: Spell index                  |
+| 299 | Chapter 9: Spells            | 557 | Appendix F: Bestiary Index                  |
 | 373 | Chapter 10: Long-Term Events | 558 | Appendix G: Traditional Index            |
-| 393 | CHAPTER 11:                  | 569 | Appendix H: Character Sheet              |
-| 409 | OBSTACLES CHAPTER 12: REALMS | 573 | APPENDIX I: FIFTH EDITION LINE              |
+| 393 | Chapter 11: Obstacles        | 569 | Appendix H: Character Sheet              |
+| 409 | Chapter 12: Realms           | 573 | Appendix I: Fifth edition line              |
 
 ---
 
@@ -432,11 +384,11 @@ The following terms are some of the more important in the game, and they come up
 
 The success or failure of most actions in an **Ars Magica** story is determined by rolling dice. For non-magical actions, the roll is normally Characteristic + Ability + Die Roll against an Ease Factor. If the total equals or exceeds the Ease Factor, the action succeeds. The amount by which the result exceeds the Ease Factor gives some indication of how successful the action was. Magic uses the same basic rules, but there are special rules for determining what to add to the die roll, and the number that the total must beat.
 
-## Simple Die
+### Simple Die
 
 Roll a ten-sided die. Each number counts for its value, except that a zero counts as ten.
 
-## Stress Die
+### Stress Die
 
 Stress dice are rolled when a character is under stress, and thus might succeed spectacularly, or fail with equal flair. Such a significant failure is called a botch, and always has serious effects.
 
@@ -450,13 +402,11 @@ On a botch, your total for the roll is never any higher than zero, in addition t
 
 For example, consider a character with a Characteristic + Ability total of 9 making a stress roll.
 
-## Stress Die
-
-| Initial Roll | Result                                                                                                                                                            |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Initial Roll | Result |
+| ------------ | ------ |
 | 0            | Check for a botch. No zeros on botch dice: No botch, die roll is 0. One or more zeros on botch dice: Botch. Total is no higher than 0, and something bad happens. |
-| 1            | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling.                                                      |
-| 2-9          | Die roll result is the number showing on the die.                                                                                                                 |
+| 1            | Re-roll, doubling the result. Zeros count as ten. If more ones are rolled, continue re-rolling and doubling.  |
+| 2-9          | Die roll result is the number showing on the die.  |
 
 If the roll comes up 6, he has a total of 15, 9 from the Characteristic + Ability total, plus 6 from the die roll.
 
@@ -464,7 +414,7 @@ If the first roll comes up a 1, he re-rolls and doubles the result. If the secon
 
 If the first roll comes up a 0, he needs to check for a botch. If none of the botch dice come up 0, his total is 9, the Characteristic + Ability total, plus 0 from the die roll. If any of the botch dice come up 0, his total is 0. The Characteristic + Ability total is also negated by the botch.
 
-## Botch Dice
+### Botch Dice
 
 Botch dice represent the chance that something will go seriously wrong in an activity. The number of botch dice should reflect how likely a problem is, and the number of botch dice that come up zero determine how badly something has gone wrong.
 
@@ -478,39 +428,36 @@ Multiple zeroes on the botch dice indicate that things have gone very wrong inde
 
 For example, consider the character climbing a crumbling cliff in a high wind. If he botches, he falls, as that is the obvious disaster. A single botch indicates that he falls fairly early in the climb, and takes only a little damage. A double botch indicates that he falls a bit over half way up, while a triple botch indicates that he gets almost to the top, and then falls. The damage in each case will depend on the height of the cliff and what is to be found at the base.
 
-## Botch Dice
+| Number of Botch Dice | Chance Of Botch | Example Situation |
+| -------------------- | --------------- | ----------------- |
+| 1                    | 1%              | Good conditions; the default number of botch dice. |
+| 2                    | 1.9%            | Running through undergrowth. |
+| 3                    | 2.7%            | Climbing a crumbling cliff in a high wind. |
+| 4                    | 3.4%            | Fighting in driving rain while in running water up to your ankles. |
+| 5                    | 4.1%            | Translating negotiations between the Pope, a Faerie Lord who speaks only ancient Egyptian, and a powerful elemental spirit who speaks no human languages. |
+| 6                    | 4.7%            | Fighting exact faerie copies of yourself and your companions on a crumbling ice floe in a blizzard. |
+| 7                    | 5.2%            | Climbing a sheer wall of ice in a blizzard. (The Ease Factor for this would be very high as well, probably about 21.)  |
+| 8                    | 5.7%            | Fighting exact faerie copies of yourself and your companions in a faerie forest where the plants are actively interfering with you. |
+| 9                    | 6.1%            | Juggling five full cups of wine while four dancing bears cavort around you. |
+| 10                   | 6.5%            | Casting a spell in the church of the Holy Sepulcher in Jerusalem. |
 
-| Number of Botch Dice | Chance Of Botch | Example Situation                                                                                                                                         |
-| ---------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                          | 1%                 | Good conditions; the default number of botch dice.                                                                                                        |
-| 2                          | 1.9%               | Running through undergrowth.                                                                                                                              |
-| 3                          | 2.7%               | Climbing a crumbling cliff in a high wind.                                                                                                                |
-| 4                          | 3.4%               | Fighting in driving rain while in running water up to your ankles.                                                                                        |
-| 5                          | 4.1%               | Translating negotiations between the Pope, a Faerie Lord who speaks only ancient Egyptian, and a powerful elemental spirit who speaks no human languages. |
-| 6                          | 4.7%               | Fighting exact faerie copies of yourself and your companions on a crumbling ice floe in a blizzard.                                                       |
-| 7                          | 5.2%               | Climbing a sheer wall of ice in a blizzard. (The Ease Factor for this would be very high as well, probably about 21.)                            |
-| 8                          | 5.7%               | Fighting exact faerie copies of yourself and your companions in a faerie forest where the plants are actively interfering with you.                       |
-| 9                          | 6.1%               | Juggling five full cups of wine while four dancing bears cavort around you.                                                                               |
-| 10                         | 6.5%               | Casting a spell in the church of the Holy Sepulcher in Jerusalem.                                                                                         |
+### Ease Factor
 
-## Ease Factor
-
-
-| Ease Factor | Difficulty                                                                                                                                                                                              |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0           | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for.                                                                                       |
-| 3           | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success.                                                       |
-| 6           | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail.                                                                        |
-| 9           | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success.        |
-| 12          | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time.                                      |
+| Ease Factor | Difficulty |
+| ----------- | ---------- |
+| 0           | Trivial. A character needs to be severely hindered to have any chance of failure. Almost never worth rolling for. |
+| 3           | Simple. An average character with no training succeeds about 70% of the time. Only roll if failure is very significant, otherwise assume success. |
+| 6           | Easy. An average character with some skill succeeds about 70% of the time, and talented or skilled characters almost never fail. |
+| 9           | Average. Talented or skilled characters succeed about 70% of the time, unskilled characters have little chance of success, and moderately skilled characters have about a 50% chance of success. |
+| 12          | Hard. Unskilled characters always fail, and moderately skilled characters normally do, unless they are very talented. Skilled characters fail about half the time. |
 | 15          | Very Hard. Even moderate skill gives almost no chance of success. Skilled and talented characters fail about half the time, but very skilled, highly talented characters succeed about 70% of the time. |
-| 18          | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance.                                                                               |
-| 21          | Remarkable. Very skilled, highly talented characters only succeed occasionally.                                                                                                                         |
-| 24+         | Almost impossible. The greatest masters of a skill succeed when they get lucky.                                                                                                                         |
+| 18          | Impressive. People at the top of a skill succeed about half the time. Those with lesser abilities have next to no chance. |
+| 21          | Remarkable. Very skilled, highly talented characters only succeed occasionally. |
+| 24+         | Almost impossible. The greatest masters of a skill succeed when they get lucky. |
 
 Notes: An average character has a score of 0 in the relevant Characteristic, while a highly talented character has a score of +3. Moderate skill is a score of 3 in an Ability, 'Skilled' means a score of 6, and 'Very Skilled' means 9.
 
-> #### Rounding
+> ### Rounding
 >
 > The rules for Ars Magica sometimes involve division. In most cases, a rule specifies whether you should round up or down, but if it does not, round down.
 
@@ -530,13 +477,13 @@ One of the few even partial successes in this regard was the Roman Cult of Mercu
 
 Nevertheless, suspicions grew within the Cult that some members were hoarding knowledge, ready for a major strike against the other members. Soon after the fall of the Western Roman Empire, the Cult tore itself apart in internal conflict, leaving isolated wizards scattered across Europe. Magic entered a dark age, from which it emerged with the foundation of the Order of Hermes, more than three centuries later.
 
-## The Foundation of the Order
+### The Foundation of the Order
 
 The Order of Hermes owes its existence to Bonisagus, without question the greatest magical genius yet to live. He made two great discoveries, either of which alone would have ensured his place in magical history. The first was the discovery of the Parma Magica, which defended a wizard from the magic of others and shielded him from the antipathetic effect of their Gifts. Safe behind a Parma Magica, a wizard could talk to another Gifted individual with little fear of attack and without having to constantly fight the natural tendency to lapse into envy, suspicion, and hostility.
 
 The true potential of the Parma Magica was first recognized by the sorceress Trianoma, who willingly studied under Bonisagus despite her own power. She realized that the Parma Magica would make a true society of magi possible, a society where wizards could meet to resolve their differences, and live and work together. Bonisagus, already working on his next project, a unified theory of magic, was happy to go along with Trianoma's grand vision.
 
-## Trianoma & Viea
+#### Trianoma & Viea
 
 Trianoma had a twin sister, Viea. They were trained in magic together, and as they grew, Viea interpreted Trianoma's visions. One of these visions suggested that the isolated magi of Europe would bring about a disaster, unless the sisters could defeat a particular powerful wizard. They searched for this wizard for years, and finally a dragon, said to be in the temple of the Hesperides beyond Ethiopia, told them to seek out a cave in the Alps.
 
@@ -552,7 +499,7 @@ From each of the eleven wizards who came to him, Bonisagus learned something, an
 
 The result of these studies was Bonisagus's second great discovery, the theory of Hermetic Magic. In 767 the thirteen wizards gathered at Durenmar in the Black Forest, and swore to the Code of Hermes, creating the Order of Hermes at the first Tribunal.
 
-## The Houses of Hermes
+#### The Houses of Hermes
 
 The first magi of the Order are always referred to as the Twelve Founders, for all that there were thirteen magi at the first Tribunal. Trianoma refused to put herself on an equal footing with Bonisagus, or the other magi she had brought to him, an astute political move that left her free to mediate power struggles rather than being drawn into them. Each of the Twelve Founders established a House. The current House Ex Miscellanea was founded later in the Order's history, and in the beginning House Diedne made up the complement. House Diedne were bound together by their adherence to an ancient pagan religion, which they soon came to dominate completely.
 
@@ -560,11 +507,11 @@ The Order immediately entered a period of rapid growth. The founders of the True
 
 Within forty years the Order of Hermes dominated the magical landscape of Europe.
 
-## Crises in the Order
+### Crises in the Order
 
 That domination persists until the present day, 1220. Nevertheless, an Order that has endured for well over four hundred years has naturally faced its share of crises and problems.
 
-## Damhan-Allaidh and the Ordo Miscellanea
+#### Damhan-Allaidh and the Ordo Miscellanea
 
 In the early years of the ninth century Damhan-Allaidh (DAH-van ALL-ath), a powerful and evil wizard resident in the British Isles, led an organized resistance to the Order of Hermes. Rather than face Hermetic wizards in magical combat, his followers cursed and harassed their followers, set traps, and used mundane assassins to halt the progress of the Order. For a number of years these tactics were effective, and some began to think that the Order would be stopped at the English Channel.
 
@@ -572,17 +519,17 @@ Tytalus the Founder entrusted Pralix, his most gifted apprentice, with the task 
 
 As the Order prepared to welcome the victor home, it received a message. Pralix had established her own Order, the Ordo Miscellanea, which would serve as a competitor to the Order of Hermes, keeping it strong. Flambeau wanted to march against her immediately, but Tytalus, impressed by his filia's nerve, forced a negotiated settlement. In 817 the Ordo Miscellanea joined the Order of Hermes as a thirteenth House, House Ex Miscellanea.
 
-## The Domination of House Tremere
+#### The Domination of House Tremere
 
 House Tremere had been slowly building its power since the foundation of the Order, with Tremere himself keeping close control over his line. Through the careful use of certamen and the building of political alliances, the House gained effective control over several Tribunals, and was poised to take over more. When Jerbiton died, leaving Tremere as the sole remaining Founder, the House was ready to move to dominate the entire Order, turning it into a tool for their larger plans.
 
 At that point, a group of magi whose identities are still unknown broke the minds of Tremere's closest lieutenants. This event, known as 'the Sundering', also broke the power structures that the House had built, as obligations to those magi and threats posed by them ceased to be a concern. Tremere himself met with the magi responsible for the Sundering, or perhaps their representatives, and some sort of agreement was forged. While Tremere himself died soon afterwards, the House has kept to the agreement, and has never again tried to dominate the Order.
 
-## The Corruption of House Tytalus
+#### The Corruption of House Tytalus
 
 House Tytalus has always sought challenges. In the late tenth century, leaders of the House went too far, seeking to control demons and instead being corrupted by them. They were engaged in a subtle campaign to corrupt the rest of the Order as well when their corruption was uncovered by another Tytalus maga. She alerted the Quaesitores, and the Order turned with great efficiency to purging the diabolists from their midst. The Prima of House Tytalus, Tasgillia, was the most prominent victim, but the House lost many of its members, and never again recovered the relative size it had in the early years. To this day, many magi wonder whether the House has completely escaped this taint.
 
-## The Schism War
+#### The Schism War
 
 Just after the turn of the millennium, the Order of Hermes began to descend into anarchy. The corruption of House Tytalus made magi more paranoid about the secret activities of other magi, even without the incitement of The Gift. Magi also became more concerned about attempts to pry into their secrets, and thus rebuffed attempts at investigation. Many disputes reached Tribunal, where the voting was deadlocked as magi refused to get drawn in. In this period, many Tribunals were inquorate, as magi were reluctant to leave the security of their own covenants.
 
@@ -600,7 +547,7 @@ With the destruction of the Diedne, the Schism War came to an end. The Quaesitor
 
 Since the Schism War, the Order has existed in a state of relative peace and co-operation. However, by 1220 the last magi who can remember the War have died or passed into Final Twilight, and memories of that terrible time are fading.
 
-# The Houses of Hermes
+## The Houses of Hermes
 
 The Order of Hermes is divided into twelve Houses, all but Ex Miscellanea descended in some way from one of the Twelve Founders. This section provides a brief overview of the Houses, but it is important to remember that individuals within a House can vary widely.
 
@@ -608,7 +555,7 @@ The twelve Houses fall into three groups. Four (Bonisagus, Guernicus, Mercere, a
 
 It is only possible to be a member of one House at a time.
 
-## House Bjornaer
+### House Bjornaer
 
 Magi of Bjornaer (BYORE-nayr) concern themselves primarily with beasts and the animalistic side of human nature. Because of this emphasis in their training, each Bjornaer magus can take the form of an animal, known as his "heartbeast." Understanding the heartbeast in particular and animals in general is considered more important than Hermetic magic by many in this House. Despite this close association with shapeshifting, Bjornaer magi avoid any kind of shapeshifting other than their heartbeast, and have hostile relations with some other shapeshifters, for reasons that other magi do not fully understand.
 
@@ -620,13 +567,13 @@ The Prima of the House is Falke. and its domus magna is Crintera, in the Rhine T
 
 This House is a Mystery Cult, and the ability to take the form of the heartbeast is the Outer Mystery (see page 233).
 
-## House Bonisagus
+### House Bonisagus
 
 House Bonisagus is split into two strands, the political and the theoretical. Theoretical Bonisagus magi concentrate on pushing back the boundaries of Hermetic magic, and are the undisputed masters of Magic Theory. Political Bonisagus magi, often called 'magi Trianomae', concentrate on keeping the Order together, and excel at politics.
 
 The current Prima is Archmaga Murion, a consummate politician, who resides at Durenmar in the Rhine Tribunal (see Guardians of the Forests, page 51). The House typically remembers its researchers better than its politicians: figures such as Notatus, the first Primus, who created the Aegis of the Hearth, and Conciatta, who extended Hermetic magic to directly affect the other supernatural powers (Divine, Faerie, and Infernal) (see Legends of Hermes, Chapter Two). Among contemporary members, Archmagus Relisius is well-known for his Christian faith and advocacy of harmony between Magic and the Divine (see Tales of Power, Chapter Four: Encroaching Dominion).
 
-## House Criamon
+### House Criamon
 
 This very secretive House is known for its obscure philosophy, its disdain for simple power, and its members' habit of marking their faces and bodies with arcane symbols. Followers of Criamon (KREE-ah-mone) are an enigmatic and otherworldly group of magi, generally having little interest in the politics of the Order.
 
@@ -638,7 +585,7 @@ Its Prima is Muscaria, who is resident at the domus magna, the Cave of Twisting 
 
 This House is a Mystery Cult, and the Mystery at the heart of the cult is the Enigma (see page 233).
 
-## House Ex Miscellanea
+### House Ex Miscellanea
 
 This is a large, diverse, and highly disorganized collection of magi. Though originally founded by Pralix as a rival to the Order of Hermes, this association was accepted as a House of its own. It accepts wizards of all kinds, some only nominally Hermetic, whose magic comes from many disparate traditions. Magi Ex Miscellanea (EKS mis-kel-LAH-nav-ah) are often called hedge wizards by their many detractors within the Order, although most can use Hermetic magic just as well as any other magus.
 
@@ -650,7 +597,7 @@ One of Pralix's closest allies was Colomen, from a tradition of warding wizards 
 
 Most magi would be hard-pressed to name any magus Ex Miscellanea they did not know personally including most members of the House.
 
-## House Flambeau
+### House Flambeau
 
 While most followers of Flambeau (flahm-BOH) specialize in fire magic, some study spells of simple annihilation as a more subtle alternative. Flambeau the Founder was known for his mastery of fire. while his apprentice, and the first Primus, Apromor, favored Perdo. Thus, both of these traditions are respected within the House. These aggressive and ferocious magi often cause trouble within the Order and frequently anger mundanes. However, their fearlessness and love of destruction make them invaluable when the Order requires the application of martial force.
 
@@ -658,7 +605,7 @@ House Flambeau is a gathering of kindred spirits. While most followers of Flambe
 
 Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in the Normandy Tribunal is particularly notable, as much for her great age as her great power. She is rarely seen outside her tower these days, but is a master of Ignem and still has a firm grip on the direction of her covenant (see The Lion and The Lily, page 58).
 
-## House Guernicus
+### House Guernicus
 
 House Guernicus (GWAIR-neekuss) is a true lineage, all its members descended from Guernicus the Founder, who believed that the Order needed strictly enforced rules if it was to survive. Members of this House are the judges of the Order, investigating wrongdoing and bringing cases against those who transgress the Code of Hermes and the Peripheral Code. They believe the Order will collapse through internal conflict without their fierce stewardship. The House is sometimes known informally as House Quaesitor (KWAEsee-tor), as 'Quaesitor' is the title of those magi empowered by the Order to investigate crimes.
 
@@ -670,7 +617,7 @@ The House has an important philosophical split between Traditionalists, who beli
 
 The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/ Transitionalist debate. She resides at the domus magna of the House. Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedvosmos in the Theban Tribunal. Hedyosmos is located in a labvrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see The Sundered Eagle, page 66).
 
-## House Jerbiton
+### House Jerbiton
 
 House Jerbiton (YARE-bih-tahn) is interested in the arts and the mundane world, and sometimes assumes the duty of keeping the Order on good terms with the nobility and Church. This inclination in its members often stems from a noble background—apprentices are sometimes taken from the aristocracy, and these magi maintain ties afterwards. Other members are taken from skilled artists and craftsmen who have The Gift. The Gentle Gift (page 82) is particularly common in this House.
 
@@ -682,7 +629,7 @@ Fortunata of Jerbiton was a powerful spirit master of the eleventh century who d
 
 In the present, Archmagus Mathieus of Constantinople, who is named for the city where he was trained but has lived in Paris for many years, is known for having given up the study of magic as not worth his time. For many years he seemed to have no purpose in life, but since the fall of Constantinople he has become much more active (see The Lion and the Lily, page 87). Archmagus Edward of Milton, on the other hand, is famed for heading the covenant of Schola Pythagoranis in Cambridge, which claims to have served as the nucleus for the new university in that town (see Art and Academe, page 112).
 
-## House Mercere
+### House Mercere
 
 The founder of this House lost his magical powers but remained involved in the Order. He assumed a non-magical role valuable to other magi — that of messenger. His followers continue to fulfill that role. All members of House Mercere (mare-KAY-ray, or mare-SARE in vulgar Latin), regardless of whether they possess The Gift, are officially recognized as magi of the Order. Even un Gifted Mercere spend 15 years in apprenticeship like other magi.
 
@@ -694,7 +641,7 @@ The most famous member of House Mercere, apart from the Founder himself, is Beli
 
 The Prima of House Mercere is Insatella, an unGifted Redcap who inherited the role from her father and skillfully manages the affairs of all Mercere from the domus magna at Harco, in the Roman Tribunal. As she does not have The Gift, she tries to stay out of Hermetic politics as far as possible, thus reinforcing the House's reputation for neutrality.
 
-## House Merinita
+### House Merinita
 
 This House is focused on the world of faeries, and its members tend to be just as strange as the creatures they study. Merinita (meh-rih-NEE-tah) magi frequently remain isolated, having little to do with the rest of the Order, except to defend faeries from the assaults of other magi. Those of this House eschew the merely mortal, and seek answers within the mysterious world of Arcadia.
 
@@ -708,7 +655,7 @@ Lucian the Scholar is an elder magus who lives in the covenant of Aegea, on the 
 
 House Merinita is a Mystery Cult, and magi of Merinita are all initiated into the Outer Mystery of Faerie Magic (see page 236).
 
-## House Tremere
+### House Tremere
 
 Members of House Tremere (tray-MARE-ay or tray-MARE) emphasize the importance of judgment, strategy, and detailed planning. They believe in respect for superiors and in asserting authority over minions. Dignity is of the utmost concern.
 
@@ -720,7 +667,7 @@ In addition, Tremere magi hold their filii's voting sigils (see page 314) until 
 
 The domus magna is Coeris, in the Transylvanian Tribunal, and the Prima is Poena. She is said to know the names, magical strengths, and preferences of every member of her House, and of any other magus she thinks may be of use. Whatever the truth of that, she certainly manages the projects of the whole House with unusual efficiency (see Against the Dark, page 21). The House's second-in-command (unlike other Houses, Tremere actually has such a post) is Archmaga Monica Ierne, a maga originally from the Stonehenge Tribunal and a master of combat magic. She is unsuited to the post of Prima, and has publicly acknowledged this, but she is an excellent field commander (see Against the Dark, page 30). Archmagus Stentorius is exactly what other magi think of when they imagine an older, powerful member of House Tremere. He is the leader of Fengheld, the largest covenant in the Rhine Tribunal, and holds three-fifths of the sigils of the Tremere magi of that Tribunal, as well as commanding the House there. Even in a Tribunal that holds the domus magnae and Primi of Houses Bonisagus, Bjornaer, and Merinita, he may hold more political power than any other individual magus or maga (see Guardians of the Forests, page 84).
 
-## House Tytalus
+### House Tytalus
 
 The philosophy of Tytalus (TIE-tah-loos) magi is to master all forms of conflict. To this end, they promote innovation in all sorts of contests. They do not feel alive unless they are in a constant state of struggle, perpetually testing the strengths and weaknesses of others.
 
@@ -728,7 +675,7 @@ House Tytalus is almost the opposite of House Tremere. Where the Tremere believe
 
 In their never-ending search for conflict, the leaders of House Tytalus went too far in the 10th century, falling prey to demonic machinations. Those masters of intrigue arrogantly believed they could master the dark forces, but despite their skill, were unable to outwit Hell. The leaders were executed for their crime of diabolism, and House Tytalus has been distrusted ever since. This has not been helped by the fact that two magi, Buliste and Harpax, both claim to be Primus (or Prima, in Buliste's case). Buliste was the ninth Prima, but passed into Twilight. Harpax then claimed the right to be tenth Primus. However, Buliste emerged from Twilight, and refused to acknowledge his position; he, of course, refused to yield. The two are still fighting for control of the House, and of its domus magna, Fudarus, in the Normandy Tribunal (see The Lion and the Lily, page 41). The magi of House Tytalus choose sides, but most of them seem to do so simply for the sake of the challenge, and not because they have any real loyalty to one or the other.
 
-## House Verditius
+### House Verditius
 
 Magi of House Verditius (ware-DEE-tee-oos) have unsurpassed skill at creating enchanted items, making them invaluable to other magi and non-Gifted persons.
 
@@ -744,7 +691,7 @@ The Primus of House Verditius is chosen by strict primogeniture: the eldest livi
 
 House Verditius is a Mystery Cult, and all members are initiated into the Outer Mystery of Verditius Magic (See page 240).
 
-# Covenants
+## Covenants
 
 Covenants are as important to the Order of Hermes as Houses, and magi can, and do, spend hours debating which is more important in the end.
 
@@ -754,7 +701,7 @@ A typical covenant has about half a dozen magi as members, but they range from t
 
 The physical form of covenants varies, but towers and castles are common. In addition, covenants are normally located some distance from major mundane settlements, in large part because that is where most Magic auras are found.
 
-# The Code of Hermes
+## The Code of Hermes
 
 The foundation of the Order of Hermes as an organization is the Code of Hermes. This short text, also called the Hermetic Oath because all members of the Order recite and swear to it when they are admitted, sets the structure of the Order and fixes certain limits on what its members may do. It was drafted to give magi as much freedom as possible, while protecting them from each other.
 
@@ -762,7 +709,57 @@ The degree to which magi obey the Oath varies from magus to magus, covenant to c
 
 The Code of Hermes, first sworn by Bonisagus, can be found on the next page. Since he was the first to swear it, his name is recorded whenever it is written down. There is a slight difference between the Code that members of House Bonisagus swear and the Code that members of other Houses swear. The difference is marked.
 
-## The Peripheral Code
+> ### The Code of Hermes
+>
+> *"I, Bonisagus, hereby swear my everlasting loyalty to the Order of Hermes and its members.*
+>
+> *"I will not deprive nor attempt to deprive any member of the Order of his magical power. I will not slay nor attempt to slay any member of the Order, except in justly executed and formally declared Wizards' War. I hereby understand that Wizards' War is an open conflict between two magi who may slay each other without breaking this oath, and that should I be slain in a Wizards' War, no retribution shall fall on he who slays me.*
+> 
+> *"I will abide by the decisions made by fair vote at Tribunal. I will have one vote at Tribunal, and I will use it prudently. I will respect as equal the votes of all others at Tribunal.*
+>
+> *"I will not endanger the Order through my actions. Nor will I interfere with the affairs of mundanes and thereby bring ruin on my sodales. I will not deal with devils, lest I imperil my soul and the souls of my sodales as well. I will not molest the faeries, lest their vengeance catch my sodales also.*
+>
+> *"I will not use magic to scry upon members of the Order of Hermes, nor shall I use it to peer into their affairs.*
+>
+>*"I will train apprentices who will swear to this Code, and should any of them turn against the Order and my sodales, I shall be the first to strike them down and bring them to justice. No apprentice of mine shall be called a magus until he first swears to uphold this Code.*
+>
+> *Followers of Bonisagus: "I shall further the knowledge of the Order and share with its members all that I find in my search for wisdom and power."*
+>
+> *All Others: "I concede to Bonisagus the right to take my apprentice if he should find my apprentice valuable to him in his studies."*
+>
+> *\* The Peripheral Code extends Bonisagus's right \* to claim apprentices to followers of Bonisagus.*
+>
+> *"I request that should I break this oath, I be cast out of the Order. If I am cast out of the Order, I ask my sodales to find me and slay me, that my life not continue in degradation and infamy.*
+>
+> *"The enemies of the Order are my enemies. The friends of the Order are my friends. The allies of the Order are my allies. Let us work together as one and grow hale and strong.*
+>
+> *"This oath I hereby swear on the third day of Pisces, in the nine hundred and fifth year of Aries. Woe to they who try to tempt me to break this oath, and woe to me if I succumb to the temptation."*
+>
+> *In witness here of:*
+
+> ### Lex Hermae
+> 
+> *"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.*
+> 
+> *"Quemquam sodalem ordinis potentia magica non privabo vel privare conabor. quemquam sodalem ordinis non necabo vel necare temptabo, bello magorum iure effecto excepto. bellum magorum pugnam apertam magorum duorum esse, atque si in bello magorum interficiar, poenam nullam in magum qui me necaverit cadere intellego.*
+> 
+> *"Decretis in tribunale suffragio aequo factis stabo. suffragium unum in tribunale habebo, cauteque utar. aequa suffragia ceterorum in tribunale habebo.*
+> 
+> *"Ordinem ab actionibus non periclitabor. rebus quotidianorum non interveniam et ab ea re sodales pessum dabo. cum diabolis non ageam, ne animum meum animosque sodalium quoque in periculum adducturus sim. nymphas non vexabo, ne ultio sodalibus quoque nocitura sit.*
+> 
+> *"Arte magica non utar ut sodales ordinis Hermae speculer.*
+> 
+> *"Filios qui in hanc legem iurabit docebo, et si ullus animum ab ordine sodalibusque alienaturus sit, primum feriam. filius nullus meus magus appellabitur donec in hanc legem iuraverit.*
+> 
+> *"Scientiam ordinis augebo atque omnem quam me sapientiam potentiamque quaerente invenero cum sodalibus meis communicabo.*
+> 
+> *"Hortor ut, si hanc fidem fefellero, ex ordine expellar. si expulsus ero, sodales meos hortor ut me inveniant necentque, ut viva mea in dedeco infamiaque non pergat.*
+> 
+> *"Hostes ordinis hostes mei sunt. amici ordinis amici mei sunt. socii ordinis socii mei sunt. tamquam unus laboremus firmemurque.*
+> 
+> *"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.*
+
+### The Peripheral Code
 
 The Peripheral Code consists of all decisions made in Tribunal since the foundation of the Order. Its formal authority derives from the clause in the Code requiring magi to abide by the decisions made at Tribunal, but as every case is different later Tribunals are not bound by the decisions of earlier Tribunals. Indeed, there are contradictory precedents throughout the Peripheral Code, and few magi outside the Quaesitores are familiar with all of its details. Some points are widely known, however, and worth discussing in this section.
 
@@ -770,97 +767,47 @@ In theory, the only penalty for breaking the Code is death. In practice, Tribuna
 
 Much more information about the Peripheral Code and its enforcement can be found in *Houses of Hermes: True Lineages*, starting from page 45.
 
-# The Code of Hermes
-
-*"I, Bonisagus, hereby swear my everlasting loyalty to the Order of Hermes and its members.*
-
-*"I will not deprive nor attempt to deprive any member of the Order of his magical power. I will not slay nor attempt to slay any member of the Order, except in justly executed and formally declared Wizards' War. I hereby understand that Wizards' War is an open conflict between two magi who may slay each other without breaking this oath, and that should I be slain in a Wizards' War, no retribution shall fall on he who slays me.*
-
-*"I will abide by the decisions made by fair vote at Tribunal. I will have one vote at Tribunal, and I will use it prudently. I will respect as equal the votes of all others at Tribunal.*
-
-*"I will not endanger the Order through my actions. Nor will I interfere with the affairs of mundanes and thereby bring ruin on my sodales. I will not deal with devils, lest I imperil my soul and the souls of my sodales as well. I will not molest the faeries, lest their vengeance catch my sodales also.*
-
-*"I will not use magic to scry upon members of the Order of Hermes, nor shall I use it to peer into their affairs.*
-
-*"I will train apprentices who will swear to this Code, and should any of them turn against the Order and my sodales, I shall be the first to strike them down and bring them to justice. No apprentice of mine shall be called a magus until he first swears to uphold this Code.*
-
-*Followers of Bonisagus: "I shall further the knowledge of the Order and share with its members all that I find in my search for wisdom and power."*
-
-*All Others: "I concede to Bonisagus the right to take my apprentice if he should find my apprentice valuable to him in his studies."*
-
-> *\* The Peripheral Code extends Bonisagus's right \* to claim apprentices to followers of Bonisagus.*
-
-*"I request that should I break this oath, I be cast out of the Order. If I am cast out of the Order, I ask my sodales to find me and slay me, that my life not continue in degradation and infamy.*
-
-*"The enemies of the Order are my enemies. The friends of the Order are my friends. The allies of the Order are my allies. Let us work together as one and grow hale and strong.*
-
-*"This oath I hereby swear on the third day of Pisces, in the nine hundred and fifth year of Aries. Woe to they who try to tempt me to break this oath, and woe to me if I succumb to the temptation."*
-
-*In witness here of:*
-
-# Lex Hermae
-
-*"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.*
-
-*"Quemquam sodalem ordinis potentia magica non privabo vel privare conabor. quemquam sodalem ordinis non necabo vel necare temptabo, bello magorum iure effecto excepto. bellum magorum pugnam apertam magorum duorum esse, atque si in bello magorum interficiar, poenam nullam in magum qui me necaverit cadere intellego.*
-
-*"Decretis in tribunale suffragio aequo factis stabo. suffragium unum in tribunale habebo, cauteque utar. aequa suffragia ceterorum in tribunale habebo.*
-
-*"Ordinem ab actionibus non periclitabor. rebus quotidianorum non interveniam et ab ea re sodales pessum dabo. cum diabolis non ageam, ne animum meum animosque sodalium quoque in periculum adducturus sim. nymphas non vexabo, ne ultio sodalibus quoque nocitura sit.*
-
-*"Arte magica non utar ut sodales ordinis Hermae speculer.*
-
-*"Filios qui in hanc legem iurabit docebo, et si ullus animum ab ordine sodalibusque alienaturus sit, primum feriam. filius nullus meus magus appellabitur donec in hanc legem iuraverit.*
-
-*"Scientiam ordinis augebo atque omnem quam me sapientiam potentiamque quaerente invenero cum sodalibus meis communicabo.*
-
-*"Hortor ut, si hanc fidem fefellero, ex ordine expellar. si expulsus ero, sodales meos hortor ut me inveniant necentque, ut viva mea in dedeco infamiaque non pergat.*
-
-*"Hostes ordinis hostes mei sunt. amici ordinis amici mei sunt. socii ordinis socii mei sunt. tamquam unus laboremus firmemurque.*
-
-*"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.*
-
-## Depriving of Magical Power
+### Depriving of Magical Power
 
 This clause is often invoked to punish actions against a magus that fall short of physical harm, such as damaging his laboratory or killing grogs. The justification is that, by depriving a magus of the resources he needs to study, the miscreant is depriving him of some of the magical power he would otherwise enjoy. The core meaning of the clause, though, is that magi must not try to damage each other's Gift.
 
-## Wizards' War
+### Wizards' War
 
 The Code allows for a conflict between two magi to escalate to open conflict in certain conditions. When those conditions are met, the two magi involved may step outside the bounds of the Code temporarily to settle their differences. One magus initiates a Wizards' War by sending a declaration of war to the other. The message must arrive on the next night of the full moon. The war then begins on the rise of the following full moon, and lasts until the rise of the next full moon after that.
 
 Unjust or constant use of Wizards' War is discouraged by the majority of level-headed magi. Occasionally, those who declare war too often find themselves victims of a Wizard's March.
 
-## Tribunals
+### Tribunals
 
 Tribunals are central to the political life of the Order, as was always Trianoma's intent, and thus they are discussed in detail in their own section, below. This clause is vital, however, as it gives Tribunals some authority to make new rules and interpret the clauses of the Code to fit changing situations.
 
-## Interfering with Mundanes
+### Interfering with Mundanes
 
 The clause forbidding interference with mundanes is probably the most controversial clause in the Code. Covenants have to deal with mundanes repeatedly in order to exist, and fortified dwellings containing substantial numbers of warriors tend to draw the attention of local nobles. As a result, the second half of the sentence, 'and thereby bring ruin on my sodales', is brought into most debates. As long as dealings with mundanes do not harm other magi, nor seem likely to cause such harm, they are permitted. Many precedents, however, have established that working as a court wizard is a violation of the Code.
 
-## Dealing with Demons
+### Dealing with Demons
 
 The Order hunts down and kills any member found dealing with demons. This is the only clause enforced absolutely. Trying to destroy demons is normally acceptable, but even then drawing a demon's attention to the Order is frowned upon.
 
-## Molesting the Faeries
+### Molesting the Faeries
 
 Interpretation of this clause rests heavily on what counts as molestation. Faerie places are good vis sources, so few magi have been willing to argue that charging into a faerie area spells blazing, stealing large amounts of faerie property, and retreating to your covenant, counts as molestation. This has made it rather difficult to say what is, and prosecutions under this clause tend to come down to politics, and whether other magi have suffered. Unlike the mundane and demonic clauses, however, it does not prohibit friendly dealings with faeries, at any level.
 
-## Magical Creatures
+### Magical Creatures
 
 Notably missing from the Code is a clause granting protection to magical creatures or other wizards. This was deliberate, as Trianoma wanted the Order to be able to use force to compel people to join. Excessive interference with powerful magical beings, however, can still fall under 'endangering the Order by my actions'.
 
-## Scrying
+### Scrying
 
 This prohibition is enforced with surprising rigor. Tribunals have ruled that it is illegal to scry on a non-magus, if by so doing you learn about the magus's activities, that simply walking around invisible is magical scrying, and that you can be punished for using Intellego magic on a magus even if you didn't know that he was a magus. There are also contrary rulings on many of these points, but in general Tribunals have taken a very strict view of what constitutes magical scrying.
 
-## Apprentices
+### Apprentices
 
 By contrast, the clause on apprentices is hardly enforced at all. Magi do not have to train apprentices, and the obligation on the parens to join a Wizard's March against his filius is treated more as a social expectation than a legal duty.
 
 The special right of Bonisagus magi to take apprentices from other magi is upheld, however, as is the duty of Bonisagus magi to share their work.
 
-# Tribunals
+## Tribunals
 
 In origin, a Tribunal was any formal gathering of magi that made decisions by a majority vote of those present, and kept a record of those decisions. As the Order grew, however, the Peripheral Code rapidly provided more definition. The Tribunals of the Order are now the Grand Tribunal, and any other Tribunals formally established by it. In 1220, the regional Tribunals are the only ones so established.
 
@@ -868,23 +815,23 @@ A legal Tribunal must be attended, in person, by at least twelve magi from at le
 
 The Tribunal is chaired by the Praeco, the oldest magus present, and while he also cannot vote, except to break ties, he does have the power to choose the order of business and, in extreme circumstances, silence a magus or eject him from the Tribunal. If the ejections render the Tribunal inquorate, or deprive it of a presiding Quaesitor, the Tribunal ceases to be valid. At the end of the Tribunal, the presiding Quaesitor must certify it as valid, and this is the main check on the Praeco abusing his power.
 
-## The Grand Tribunal
+### The Grand Tribunal
 
 The most important Tribunal of the Order is the Grand Tribunal, held every 33 years and drawing magi from the whole Order. The Grand Tribunal is always held at Durenmar, the domus magna of House Bonisagus and the birthplace of the Order. Three representatives are sent from each of the regional Tribunals (see later), and the Primi of all Houses also attend. The Primus of House Bonisagus serves as Praeco, even if older magi are present, and the Primus of House Guernicus as Presiding Quaesitor.
 
 The Grand Tribunal discusses matters affecting the whole Order, and its decisions are generally given far more weight than the decisions of lesser Tribunals. In addition, it is the only Tribunal with authority over the whole Order, and thus the forum where inter-Tribunal disputes must be settled.
 
-## Regional Tribunals
+### Regional Tribunals
 
 Each regional Tribunal is composed, in theory, of all the magi living in a certain area of Europe. These areas are roughly fixed by Grand Tribunal decisions, but the magi in them can change the name of the Tribunal at will, and set the membership requirements freely. In general, you don't change Tribunals if you visit a covenant in a different Tribunal, and different Tribunals might have different rules on just how long a visit can be. Regional Tribunals meet once every seven years, and the Redcaps are required to ensure that every magus in the Tribunal has received an invitation. Otherwise, they follow the normal rules for Tribunals.
 
 For the borders and names of the Regional Tribunals, see the map on page 494. Note that the borders are only approximate, as no disputes have yet arisen requiring them to be precisely fixed. Six of the Tribunals have been described in detail in supplements for Ars Magica 5th Edition: Guardians of the Forests (the Rhine Tribunal), The Lion and the Lily (the Normandy Tribunal), The Sundered Eagle (the Theban Tribunal), Against the Dark (the Transylvanian Tribunal), The Contested Isle (the Hibernian Tribunal), and Faith & Flame (the Provençal Tribunal).
 
-# The Order and Society
+## The Order and Society
 
 Most Hermetic magi want society to leave them alone to get on with their research, and in return they are perfectly happy to leave society alone. Life is, of course, not that simple, and magi are often forced to interact with many parts of society. Some even want to do so.
 
-## Peasants
+### Peasants
 
 Most peasants are afraid of magi, and stay away from their covenants. This fear is generally reasonable, as covenants are almost invariably founded in Magical areas, where strange and dangerous things happen. Further, magi themselves, due to The Gift and their ability to turn people into frogs, tend to inspire fear in the uneducated. Local legends may grow up around a covenant, and older legends or legends from distant places may be attached to it, giving it a very strange, and largely undeserved, reputation.
 
@@ -894,7 +841,7 @@ Most covenants rely on some peasants to grow food, just as the nobility and cler
 
 Finally, peasants who don't fit into Mythic European society for whatever reason may seek sanctuary at the covenant. Women who want to be scholars or warriors, serfs who want to be free, and people fleeing the consequences of a single misjudgment are all potential recruits. As a rule, people join a covenant because they have a good reason not to be somewhere else, rather than because they particularly want to live with wizards.
 
-## The Church
+### The Church
 
 Relations between the Order and the Church are officially non-existent. The Order is well aware that the Church, with God's backing, could wipe them out with no problem. The Church is well aware that Hermetic magi are very powerful, and that at least some are good Christians. The Order's tendency to harbor heretics draws suspicion, but as long as magi stay out of ecclesiastical affairs, the Church is not willing to take official action.
 
@@ -902,7 +849,7 @@ Individual clergy, however, run the full range of attitudes, from self-righteous
 
 Tribunals tend to treat interfering with the Church as a very serious crime, simply because the Church is the only organization with the potential to wipe out the entire Order. Friendly, or at least neutral, relations are encouraged; magi who launch attacks on the Church can expect to be renounced and Marched before they can inspire a Crusade.
 
-## Nobility
+### Nobility
 
 Most nobles are aware of the existence of the Order of Hermes, and all local nobles will quickly become aware of a standard covenant, with its castle and armed troops. Most nobles also have some vague recollection that these powerful wizards aren't allowed to swear fealty to them, or serve them as court wizards, and thus they apply a bit more subtlety in trying to forge relationships with their powerful new neighbors.
 
@@ -910,13 +857,13 @@ Again, individual attitudes run the full gamut, from eager, sycophantic fawning 
 
 The Peripheral Code has tended to rule that deals with nobles that don't involve service or permanent magical aid are not a violation of the clause against interfering with mundanes. This is only a tendency, though, and covenants with extensive mundane involvement need to pay close attention to their Hermetic relationships as well, lest they find themselves isolated and condemned at Tribunal.
 
-## Cities
+### Cities
 
 Most covenants and magi stay away from cities. In a city, The Gift is a major handicap, and most cities have Dominion auras that interfere strongly with magical research. On the other hand, cities contain scholars, merchants, and all kinds of mundane resources, and even simple magic can support an effective trade, so some magi, particularly of House Jerbiton, enjoy living there.
 
 City covenants try to find a Magic aura, ideally a regio, in which they can undertake laboratory work without undue interference, and often offer their services as go-betweens for more remote covenants who want to deal with an urban area. For most magi, however, cities are an interesting place to visit, but they wouldn't want to live there.
 
-## Magical Items
+### Magical Items
 
 In the early days of the Order, magi were allowed to sell enchanted devices or other magical services to mundanes without restriction, as long as they were never at the beck and call of a mundane. This changed in 1061, with a series of Tribunal rulings making it illegal to accept money or other mundane goods as payment for arcane services from anyone other than a member of the Order of Hermes or a Hermetic covenant. The rulings also make it clear that any magic sold in this way to a non-magus must eventually lose its power, whether because it is a charged item, or because the effect has a limited duration.
 
@@ -924,7 +871,7 @@ There are two obvious loopholes in this ruling. The first is less important, mun
 
 The second loophole is so glaring that it must have been deliberately designed. There is nothing to stop a mundane covenant member from selling an enchanted item on, or, indeed, to stop him from accepting a commission to obtain a particular item. Thus, the main effect has been to stop magi from dealing directly with mundanes.
 
-## Other Wizards
+### Other Wizards
 
 Hermetic magi may be the most powerful users of magic in Europe, but they are far from the only ones. People with supernatural abilities are much more common than people with The Gift, and not everyone with The Gift becomes a Hermetic magus. The official policy is still that all wizards must join the Order, or die. However, this is rarely enforced, particularly if the wizard in question is weak, or a member of the Church, or a noble.
 
@@ -944,13 +891,13 @@ Player characters in Ars Magica fall into three categories, depending on their r
 
 Most players of Ars Magica have at least two characters, and often more, although they do not play all of them at once. The characters to be played depend on events in the saga, and this is discussed in more detail in the section on Troupe-Style Roleplaying, on page 528.
 
-## Magi
+### Magi
 
 A magus (feminine maga, plural magi, feminine plural magae) is a powerful wizard, even when he has only just finished his training. Magi rule the covenant around which a saga revolves, and have the potential to become as powerful as any human being can. A magus player character belongs to a single player, who has complete control over that character's decisions.
 
 Although magi are very powerful, they are also limited in important ways by The Gift, their ability to work magic (see pages 63 and 203). This means that there are some things that only non-magi can do effectively. In addition, magi are rarely skilled at anything other than magic, which means that they need help in everyday affairs.
 
-## Companions
+### Companions
 
 A companion is an important non-magus. Like magi, player character companions belong to a single player, who controls that character's decisions. Beyond this, companions have little in common with one another. One might be a knight and veteran of the Crusades, another might be a wandering friar, a third an unGifted Redcap, still another a noblewoman. Because the Order of Hermes stands somewhat outside medieval society, it tends to attract those who do not fit in, so a companion could also be a woman who wants to serve as a knight, a priest who sees supernatural visions and has tipped into heresy, or a werewolf seeking someone who might be able to cure her affliction.
 
@@ -958,7 +905,7 @@ Although each player has a magus and a companion, they are almost never played t
 
 Companions should generally not have The Gift, unless you intend to play through apprenticeship so that they become magi at some point.
 
-## Mythic Companions
+### Mythic Companions
 
 You may find, when playing Ars Magica, that you would like to play a character who is comparable in power to a Hermetic magus without actually playing a member of the Order of Hermes. There are many individuals in Mythic Europe who have strange and potent abilities, including non-Hermetic wizards, holy hermits and supernaturally strong warriors. In Ars Magica such characters are referred collectively as Mythic Companions. While Hermetic magi are normally still the most potent characters in terms of raw power, Mythic Companions approach them. However, as they are not members of the Order of Hermes, they cannot play the same social role in a saga as a magus.
 
@@ -966,7 +913,7 @@ If you wish to play a Mythic Companion, you should normally play it as an altern
 
 General guidelines for Mythic Companions, and some examples, are given at the end of this chapter, and many Ars Magica supplements include guidelines for further specific types. You may also create your own type of Mythic Companion, in cooperation with the troupe.
 
-## Grogs
+### Grogs
 
 Grogs are minor characters, often warriors who protect the magi and defend the covenant, but also including specialists such as bookbinders and teachers who are not important enough in the story to be created as companions.
 
@@ -976,25 +923,25 @@ On the other hand, grogs are a great deal of fun to play. You don't need to worr
 
 Grogs are often generated from the grog templates, starting on page 31. They may be created by detailed character creation, but should have no Major Virtues or Flaws, and no more than three Minor Flaws, balanced by an equal number of Minor Virtues. In addition, grogs should not have Story Flaws, as they are supposed to be minor characters. Finally, grogs can never have The Gift. A character with The Gift is too important to be a grog.
 
-# Character Basics
+## Character Basics
 
 This section outlines the way that the game rules describe characters.
 
-## Size
+### Size
 
 All Ars Magica characters have a Size score. However, almost all adult human characters have the same Size score, 0, as this represents an average adult human. Every three points of Size represents a ten-fold increase or decrease in mass, and adult humans can range from Size -2 to Size +2, if they take appropriate Virtues or Flaws. The effects of this are described in the Virtues chapter, page 61. Size is more important for non-human creatures, and is discussed in detail in the Bestiary chapter, page 426.
 
-## Virtues and Flaws
+### Virtues and Flaws
 
 Virtues and Flaws are features of the character that are not shared by most people; special benefits in the case of Virtues, and disadvantages or hooks into stories for Flaws. They cover supernatural abilities, including The Gift, enemies, obsessions, and aptitudes, as well as much more. All Virtues and Flaws are listed in their own chapter, starting on page 61.
 
-## Characteristics
+### Characteristics
 
 There are eight Characteristics in **Ars Magica**, each representing one of a given character's inborn attributes. Each Characteristic has a score that describes the degree of the character's aptitude. A score of 0 is completely average, and therefore positive numbers denote higher-than-average ability and negative numbers below-average ability. All but the most exceptional of individuals have Characteristics that fall between -3 and +3.
 
 Since Characteristics represent your character's inborn potential, they cannot be increased by normal means. In rare circumstances, the storyguide may decide that drastic events warrant some sort of permanent change to a Characteristic, and powerful magic can also raise them, but for most characters, they are fixed.
 
-## Characteristic Descriptions
+### Characteristic Descriptions
 
 #### Intelligence (Int)
 
@@ -1028,7 +975,7 @@ Dexterity means being able to move with agility and to manipulate objects accura
 
 Quickness indicates reaction speed and reflexes, and helps determine who acts first when two people are trying to do something with great haste. It also describes how well your character does something in a hurry. Your effective Quickness is usually modified by your Encumbrance. See page 403 for more information on Encumbrance.
 
-## Abilities
+### Abilities
 
 Abilities are a character's learned skills. They usually do increase during the course of a saga. Characters in **Ars Magica** can choose from a wide range of Abilities, listed in the Abilities chapter starting on page 157, which are divided into five types: General Abilities, which can be learned by anyone, and Academic Abilities, Arcane Abilities, Martial Abilities, and Supernatural Abilities. A character can only learn Academic, Arcane, or Martial Abilities if he has an appropriate Virtue or Flaw, or is a magus.
 
@@ -1036,30 +983,29 @@ Supernatural Abilities are even more limited, and a character can only learn one
 
 Finally, Spell Mastery Abilities are only available to Hermetic magi, and are described on page 158.
 
-## Personality Traits
+### Personality Traits
 
 Personality Traits are a short description of important features of your character's personality. For major characters, such as magi and companions, they are normally nothing more than an aide memoire, and a reason to think about the character's personality during character creation, although there are a few specific rules that require Personality Trait rolls.
 
 For grogs, they are more significant. As grogs are often shared between players, or at least played rarely (see Troupe-Style Roleplaying on page 528), the numbers attached to Personality Traits can be used as a concrete guide to playing the character. They can be positive or negative, and normally range between +3 and -3, although there are exceptions. A Minor Personality Flaw (see later) would normally be matched by a Personality Trait of +3 or -3, while a Major Personality Flaw, which a grog would not normally have, would justify a Personality Trait of +6 or -6. 'Loyal' is a particularly important Trait, as it reflects the grog's attachment to the covenant, while 'Brave' is just as important for warrior grogs. A third Trait should be something distinctive about that grog. You may decide to roll a grog's Personality Traits when you are unsure how he would react, or you may treat the numbers simply as a guide to roleplaying. If you do roll them, add nothing but the Personality Trait, and roll a stress die. Suggested Ease Factors are found on the table
 
-### Changing Personality Traits
+#### Changing Personality Traits
 
 Personality Traits can only be changed by the player who controls the character, and only between game sessions. However, they can be changed freely, possibly to reflect a series of exceptional rolls, or to reflect life events. For example, a cowardly grog who stands his ground and kills an impressive monster might well become braver.
 
-## Reputations
+#### Personality Rolls
+
+| Ease Factor | Brave | Loyal | General |
+| ----------- | ----- | ----- | ------- |
+| 0           | Not really scary.<br>Facing down a barking dog. | Loyalty and self-interest coincide.<br>Warning the magi that your enemy is planning to attack the covenant. | Average people would always do this. |
+| 3           | Hardly scary.<br>Facing down an angry, but unarmed, peasant while armed and armored. | Little loyalty required.<br>Not denouncing the magi to the bishop passing through the local village. | Average people would usually do this. People noted for a Personality Trait would always do this. |
+| 6           | Scary.<br>Facing down an apparently equal enemy.  | Average loyalty.<br>Standing by the covenant when it is threatened. | Average people do this about half the time. |
+| 9           | Very scary.<br>Facing down a clearly superior enemy. | Loyal.<br>Resisting a large bribe and offer of protection. | Average people usually don't do this, and even notable people often fail. |
+| 12          | Extremely scary.<br>Facing down a dragon. | Very Loyal.<br>Staying loyal to the covenant under torture. | Average people almost always fail Even people noted for the Trait do this rarely. |
+
+### Reputations
 
 Reputations determine whether people are likely to have heard of the character, and what they have heard about him. They don't determine how people react to characters they have heard of, as that depends on what they think of what they've heard, nor do they necessarily aid in the identification of characters. Indeed, in some cases a high Reputation may make it difficult for a character to convince people that he is who he says he is.
-
-## Personality Rolls
-
-
-| Ease<br>Factor | Brave                                                                                            | LOYAL                                                                                                                    | GENERAL                                                                                          |
-| ---------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 0              | Not really scary.<br>Facing down a<br>barking dog.                                               | Loyalty and self-<br>interest coincide.<br>Warning the magi<br>that your enemy is<br>planning to attack<br>the covenant. | Average people would always do this.                                                             |
-| 3              | Hardly scary.<br>Facing down an<br>angry, but<br>unarmed, peasant<br>while armed and<br>armored. | Little loyalty required. Not denouncing the magi to the bishop passing through the local village.                        | Average people would usually do this. People noted for a Personality Trait would always do this. |
-| 6              | Scary.<br>Facing down<br>an apparently<br>equal enemy.                                           | Average loyalty.<br>Standing by the<br>covenant when it<br>is threatened.                                                | Average people do this about half the time.                                                      |
-| 9              | Very scary.<br>Facing down a<br>clearly superior<br>enemy.                                       | Loyal. Resisting<br>a large bribe and<br>offer of<br>protection.                                                         | Average people usually don't do this, and even notable people often fail.                        |
-| 12             | Extremely scary.<br>Facing down<br>a dragon.                                                     | Very Loyal.<br>Staying loyal to<br>the covenant<br>under torture.                                                        | Average people almost always fail Even people noted for the Trait do this rarely.                |
 
 ("Oh, sure you're Sir Robert the Dragonslayer. Of course he'd be visiting my inn. Who are you really?")
 
@@ -1069,23 +1015,23 @@ A random person has heard of a character with a Reputation if a roll of a stress
 
 Reputations can change over time. See the Long-Term Events chapter, page 386, for details.
 
-## Reputation Case Factors
+#### Reputation Ease Factors
 
 
-| Ease Factor | Local           | Ecclesiastical            | Негметіс | Comments                                                                                                                 |
-| ------------- | ----------------- | --------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 0           | Same village    | Same parish/<br>monastery | Same covenant    | Everyone in these groups has heard of everyone else in them.                                                             |
-| 6           | Same town       | Same diocese              | Same Tribunal    | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
-| 9           | Same county     | Same province             | Entire Order     | In general, only people with a reputation are known in this group, but everyone knows a few other people.                |
-| 12          | Same<br>country | Whole Church              | N/A              | Most people in this wider world are unknown, but those with outstanding reputations may be.                              |
+| Ease Factor | Local | Ecclesiastical | Нermetic | Comments |
+| ----------- | ----- | -------------- | -------- | -------- |
+| 0  | Same village | Same parish/monastery | Same covenant | Everyone in these groups has heard of everyone else in them. |
+| 6  | Same town    | Same diocese  | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
+| 9  | Same county  | Same province | Entire Order  | In general, only people with a reputation are known in this group, but everyone knows a few other people. |
+| 12 | Same country | Whole Church  | N/A           | Most people in this wider world are unknown, but those with outstanding reputations may be. |
 
-## Confidence
+### Confidence
 
 Important characters have a Confidence Score and Confidence Points. This includes both central player characters (magi and companions) and important NPCs, such as recurring antagonists and allies. These characters start with three Confidence Points. Most such characters start with a Confidence Score of one, but this can be modified by Virtues and Flaws.
 
 There is no limit to the number of Confidence Points that a character can have.
 
-### Using Confidence
+#### Using Confidence
 
 A player may spend Confidence Points on most rolls to get +3 to the total per point spent. He may decide to spend the point after the dice are rolled and the putative result of the action is known. He may not spend Confidence on a roll that botched, but he may spend it on a roll of zero which was not a botch. A player may spend any number of points up to, but not exceeding, the character's Confidence Score.
 
@@ -1093,7 +1039,7 @@ Once a Confidence Point is spent, it is gone forever. Confidence Points are not 
 
 Confidence may not be spent on rolls which represent a whole season's activities, such as rolls for studying from vis.
 
-### Getting New Confidence Points
+#### Getting New Confidence Points
 
 The storyguide for a session hands out Confidence Points to characters at the end of the session. To qualify for Confidence Points, the character must have been played for a significant length of time during that session, and must have made a contribution to the session.
 
@@ -1107,15 +1053,15 @@ Characters should be awarded one Confidence Point for each of the following that
 
 Typical characters should gain two or three Confidence Points per session.
 
-### Raising Confidence Score
+#### Raising Confidence Score
 
 A character's Confidence Score can only be increased by long-term story events which greatly increase the character's self-confidence and self-reliance. As a baseline, the fifteen grueling years of a Tytalus apprenticeship are enough to raise a character's Confidence Score by one point. Raises in play should follow on events of a similar magnitude and duration.
 
-# Character Templates
+## Character Templates
 
 The quickest way to get started playing **Ars Magica** is to choose one of the characters presented in this section. All are fully generated, and just need a name and a bit of background to fit them into your saga. The second quickest way is to customize one of these characters. Finally, you can use the Detailed Character Creation rules, starting on page 43, to build your own character from scratch.
 
-## Format
+### Format
 
 Each template is presented in the same format, described below.
 
@@ -1157,11 +1103,11 @@ Spells Known: A list of all the Hermetic spells the character knows. Obviously, 
 
 **Customization Notes:** Some notes on the character, and what can easily be changed if you want to customize it.
 
-## Grog Templates
+### Grog Templates
 
 These templates are intended for use as grogs. You could expand one into a companion fairly easily, though.
 
-### The Berserker
+#### The Berserker
 
 Characteristics: Int -2, Per -1, Pre -1, Com -1, Str +3, Sta +2, Dex +2, Qik +1
 
@@ -1193,7 +1139,7 @@ Encumbrance: 0 (3)
 
 Customization Notes: The Berserker's Large Virtue could be swapped out for an Affinity or Puissant Ability with Great Weapons. In addition he could have another Flaw, and take one of those Virtues to balance it. Other than that, he is young, so most of his Abilities are dictated by the concept. The Abilities at 1 or 2 can be swapped around, though.
 
-### The Grizzled Veteran
+#### The Grizzled Veteran
 
 Characteristics: Int 0, Per 0, Pre -1, Com -1, Str 0, Sta + 1 (1), Dex + 2 (2), Qik + 2 (2)
 
@@ -1233,7 +1179,7 @@ Customization Notes: The Grizzled Veteran has been around the covenant for years
 
 number of Virtues if desired, and his Ability scores can be moved around. The high set should probably be kept in combat, but he could specialize in a different sort of combat (you would have to recalculate Combat Totals), and the secondary abilities can be moved around at will.
 
-### The Hunter
+#### The Hunter
 
 Characteristics: Int 0, Per +3, Pre -2, Com -2, Str 0, Sta +1, Dex +2, Qik +2
 
@@ -1261,7 +1207,7 @@ Encumbrance: 2 (2)
 
 Customization Notes: The hunter is extremely useful in the wilderness, and can guide the party as well as take part in missile combat. He can also help to support the covenant by bringing in food. He doesn't work well in social situations, though. Note that the character's Bows score uses the bonus XP from Warrior, and thus cannot go below 4, but otherwise the values of his Abilities, apart from his Native Language, can be swapped freely.
 
-### The Specialist
+#### The Specialist
 
 Characteristics: Int –1, Per 0, Pre –1, Com –4, Str +2, Sta +2, Dex +3, Qik +2
 
@@ -1283,7 +1229,7 @@ Encumbrance: 2 (4)
 
 Customization Notes: The Specialist can easily focus on a different Ability, although you might want to swap the Characteristics around as well if he does, and probably change Warrior for one of the other experience-point-granting Virtues, such as Educated or Well-Traveled. You can change Personality Traits freely, and assign the Ability scores to other Abilities. Similarly, the Flaws can be changed without changing the central concept of the character.
 
-### The Standard Soldier
+#### The Standard Soldier
 
 Characteristics: Int -1, Per 0, Pre 0, Com 0, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -1310,7 +1256,7 @@ Encumbrance: 3 (4)
 
 Customization Notes: The standard soldier's Weakness can be chosen freely, and he makes a good base for creating a slightly non-standard grog, by adding Virtues and Flaws and rearranging his Abilities.
 
-### The Tough Guy
+#### The Tough Guy
 
 Characteristics: Int -1, Per 0, Pre +1, Com -1, Str +1, Sta +3, Dex 0, Qik +1
 
@@ -1342,11 +1288,11 @@ Encumbrance: 3 (4)
 
 Customization Notes: The Tough Guy works well as a defender for a magus, because he can take a lot of punishment before dropping and making the magus vulnerable. The Virtues depend on the concept, but the Flaws can be changed freely, and his combat Ability scores can be swapped freely between the combat Abilities he has.
 
-## Companion Templates
+### Companion Templates
 
 These templates are for central, but nonmagus, characters.
 
-### The Female Scholar
+#### The Female Scholar
 
 Characteristics: Int +5, Per +1, Pre +1, Com +2, Str -1, Sta -1, Dex 0, Qik +1
 
@@ -1378,7 +1324,7 @@ Encumbrance: 0 (0)
 
 Customization Notes: The female scholar has estranged herself from her family by refusing to marry a suitable man, and instead pursuing her bizarre interest in academia. She has probably come to the covenant because it is the only place where she can study freely, and she wants access to the covenant library if she doesn't already have it. Her current Virtues are very focused on scholarship, so changing one or two for Virtues that emphasize a different aspect of her life would be fine. Similarly, the emphasis of her studies could be moved to a different subject, as long as she still has a score of at least one in Artes Liberales, so that she is literate.
 
-### The Knight
+#### The Knight
 
 Characteristics: Int 0, Per 0, Pre +1, Com +1, Str +1, Sta +1, Dex +2, Qik +2
 
@@ -1416,7 +1362,7 @@ Encumbrance: 2 (3)
 
 Customization Notes: The Knight's Wealthy Virtue gives him a lot of experience points, and so cannot be changed without effectively recreating the character from scratch. Oath of Fealty can be swapped for True Love and still be appropriate. In fact, both are so appropriate to a knight that the troupe may allow you to take both, as the character can still take three more points of Flaws. Note that the character regards himself as superior to just about anyone, unless you change the Major Personality Flaw, and doesn't have the Abilities to interact well with equals.
 
-### The Priest
+#### The Priest
 
 Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex -1, Qik 0
 
@@ -1448,7 +1394,7 @@ Encumbrance: 0 (0)
 
 Customization Notes: The Priest could take another two Minor Flaws and corresponding Virtues, if desired. He may be unaware of his immunity, or being struck by lightning and remaining completely unharmed may have been a central event in his past. If it happened, it should be. The nature of his Lesser Immunity can easily be changed, and even boosted to a Greater Immunity if you take two more Minor Flaws.
 
-### The Rogue
+#### The Rogue
 
 Characteristics: Int 0, Per +1, Pre 0, Com +1, Str -1, Sta 0, Dex +4, Qik +4
 
@@ -1476,7 +1422,7 @@ Encumbrance: 0 (0)
 
 Customization Notes: The Rogue's Dark Secret can be almost anything, but is most likely to be a particularly vile crime that he committed in the past, and now, probably, feels guilty about. The compulsion should be to commit some sort of minor criminal act, such as thievery, or to take risks to prove he can. This character is fundamentally fast and stealthy, although he can turn on the charm to a certain extent. By moving the numbers in Characteristics and Abilities, you can turn him into a charmer with some ability in stealth. Don't forget to change the Great Characteristic and Puissant Ability Virtues if you do this.
 
-### The Witch
+#### The Witch
 
 Characteristics: Int +2, Per +2, Pre +1, Com +1, Str -1, Sta 0, Dex +2, Qik 0
 
@@ -1517,11 +1463,11 @@ Encumbrance: 0 (0)
 
 Customization Notes: The Witch's magical powers are far, far weaker than a Hermetic magus's, but she doesn't have The Gift. She's an excellent healer, and people might not believe that her healing abilities are purely mundane. Intolerant clergy make good enemies, as do magical or faerie beings she has annoyed, although in that case you might want to change the Flaw to Plagued by Supernatural Entity or Supernatural Nuisance. She can take another Major Flaw, or three more Minor ones, along with corresponding Virtues.
 
-## Magus Templates
+### Magus Templates
 
 These templates are of a stereotypical member of each House, 25 years old and just out of apprenticeship. The asterisk in the Virtues list indicates the Virtue that the magus gets free from his House. See page 46.
 
-### Bjornaer
+#### Bjornaer
 
 Characteristics: Int +3, Per 0, Pre 0, Com –1, Str 0, Sta +1, Dex 0, Qik +1
 
@@ -1577,7 +1523,7 @@ Customization Notes: The Bjornaer is much more comfortable with animals than wit
 
 human. The combination of Blatant Gift and Inoffensive to Animals means that she gets along better with animals than with people. Ways of the Forest should be changed to a terrain appropriate to the actual heartbeast; a wolf is assumed for the example. Both Major Flaws can be changed freely, and while Deficient Form (Ignem) is very common in House Bjornaer, there is no particular reason for your character to have it. Note that Quiet and Subtle Magic allow the magus to cast in his heartbeast form without any penalty.
 
-### Bonisagus
+#### Bonisagus
 
 Characteristics: Int +5, Per 0, Pre 0, Com +1, Str 0,
 
@@ -1624,7 +1570,7 @@ Purification of the Festering Wounds (CrCo 20/+16)
 
 Customization Notes: The Bonisagus is most likely Driven to make some great discovery in magic. He or she is a so-called 'lab rat', a magus happier in his laboratory than in the outside world. However, the favors he owes and his drive to discover are likely to push him out. Similarly, enchanted items are very useful to him, but he is bad at making them for himself. That also tends to drive him into stories. This concept is built around the Virtues and the Driven Flaw; the other Flaws can be changed easily. He can also take two additional Minor Flaws, or make Driven Major, and take two additional Minor Virtues to balance them. Similarly, the Arts in which the character has an Affinity can be changed, but that also requires changing the spells he knows.
 
-### Criamon
+#### Criamon
 
 Characteristics: Int +3, Per 0 Pre +2, Com -3, Str 0, Sta + 2, Dex 0, Qik + 1
 
@@ -1666,7 +1612,7 @@ Circular Ward Against Demons (ReVi 20/+16)
 
 Customization Notes: The Criamon does not have her maximum allowance of Flaws, so could take an additional Major Flaw or three Minor Flaws, with corresponding Virtues, if desired. Her Charm and Folk Ken scores could be moved into other Abilities available in the first five years of life (see the Detailed Character Creation rules, page 43), possibly also moving her good Presence score as well.
 
-### Ex Miscellanea
+#### Ex Miscellanea
 
 Characteristics: Int +3, Per -Pre -1, Com 0, Str +4, Sta +4, Dex -2, Qik -2
 
@@ -1702,7 +1648,7 @@ Encumbrance: 0 (0) Spells Known:
 
 Wall of Protecting Stone (CrTe 25/+35) The Crystal Dart (Mu(Re)Te 10/+27) Rock of Viscid Clay (MuTe 15/+27) Earth that Breaks No More (MuTe 20/+27) Obliteration of the Metallic Barrier (Pe(Re)Te 20/+22) The Earth's Carbuncle (Re(Mu)Te 15/+27) Hands of the Grasping Earth (Re(Mu)Te 15/+23)
 
-### Guernicus
+#### Guernicus
 
 Characteristics: Int +3, Per + Pre +1, Com 0, Str 0, Sta 0, Dex –2, Qik 0
 
@@ -1740,7 +1686,7 @@ Peering Into the Mortal Mind (InMe 30/+21)
 
 Customization Notes: If the Guernicus lies (says something she believes to be untrue as if it were true), she cannot use any magic until the sun next rises or sets. Anyone who wants to tell a lie in her presence soon after she casts a spell (within two minutes or so) must make a relevant Personality Trait check against an Ease Factor equal to the magnitude of the spell cast. If the check fails, he cannot bring himself to lie, although he can remain silent. The Guernicus could take four more points of Flaws, and corresponding Virtues.
 
-### Jerbiton
+#### Jerbiton
 
 Characteristics: Int +3, Per + Pre +1, Com +1, Str 0, Sta 0, Dex +1, Qik 0
 
@@ -1786,7 +1732,7 @@ Illusion of the Shifted Image (ReIm 10/+16) Wizard's Sidestep (ReIm 10/+16)
 
 Customization Notes: The Jerbiton took Puissant Music as his free House-related Virtue. He is designed as a social creature who sees himself as an artist in music and magic. He can take up to three points more of Flaws, with the corresponding Virtues. Note that he has the Gentle Gift, and thus can interact with mundanes without any penalty.
 
-### Mercere
+#### Mercere
 
 Characteristics: Int +2, Per 0 Pre 0, Com -1, Str 0, Sta +2, Dex +1, Qik +1
 
@@ -1828,7 +1774,7 @@ Pull of the Skybound Winds (CrAu 30/+26) Wings of the Soaring Wind (Cr(Re)Au 30/
 
 Customization Notes: The Mercere can take another three points of Flaws and as many points of Virtues. He is quite capable of traveling alone, and probably prefers to do so. By moving scores from Hunt and Stealth into social Abilities such as Charm, he can be made more likely to travel with a group.
 
-### Merinita
+#### Merinita
 
 Characteristics: Int +3, Per +1 Pre +1, Com +2, Str -1, Sta -1, Dex -1, Qik -1
 
@@ -1883,7 +1829,7 @@ The Call to Slumber (ReMe 10/+9)
 
 Customization Notes: The Merinita can take another three points of Flaws and as many Virtues. The type of Strong Faerie Blood can also be changed easily. They might look younger than 25, due to the influence of Strong Faerie Blood, but need not.
 
-### Tremere
+#### Tremere
 
 Characteristics: Int +3, Per -2, Pre 0, Com 0, Str 0, Sta +2, Dex 0, Qik +1
 
@@ -1951,7 +1897,7 @@ Customization Notes: The Tremere can take three more points of Flaws, and a simi
 
 Aquam received an additional 33 experience points (from Auram, Ignem and Terram), for a final total of 39 and a score of 8 (3), and each of the other Arts received an additional 25 experience points, for a final total of 46 and a score of 9 (1).
 
-### Tytalus
+#### Tytalus
 
 Characteristics: Int +4, Per –1, Pre 0, Com 0, Str 0, Sta +2, Dex +1, Qik +1
 
@@ -2007,7 +1953,7 @@ Aura of Rightful Authority (ReMe 20+16) Scent of Peaceful Slumber (ReMe 20/+16)
 
 Customization Notes: The Tytalus can take up to three more points of Flaws, and a similar number of Virtues.
 
-### Verditius
+#### Verditius
 
 Characteristics: Int +3, Per 0, Pre 0, Com 0, Str -3, Sta + 1, Dex + 1, Qik 0
 
@@ -2077,11 +2023,34 @@ Hands of the Grasping Earth (Re(Mu)Te 15/+21)
 
 Customization Notes: The Verditius can take another three Minor Flaws, or one Major, and balancing Virtues. In addition, her Craft Abilities can be changed for different crafts without changing the concept much. Finally, not everyone descended from dwarfs is as small as they are, so that Flaw could be swapped for others without affecting the character on a fundamental level.
 
-# Detailed Character Creation
+## Detailed Character Creation
 
 The first step in creating a new character from scratch is creating a character concept. Your magus might be a fire wizard, a magical spy, or a magus desperate to get away from the diabolism practiced by his parens. A companion might be a woodsman with supernatural powers, a Muslim scholar exploring western Europe, or a werewolf seeking a cure for his curse. A grog can be any type of warrior, or a member of the covenant staff, such as a washerwoman, butler, or stablehand.
 
-## Starting Character Age
+### Detailed Character Creation Summary
+
+1. **Pick a character concept.**
+2. **Hermetic Magi Only: Pick a House.** (See page 13)
+3. **Pick Virtues and Flaws.** Minor Virtues and Flaws are worth one point, Major Virtues and Flaws three points each.
+    - *Grogs:* Up to three Minor Flaws, and the same number of Minor Virtues.
+    - *Companions and Magi:* Up to ten points of Flaws, and the same number of points of Virtues.
+4. **Buy Characteristics.** Start with 7 points. See page 27 or 48.
+5. **Early Childhood.** 75 experience points in Native Language (normally granting a score of 5), and 45 experience points spread between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim.
+6. **Later Life.** 15 experience points per year (until apprenticeship for magi), spread between any Abilities the character can learn, based on the Virtues and Flaws he has. Characters with the Wealthy Major Virtue get 20 experience points per year, those with the Poor Major Flaw get 10.
+7. **Hermetic Magi Only: Apprenticeship.** Divide 240 experience points between Hermetic Arts and any nonSupernatural Abilities (or Supernatural Abilities, if the magus has the relevant Virtue). Take 120 levels of spells, of no higher level than Technique + Form + Intelligence + Magic Theory +3. Apply any relevant Virtues and Flaws when calculating this total.
+8. **Hermetic Magi Only (Optional):** Years after apprenticeship. Divide 30 points per year between experience points in Arts, experience points in Abilities, and levels of spells.
+8. **Personality.** Pick a few words to describe your character, and assign a number between +3 and -3 to each.
+    - *Grogs* should all have a score in Loyal.
+    - *Warriors* should all have a score in Brave.
+9. **Reputation.** If the character has a Virtue or Flaw granting a Reputation, decide on the reputation.
+10. **Companions and Magi Only:** Confidence. Your character starts with a Confidence Score of 1 and 3 Confidence Points, unless he has a Virtue or Flaw modifying this.
+11. **Equipment.** Give your character equipment he could reasonably have acquired and retained.
+
+Once you have a concept, decide whether the character is a magus, companion, or grog. It is obvious if the character is a magus; he has The Gift and has been trained in Hermetic magic. Before creating a magus character, you should have an understanding of the magic rules. Without at least a basic grasp of the way that magic works, you may make choices that will weaken your initiate magus and curtail his potential for future development. It's probably best to use one of the templates for your first magus.
+
+If the character is not a magus, but is intended to be a central character in the saga, he is a companion. If he is intended to be a bit part, he is a grog. A stablehand intended to be a central character is a companion, and a woodsman with one or two minor magical powers might well be a grog. The rules for character creation differ slightly between the three character types, but they are basically the same. However, there are enough separate steps for magi to make it worth treating them separately.
+
+### Starting Character Age
 
 The detailed character creation rules allow you to create characters of any age. This is obviously very useful for storyguides, but it raises the question of the appropriate age for new player characters.
 
@@ -2099,71 +2068,51 @@ Third, it's a good idea to create companions at a fairly young age (under 30), s
 
 Finally, grogs can be created at any age, and probably should be. Grizzled veterans and eager novices make equally fine concepts, and even characters partially crippled by old age can contribute to stories set at the covenant.
 
-## Child Characters
+### Child Characters
 
 Creating children using these rules requires the application of a bit of common sense. Abilities can be generated and treated as normal, but a seven-year-old child is not going to be stronger than most adults, even if she has Strength +3. Similarly, some Virtues and Flaws will only become applicable as the child ages, rather than starting out usable.
 
 To generate a child, use the normal rules, and then modify all Characteristics as follows:
 
 
-| Age   | Modifier | Size<br>Modifier |
-| ------- | ---------- | ------------------ |
-| 6 - 7 | -4       | -2               |
-| 8-9   | -3       | -2               |
-| 10-11 | -2       | -2               |
-| 12-13 | -1       | -1               |
-| 14+   | None     | None             |
+| Age   | Modifier | Size Modifier |
+| ----- | -------- | ------------- |
+| 6 - 7 | -4       | -2            |
+| 8-9   | -3       | -2            |
+| 10-11 | -2       | -2            |
+| 12-13 | -1       | -1            |
+| 14+   | None     | None          |
 
 Much more information about playing child characters is provided in *Apprentices*, including how to handle Virtues and Flaws and how they change as the character ages. If you do not have access to that book, use your best judgement.
 
-## Detailed Character Creation Summary
-
-- 1. Pick a character concept.
-- 2. Hermetic Magi Only: Pick a House. (See page 13)
-- 3. Pick Virtues and Flaws. Minor Virtues and Flaws are worth one point, Major Virtues and Flaws three points each.
-
-Grogs: Up to three Minor Flaws, and the same number of Minor Virtues.
-
-Companions and Magi: Up to ten points of Flaws, and the same number of points of Virtues.
-
-- 4. Buy Characteristics. Start with 7 points. See page 27 or 48.
-- 5. Early Childhood. Seventy five experience points in Native Language (normally granting a score of 5), and 45 experience points spread between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim.
-- 6. Later Life. 15 experience points per year (until apprenticeship for magi), spread between any Abilities the character can learn, based on the Virtues and Flaws he has. Characters with the Wealthy Major Virtue get 20 experience points per year, those with the Poor Major Flaw get 10.
-- 7. Hermetic Magi Only:
-     Apprenticeship. Divide 240 experience points between
-     Hermetic Arts and any nonSupernatural Abilities (or
-     Supernatural Abilities, if the
-     magus has the relevant Virtue).
-     Take 120 levels of spells, of no
-     higher level than Technique +
-     Form + Intelligence + Magic
-     Theory +3. Apply any relevant
-     Virtues and Flaws when
-     calculating this total.
-- 8. Hermetic Magi Only (Optional): Years after apprenticeship. Divide 30 points per year between experience points in Arts, experience points in Abilities, and levels of spells.
-- 8. Personality. Pick a few words to describe your character, and assign a number between +3 and -3 to each.
-
-Grogs should all have a score in Loyal.
-
-Warriors should all have a score in Brave.
-
-- 9. Reputation. If the character has a Virtue or Flaw granting a Reputation, decide on the reputation.
-- 10. Companions and Magi Only: Confidence. Your character starts with a Confidence Score of 1 and 3 Confidence Points, unless he has a Virtue or Flaw modifying this.
-- 11. Equipment. Give your character equipment he could reasonably have acquired and retained.
-
-Once you have a concept, decide whether the character is a magus, companion, or grog. It is obvious if the character is a magus; he has The Gift and has been trained in Hermetic magic. Before creating a magus character, you should have an understanding of the magic rules. Without at least a basic grasp of the way that magic works, you may make choices that will weaken your initiate magus and curtail his potential for future development. It's probably best to use one of the templates for your first magus.
-
-If the character is not a magus, but is intended to be a central character in the saga, he is a companion. If he is intended to be a bit part, he is a grog. A stablehand intended to be a central character is a companion, and a woodsman with one or two minor magical powers might well be a grog. The rules for character creation differ slightly between the three character types, but they are basically the same. However, there are enough separate steps for magi to make it worth treating them separately.
-
-## Magi Only: Hermetic House
+### Magi Only: Hermetic House
 
 The next step in creating a Hermetic magus is choosing his House. The twelve Houses are described starting on page 13, and summarized in the nearby table. Membership in a House grants a particular benefit at character creation, which is listed in the table. A magus can only be a member of one House.
 
-> ### Example: Darius of Flambeau
+#### Hermetic Houses Summary
+
+The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
+
+| House          | Түре         | Description   | Benefit  |
+| -------------- | ------------ | ----------------------------------------------------------- | ----------------------------------------------------------------- |
+| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability. |
+| Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
+| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom. |
+| Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance. |
+| Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.  |
+| Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.  |
+| Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction. |
+| Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
+| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.  |
+| Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen). |
+| Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.  |
+| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).  |
+
+> #### Example: Darius of Flambeau
 >
 > Niall is creating an experienced magus for use in a new saga. He decides on the name 'Darius', and his concept is a scary-looking magus who specializes in Perdo magic and in hunting down the enemies of the Order. Looking at the Houses, Flambeau and Tytalus both look appropriate, but Puissant Art (Perdo) fits the concept better than Self-Confident, so he goes with House Flambeau. Darius is now Darius of Flambeau.
 
-# Virtues and Flaws
+### Virtues and Flaws
 
 As many Virtues and Flaws deal with the character's place in the story, the rules for them differ the most between the character types.
 
@@ -2181,7 +2130,7 @@ Like companions, magi may take up to ten points of Flaws, and the same number of
 
 The rules for taking Virtues and Flaws are summarized in the Virtues and Flaws chapter, on page 61.
 
-## Choosing Virtues and Flaws
+#### Choosing Virtues and Flaws
 
 There are a lot of Virtues and Flaws available in this game, and it may be difficult to decide what to choose. The first thing to remember is that you do not need to choose the maximum number of Flaws.
 
@@ -2195,27 +2144,7 @@ The second concerns social status. If you want your character to be a knight, wi
 
 Finally, a lot of the Virtues and Flaws are very specialized, to support particular types of character found in Mythic Europe. You can safely ignore these, until you decide that you want to play that sort of character.
 
-# Hermetic Houses Summary
-
-The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
-
-
-| House          | Түре     | DESCRIPTION                                                 | Benefit                                                                                                                                                                                                                                 |
-| ---------------- | -------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability.                                                                                                                                                                       |
-| Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians).                                                                                                                                                                 |
-| Criamon        | Mystery Cult | Mystical philosophers and masters of riddles                | The Enigma (page 78), beginning score of 1 in Enigmatic Wisdom.                                                                                                                                                                         |
-| Ex Miscellanea | Societas     | Many magi from different traditions, not all fully Hermetic | A free Minor Hermetic Virtue, a free Major non-Hermetic Virtue, and a compulsory Major Hermetic Flaw, representing the particular tradition within the House.  These Virtues and Flaws are in addition to the normal allowance.         |
-| Flambeau       | Societas     | Martial masters of fire and destruction                     | Puissant Perdo or Puissant Ignem.                                                                                                                                                                                                       |
-| Guernicus      | True Lineage | Investigators, lawyers, and mediators                       | Hermetic Prestige.                                                                                                                                                                                                                      |
-| Jerbiton       | Societas     | Nobles, scholars, and artists                               | A Minor Virtue relating to scholarship arts, or mundane interaction.                                                                                                                                                                    |
-| Mercere        | True Lineage | Messengers of the Order                                     | Puissant Creo or Puissant Muto.<br>Note that unGifted Redcaps are created as companions, and take the Redcap Major Status Virtue. Gifted Redcaps take the Hermetic Magus Status Virtue, and do not take the Redcap Major Status Virtue. |
-| Merinita       | Mystery Cult | Faerie magi                                                 | Faerie Magic (page 79), beginning score of 1 in Faerie Magic. Any magus in this House without a faerie-related Virtue or Flaw has a Warping Point, inflicted to allow initiation into the Mystery.                                      |
-| Tremere        | True Lineage | A hierarchical and disciplined House                        | Minor Magical Focus (certamen).                                                                                                                                                                                                         |
-| Tytalus        | Societas     | Magi who thrive on conflict of any sort                     | Self Confident.                                                                                                                                                                                                                         |
-| Verditius      | Mystery Cult | Crafters of enchanted items                                 | Verditius Magic (page 114).                                                                                                                                                                                                             |
-
-## Quick and Easy Virtues and Flaws
+#### Quick and Easy Virtues and Flaws
 
 If you want to get started really quickly, use the following highly simplified guidelines.
 
@@ -2228,21 +2157,20 @@ If you want to get started really quickly, use the following highly simplified g
 - Magical Companion: Take one Minor Supernatural Virtue that grants a Supernatural Ability, and Puissant and Affinity with that Ability.
 - Magus: Take a Major Personality or Story Flaw that reflects the types of stories you want your character to be involved in, and Deficient Form in a Form that you are not interested in. Social Status is Hermetic Magus. Choose a Minor Magical Focus that does not rely on your Deficient Form. Choose one Technique that overlaps with your Minor Magical Focus, and take Puissant and Affinity in it. Choose one Form that overlaps with your Minor Magical Focus, and take Puissant in it.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Niall starts by looking for appropriate Flaws to fit his concept. Driven seems like a good Personality Flaw, Darius cannot help hunting down enemies of the Order at all times. Similarly, those activities are likely to produce Enemies, and Niall picks a Renounced magus and his cronies to be the enemies in question. Blatant Gift fits well with the scary image Niall wants, and he didn't imagine the character being able to interact much with mundanes anyway. That's three Major Flaws, so nine points already. Blatant Gift is a Hermetic Flaw, so that requirement is met. Finally, Niall takes Disfigured (facial burns) as a Minor Flaw, reinforcing the image and giving him ten points of Flaws.
 >
 > Then it's time to buy good stuff. As a magus, Darius already has The Gift and Hermetic Magus, and Puissant Art (Perdo) came free as a Flambeau. Niall takes Affinity with Perdo to back up Darius's specialty. He decides that Darius has done his job well, so he takes Hermetic Prestige to reflect his reputation in the Order. Hunting magi is a very dangerous game, so he also takes Premonitions and Second Sight, making it hard to take Darius by surprise. Similarly, shooting first is an advantage, so he takes Fast Caster. That's five Minor Virtues, leaving Darius with five points to spend. Niall has a look at Major Virtues, and decides that Flawless Magic will be extremely useful. It will let him cast spells more quickly, and with higher Penetration, which is a very good thing when facing other magi. That uses another three points, but he still has two Minor Virtues to buy. He chooses Strong-Willed and Enduring Constitution, which fit the image and provide a bit more breadth.
 
-# Characteristics
+### Characteristics
 
 Characteristics are bought on the following table. You start with seven points to spend. All characters buy Characteristics in the same way.
 
 For Hermetic magi, you should note that Intelligence is central to Hermetic laboratory work, and thus magi should seriously consider taking a positive score in it. Similarly, Stamina is very important for spellcasting, and so a negative score there is best avoided. Communication is vital if you want your character to write good books.
 
-
 | Score | Cost   |
-| ------- | -------- |
+| ----- | -------- |
 | +3    | 6      |
 | +2    | 3      |
 | + 1   | 1      |
@@ -2257,26 +2185,25 @@ For Hermetic magi, you should note that Intelligence is central to Hermetic labo
 >
 > Stamina is the other score most useful for magi, so Niall makes a deliberate decision to leave it at zero. The character will be more interesting if he has strengths in other areas, he thinks. Instead, he buys Quickness +2 (good for dodging), Strength +2 (he can hit hard), and Dexterity +1 (making him better than average in combat). It looks like Darius will occasionally use physical combat, which makes sense; steel can get through Magic Resistance without any trouble.
 
-# Abilities
+### Abilities
 
 Abilities represent a character's learned abilities. For grogs and companions they are acquired in two blocks: early childhood, and later life. For magi, there are two more periods to consider: apprenticeship, and life as a magus after that.
 
 Your character's age determines the maximum score she can have in any Ability at character creation, although some Virtues raise this limit. These limits do not apply to characters in play, and there is no cap on Abilities during play. In practice, most Abilities will not rise above 10, but there may be exceptions.
 
-
-| AGE      | MAXIMUM ABILITY |
-| ---------- | ----------------- |
+| Age      | Maximum Ability |
+| -------- | --------------- |
 | under 30 | 5               |
 | 30-35    | 6               |
 | 36-40    | 7               |
 | 41-45    | 8               |
 | 46+      | 9               |
 
-## Early Childhood
+#### Early Childhood
 
 In the first five years of life, characters gain 75 experience points in their native language (see page 167 for the Language Ability), which normally gives them a score of 5, and 45 experience points to divide between Area Lore (for the place or places the character is growing up), Athletics, Awareness, Brawl, Charm, Folk Ken, Guile, Living Language (other than the character's native language), Stealth, Survival, and Swim. You do not need to put points into all of these Abilities; choose the ones that best fit your conception of the character. This represents what the character picks up as she plays as a child.
 
-## Sample Childhoods
+#### Sample Childhoods
 
 The following Ability packages can be taken to speed up character generation. Each represents a particular sort of childhood. Note that you can spend the 45 experience points for yourself, as well.
 
@@ -2286,13 +2213,13 @@ The following Ability packages can be taken to speed up character generation. Ea
 - Social Childhood: Charm 2, Folk Ken 2, Guile 2, Native Language 5
 - Traveling Childhood: Area A Lore 1, Area B Lore 1, Folk Ken 2, Living Language 1, Native Language 5, Survival 2
 
-## Later Life
+#### Later Life
 
 After early childhood, the character gains 15 experience points per year, which may be placed in any Abilities, as long as the character has a Virtue that permits her to learn those Abilities. Academic, Arcane, and Martial Abilities require a Virtue, as do Supernatural Abilities.
 
 Characters with the Wealthy Virtue get 20 experience points per year, while characters with the Poor Flaw get 10 experience points per year. Note that only companions can take this Virtue or Flaw.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Darius has a number of free Abilities from his Virtues, so Niall notes them first: Premonitions 1, Second Sight 1, Mastery of All Spells 1.
 >
@@ -2300,12 +2227,10 @@ Characters with the Wealthy Virtue get 20 experience points per year, while char
 >
 > Now he needs to decide when the boy became an apprentice, and he picks 10 as a nice, round number. He has 75 experience points to spend from those five years, and he spends 15 exp on Brawl 2, 15 exp on Guile 2, 5 exp on Athletics 1, 5 exp on Concentration 1, 5 exp on Etiquette 1, 5 exp on Intrigue 1, 5 exp on Leadership 1, 5 exp on Stealth 1, 5 exp on Survival 1, and 5 exp on Swim 1. That leaves him with 5 experience points, which he decides to spend on Order of Hermes Lore 1. It's a general Ability, so he can, and he rationalizes the decision by assuming that his future master took him to the covenant some time before his apprenticeship actually began.
 
-## Advancement Table
+#### Advancement Table
 
-
-|       | Art    |          | Ability  |          |
-| ------- | -------- | ---------- | ---------- | ---------- |
-| Score | To Buy | To Raise | То Buy | To Raise |
+| <br>Score | ART<br>To Buy | <br>To Raise | ABILITY<br>То Buy | <br>To Raise |
+| ----- | ------ | -------- | -------- | ---------- |
 | 1     | 1      | 1        | 5        | 5        |
 | 2     | 3      | 2        | 15       | 10       |
 | 3     | 6      | 3        | 30       | 15       |
@@ -2331,13 +2256,13 @@ Characters with the Wealthy Virtue get 20 experience points per year, while char
 
 To Raise: The number of experience points required to raise a score by one point to that number.
 
-## Magus Only — Apprenticeship
+#### Magus Only — Apprenticeship
 
 The fifteen years of apprenticeship give the character 240 experience points, and 120 levels of spells. These experience points can be spent on Arts or Abilities, including Arcane, Academic, and Martial Abilities. Note that magi can only spend experience points on Arcane, Academic and Martial Abilities before apprenticeship if they have a Virtue which allows them to do so. A sensible division is to spend 120 experience points on Abilities and 120 on Arts.
 
 Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, Latin 1. Characters with lower scores would not be admitted to the Order. A character without a Latin score of least 4 and an Artes Liberales score of at least 1 is unable to read the books of the Order. This will seriously weaken the character relative to other
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Spending the apprenticeship XP is fairly easy. Niall spends 50 exp for Latin 4, 50 exp on Magic Theory 4, 30 exp on Artes Liberales 3, 5 exp on Finesse 1, 15 exp on Penetration 2, 5 exp on Profession — Scribe 1, 5 exp on Chirurgy 1, 5 exp on Faerie Lore 1, 5 exp on Infernal Lore 1, 5 exp on Philosophiae 1, and 5 exp on Magic Lore 1
 >
@@ -2351,7 +2276,7 @@ Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, 
 >
 > magi, and you should be aware of this before designing such a character. A character with a Latin score of less than 5 cannot write books, which may also be important. A Magic Theory score of below 3 is weak, and, in particular, means that the magus cannot set up his own laboratory. Very few magi have a score in Parma Magica over 1 immediately after apprenticeship, as this Ability is normally the last thing taught. Indeed, the magus is not taught the final secret to raising a Parma until after he has sworn the Oath. Magi should also seriously consider putting points into Code of Hermes, Concentration, Finesse, Order of Hermes Lore, Penetration, and Profession (Scribe).
 
-## Hermetic Magi Recommended Minimum Abilities
+#### Hermetic Magi Recommended Minimum Abilities
 
 Artes Liberales 1
 
@@ -2367,7 +2292,7 @@ Do not forget that casting totals add a Technique and Form together, and that yo
 
 The highest level spell you can learn is equal to Technique + Form + Intelligence + Magic Theory +3, where the Technique and Form are the Technique and Form of the spell in question. If the spell has requisites (see page 311), they apply to this total as well. This is the appropriate Lab Total, assuming an aura modifier of +3, and thus any Virtues and Flaws your character has apply to this total if they would apply to a Lab Total in play.
 
-## Magus Only — After Apprenticeship
+#### Magus Only — After Apprenticeship
 
 If you want to generate a magus who is some time out of apprenticeship, the rules change again. You might want to wait until you are familiar with the game system before doing this, however. There are a lot of options and considerations, which could easily seem overwhelming.
 
@@ -2384,7 +2309,7 @@ Statistics for familiars and apprentices should be agreed with the storyguide, i
 
 For each season that your magus spends working on a lab project, the character loses 10 points from the yearly 30 experience points, to a minimum of 0 if three or four seasons are spent on lab work. Thus it is most cost effective to have the magus engage in a full year of lab work at a time. It is suggested that you advance your magus year by year, spending several on study, then taking years out to do lab work as the character's statistics reach appropriate levels.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Darius will be out of apprenticeship when the saga starts, so Niall takes him further. For the eight years from 26 to 33, inclusive, he just lumps all the experience points together. This gives him 240 experience points to spend in various ways. First, he spends 25 exp raising Parma Magica to 3, as a magus-hunter needs decent Magic Resistance. Then he spends 5 exp on Great Weapon 1, and gives Darius a spear. Next, he spends 88 exp to raise Corpus to 13. He reasons that Darius wants to devise his own Longevity Ritual, and have a decent Penetration with PeCo spells. Next, he goes for a bit more versatility, spending 30 exp to raise Creo to 10, 60 exp to raise all of Aquam, Ignem, Imaginem, Mentem, Terram, Vim to 4, and 1 exp each on Rego and Intellego, for scores of 1 in each. That leaves him 30 exp, which he spends on Winter's Icy Touch and a level 20 version of Rusted Decay of Ten-Score Years (PeTe 10, Target increased to Group = +2 Magnitudes). Again, he needs to pick a mastery ability for the spell.
 >
@@ -2400,7 +2325,7 @@ Remember that you should also make aging rolls for the character each year from 
 
 Magi of Hermes contains 15 magi detailed with full statistics immediately after apprenticeship and every 15 years thereafter, including details of any spells they invented or magic items they created. These can serve as a source of ideas, or be used as-is in the saga, even as player characters.
 
-## Personality
+### Personality
 
 Choose a few words to describe your character's personality, and attach a value between -3 and +3 to each. These are your character's Personality Traits (see page 28). If you have a Minor Personality Flaw, you should represent that by a Personality Trait with a score of +3 or -3, and a Major Personality Flaw should have a Personality Trait of +6 or -6.
 
@@ -2408,19 +2333,19 @@ Grogs should have a score (positive or negative) in Loyal, and warriors should h
 
 For companions and magi, they are normally nothing more than a guide to roleplaying, although you can roll them if you really want to, so you shouldn't worry too much about them. A few specific rules do require rolls on Personality Traits, however.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Niall picks Brave, Dedicated to Cause, and Efficient as Darius's Personality Traits, and gives him scores of +3 in each. Darius is quite an extreme individual, but the numbers are unlikely to have much impact on play.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Darius does have a Reputation, thanks to his Hermetic Prestige Virtue. It's a reputation with Hermetic magi, and it has a level of 3. Niall picks 'Dedicated Hoplite' as the content. (The Hoplites are the enforcers of the Order of Hermes. It's an informal grouping, but its members are respected.)
 
-## Reputations
+### Reputations
 
 Characters only start with a Reputation if they choose a Virtue or Flaw that grants one, but all characters can develop them in play. See page 28 for rules on Reputations.
 
-## Confidence
+### Confidence
 
 Grogs do not have Confidence Points. Like Story Flaws, Confidence Points indicate a central character.
 
@@ -2428,7 +2353,7 @@ Companions and Magi start with a Confidence Score of 1 and 3 Confidence Points, 
 
 Confidence Points can be spent to gain a one-off +3 bonus to any die roll, and a maximum number of Confidence Points equal to the character's Confidence Score may be spent on a single roll. More details on Confidence can be found on page 29.
 
-## Equipment
+### Equipment
 
 Your character may start with any equipment or possessions she might reasonably have acquired and retained over her career. You need not list all her possessions.
 
@@ -2582,7 +2507,7 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > Mastery 1 (Magic Resistance)
 >
-> <sup>\*</sup> If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
+> \* If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
 >
 > Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
 >
@@ -2592,13 +2517,13 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > Darius travelled to the covenant to establish a base from which he could seek out and destroy its enemies. He pursued this vocation with an enthusiasm that impressed his colleagues, and when the previous leader of the covenant recently passed into Final Twilight he accepted the position of head, seeing in this an opportunity to instill his values into the new, younger members swelling its ranks. Darius has been too busy to train an apprentice, but now he feels the need to pass on his legacy soon, as he suspects that he may have encountered his bane; he recently fought a powerful Renounced magus and his followers and was nearly killed, only "escaping" when a magical maelstrom sent him physically into Twilight. The traitor is still at large; Darius intends to kill him in the next confrontation and is even prepared to sacrifice himself to achieve this aim.
 
-## Option: Extremely Complex Character Generation
+### Option: Extremely Complex Character Generation
 
 It is possible to generate a character by working out exactly what he has done in every season he has been alive, and using the rules in the Laboratory and Long-Term Events chapters to determine the results. This is how magi and important companions are normally advanced in play, but it takes a very long time for character generation. It tends to produce characters who are close to those generated using the detailed rules, but with a lot more character.
 
 Even if you do generate a character this way, you should still use the normal guidelines for the first five years of life, and you assign Virtues, Flaws, and Characteristics in the normal way. However, age-based limits on Abilities do not apply, and all Virtues and Flaws have their normal effect on character advancement. You must discuss with your troupe the resources that the character has available; with sensible choices, it is usually hard to raise Abilities above the age-based limits, which is why they exist in Detailed Character Creation.
 
-## Characters with Might Scores
+### Characters with Might Scores
 
 Characters with a Might Score are not human, strictly speaking. No being with a Might Score can have Virtues which affiliate them to another realm, for they are full members of the supernatural realm which gives them their Might. This includes The Gift, True Faith, Faerie Blood, and Blood of the Nephilim; but also Supernatural Virtues which draw on sources from a different realm than that of their Might. They may not even take corrupted versions of these Virtues, such as The False Gift.
 
@@ -2608,7 +2533,7 @@ Characters with a Might Score are immune to all Warping (see Warping and Non-Hum
 
 Those with a Might Score are immune to supernatural backlashes of their realm — Twilight, Hubris, Vituperation, and so forth — but still suffer any other consequences of a failed or botched roll when using their powers.
 
-# Mythic Companions
+## Mythic Companions
 
 Mythic Companions are generated in the same way as other Companion characters, with some important exceptions:
 
@@ -2618,7 +2543,7 @@ Mythic Companions are generated in the same way as other Companion characters, w
 
 The following types of Mythic Companions cover all the supernatural realms. You should consult the troupe before choosing one of these, as a Nephilim and Devil Child might not work well together in the same saga.
 
-## Devil Child
+### Devil Child
 
 Devil Children are the creations of particularly powerful demons, who create them for a specific task. They are tragic figures; potent with Hellish powers but doomed to live a short life being manipulated by their demonic parent. However, their souls do not belong to Hell despite their ancestry, and they have the free will to choose for good or evil. Created as weapons in the conflict between Heaven and Hell for the souls of mankind, Devil Children can be a powerful tool of evil, and a firm hand is kept on them by their demonic creator. However, they also have the potential to be a great tool of good if they seek redemption, and should they come to the attention of Heaven's forces, they may well be targeted for either salvation or destruction. This often results in the Plagued by an Angel or Supernatural Nuisance Story Flaws.
 
@@ -2643,7 +2568,7 @@ Devil Children may take three more points of Virtues at no cost (to balance the 
 
 Devil Children do not have any common required Abilities, because their involvement in their demonic heritage varies from one individual to another. Their Abilities should reflect the task for which they were created.
 
-## Faerie Doctors
+### Faerie Doctors
 
 If humans are to dwell in regions haunted by the fae — such as the rural areas which provide the food of nations — then they must learn to come to an amicable relationship with their good neighbors. In lands historically connected to Saxon cultures (principally England, Frisia, and Saxony) a faerie doctor may act as an intermediary between the humans and the fae, leaving the region blessed indeed. Also called a lybman (who practices lybcraeft, magical healing and surgery), the faerie doctor is a human who speaks to the faeries on behalf of the peasants, explaining their concerns and wishes. Likewise, the local faeries know that the faerie doctor supports their flow of vitality by reinforcing the tales and lore of their kind within his region of influence. The faerie doctor takes it upon himself to keep the memory of the local fae alive through stories, and to ensure that their homes are not violated. Should a dispute between humans and faeries arise, the faerie doctor attempts to mediate. ensuring that there are no misunderstandings on either side; but he must attempt to remain a neutral party. In addition to his job as mediator and storyteller, the faerie doctor also administers directly to his human charges through use of faeriegranted supernatural powers, such as the removal of blights, banes, and diseases through his Curse-Throwing power. Faerie doctors are also adept at locating water and lost things through dowsing.
 
@@ -2651,12 +2576,11 @@ The faerie doctor is trained from birth by a relative, often an uncle, for the c
 
 Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one's hair, to never grow a beard, to wear women's clothes, and to remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his 'clients' as demons or evil spirits, however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those under his care.
 
-## Faerie Doctors as Mythic Companions
+#### Faerie Doctors as Mythic Companions
 
 Players wishing to play a magus-level faerie doctor should take the following Virtues and Flaws
 
-#### Required Virtues:
-
+**Required Virtues:**<br>
 All Faerie Doctors must have the following Virtues:
 
 - Faerie Doctor (Free, Mythic Companion)
@@ -2664,15 +2588,13 @@ All Faerie Doctors must have the following Virtues:
 - Wise One (Minor, Social Status)
 - Curse-Throwing (Major, Supernatural)
 
-#### Required Flaws:
-
+**Required Flaws:**<br>
 All Faerie Doctors must have the following Flaws, or suitable substitutes agreed with the troupe:
 
 - Faerie Friend (Minor, Story)
 - Dutybound obey the oaths of a faerie doctor (Minor, Personality)
 
-#### Minimum Ability Scores:
-
+**Minimum Ability Scores:**<br>
 Faerie Doctors should begin play with the following minimum Ability scores:
 
 - Curse-Throwing 4
@@ -2684,7 +2606,7 @@ The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common amon
 
 A character can be a faerie doctor without being a Mythic Companion, but they are understandably less powerful. They still take the compulsory Virtues and Flaws listed above, but must balance Virtues and Flaws in the normal manner.
 
-> ## Sin-Eating
+> ### Sin-Eating
 >
 > In some cultures, the supernatural power of Curse-Throwing is called Sin-Eating. A sin-eater uses this power to take on the sins of the dying or recently dead, often acquired by eating a ritual meal of bread, salt, and ale over the body of the sinner. It is believed that the Sin-Eater not only saves the deceased from Hell, but also prevents their spirit from wandering the world as a ghost. The magnitude of the unforgiven sin should be considered to be a Minor, Serious, or Major Affliction as appropriate. The effect of Sin-Eating on the soul of the practitioner or the fate of the mortal soul remains unknowable, but Sin-Eating does prevent the spirit of the deceased from becoming a ghost due to unrepented sins. A sin-eater can still use his Supernatural Ability in the standard fashion, and most commonly takes the curse onto himself. Sin-eaters are often outcast from society, shunned because of the sins they accumulate through their career. The Church regularly excommunicates sin-eaters, not only because of the burden of sin which they carry but also because they encroach on the territory of the clergy to administer to the dead. A particularly evil sin-eater might transfer the sins of the dying onto an otherwise innocent child in return for pecuniary gain.
 >
@@ -2692,14 +2614,13 @@ A character can be a faerie doctor without being a Mythic Companion, but they ar
 >
 > Story Seed: A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community's sins.
 
-## Nephilim
+### Nephilim
 
 Nephilim are the divine giants and heroes of ancient myth. While older nephilim rarely venture from their divine regiones, a few younger nephilim occasionally leave their homes to wander the earth and experience new things. Most "young" nephilim are about eighty years old, which is the start of their adulthood.
 
-Note: Nephilim are very powerful and are recommended for high-powered sagas, or sagas with elder magi. If your troupe is worried about game balance, ensure that age levels for characters are roughly parallel.
+*Note:* Nephilim are very powerful and are recommended for high-powered sagas, or sagas with elder magi. If your troupe is worried about game balance, ensure that age levels for characters are roughly parallel.
 
-#### Required Virtues:
-
+**Required Virtues:**<br>
 All Nephilim must take the following Virtues:
 
 - Nephilim (Free Mythic Companion Virtue)
@@ -2709,24 +2630,21 @@ All Nephilim must take the following Virtues:
 - Great Strength (Minor, General)
 - Improved Characteristics (Minor, General)
 - Sense Holiness and Unholiness (Minor, Supernatural)
-- Strong Angelic Heritage (Minor, Supernatural
-  — free with Nephilim)
+- Strong Angelic Heritage (Minor, Supernatural — free with Nephilim)
 - Nephilim must take five points of Flaws to pay for these virtues and may take an additional five points of Flaws, which grants a further ten points of Virtues.
 
-#### Minimum Ability Scores:
-
+**Minimum Ability Scores:**<br>
 Nephilim should begin play with the following minimum Ability scores:
 
 - Dominion Lore 4
 - Hebrew 1
 - Penetration 1Sense Holiness and Unholiness 3
 
-## Spirit Votary
+### Spirit Votary
 
 A spirit votary is a devoted worshiper of a magical spirit. In pre-Christian days, these individuals would be high priests and priestesses, and form a cult to venerate their spirits, similar powers could be found among a number of different cultures. Today, a spirit votary tends to be a solitary figure railing against the overt superiority of the Dominion of God.
 
-#### Required Virtues:
-
+**Required Virtues:**<br>
 All Spirit Votaries must take the following Virtues:
 
 - Spirit Votary (Free Mythic Companion Virtue)
@@ -2734,14 +2652,12 @@ All Spirit Votaries must take the following Virtues:
 - Spiritual Pact (Major, Supernatural)
 - Either one more Major Supernatural Virtue or three Minor Supernatural Virtues
 
-#### Required Flaws:
-
+**Required Flaws:**<br>
 All Spirit Votaries must take the following Flaw, or a suitable substitute agreed by the troupe:
 
 • Pagan (Major, Personality)
 
-#### Minimum Ability Scores:
-
+**Minimum Ability Scores:**<br>
 Spirit Votaries should begin play with the following minimum Ability scores:
 
 - Local Area Lore 1
@@ -2783,7 +2699,7 @@ A significant number of Social Statuses are only available to men. This is becau
 
 This only applies to Social Statuses. All other Virtues and Flaws are available to characters of any race, gender, or background, although some may be more common in particular groups. For example, Warrior is a General Virtue, and thus may be taken by female characters, even though most trained fighters in Mythic Europe are men.
 
-> ### Which Flaws Would You Take?
+> ## Which Flaws Would You Take?
 >
 > The obvious choices for Saint Marina the Monk are Dark Secret (Biologically Female) and Gender Nonconforming, both as Major Flaws. The troupe might say that they overlap too much and require you to reduce Gender Nonconforming to Minor. However, these are not the only choices.
 >
@@ -2847,11 +2763,11 @@ You may not take Hermetic Virtues and Flaws, unless you have The Gift (this woul
 - You should not take more than one Story Flaw
 - You should not take more than two Personality Flaws, and may not take more than one Major Personality Flaw
 
-# Types of Virtue and Flaw
+## Types of Virtue and Flaw
 
 There are several specific types of Virtue and Flaw. These are described here, and every Virtue and Flaw lists its type.
 
-## The Gift
+### The Gift
 
 The Gift is a special Virtue, because it has no cost. The character suffers all the penalties of The Gift, just as magi do (see page 203), but can be taught Supernatural Abilities without having to take the corresponding Virtues (see page 383 for rules). Most importantly, the character can be taught Hermetic Magic, so all magi must have this Virtue. A character with The Gift, even if he is not a magus, may take Hermetic Virtues and Flaws which relate to intrinsic ability rather than background or training.
 
@@ -2861,102 +2777,93 @@ Characters who have The Gift may start play with a single Supernatural Ability, 
 
 Grogs can never have The Gift, as a character with The Gift is too important to be a grog. As a rule, companions should only have The Gift if they are intended to become magi, or if they are members of one of the other magical traditions described in Ars Magica 5th Edition supplements. Troupes should not allow any other Gifted characters unless they are absolutely sure that they want them.
 
-## Hermetic
+### Hermetic
 
 Only characters with The Gift can take these Virtues and Flaws, and some are only applicable to Hermetic magi who have already completed their training.
 
 If a character has enough Supernatural Virtues for Flaws that affect all of them to be of comparable scope to those affecting a magus's Hermetic Magic, the troupe may allow the character to take appropriate Hermetic Flaws as Supernatural Flaws. In most cases, Hermetic Virtues are still not applicable, but the troupe may choose to allow some.
 
-## Social Status
+### Social Status
 
 These Virtues and Flaws indicate your place in society, something that is very important in the hierarchical world of Mythic Europe. Some Social Status Virtues are Free, which means that they do not cost any points to buy.
 
-### Social Statuses by Culture
+#### Social Statuses by Culture
 
 Because Social Status Virtues and Flaws refer to a character's place in society, the available options vary depending on the society they live in. The "societies" given on page 65, are not precisely defined, and not, in most cases, closely tied to geography. Western Christendom is mostly in western Europe, but includes the Crusader States, while Islamic includes the southern Iberian peninsula, and the Jews live everywhere.
 
 #### All Cultures
 
-
-| Category          | Virtues / Flaws                                                                                                                     |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Free Virtues**  | Apprentice, Covenfolk, Craftsman, Domestic Animal, Hermetic Magus, Laborer, Merchant, Paid Rights, Peasant, Wanderer                |
+| Category          | Virtues / Flaws |
+| ----------------- | --------------- |
+| **Free Virtues**  | Apprentice, Covenfolk, Craftsman, Domestic Animal, Hermetic Magus, Laborer, Merchant, Paid Rights, Peasant, Wanderer |
 | **Minor Virtues** | Custos, Factor, Failed Apprentice, Forge-Companion, Gentleman/woman, Lone  Redcap, Mercenary Captain, Merchant Adventurer, Wise One |
-| **Major Virtues** | Capo, Partner, Redcap, Venditor                                                                                                     |
-| **Minor Flaws**   | Branded Criminal, Companion Animal, Outcast, Outlaw Leader, Outsider, Usurer                                                        |
-| **Major Flaws**   | Outlaw, Outsider                                                                                                                    |
+| **Major Virtues** | Capo, Partner, Redcap, Venditor |
+| **Minor Flaws**   | Branded Criminal, Companion Animal, Outcast, Outlaw Leader, Outsider, Usurer |
+| **Major Flaws**   | Outlaw, Outsider |
 
 #### Western Christendom
 
-
-| Category          | Virtues / Flaws                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Category          | Virtues / Flaws |
+| ----------------- | --------------- |
 | **Minor Virtues** | Baccalaureus, Beadle, Brother Chaplain, Brother Knight, Brother Sergeant, Clerk,  Falconer, Guild Apprentice, Guild Master, Journeyman, Jurist, Knight,  Marshal, Master of Kennels, Mendicant Friar, Notary, Priest, Religious,  Simple Student, Templar Administrator, Templar Office Holder, Templar  Specialist, Town Magistrate, University Grammar Teacher |
-| **Free Virtues**  | Male Guild Sponsor, Nuntius, Templar Confrere/Consoeur, Templar Servant                                                                                                                                                                                                                                                                                          |
-| **Major Virtues** | Cathedral School Master, Doctor in (Faculty), Guild Dean, Landed Noble, Magister  in Artibus, Magister in Medicina, Senior Clergy, Senior Master, Templar  Commander                                                                                                                                                                                             |
-| **Minor Flaws**   | Failed Journeyman, Failed Master, Failed Monk/Nun, Surgical Empiricus                                                                                                                                                                                                                                                                                            |
+| **Free Virtues**  | Male Guild Sponsor, Nuntius, Templar Confrere/Consoeur, Templar Servant |
+| **Major Virtues** | Cathedral School Master, Doctor in (Faculty), Guild Dean, Landed Noble, Magister  in Artibus, Magister in Medicina, Senior Clergy, Senior Master, Templar  Commander |
+| **Minor Flaws**   | Failed Journeyman, Failed Master, Failed Monk/Nun, Surgical Empiricus  |
 
 #### Eastern Christendom
 
-
-| Category          | Virtues / Flaws                                                                                                 |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Category          | Virtues / Flaws |
+| ----------------- | --------------- |
 | **Minor Virtues** | Clerk, Eunuch, Falconer, Jurist, Knight, Marshal, Master of Kennels, Mendicant Friar, Notary, Priest, Religious |
-| **Major Virtues** | Archieunuch, Landed Noble, Senior Clergy                                                                        |
+| **Major Virtues** | Archieunuch, Landed Noble, Senior Clergy |
 
 #### Islamic
 
-
-| Category          | Virtues / Flaws                                 |
-| ------------------- | ------------------------------------------------- |
+| Category          | Virtues / Flaws  |
+| ----------------- | ---------------- |
 | **Minor Virtues** | ʿAlim, Bureaucrat, Emir, Fidaʾi, Mamluk, Sufi |
-| **Major Virtues** | Lasiq, Muqtaʿ                                  |
+| **Major Virtues** | Lasiq, Muqta |
 
 #### Hibernia
 
-
 | Category         | Virtues / Flaws |
-| ------------------ | ----------------- |
+| ---------------- | --------------- |
 | **Free Virtue**  | Bard            |
 | **Minor Virtue** | Senior Bard     |
 | **Major Virtue** | Master Bard     |
 
 #### Iberia
 
-
 | Category          | Virtues / Flaws      |
-| ------------------- | ---------------------- |
+| ----------------- | -------------------- |
 | **Minor Virtues** | Almogaten, Almogavar |
 
 #### North Africa
 
-
 | Category         | Virtues / Flaws |
-| ------------------ | ----------------- |
+| ---------------- | --------------- |
 | **Minor Virtue** | Mazdean Priest  |
 
 #### Provençal
 
-
 | Category          | Virtues / Flaws                  |
-| ------------------- | ---------------------------------- |
+| ----------------- | -------------------------------- |
 | **Minor Virtues** | Perfectus, Troubadour/Trobairitz |
 
 #### Jewish
 
-
 | Category          | Virtues / Flaws |
-| ------------------- | ----------------- |
+| ----------------- | --------------- |
 | **Free Virtues**  | Shamash, Sofer  |
 | **Minor Virtues** | Rabbi, Shadchan |
 
-## Supernatural
+### Supernatural
 
 Supernatural Virtues and Flaws provide the character with some benefit that goes beyond the mundane. All Supernatural Virtues and Flaws are associated with one of the four realms, Magic, Faerie, Infernal, and Divine. The most common association for player characters is with the Magic realm, and this should be the choice if the character concept does not suggest another option. Some Virtues are always associated with other realms, such as Faerie Blood and Strong Faerie Blood, which are always associated with Faerie. A Virtue's description notes if it is limited in this way. The Faerie realm is an appropriate source for most Supernatural Virtues. and in some cases, with the troupe's approval, Divine or Infernal sources may be appropriate. Note that Divine and Infernal Supernatural Virtues create more complex roleplaying situations than those associated with Magic or Faerie, and troupes may wish to avoid them for that reason.
 
 The realm of a Virtue or Flaw determines how it interacts with supernatural auras (see page 410), and provides important background color. In addition, a character with a Supernatural Virtue or Flaw is immune to Warping caused by living in a high aura associated with the same realm (see page 389).
 
-## Personality
+### Personality
 
 A Major Personality Flaw is an aspect of the character's personality that defines them and drives stories. You should suggest projects that your character might have to the troupe, so that the storyguide can use them to create plots if everyone likes the idea. Similarly, the troupe or storyguide can suggest that this might be a good moment for the character's Flaw to get the better of them. (Conversely, the storyguide can certainly say that this would be a really bad moment, and then you should keep the Flaw under control, to avoid spoiling the game for everyone.)
 
@@ -2972,7 +2879,7 @@ Most characters should not have more than two Personality Flaws, Major or Minor,
 
 A Major Personality Flaw drives your character to act and get involved in stories, while a Minor Flaw merely provides color.
 
-## Story
+### Story
 
 Story Flaws are background features which can drag the character into stories. Most count as Major Flaws because they give the storyguide a way to drive your character to get involved in a story, no matter how inconvenient it might be. Most of the time, however, they are merely background color. You should not take more than one Story Flaw, Major or Minor, to avoid having a single character unduly dominate the saga.
 
@@ -2984,11 +2891,11 @@ Note that, when you take a Story Flaw, you are promising the rest of the
 
 troupe that you will play in those stories. Your character may not like the events that the Story Flaw leads to, but you should choose one that will lead to stories you want to play.
 
-# Personality & Story Flaws
+### Personality & Story Flaws
 
 In a typical saga with five players, each of whom has a companion and a magus, there may be ten Major Personality and ten Story Flaws. This means that a given Flaw will probably only have a significant effect in one story in twenty. If you are planning to run multi-session stories, or a short saga, you may, therefore, want to limit the number of such Flaws that the players can take, because otherwise they may never come into play.
 
-## General
+### General
 
 General Virtues and Flaws cover everything else. Most provide bonuses or penalties to mundane activities.
 
@@ -3004,349 +2911,349 @@ The Gift
 
 ### Hermetic, Major
 
-Diedne Magic
-Elemental Magic
-Faerie-Raised Magic
-Flawless Magic
-Flexible Formulaic Magic
-Gentle Gift
-Leper Magus
-Life-Linked Spontaneous Magic
-Major Magical Focus
-Mercurian Magic
-Mythic Blood
+Diedne Magic<br>
+Elemental Magic<br>
+Faerie-Raised Magic<br>
+Flawless Magic<br>
+Flexible Formulaic Magic<br>
+Gentle Gift<br>
+Leper Magus<br>
+Life-Linked Spontaneous Magic<br>
+Major Magical Focus<br>
+Mercurian Magic<br>
+Mythic Blood<br>
 Potent Magic
 
 ### Supernatural, Major
 
-Amorphous
-Bee King
-Blood of the Nephilim
-Command Animals
-Corpse Magic
-Curse-Throwing
-Demonic Blood
-Embitterment
-Entrancement
-Focus Power
-Greater Benediction
-Greater Immunity
-Greater Power
-Greater Purifying Touch
-Hex
-Immune to Disease
-Induction
-Ritual Power
-Sense Passions
-Shapeshifter
-Skinchanger (Dove)
-Spiritual Pact
-Strong Faerie Blood
-Summon Animals
-Supernatural Beauty
+Amorphous<br>
+Bee King<br>
+Blood of the Nephilim<br>
+Command Animals<br>
+Corpse Magic<br>
+Curse-Throwing<br>
+Demonic Blood<br>
+Embitterment<br>
+Entrancement<br>
+Focus Power<br>
+Greater Benediction<br>
+Greater Immunity<br>
+Greater Power<br>
+Greater Purifying Touch<br>
+Hex<br>
+Immune to Disease<br>
+Induction<br>
+Ritual Power<br>
+Sense Passions<br>
+Shapeshifter<br>
+Skinchanger (Dove)<br>
+Spiritual Pact<br>
+Strong Faerie Blood<br>
+Summon Animals<br>
+Supernatural Beauty<br>
 Whistle Up The Wind
 
 ### Social Status, Major
 
-Archieunuch
-Capo
-Cathedral School Master
-Doctor in (Faculty)
-Guild Dean
-Landed Noble
-Lasiq
-Magister in Artibus
-Magister in Medicina
-Master Bard
-Muqtaʿ
-Partner
-Redcap
-Rosh Beth Din
-Senior Clergy
-Senior Master
-Templar Commander
+Archieunuch<br>
+Capo<br>
+Cathedral School Master<br>
+Doctor in (Faculty)<br>
+Guild Dean<br>
+Landed Noble<br>
+Lasiq<br>
+Magister in Artibus<br>
+Magister in Medicina<br>
+Master Bard<br>
+Muqtaʿ<br>
+Partner<br>
+Redcap<br>
+Rosh Beth Din<br>
+Senior Clergy<br>
+Senior Master<br>
+Templar Commander<br>
 Venditor
 
 ### General, Major
 
-Death Prophecy
-Ghostly Warder
-Giant Blood
-Guardian Angel
-License of Absence
-Magian Lineage
-Magical Warder
-Powerful Relic
-True Faith
-Ways of the (Land)
+Death Prophecy<br>
+Ghostly Warder<br>
+Giant Blood<br>
+Guardian Angel<br>
+License of Absence<br>
+Magian Lineage<br>
+Magical Warder<br>
+Powerful Relic<br>
+True Faith<br>
+Ways of the (Land)<br>
 Wealthy
 
 ### Hermetic, Minor
 
-Adept Laboratory Student
-Affinity with Art
-Atlantean Magic
-Boosted Magic
-Cautious Sorcerer
-Clan Ilfetu
-Cyclic Magic (positive)
-Deft Form
-Enduring Magic
-The Enigma
-Exotic Casting
-Extractor of (Form) Vis
-Faerie Magic
-Fast Caster
-Free Study
-Gorgiastic
-Guest of House Criamon
-Harnessed Magic
-Heartbeast
-Hermetic Prestige
-Imbued with the Spirit of (Form)
-Inoffensive to (Beings)
-Inventive Genius
-Life Boost
-Magical Memory
-Mastered Spells
-Masterpiece
-Method Caster
-Minor Magical Focus
-Mystical Choreography
-Performance Magic
-Personal Vis Source
-Potent Magic
-Puissant Art
-Quiet Magic
-Secondary Insight
-Side Effect
-Skilled Parens
-Special Circumstances
-Spell Improvisation
-Study Bonus
-Subtle Magic
-Tethered Magic
-Verditius Magic
+Adept Laboratory Student<br>
+Affinity with Art<br>
+Atlantean Magic<br>
+Boosted Magic<br>
+Cautious Sorcerer<br>
+Clan Ilfetu<br>
+Cyclic Magic (positive)<br>
+Deft Form<br>
+Enduring Magic<br>
+The Enigma<br>
+Exotic Casting<br>
+Extractor of (Form) Vis<br>
+Faerie Magic<br>
+Fast Caster<br>
+Free Study<br>
+Gorgiastic<br>
+Guest of House Criamon<br>
+Harnessed Magic<br>
+Heartbeast<br>
+Hermetic Prestige<br>
+Imbued with the Spirit of (Form)<br>
+Inoffensive to (Beings)<br>
+Inventive Genius<br>
+Life Boost<br>
+Magical Memory<br>
+Mastered Spells<br>
+Masterpiece<br>
+Method Caster<br>
+Minor Magical Focus<br>
+Mystical Choreography<br>
+Performance Magic<br>
+Personal Vis Source<br>
+Potent Magic<br>
+Puissant Art<br>
+Quiet Magic<br>
+Secondary Insight<br>
+Side Effect<br>
+Skilled Parens<br>
+Special Circumstances<br>
+Spell Improvisation<br>
+Study Bonus<br>
+Subtle Magic<br>
+Tethered Magic<br>
+Verditius Magic<br>
 Withstand Casting
 
 ### Supernatural, Minor
 
-Amorphous
-Animal Ken
-Crafter's Healing
-Demonic Might
-Demonic Powers
-Dowsing
-Dust Devil
-Enchanting (Ability)
-Eye of Hephaestus
-Fabric Ripper
-Faerie Blood
-Familiarity with the Fae
-Feather Messenger
-Font of Knowledge
-Frightful Presence
-Gender Shift
-Homing Instinct
-Immunity to Cold
-Infernal Heirloom
-Kassalan Exorcism
-(Land) Regio Network
-Leather Ripper
-Lesser Benediction
-Lesser Immunity
-Lesser Power
-Lesser Purifying Touch
-Magic Sensitivity
-Magical Blood
-Maker of Textured Vessels
-Maker of Water Vessels
-Master of (Form) Creatures
-Muse
-Persona
-Personal Power
-Premonitions
-Ripper
-Second Sight
-See in Darkness
-Sense Holiness and Unholiness
-Skinchanger
-Strong Angelic Heritage
-Sufi
-Unaging
-Unbound Tongue
-Variable Power
-Voice of the (Land)
-Wilderness Sense
+Amorphous<br>
+Animal Ken<br>
+Crafter's Healing<br>
+Demonic Might<br>
+Demonic Powers<br>
+Dowsing<br>
+Dust Devil<br>
+Enchanting (Ability)<br>
+Eye of Hephaestus<br>
+Fabric Ripper<br>
+Faerie Blood<br>
+Familiarity with the Fae<br>
+Feather Messenger<br>
+Font of Knowledge<br>
+Frightful Presence<br>
+Gender Shift<br>
+Homing Instinct<br>
+Immunity to Cold<br>
+Infernal Heirloom<br>
+Kassalan Exorcism<br>
+(Land) Regio Network<br>
+Leather Ripper<br>
+Lesser Benediction<br>
+Lesser Immunity<br>
+Lesser Power<br>
+Lesser Purifying Touch<br>
+Magic Sensitivity<br>
+Magical Blood<br>
+Maker of Textured Vessels<br>
+Maker of Water Vessels<br>
+Master of (Form) Creatures<br>
+Muse<br>
+Persona<br>
+Personal Power<br>
+Premonitions<br>
+Ripper<br>
+Second Sight<br>
+See in Darkness<br>
+Sense Holiness and Unholiness<br>
+Skinchanger<br>
+Strong Angelic Heritage<br>
+Sufi<br>
+Unaging<br>
+Unbound Tongue<br>
+Variable Power<br>
+Voice of the (Land)<br>
+Wilderness Sense<br>
 Wisdom from Ignorance
 
 ### Social Status, Minor
 
-ʿAlim
-Almogaten
-Almogavar
-Baccalaureus
-Beadle
-Brother Chaplain
-Brother Knight
-Brother Sergeant
-Bureaucrat
-Clerk
-Custos
-Emir
-Eunuch
-Factor
-Failed Apprentice
-Falconer
-Fidaʾi
-Forge-Companion
-Gentleman/woman
-Guild Apprentice
-Guild Master
-Ineslemen
-Journeyman
-Jurist
-Knight
-Lone Redcap
-Mamluk
-Marshal
-Master of Kennels
-Mazdean Priest
-Mendicant Friar
-Mercenary Captain
-Merchant Adventurer
-Notary
-Perfectus
-Priest
-Rabbi
-Religious
-Senior Bard
-Shadchan
-Simple Student
-Sufi
-Templar Administrator
-Templar Office Holder
-Templar Specialist
-Town Magistrate
-Troubadour/Trobairitz
-University Grammar Teacher
+ʿAlim<br>
+Almogaten<br>
+Almogavar<br>
+Baccalaureus<br>
+Beadle<br>
+Brother Chaplain<br>
+Brother Knight<br>
+Brother Sergeant<br>
+Bureaucrat<br>
+Clerk<br>
+Custos<br>
+Emir<br>
+Eunuch<br>
+Factor<br>
+Failed Apprentice<br>
+Falconer<br>
+Fidaʾi<br>
+Forge-Companion<br>
+Gentleman/woman<br>
+Guild Apprentice<br>
+Guild Master<br>
+Ineslemen<br>
+Journeyman<br>
+Jurist<br>
+Knight<br>
+Lone Redcap<br>
+Mamluk<br>
+Marshal<br>
+Master of Kennels<br>
+Mazdean Priest<br>
+Mendicant Friar<br>
+Mercenary Captain<br>
+Merchant Adventurer<br>
+Notary<br>
+Perfectus<br>
+Priest<br>
+Rabbi<br>
+Religious<br>
+Senior Bard<br>
+Shadchan<br>
+Simple Student<br>
+Sufi<br>
+Templar Administrator<br>
+Templar Office Holder<br>
+Templar Specialist<br>
+Town Magistrate<br>
+Troubadour/Trobairitz<br>
+University Grammar Teacher<br>
 Wise One
 
 ### General, Minor
 
-Academic Concentration (Subject)
-Affinity with Ability
-All According to Plan
-Alluring to (Beings)
-Apt Student
-Aptitude for (Sin)
-Arcane Lore
-Aristotelian Training
-Berserk
-Book Learner
-Cautious with (Ability)
-Clear Thinker
-Craft Guild Training
-Common Sense
-Convoluted Mind
-Educated
-Educated (Bardic)
-Educated (Hebrew)
-Educated (Islamic)
-Educated (Vernacular)
-Enduring Constitution
-Enticer of Multitudes
-Falls Like a Cat
-Famous
-Ferocity
-Finding Hidden Loot
-Free Expression
-Forgettable Face
-Good Teacher
-Gossip
-Great (Characteristic)
-Hermetic Experience
-Improved Characteristics
-Independent Study
-Indescribable Face
-Inoffensive to (Beings)
-Inspirational
-Intuition
-Jack-of-All-Trades
-Just an Instant
-Keen Sense of Smell
-Keen Vision
-Knows People
-Large
-Latent Magical Ability
-Learn (Ability) from Mistakes
-Light Touch
-Lightning Reflexes
-Linguist
-Long-Winded
-Luck
-Magian Lineage
-Magic Items
-Magical Mount
-Mentored by Demons
-Mild Aging
-Natural Leader
-Rapid Convalescence
-Perfect Balance
-Perfect Eye for (Commodity)
-Physician of Salerno
-Piercing Gaze
-Prestigious Student
-Privileged Upbringing
-Protection
-Puissant Ability
-Rat Up a Drainpipe
-Relic
-Reserves of Strength
-Schooled in Crime
-Self-Confident
-Sharp Ears
-Skilled Smuggler
-Social Contacts
-Strong-Willed
-Student of (Realm)
-Tainted Treasure
-Templar Prestige
-Temporal Influence
-Tough
-Trained Assassin
-Troupe Upbringing
-True Love (PC)
-Unaffected by The Gift
-Venus' Blessing
-Warrior
+Academic Concentration (Subject)<br>
+Affinity with Ability<br>
+All According to Plan<br>
+Alluring to (Beings)<br>
+Apt Student<br>
+Aptitude for (Sin)<br>
+Arcane Lore<br>
+Aristotelian Training<br>
+Berserk<br>
+Book Learner<br>
+Cautious with (Ability)<br>
+Clear Thinker<br>
+Craft Guild Training<br>
+Common Sense<br>
+Convoluted Mind<br>
+Educated<br>
+Educated (Bardic)<br>
+Educated (Hebrew)<br>
+Educated (Islamic)<br>
+Educated (Vernacular)<br>
+Enduring Constitution<br>
+Enticer of Multitudes<br>
+Falls Like a Cat<br>
+Famous<br>
+Ferocity<br>
+Finding Hidden Loot<br>
+Free Expression<br>
+Forgettable Face<br>
+Good Teacher<br>
+Gossip<br>
+Great (Characteristic)<br>
+Hermetic Experience<br>
+Improved Characteristics<br>
+Independent Study<br>
+Indescribable Face<br>
+Inoffensive to (Beings)<br>
+Inspirational<br>
+Intuition<br>
+Jack-of-All-Trades<br>
+Just an Instant<br>
+Keen Sense of Smell<br>
+Keen Vision<br>
+Knows People<br>
+Large<br>
+Latent Magical Ability<br>
+Learn (Ability) from Mistakes<br>
+Light Touch<br>
+Lightning Reflexes<br>
+Linguist<br>
+Long-Winded<br>
+Luck<br>
+Magian Lineage<br>
+Magic Items<br>
+Magical Mount<br>
+Mentored by Demons<br>
+Mild Aging<br>
+Natural Leader<br>
+Rapid Convalescence<br>
+Perfect Balance<br>
+Perfect Eye for (Commodity)<br>
+Physician of Salerno<br>
+Piercing Gaze<br>
+Prestigious Student<br>
+Privileged Upbringing<br>
+Protection<br>
+Puissant Ability<br>
+Rat Up a Drainpipe<br>
+Relic<br>
+Reserves of Strength<br>
+Schooled in Crime<br>
+Self-Confident<br>
+Sharp Ears<br>
+Skilled Smuggler<br>
+Social Contacts<br>
+Strong-Willed<br>
+Student of (Realm)<br>
+Tainted Treasure<br>
+Templar Prestige<br>
+Temporal Influence<br>
+Tough<br>
+Trained Assassin<br>
+Troupe Upbringing<br>
+True Love (PC)<br>
+Unaffected by The Gift<br>
+Venus' Blessing<br>
+Warrior<br>
 Well-Traveled
 
 ### Mythic Companion, Free
 
-Devil Child
-Faerie Doctor
-Nephilim
+Devil Child<br>
+Faerie Doctor<br>
+Nephilim<br>
 Spirit Votary
 
 ### Social Status, Free
 
-Apprentice
-Bard
-Covenfolk
-Craftsman
-Domestic Animal
-Hermetic Magus
-Laborer
-Male Guild Sponsor
-Merchant
-Nuntius
-Paid Rights
-Peasant
-Shamash
-Sofer
-Templar Confrere/Consoeur
-Templar Servant
+Apprentice<br>
+Bard<br>
+Covenfolk<br>
+Craftsman<br>
+Domestic Animal<br>
+Hermetic Magus<br>
+Laborer<br>
+Male Guild Sponsor<br>
+Merchant<br>
+Nuntius<br>
+Paid Rights<br>
+Peasant<br>
+Shamash<br>
+Sofer<br>
+Templar Confrere/Consoeur<br>
+Templar Servant<br>
 Wanderer
 
 ### Supernatural, Free
@@ -5970,356 +5877,356 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 
 ### Hermetic, Major
 
-Blatant Gift
-Chaotic Magic
-The Constant Expression
-Deficient Technique
-Difficult Longevity Ritual
-Environmental Magic Condition
-Magic Addiction
-Monastic Vows (Hermetic)
-Necessary Condition
-Painful Magic
-Restriction
-Rigid Magic
-Short-Ranged Magic
-Study Requirement
-Suppressed Gift
-Twilight Prone
-Unnatural Magic
-Unstructured Caster
-Vulnerable Magic
-Waster of Vis
-Weak Magic Resistance
+Blatant Gift<br>
+Chaotic Magic<br>
+The Constant Expression<br>
+Deficient Technique<br>
+Difficult Longevity Ritual<br>
+Environmental Magic Condition<br>
+Magic Addiction<br>
+Monastic Vows (Hermetic)<br>
+Necessary Condition<br>
+Painful Magic<br>
+Restriction<br>
+Rigid Magic<br>
+Short-Ranged Magic<br>
+Study Requirement<br>
+Suppressed Gift<br>
+Twilight Prone<br>
+Unnatural Magic<br>
+Unstructured Caster<br>
+Vulnerable Magic<br>
+Waster of Vis<br>
+Weak Magic Resistance<br>
 Weak Spontaneous Magic
 
 ### Personality, Major or Minor
 
-Ambitious
-Avaricious
-Compassionate
-Compulsion
-Compulsive Lying
-Depraved
-Driven
-Envious
-Gender Nonconforming
-Generous
-Greedy
-Hatred
-Higher Purpose
-Lecherous
-Meddler
-Obsessed
-Optimistic
-Overconfident
-Oversensitive
-Pagan
-Pious
-Proud
-Rebellious
-Reckless
-Vow
-Weakness
+Ambitious<br>
+Avaricious<br>
+Compassionate<br>
+Compulsion<br>
+Compulsive Lying<br>
+Depraved<br>
+Driven<br>
+Envious<br>
+Gender Nonconforming<br>
+Generous<br>
+Greedy<br>
+Hatred<br>
+Higher Purpose<br>
+Lecherous<br>
+Meddler<br>
+Obsessed<br>
+Optimistic<br>
+Overconfident<br>
+Oversensitive<br>
+Pagan<br>
+Pious<br>
+Proud<br>
+Rebellious<br>
+Reckless<br>
+Vow<br>
+Weakness<br>
 Wrathful
 
 ### Story, Major
 
-Abandoned Apprentice
-Beloved Rival
-Bigamist
-Black Sheep
-Curse of Venus
-Dark Secret
-A Deal with the Devil
-Dependent
-Diabolic Past
-Difficult Underlings
-Enemies
-Envied Beauty
-Evil Destiny
-Excommunicate
-Favors
-Feud
-Fury
-Indiscreet
-Many Marriageable Daughters
-Mistaken Identity
-Monastic Vows
-Oath of Fealty
-Plagued by Supernatural Entity
-Raised from the Dead
-Rector/Proctor
-Servant of the (Land)
-Supernatural Nuisance
-Suppressed Gift
-Tainted Offspring
-Tormenting Master
-Tragic Life
-True Love (NPC)
-Tzadik Nistar
-Unbaptized
-Unhappily Married
-University Dean
-Vendetta
-Vengeful Powers
+Abandoned Apprentice<br>
+Beloved Rival<br>
+Bigamist<br>
+Black Sheep<br>
+Curse of Venus<br>
+Dark Secret<br>
+A Deal with the Devil<br>
+Dependent<br>
+Diabolic Past<br>
+Difficult Underlings<br>
+Enemies<br>
+Envied Beauty<br>
+Evil Destiny<br>
+Excommunicate<br>
+Favors<br>
+Feud<br>
+Fury<br>
+Indiscreet<br>
+Many Marriageable Daughters<br>
+Mistaken Identity<br>
+Monastic Vows<br>
+Oath of Fealty<br>
+Plagued by Supernatural Entity<br>
+Raised from the Dead<br>
+Rector/Proctor<br>
+Servant of the (Land)<br>
+Supernatural Nuisance<br>
+Suppressed Gift<br>
+Tainted Offspring<br>
+Tormenting Master<br>
+Tragic Life<br>
+True Love (NPC)<br>
+Tzadik Nistar<br>
+Unbaptized<br>
+Unhappily Married<br>
+University Dean<br>
+Vendetta<br>
+Vengeful Powers<br>
 Wanderlust
 
 ### Social Status, Major
 
-Outlaw
+Outlaw<br>
 Outsider
 
 ### Supernatural, Major
 
-Age Quickly
-Blatant Magical Air
-Bound to (Realm)
-Bound to (Role) Role
-Broken Vessel
-False Power
-Greater Malediction
-Horrifying Appearance – Snake Legs
-Hunger for (Form) Magic
-Lycanthrope
+Age Quickly<br>
+Blatant Magical Air<br>
+Bound to (Realm)<br>
+Bound to (Role) Role<br>
+Broken Vessel<br>
+False Power<br>
+Greater Malediction<br>
+Horrifying Appearance – Snake Legs<br>
+Hunger for (Form) Magic<br>
+Lycanthrope<br>
 Raised from the Dead
 
 ### General, Major
 
-Blind
-Crippled
-Deaf
-Dwarf
-Enfeebled
-The Falling Evil
-Leprosy
-Low Self-Esteem
-Magical Air
-Mute
-No Hands
-Poor
+Blind<br>
+Crippled<br>
+Deaf<br>
+Dwarf<br>
+Enfeebled<br>
+The Falling Evil<br>
+Leprosy<br>
+Low Self-Esteem<br>
+Magical Air<br>
+Mute<br>
+No Hands<br>
+Poor<br>
 Repellent
 
 ### Hermetic, Minor
 
-Bound Casting Tools
-Bound Magic
-Brutal Artist
-Careless Sorcerer
-Ceremonial Spontaneous Magic
-Clumsy Magic
-Consumed Casting Tools
-Corrupted Arts
-Corrupted Spells
-Creative Block
-Cyclic Magic (negative)
-Deficient Form
-Deleterious Circumstances
-Difficult Spontaneous Magic
-Disjointed Magic
-Disorientating Magic
-Exciting Experimentation
-Fettered Magic
-Flawed Parma Magica
-Harmless Magic
-Hedge Wizard
-Incompatible Arts
-Inconstant Magic
-Infamous Master
-Limited Magic Resistance
-Loose Magic
-Offensive to (Beings)
-Poor Formulaic Magic
-Primogeniture Lineage
-Short-Lived Magic
-Slow Caster
-Spontaneous Casting Tools
-Stockade Parma Magica
-Susceptibility to Divine Power
-Susceptibility to Faerie Power
-Susceptibility to Infernal Power
-Unbearable to (Beings)
-Unimaginative Learner
-Unpredictable Magic
-Vulnerable Casting
-Vulnerable to Folk Tradition
-Warped Magic
-Weak Enchanter
-Weak Magic
-Weak Parens
-Weak Scholar
+Bound Casting Tools<br>
+Bound Magic<br>
+Brutal Artist<br>
+Careless Sorcerer<br>
+Ceremonial Spontaneous Magic<br>
+Clumsy Magic<br>
+Consumed Casting Tools<br>
+Corrupted Arts<br>
+Corrupted Spells<br>
+Creative Block<br>
+Cyclic Magic (negative)<br>
+Deficient Form<br>
+Deleterious Circumstances<br>
+Difficult Spontaneous Magic<br>
+Disjointed Magic<br>
+Disorientating Magic<br>
+Exciting Experimentation<br>
+Fettered Magic<br>
+Flawed Parma Magica<br>
+Harmless Magic<br>
+Hedge Wizard<br>
+Incompatible Arts<br>
+Inconstant Magic<br>
+Infamous Master<br>
+Limited Magic Resistance<br>
+Loose Magic<br>
+Offensive to (Beings)<br>
+Poor Formulaic Magic<br>
+Primogeniture Lineage<br>
+Short-Lived Magic<br>
+Slow Caster<br>
+Spontaneous Casting Tools<br>
+Stockade Parma Magica<br>
+Susceptibility to Divine Power<br>
+Susceptibility to Faerie Power<br>
+Susceptibility to Infernal Power<br>
+Unbearable to (Beings)<br>
+Unimaginative Learner<br>
+Unpredictable Magic<br>
+Vulnerable Casting<br>
+Vulnerable to Folk Tradition<br>
+Warped Magic<br>
+Weak Enchanter<br>
+Weak Magic<br>
+Weak Parens<br>
+Weak Scholar<br>
 Weird Magic
 
 ### Personality, Minor
 
-Busybody
-Carefree
-Church Upbringing
-Continence
-Covenant Upbringing
-Delusion
-Depressed
-Dutybound
-Faerie Upbringing
-Fear
-Fickle Nature
-Follower
-Foreign Upbringing
-Grudge
-Humble
-Imagined Folk Tradition Vulnerability
-Lost Love
-Magical Fascination
-Noncombatant
-Pessimistic
-Poor Memory
-Reclusive
-Secretive
-Seeker
-Short Attention Span
-Simple-Minded
-Sheltered Upbringing
-Slothful
-Soft-Hearted
-Temperate
+Busybody<br>
+Carefree<br>
+Church Upbringing<br>
+Continence<br>
+Covenant Upbringing<br>
+Delusion<br>
+Depressed<br>
+Dutybound<br>
+Faerie Upbringing<br>
+Fear<br>
+Fickle Nature<br>
+Follower<br>
+Foreign Upbringing<br>
+Grudge<br>
+Humble<br>
+Imagined Folk Tradition Vulnerability<br>
+Lost Love<br>
+Magical Fascination<br>
+Noncombatant<br>
+Pessimistic<br>
+Poor Memory<br>
+Reclusive<br>
+Secretive<br>
+Seeker<br>
+Short Attention Span<br>
+Simple-Minded<br>
+Sheltered Upbringing<br>
+Slothful<br>
+Soft-Hearted<br>
+Temperate<br>
 Weak-Willed
 
 ### Story, Minor
 
-Animal Companion
-Beloved Rival
-Blackmail
-Close Family Ties
-Demonic Familiar
-Employed by Company
-Faerie Friend
-Heir
-Hermetic Patron
-Impious Friend
-Magical (Being) Companion
-Manufactured Ignorance
-Mentor
-Primogeniture Lineage
-Visions
+Animal Companion<br>
+Beloved Rival<br>
+Blackmail<br>
+Close Family Ties<br>
+Demonic Familiar<br>
+Employed by Company<br>
+Faerie Friend<br>
+Heir<br>
+Hermetic Patron<br>
+Impious Friend<br>
+Magical (Being) Companion<br>
+Manufactured Ignorance<br>
+Mentor<br>
+Primogeniture Lineage<br>
+Visions<br>
 Weak Personality
 
 ### Social Status, Minor
 
-Branded Criminal
-Companion Animal
-Failed Journeyman
-Failed Master
-Failed Monk/Nun
-Gabai
-Outcast
-Outlaw Leader
-Outsider
-Surgical Empiricus
+Branded Criminal<br>
+Companion Animal<br>
+Failed Journeyman<br>
+Failed Master<br>
+Failed Monk/Nun<br>
+Gabai<br>
+Outcast<br>
+Outlaw Leader<br>
+Outsider<br>
+Surgical Empiricus<br>
 Usurer
 
 ### Supernatural, Minor
 
-Baneful Circumstances
-Corrupted Abilities
-Curse of Slander
-Cursed Guile
-Deteriorating Power
-Evil Eye
-Exiled Atlantean
-Flawed Powers
-Fluctuating Fortune
-Folk Magic
-(Form) Monstrosity
-Inscribed Shadow
-Lesser Malediction
-Manifest Sin
-Monstrous Blood
-Necessary (Realm) Aura for (Ability)
-Prohibition
-(Realm) Stigmatic
-Restricted Power
-Slow Power
-Stigmatic Catalyst
-Susceptibility to Sunlight
-Susceptibility to Warping
-Unruly Air
-Viaticarus
-Visions
+Baneful Circumstances<br>
+Corrupted Abilities<br>
+Curse of Slander<br>
+Cursed Guile<br>
+Deteriorating Power<br>
+Evil Eye<br>
+Exiled Atlantean<br>
+Flawed Powers<br>
+Fluctuating Fortune<br>
+Folk Magic<br>
+(Form) Monstrosity<br>
+Inscribed Shadow<br>
+Lesser Malediction<br>
+Manifest Sin<br>
+Monstrous Blood<br>
+Necessary (Realm) Aura for (Ability)<br>
+Prohibition<br>
+(Realm) Stigmatic<br>
+Restricted Power<br>
+Slow Power<br>
+Stigmatic Catalyst<br>
+Susceptibility to Sunlight<br>
+Susceptibility to Warping<br>
+Unruly Air<br>
+Viaticarus<br>
+Visions<br>
 Warped by Magic
 
 ### General, Minor
 
-Ability Block
-Afflicted Tongue
-Anchored to the (Land)
-Apostate
-Arthritis
-Careless with (Ability)
-Castratus
-Clumsy
-Craving for Travel
-Curse of Slander
-Devoted Parent/Child
-Dhimmi
-Disfigured
-Environmental Sensitivity
-Failed Student
-Feral Scent
-Feral Upbringing
-Fish Out of Water (Terrain)
-Flashbacks
-Fragile Constitution
-Frail
-Gullible
-Hallucinations
-Hobbled
-Hunchback
-Incomprehensible
-Independent Craftsman
-Infamous
-Jinxed
-Judged Unfairly
-Lame
-Lingering Injury
-Low Tolerance
-Master of None
-Missing Ear
-Missing Eye
-Missing Hand
-Motion Sickness
-Night Terrors
-No Sense of Direction
-Nocturnal
-Obese
-Offensive to (Beings)
-Palsied Hands
-Poor (Characteristic)
-Poor Concentration
-Poor Eyesight
-Poor Hearing
-Poor Living Conditions
-Poor Student
-Primitive Equipment
-Raised in the Gutter
-Regular
-Restricted Learning
-Rolling Stone
-Savantism
-Short of Breath
-Sleep Disorder
-Slow Reflexes
-Small Frame
-Social Handicap
-Stuck in Your Ways
-Tainted with Evil
-Unbearable to (Beings)
-Uncertain Faith
-Uncontrollable Strength
-Uninspirational
-Unlucky
-Unspecialized
-Warped Senses
-Weak Characteristics
+Ability Block<br>
+Afflicted Tongue<br>
+Anchored to the (Land)<br>
+Apostate<br>
+Arthritis<br>
+Careless with (Ability)<br>
+Castratus<br>
+Clumsy<br>
+Craving for Travel<br>
+Curse of Slander<br>
+Devoted Parent/Child<br>
+Dhimmi<br>
+Disfigured<br>
+Environmental Sensitivity<br>
+Failed Student<br>
+Feral Scent<br>
+Feral Upbringing<br>
+Fish Out of Water (Terrain)<br>
+Flashbacks<br>
+Fragile Constitution<br>
+Frail<br>
+Gullible<br>
+Hallucinations<br>
+Hobbled<br>
+Hunchback<br>
+Incomprehensible<br>
+Independent Craftsman<br>
+Infamous<br>
+Jinxed<br>
+Judged Unfairly<br>
+Lame<br>
+Lingering Injury<br>
+Low Tolerance<br>
+Master of None<br>
+Missing Ear<br>
+Missing Eye<br>
+Missing Hand<br>
+Motion Sickness<br>
+Night Terrors<br>
+No Sense of Direction<br>
+Nocturnal<br>
+Obese<br>
+Offensive to (Beings)<br>
+Palsied Hands<br>
+Poor (Characteristic)<br>
+Poor Concentration<br>
+Poor Eyesight<br>
+Poor Hearing<br>
+Poor Living Conditions<br>
+Poor Student<br>
+Primitive Equipment<br>
+Raised in the Gutter<br>
+Regular<br>
+Restricted Learning<br>
+Rolling Stone<br>
+Savantism<br>
+Short of Breath<br>
+Sleep Disorder<br>
+Slow Reflexes<br>
+Small Frame<br>
+Social Handicap<br>
+Stuck in Your Ways<br>
+Tainted with Evil<br>
+Unbearable to (Beings)<br>
+Uncertain Faith<br>
+Uncontrollable Strength<br>
+Uninspirational<br>
+Unlucky<br>
+Unspecialized<br>
+Warped Senses<br>
+Weak Characteristics<br>
 Witch Marks
 
 ## Flaws
@@ -8464,16 +8371,16 @@ A character who has placed a single experience point into an Ability may use it 
 
 Characters cannot use Supernatural Abilities unless they have at least one experience point in the Ability. Most characters cannot put experience points into any Supernatural Abilities. In most cases, a character needs a particular Virtue in order to put experience points into a particular Supernatural Ability, but there are exceptions. The most important exception is The Gift, which is covered later, and other exceptions are described in supplements.
 
-## Ability Types
-
-There are six types of Ability: General Abilities, Academic Abilities, Arcane Abilities, Martial Abilities, Spell Mastery Abilities, and Supernatural Abilities. Most of these are used in the same way; the difference lies in who can learn them. Spell Mastery Abilities are a bit different, and are discussed in Chapter 7: Hermetic Magic.
-
 > ## Ability Roll:
 >
 > **Characteristic + Ability + die roll, meet or exceed the Ease Factor to succeed**
 >
 > Ability of 0 can be used if not asterisked, adding 3 botch dice.
 > Add +1 when using an Ability's specialization.
+
+## Ability Types
+
+There are six types of Ability: General Abilities, Academic Abilities, Arcane Abilities, Martial Abilities, Spell Mastery Abilities, and Supernatural Abilities. Most of these are used in the same way; the difference lies in who can learn them. Spell Mastery Abilities are a bit different, and are discussed in Chapter 7: Hermetic Magic.
 
 ### General Abilities
 
@@ -18710,7 +18617,7 @@ For most sagas, you should work out which places can be reached and returned fro
 
 # XII. Realms
 
-agic is the supernatural basis of Ars Magica, but it is not the only power in Mythic Europe. Four realms of power exist: Magic, Divine, Faerie, and Infernal.
+Magic is the supernatural basis of **Ars Magica**, but it is not the only power in Mythic Europe. Four realms of power exist: Magic, Divine, Faerie, and Infernal.
 
 There also exists the mundane, that which is not supernatural. The lines between realms are not drawn simply, with some on one side and others representing a united opposition. Rather, each has some influence over the rest.
 
@@ -18720,11 +18627,9 @@ Creatures can be linked to a realm in one of two ways. The closer link is referr
 
 No human being belongs to a realm. It is possible for a human affiliated to a realm to transform and become part of that realm, but the person apparently loses their humanity in the process. There are faeries, demons, and spirits that were once human, but the Divine realm never transforms human beings in this world. Perhaps the saints after death become part of the Divine realm, but there is no way to know.
 
-# The Nature of the Realms
+## The Nature of the Realms
 
-Il four realms are inter-related, and Hermetic theorists have debated the nature of these relations for centuries. It is generally agreed that the Divine
-
-realm is more powerful than the other three, possibly infinitely so. As Hermetic magi make use of the power of the Magic realm, they tend to see that realm as more important than the Faerie and Infernal realms. There are two popular views of the relationship between the realms in the Order, one inspired by Platonic philosophy, the other by Aristotelian.
+All four realms are inter-related, and Hermetic theorists have debated the nature of these relations for centuries. It is generally agreed that the Divine realm is more powerful than the other three, possibly infinitely so. As Hermetic magi make use of the power of the Magic realm, they tend to see that realm as more important than the Faerie and Infernal realms. There are two popular views of the relationship between the realms in the Order, one inspired by Platonic philosophy, the other by Aristotelian.
 
 The Platonic view sees the Divine realm as the source of light and being for the universe. The Magic realm is the first emanation of the Divine realm, pure light as emitted from the divine being. The Faerie and Infernal realms both arise from the interaction of the divine light with human beings.
 
@@ -18738,96 +18643,74 @@ Those theologians who give serious thought to the issue tend to have a slightly 
 
 ## Realm Auras
 
-he realms exist and interact in various ways. Each has some parts of the world where its powers are strongest. Such areas are said to have an aura, which can be rated
-
-in power on a scale from 1 to 10. Most auras rate between 1 and 5, while very intense auras may have a strength of 6 to 10. An aura rating of 10 often designates a gateway to the realm of its affiliation. The aura rating of a given area usually acts as a modifier on supernatural activities that take place there. Many areas of the world have no realm affiliation, and therefore no aura. These places are mundane.
+The realms exist and interact in various ways. Each has some parts of the world where its powers are strongest. Such areas are said to have an aura, which can be rated in power on a scale from 1 to 10. Most auras rate between 1 and 5, while very intense auras may have a strength of 6 to 10. An aura rating of 10 often designates a gateway to the realm of its affiliation. The aura rating of a given area usually acts as a modifier on supernatural activities that take place there. Many areas of the world have no realm affiliation, and therefore no aura. These places are mundane.
 
 Within a supernatural area, the aura rating is usually uniform, but occasionally energy is unevenly concentrated, causing variable aura ratings. Sometimes conditions result in the development of regiones, areas of increasingly powerful aura sharing a single physical location (see "Regiones" on page 420).
 
 Two realms may have influence over the same place. When this is the case, only the stronger can hold sway at any one time. A change in the relative strengths of the two realms can cause an area to switch from the influence of one to the other. For example, a village might be built on the site of an ancient faerie mound. Normally, the area has a Dominion aura (because the villagers are followers of the Church). However, at night (when Dominion power wanes) or on the days of ancient pagan holidays the Faerie aura becomes more powerful and holds sway. Sometimes only a small area, like the cellar of a tavern, feels the touch of a power different from that of its surroundings.
 
-## Realm Interaction
+### Realm Interaction
 
-The aura of a given place affects all supernatural activities that go on in that place. The list below defines how aura ratings affect various activities. The Realm Interaction chart that follows indicates
-
-Sport Sport
-
-the degree to which realms influence powers of other realms. The modifiers shown apply to the effect an aura has on any supernatural act performed within it.
+The aura of a given place affects all supernatural activities that go on in that place. The list below defines how aura ratings affect various activities. The Realm Interaction chart that follows indicates the degree to which realms influence powers of other realms. The modifiers shown apply to the effect an aura has on any supernatural act performed within it.
 
 Auras also affect the number of botch rolls for an attempted supernatural act in a foreign realm. For each point of aura rating, roll an extra botch die. Use the original aura rating, not that obtained after multiplying by a factor in the Realm Interaction chart.
 
-## Realm Interaction Table
+#### Realm Interaction Table
 
-#### POWER
+| Aura     | Magic Power  | Divine Power | Faerie Power | Infernal Power |
+| -------- | ------------ | ------------ | ------------ | -------------- |
+| Magic    | + aura       | no effect    | + (1/2 aura) | – aura         |
+| Divine   | – (3 x aura) | + aura       | – (4 x aura) | – (5 x aura)   |
+| Faerie   | + (1/2 aura) | no effect    | + aura       | – aura         |
+| Infernal | – aura       | no effect    | – (2 x aura) | + aura         |
 
-
-|      |          | Magic            | DIVINE    | Faerie           | Infernal         |
-| ------ | ---------- | ------------------ | ----------- | ------------------ | ------------------ |
-| Aura | Magic    | + aura           | no effect | + (1/2<br>aura)  | – aura          |
-|      | Divine   | – (3 x<br>aura) | + aura    | – (4 x<br>aura) | – (5 x<br>aura) |
-|      | Faerie   | + (1/2<br>aura)  | no effect | + aura           | – aura          |
-|      | Infernal | – aura          | no effect | – (2 x<br>aura) | + aura           |
-
-For example, consider a magus who also has a Faerie-based power to create illusions and a demonic gift causing sickness. His Hermetic spells are based on Magic, his illusions on Faerie, and his sickness power on the Infernal. In a town with a Dominion aura of 3, he must subtract nine from his Hermetic totals, and roll three additional botch dice, twelve from his Faerie illusion totals, with three additional botch dice, and fifteen from his Infernal sickening totals, again with
-
-## Supernatural Activity Rolls Modified by Aura
-
-Spellcasting: The aura modifier modifies the Casting Score.
-
-LABORATORY ACTIVITIES: The aura modifier modifies the Lab Total.
-
-ABILITY ROLLS: The aura modifier affects supernatural Abilities such as Second Sight, or Wilderness Sense. Most such abilities are Magical in origin, although in particular cases they may be Faerie, Infernal, or even Divine.
-
-MAGIC RESISTANCE: Magic Resistance is altered by the aura modifier. This includes Hermetic Magic Resistance due to the Parma Magica and Forms, as well as the resistance of creatures with supernatural Might. Thus, a magus in a Magic aura of 4 has a +4 bonus to his Magic Resistance, while a demon has a -4 penalty.
-
-Penetration: For magi and characters with mystical abilities, the aura modifies the roll to use the ability, which means that Penetration is modified. The aura modifier does not apply to Penetration twice. Thus, a magus in a Divine aura of 2 takes a –6 penalty to his Casting Score. This automatically reduces his Penetration, as that is calculated by subtracting the spell level from the Casting Score. The aura modifier is not subtracted again from the Penetration total. For supernatural creatures, there is no roll to use the ability (see page 426), so the aura modifier applies to Penetration directly.
-
-three additional botch dice. If he moves to a forest with a Faerie aura of 4, he adds two to his Hermetic totals, but rolls four additional botch dice, four to his Faerie illusion totals, with no additional botch dice, and subtracts four from his Infernal sickening totals, again with four additional botch dice.
+For example, consider a magus who also has a Faerie-based power to create illusions and a demonic gift causing sickness. His Hermetic spells are based on Magic, his illusions on Faerie, and his sickness power on the Infernal. In a town with a Dominion aura of 3, he must subtract nine from his Hermetic totals, and roll three additional botch dice, twelve from his Faerie illusion totals, with three additional botch dice, and fifteen from his Infernal sickening totals, again with three additional botch dice. If he moves to a forest with a Faerie aura of 4, he adds two to his Hermetic totals, but rolls four additional botch dice, four to his Faerie illusion totals, with no additional botch dice, and subtracts four from his Infernal sickening totals, again with four additional botch dice.
 
 The Divine is not hampered by auras of other kinds. Divine powers have no penalty and no additional botch dice in auras of the other realms.
 
+> ### Supernatural Activity Rolls Modified by Aura
+>
+> SPELLCASTING: The aura modifier modifies the Casting Score.
+>
+> LABORATORY ACTIVITIES: The aura modifier modifies the Lab Total.
+>
+> ABILITY ROLLS: The aura modifier affects supernatural Abilities such as Second Sight, or Wilderness Sense. Most such abilities are Magical in origin, although in particular cases they may be Faerie, Infernal, or even Divine.
+> 
+> MAGIC RESISTANCE: Magic Resistance is altered by the aura modifier. This includes Hermetic Magic Resistance due to the Parma Magica and Forms, as well as the resistance of creatures with supernatural Might. Thus, a magus in a Magic aura of 4 has a +4 bonus to his Magic Resistance, while a demon has a -4 penalty.
+>
+> PENETRATION: For magi and characters with mystical abilities, the aura modifies the roll to use the ability, which means that Penetration is modified. The aura modifier does not apply to Penetration twice. Thus, a magus in a Divine aura of 2 takes a –6 penalty to his Casting Score. This automatically reduces his Penetration, as that is calculated by subtracting the spell level from the Casting Score. The aura modifier is not subtracted again from the Penetration total. For supernatural creatures, there is no roll to use the ability (see page 426), so the aura modifier applies to Penetration directly.
+
 ## Creatures of a Realm
 
-he appearance of a creature is influenced, but not determined, by the realm to which it belongs. The details on each of the realms, below, provide
-
-further information on this. A creature's realm of origin does, however, strongly affect the way it interacts with human beings. Creatures of the Infernal are always interested in corrupting and harming human beings, while creatures of the Magic realm need have no interest in human beings for their own sake. Creatures of the Divine serve God, and thus punish, aid, and reward humanity as commanded. Creatures of Faerie all have some relationship with human beings, but the nature of this relationship can vary wildly.
+The appearance of a creature is influenced, but not determined, by the realm to which it belongs. The details on each of the realms, below, provide further information on this. A creature's realm of origin does, however, strongly affect the way it interacts with human beings. Creatures of the Infernal are always interested in corrupting and harming human beings, while creatures of the Magic realm need have no interest in human beings for their own sake. Creatures of the Divine serve God, and thus punish, aid, and reward humanity as commanded. Creatures of Faerie all have some relationship with human beings, but the nature of this relationship can vary wildly.
 
 A talking dog, for example, could belong to any of the four realms. As a Faerie, it might be the perfect hunting dog, leading its master on apparently impossible hunts and lending its powers to ensure success. As an Infernal beast, it would try to corrupt its master, leading him into evil. A Divine talking dog would be a companion to its master, offering guidance, but also driving him back from sin by force if necessary. Finally, a Magical talking dog might have no interest at all in human beings, being interested only in hunting for its food in the wilderness.
 
-# Magic Resistance and Penetration
+### Magic Resistance and Penetration
 
 Most creatures that belong to a realm have a Might Score, which represents their power. The creature's Might Score is the maximum level. Might points are also spent to invoke supernatural abilities, and Might Pool is the amount of Might that a creature has remaining. Magic Resistance and Penetration are both based on a creature's Might Score.
 
-Creature Magic Resistance: Might Score + Aura Modifier
+**CREATURE MAGIC RESISTANCE: Might Score + Aura Modifier**
 
-CREATURE PENETRATION:
-
-Might Score – (5 x Might Points spent on power) + Penetration Bonus + Aura Modifier
+**CREATURE PENETRATION: Might Score – (5 x Might Points spent on power) + Penetration Bonus + Aura Modifier**
 
 Magic Resistance based on might functions like Hermetic resistance, resisting the powers of all realms, and all types of supernatural power.
 
 Characters with supernatural abilities other than Hermetic magic also have Penetration.
 
-Character Penetration:
-Effect Roll – Ease Factor + Penetration Bonus
-
-+ Aura Modifier
+**CHARACTER PENETRATION: Effect Roll – Ease Factor + Penetration Bonus + Aura Modifier**
 
 The Penetration bonus is calculated in the same way as for Hermetic magi (see Penetration, page 215). Thus, creatures and characters without the Penetration Ability have a Penetration bonus of zero.
 
 ## The Magic Realm
 
-he Magic realm is often characterized as 'the way the world could be'. Magical things are simply better than the mundane versions, but they are
+The Magic realm is often characterized as 'the way the world could be'. Magical things are simply better than the mundane versions, but they are better versions of mundane things, not completely new things. There are often many ways in which a thing could be better, and magical things better in each of those ways exist. *Realms of Power: Magic* provides more detail on this realm.
 
-better versions of mundane things, not completely new things. There are often many ways in which a thing could be better, and magical things better in each of those ways exist. *Realms of Power: Magic* provides more detail on this realm.
+### Magical Creatures
 
-## Magical Creatures
+Many magical creatures look like particularly fine specimens of mundane things, and although they may have surprising abilities, such as intelligence or the ability to move, these abilities are always suitable to the kind of creature in question. The abilities of magical creatures are explicable, at least after the event, in terms of the abilities of the mundane version, although those abilities may be somewhat hidden. For example, goat's blood can dissolve diamonds, but this ability is only obvious in magical goats. Magical animals, so-called beasts of virtue (see Realms of Power: Magic, pages 55-68), are the most obvious magical creatures, but there are also magical plants, most notably among the trees, and elementals, described in the Bestiary chapter. On the whole, magical animals tend to be more intelligent and have more personality than magical plants, which in turn are superior to elementals in those respects. Some magical creatures are shapechangers, and some of these can take on human form. The human form is almost never the natural form of a shapechanger who belongs to the Magic realm, however. The shapechangers are wolves who can become human, and so on.
 
-Many magical creatures look like particularly fine specimens of mundane things, and although they may have surprising abilities, such as intelligence or the ability to move, these abilities are always suitable to the kind of creature in question. The abilities of magical creatures are explicable, at least after the event, in terms of the abilities of the mundane version, although those abilities may be somewhat hidden. For example, goat's blood can dissolve diamonds, but this ability is only obvious in magical goats. Magical animals, so-called beasts of virtue (see Realms of Power: Magic, pages 55-68), are the most obvious magical creatures, but there are also magical plants, most notably among the trees, and elementals, described in the Bestiary chapter. On the whole, magical animals tend to be more intelligent and have more personality than magical plants, which in turn are superior to elementals in those respects. Some magical creatures are shapechangers, and some of these can take on human form. The human form is almost never the natural form of a shapechanger who belongs to the Magic realm, however. The shapechangers are wolves who can become human,
-
-The Magic realm also encompasses a wide range of spirits. Some are spirits of natural substances, such as water and fire. These are generally classed with elementals, although there is a difference in that elementals are essentially physical, while spirits of the elements are essentially spiritual. Since spirits of the elements can generally create the physical element, this distinction is only of importance to Hermetic magi deciding which Form to use to affect a creature. Other magic spirits include spirits of natural places and natural phenomena, such as the spirit of a mountain or of storms. Many powerful magical spirits can take on any form they wish, including human form, and some have powers based on several aspects of the Magic realm. These spirits are normally completely indifferent to human beings, but some enter into mutually profitable
-
-arrangements, particularly with humans who are affiliated to the Magic realm in the first place.
+The Magic realm also encompasses a wide range of spirits. Some are spirits of natural substances, such as water and fire. These are generally classed with elementals, although there is a difference in that elementals are essentially physical, while spirits of the elements are essentially spiritual. Since spirits of the elements can generally create the physical element, this distinction is only of importance to Hermetic magi deciding which Form to use to affect a creature. Other magic spirits include spirits of natural places and natural phenomena, such as the spirit of a mountain or of storms. Many powerful magical spirits can take on any form they wish, including human form, and some have powers based on several aspects of the Magic realm. These spirits are normally completely indifferent to human beings, but some enter into mutually profitable arrangements, particularly with humans who are affiliated to the Magic realm in the first place.
 
 Powerful spirits may take on forms that are completely alien to human beings, and any creature that is powerful, alien, and indifferent to human beings is part of the Magic realm. Such creatures are very rare, but they do exist.
 
@@ -18835,19 +18718,17 @@ Human beings who have been transformed to become part of the Magic realm are rar
 
 It is relatively common for human beings to have supernatural powers that derive from the Magic realm, and thus to be affiliated with that realm. Hermetic magi are the most obvious example, but *Hedge Magic Revised Edition* and *Rival Magic*, along with many other supplements, contain further examples. There are human shapechangers who can change into wolves, but the magical ones are affiliated with the realm, rather than belonging to it.
 
-## Magical Auras
+### Magical Auras
 
 Magical areas are places that are more real than those around them. Sometimes, after the working of powerful magic or the death of a powerful creature, places acquire a magical aura, but most of the time it is unclear why a certain place is magical. Most magical areas have an aura from 1 to 5. Legendary places are rated around 6, while auras of strength 10 are virtually unknown.
 
 Magical areas are intense. Colors are more striking, sounds more piercing, the day brighter, the night deeper. Magical creatures are particularly common within them, although mobile creatures can wander elsewhere. Immobile magical creatures, such as magical trees, are almost never found outside a magical aura.
 
-Almost all covenants are located in magical areas, usually with aura ratings of 1 to 5. More powerful areas are not only rare but extremely dangerous to live in. The powerful magic there is difficult and dangerous to harness, and mundane covenfolk become warped and strange. Apprentices are often overpowered. Because of this threat, only the most powerful covenants in Hermetic history have based themselves in such places. Powerful Magic auras are even richer in vis
-
-than normal ones, however, so magi often want to visit such places.
+Almost all covenants are located in magical areas, usually with aura ratings of 1 to 5. More powerful areas are not only rare but extremely dangerous to live in. The powerful magic there is difficult and dangerous to harness, and mundane covenfolk become warped and strange. Apprentices are often overpowered. Because of this threat, only the most powerful covenants in Hermetic history have based themselves in such places. Powerful Magic auras are even richer in vis than normal ones, however, so magi often want to visit such places.
 
 Magical auras do not tend to have cyclical variations in strength with time, in the way that other auras do, nor do they depend on the surroundings, like Faerie auras. Much more detail is available in chapter 2 of *Realms of Power: Magic*.
 
-## Sources of Magical Auras
+#### Sources of Magical Auras
 
 There are two main ways in which Magical auras arise: from the arrangement of the world, and from magical activities. Weak Magical auras arise in places where the world has naturally become a particularly fine example of something. A perfect mountain, spectacular and ancient forest, and a vigorous active volcano might all acquire a weak Magical aura, normally 1 and certainly no higher than 2. Stronger auras arise from combinations of a superb location and auspicious astrological alignments, or from a combination of excellent examples of the natural world. For example, a coastal valley hemmed in by mountains, in which great storms often happen and which faces the midsummer sunrise might have a Magical aura as high as 4. These alignments never produce an aura higher than 5, at least not by themselves, and such places are popular sites for covenants, as they are easier to find than the other kind.
 
@@ -18855,11 +18736,9 @@ Magical auras can also arise from magical activities. If a moderately powerful (
 
 Auras above level 5 almost always result from a combination of good location and magical activities. If a covenant were established in a location with a natural aura of 5, the aura would rise over the course of decades, but not, in general, any higher than 7. The very highest Magical auras result from spectacular magical events, such as a spectacular magical fight between two powerful magical creatures in which one of the creatures was killed, or the creation of a magical effect worthy of legend. Such events can create an aura of 2 or 3 in a previously mundane area, and if they take place in a location that already has a strong Magical aura they can push it to the highest levels.
 
-## The Magic World
+### The Magic World
 
-There is great debate within the Order of Hermes over the existence of a magical equivalent to Arcadia, Heaven, and Hell. Most magi think that there must be one, and some even claim to have visited it. Others think that those magi have
-
-either visited a powerful Magical regio, or have decided to lie. It is rather difficult to see how a magus could distinguish a large powerful regio from a part of a whole magical world, which tends to prolong the debate.
+There is great debate within the Order of Hermes over the existence of a magical equivalent to Arcadia, Heaven, and Hell. Most magi think that there must be one, and some even claim to have visited it. Others think that those magi have either visited a powerful Magical regio, or have decided to lie. It is rather difficult to see how a magus could distinguish a large powerful regio from a part of a whole magical world, which tends to prolong the debate.
 
 Other magi hold that, while there is a Magic world, it cannot be visited. Some say that it is the realm of Twilight, so it cannot be visited safely, others that it is the realm of the Platonic Forms, where the perfect exemplars for all earthly things are found. Still others argue that, as the Magic realm is constituted by striving towards the Divine, or by the first emanation from the Divine, the Magic world is Heaven. Some of these also believe that Twilight is the Magic world, so that Final Twilight is a way for magi to enter Heaven.
 
@@ -18867,17 +18746,13 @@ As described in chapter 3 of *Realms of Power: Magic*, there is a Magic world, a
 
 ## The Infernal Realm
 
-he Infernal realm is the embodiment of evil and decay — of physical destruction and moral corruption. Even as the Church works its divine power to protect
-
-the soul and buoy it up to Heaven after the body's death, the forces of the Devil work to steal it away and drag it to the depths of Hell.
+The Infernal realm is the embodiment of evil and decay — of physical destruction and moral corruption. Even as the Church works its divine power to protect the soul and buoy it up to Heaven after the body's death, the forces of the Devil work to steal it away and drag it to the depths of Hell.
 
 Human beings are subject to death and damnation through the sins of their ancestral parents. Once Adam and Eve had tasted the fruit of the Tree of Knowledge of Good and Evil, all the world came under Satan's influence.
 
 Demons are fallen angels; they cannot and will not be redeemed because of their very natures. They comprehend the divine order completely and so can never be convinced by new arguments or perspectives to seek salvation. Their envy of humanity's place in the cosmos is without bounds, as is their capacity for evil as rejection of all that is from God. Ultimately, devils seek to weigh down souls with the baggage of sin. They have an eternity to plot and scheme, and a human lifetime is a brief moment in their eyes. Fortunately for humanity, they are completely without virtue, including the virtues of patience and self-control, which makes it hard for them to sustain elaborate plans.
 
-Hell's most potent allies are diabolists, humans who sell their souls in return for powers and favors on Earth. Not only do devils win these souls away from the Divine, they are also able to satisfy their lust for chaos, destruction and suffering through these human agents. The powers that diabolists are
-
-awarded can include spell-like abilities and the capacity to summon demons and use them to their own ends, among other things. Diabolists are not completely without virtue, and are indeed capable of redemption, which means that they can provide the patience and self-control that demons lack.
+Hell's most potent allies are diabolists, humans who sell their souls in return for powers and favors on Earth. Not only do devils win these souls away from the Divine, they are also able to satisfy their lust for chaos, destruction and suffering through these human agents. The powers that diabolists are awarded can include spell-like abilities and the capacity to summon demons and use them to their own ends, among other things. Diabolists are not completely without virtue, and are indeed capable of redemption, which means that they can provide the patience and self-control that demons lack.
 
 Not surprisingly, the Order of Hermes forbids dealings with demonkind. Any member caught engaging in diabolism is renounced and singled out for destruction. Furthermore, the Church brings down great punishments on those thought or known to be in league with the Devil.
 
@@ -18885,17 +18760,15 @@ Hell is not a remote force in Mythic Europe. Demons ruin crops, cause back pains
 
 More details on the Infernal and all its works can be found in *Realms of Power: The Infernal*.
 
-## Infernal Oreatures
+### Infernal Oreatures
 
-The natural forms of infernal creatures are almost always twisted, vile, and terrifying, the better to inspire fear and loathing in human beings. However, many demons can also take on attractive forms. Different sorts of attraction are better for different temptations, a beautiful young
-
-woman is good for luring a man into lust, but an apparently wise old man might be better to lure someone into heresy.
+The natural forms of infernal creatures are almost always twisted, vile, and terrifying, the better to inspire fear and loathing in human beings. However, many demons can also take on attractive forms. Different sorts of attraction are better for different temptations, a beautiful young woman is good for luring a man into lust, but an apparently wise old man might be better to lure someone into heresy.
 
 The lies of creatures that belong to the Infernal realm cannot be detected by the powers of the Magic realm. Deceit is a central part of their nature, and hard to overcome. Some diabolists claim that infernal power can pierce infernal lies, but most magi believe that the demons are lying to their servants. The Divine can pierce infernal deceptions, and it seems that some faeries can also do so. This ability to lie with impunity also makes demons hard to detect; they can choose to tell the magic that they are not there, and the magic will believe them.
 
 This does not mean that it is impossible to spot demonic lies by any means. Normal investigation will still reveal whether things are as a demon says, unless the demon has made the effort to fake mundane information as well.
 
-## Infernal Auras
+### Infernal Auras
 
 Infernal areas are among the most vile places in the world. Growth of natural plants is stunted and warped. Decay and the stench of ill humors abound. Predatory animals kill, not for survival, but for the pleasure of inflicting pain. Most earthbound demons, and many diabolists, prefer to remain in such areas. They are also typical sites for diabolic churches and covens, and for the summoning of demons.
 
@@ -18903,37 +18776,31 @@ Travelers in or near Infernal areas often find themselves in foul moods. Outlaws
 
 Infernal auras can be detected by magic, unless an infernal creature is actively hiding their existence. They also tend to reduce in strength during the day, and particularly on holy days, and to increase in power at night. Infernal auras are particularly strong on Easter Saturday, the day between the Crucifixion and the Resurrection. More detail can be found in *Realms of Power: The Infernal*, pages 10–17.
 
-## Sources of Infernal Auras
+#### Sources of Infernal Auras
 
-Infernal auras arise from sinful activities and from the activities of demons and diabolists. Minor sins, of the sort that people commit every day, do not create an Infernal aura, fortunately. More serious sins, such as vicious murders, or elaborate schemes to corrupt someone, can leave a trace. A single sin only creates an aura if it is particularly vile. The calculated desecration of a
-
-church, including the ritual murder of the priest on the altar, might replace the church's Divine aura with a level 1 Infernal aura. In an area with no aura, a cruel and premeditated murder can create a level 1 aura. Repeated sins in one place create Infernal auras, even if the individual sins are less serious. For example, if a pair of adulterers met every couple of days in the same room in order to indulge their sin, that room would slowly acquire a weak Infernal aura, which might reach level 2 if the affair continued for long enough. Repeated ritual sacrifices of human beings to demons, extending over many decades, could create an Infernal aura as high as 5.
+Infernal auras arise from sinful activities and from the activities of demons and diabolists. Minor sins, of the sort that people commit every day, do not create an Infernal aura, fortunately. More serious sins, such as vicious murders, or elaborate schemes to corrupt someone, can leave a trace. A single sin only creates an aura if it is particularly vile. The calculated desecration of a church, including the ritual murder of the priest on the altar, might replace the church's Divine aura with a level 1 Infernal aura. In an area with no aura, a cruel and premeditated murder can create a level 1 aura. Repeated sins in one place create Infernal auras, even if the individual sins are less serious. For example, if a pair of adulterers met every couple of days in the same room in order to indulge their sin, that room would slowly acquire a weak Infernal aura, which might reach level 2 if the affair continued for long enough. Repeated ritual sacrifices of human beings to demons, extending over many decades, could create an Infernal aura as high as 5.
 
 Infernal auras also arise from the presence of infernal creatures or the use of infernal powers, in much the same way as for Magical auras. Combining repeated sin with the use of infernal powers can create the highest Infernal auras of all.
 
 ## The Faerie Realm
 
-aeries are creatures drawn in some way from the stories of the human race. They are thus as varied and diverse as stories, and can be found anywhere from the depths
-
-of the wilderness to the centers of cities, from ancient pagan temples to the newest cathedral.
+Faeries are creatures drawn in some way from the stories of the human race. They are thus as varied and diverse as stories, and can be found anywhere from the depths of the wilderness to the centers of cities, from ancient pagan temples to the newest cathedral.
 
 The realm of Faerie is as diverse and strange as those who inhabit it, and as with all faerie things, appearances can be deceiving. After dawn breaks, a pile of gold may prove nothing more than old leaves, while a single oak leaf can hold within it more magical power than the enchanted staff of a mighty magus.
 
 Much more detail about the Faerie realm can be found in *Realms of Power: Faerie*.
 
-## Paerie Oreatures
+### Faerie Creatures
 
 The special relationship that faeries have to humanity means that all faeries are interested in people. They are interested in having humans play out their stories, because faeries gain energy, called Vitality, when this happens. Unlike demons, they do not want humans to be corrupted or destroyed for the sake of corruption, but some faeries do want humans to suffer, if the story calls for it. Other faeries live in imitation or mockery of human beings, and they respond to human intruders as appropriate to their role, bringing the visitors into their story.
 
-Not all faeries know that they are telling a story, and the faerie may be the victim in a story. For example, a faerie may be the giant that is
-
-tricked by a clever mortal child. In that case, the faerie, consciously or unconsciously, arranges things so that the child can trick it and survive. If it catches the child or sees through the trick, it does not get any Vitality. This close link to stories means that faeries are very hard to predict if you do not know what their story is — and very easy to manipulate if you do. Nevertheless, a faerie that tells the story of the Wild Hunt carrying people away and driving them mad may remain very dangerous even when you know exactly what it is.
+Not all faeries know that they are telling a story, and the faerie may be the victim in a story. For example, a faerie may be the giant that is tricked by a clever mortal child. In that case, the faerie, consciously or unconsciously, arranges things so that the child can trick it and survive. If it catches the child or sees through the trick, it does not get any Vitality. This close link to stories means that faeries are very hard to predict if you do not know what their story is — and very easy to manipulate if you do. Nevertheless, a faerie that tells the story of the Wild Hunt carrying people away and driving them mad may remain very dangerous even when you know exactly what it is.
 
 Faeries cannot truly create or change without mortal assistance. However, a faerie might be able to make wine with a word and change its form from moment to moment, as the wine is actually a transformation of something, and the form of the faerie is essentially mutable. It seems to be absolutely true that faeries cannot reproduce themselves, or learn, without mortal aid, and in these cases things do not even appear otherwise.
 
 Faerie creatures can take any imaginable form. This includes appearing as better versions of mundane animals, but also includes giants, chimerae, and humans with animal features. Since faeries arise from the stories of humanity, it is not uncommon for legends about a magical place to give rise to a faerie copy, more closely matching the beliefs that people have. However, although faeries arise from the beliefs of people, they do not always go away or change to match changing beliefs. Once the faeries exist, they are just as real as any other creature, and can, with the help of humans, develop in unexpected ways.
 
-## Paerie Auras
+### Faerie Auras
 
 Areas of faerie power may cover ancient pagan lands, spring up about faerie monarchs, or protect valued locations. They may have only a few inhabitants, each quite powerful. On the other hand, they may be the domiciles of innumerable faeries with little power individually, but whose numbers give them strength enough to be respected and avoided.
 
@@ -18945,19 +18812,13 @@ Regardless of the danger, magi often risk entering Faerie areas in pursuit of ma
 
 Faerie auras tend to vary in strength depending on how closely the surrounding world matches the nature of the faeries within. Thus, a Faerie aura inhabited by beautiful faeries of light would reduce in power during winter and at night, and reach its full power on bright summer days. An aura inhabited by faerie miners would lose strength if there were no miners nearby, but return to full power if a mine was opened. More details on Faerie auras can be found in *Realms of Power: Faerie*, pages 14–18.
 
-## Sources of Paerie Auras
+#### Sources of Faerie Auras
 
-to say otherwise. The
-
-combination of
-
-Faerie auras can arise from the presence of faeries or the use of faerie powers in a way similar to the ways that Magical and Infernal auras can arise. Faerie auras also arise when stories are told about a place. The strength of the aura depends on the popularity and number of the stories, but also on what is already in a place. For example, many people in western Mythic Europe tell marvelous stories about Constantinople, but as the city is full of people and churches these stories have not created a Faerie aura there. On the other hand, stories about the strange beings who live in the depths of a forest often create auras, as no-one lives in the forest
-
-these effects means that Faerie auras are often in wilderness areas, even though faeries depend, in some sense, on human beings.
+Faerie auras can arise from the presence of faeries or the use of faerie powers in a way similar to the ways that Magical and Infernal auras can arise. Faerie auras also arise when stories are told about a place. The strength of the aura depends on the popularity and number of the stories, but also on what is already in a place. For example, many people in western Mythic Europe tell marvelous stories about Constantinople, but as the city is full of people and churches these stories have not created a Faerie aura there. On the other hand, stories about the strange beings who live in the depths of a forest often create auras, as no-one lives in the forest to say otherwise. The combination of these effects means that Faerie auras are often in wilderness areas, even though faeries depend, in some sense, on human beings.
 
 Faerie auras tend to be higher than other kinds of aura, as the two factors reinforce one another. Faeries in an area tend to inspire stories about the area, which in turn raise the aura and attract, or create, more and more powerful faeries, who in turn inspire more stories.
 
-## The Facric Realm
+### The Faerie Realm
 
 The most powerful Faerie sites are sometimes gateways to the Faerie Realm. Such gateways may be small and unassuming, rarely used and little known, or massive entrances traversed by the greatest of faerie entities. Mortals do not naturally belong in the land of the fay, and those who enter often fail to return. Even if they do come back, they may find a day spent in Faerie is one, ten, even a hundred years, or only a minute, in the mundane world. Magi of House Merinita say that the Faerie Realm can be divided into three "regions", although they are not geographic divisions: Arcadia, Elysium, and Eudokia.
 
@@ -18969,9 +18830,7 @@ The Faerie Realm is a physical place, but it is also a sphere of pure enchantmen
 
 ## The Divine Realm
 
-he Divine realm is the manifestation of the supernatural power of God. The most obvious agent of the Divine in western Europe is the
-
-Church, and Divine auras, also called the Dominion, or Dominion auras, surround its buildings. The Church does not have a monopoly on Divine auras, as Jews and Muslims also live within a Dominion aura, which appears indistinguishable from that of the Church. The Church, of course, refuses to believe that Islam has anything to do with God, and has severe doubts about contemporary Judaism.
+The Divine realm is the manifestation of the supernatural power of God. The most obvious agent of the Divine in western Europe is the Church, and Divine auras, also called the Dominion, or Dominion auras, surround its buildings. The Church does not have a monopoly on Divine auras, as Jews and Muslims also live within a Dominion aura, which appears indistinguishable from that of the Church. The Church, of course, refuses to believe that Islam has anything to do with God, and has severe doubts about contemporary Judaism.
 
 Regardless of opinions, it cannot be denied that the Divine realm has an influence over the other realms, including that of Magic. A Divine aura limits the efficiency and effectiveness of Hermetic magic, and Divine miracles can accomplish feats that magi cannot.
 
@@ -18983,7 +18842,7 @@ Muslims in those tribunals which extend over Islamic lands. Some magi even have 
 
 More detail about the supernatural aspects of the Divine can be found in *Realms of Power: The Divine Revised Edition* along with information about the three most important Divine religions in Mythic Europe: Christianity, Islam, and Judaism.
 
-## Divine Auras
+### Divine Auras
 
 The Dominion is nearly ubiquitous, and is the only supernatural power that the common folk generally have contact with. It affects magi and their fellows whenever they enter a village, town, or city where there is a place of worship, an ordained priest, and a body of believers.
 
@@ -18991,95 +18850,86 @@ Though Divine auras are almost always present in areas inhabited by believers, t
 
 Entering a strong Divine aura has a definite sensory association. Non-magical people often experience anticipatory nerves and unconscious reverence. Those who are pious feel quiet peace; others feel dread and guilt. Magi and others with magical talents instantly sense a powerful presence, their Gift flickering as a flame exposed to wind. Auras of lesser power might prove a mild irritant to such magical folk, perhaps causing occasional headaches, short tempers and sporadic feelings of physical discomfort.
 
-## Sources of Divine Auras
+#### Sources of Divine Auras
 
 Divine auras can arise from the activities or presence of holy creatures, in a manner similar to the ways in which other auras arise. The overwhelming majority of Divine auras, however, arise from the presence of faithful worshipers of the Divine. Typically, the fields around a village would have an aura of 1, while the village itself would have an aura of 2. A town or city would have an aura of 3 over most of the area, possibly lower in areas where sin and vice are common. Most places of worship have an aura of 4, while places with wider significance, such as cathedrals, important mosques, and the churches of major monasteries, have an aura of 5.
 
-Higher Divine auras are very limited in extent. The chapel holding the relics of a very important saint might have an aura of 6, or 7 for relics of
+Higher Divine auras are very limited in extent. The chapel holding the relics of a very important saint might have an aura of 6, or 7 for relics of Christ or the Virgin Mary. The site of a saint's martyrdom generally has an aura of 8, nine for the martyrdom of an apostle. Divine auras of 10 arise in places where God Himself has intervened in a direct way. The Holy Sepulcher, where Christ was buried, the ka'aba in Mecca, and the last remnants of the Jewish temple in Jerusalem are examples. There are occasional examples elsewhere; for example, the Lady Chapel at Glastonbury Abbey in England was originally consecrated by Christ Himself, and has an aura of 10.
 
-seems, need not be wholly orthodox.
+Particular Divine auras may depart from these guidelines, as God makes them where and how He wants. However, the guidelines given here are the ones that He normally seems to follow. While He could withdraw all of the Divine aura from a cathedral, He almost never does so. For more details on Divine auras, see *Realms of Power: The Divine Revised Edition*, pages 10–17.
 
-True Faith, like Confidence, has a Score and
+### True Faith
 
-Points. Taking the True Faith Major Virtue grants
+Those who give up mundane pursuits entirely and selflessly dedicate themselves to leading holy lives benefit from True Faith. True Faith is measured in Faith Points, which represent a person's connection to God. Those with True Faith may be Jewish, Christian, or Muslim, and, it seems, need not be wholly orthodox.
 
-you a True Faith Score of 1, and a single Faith
-
-Point. Only by possessing the True Faith Major
-
-Virtue may a character have a True Faith score. Any character may possess any number of Faith Points (gained through the sacraments, a pilgrimage, or other holy endeavors) that once spent, do not return.
+True Faith, like Confidence, has a Score and Points. Taking the True Faith Major Virtue grants you a True Faith Score of 1, and a single Faith Point. Only by possessing the True Faith Major Virtue may a character have a True Faith score. Any character may possess any number of Faith Points (gained through the sacraments, a pilgrimage, or other holy endeavors) that once spent, do not return.
 
 You may spend Faith Points like Confidence Points (and may spend as many Faith Points at once as your True Faith Score), as long as you are acting in accordance with God's will. If you do not possess a True Faith Score, then you may only spend one Faith Point at a time.
 
 A character with Faith Points but no True Faith Score does not benefit from Magic Resistance. A character with a True Faith Score gains Magic Resistance equal to this score multiplied by ten.
 
-#### True Faith Magic Resistance: True Faith Score X 10
+**TRUE FAITH MAGIC RESISTANCE: True Faith Score X 10**
 
 Each dawn, you regain a number of Faith Points up to your True Faith Score, although if you already have more Faith Points than your True Faith Score, you do not gain additional Points.
 
-For more details on True Faith, see Realms of Power: The Divine Revised Edition, page 56.
+For more details on True Faith, see *Realms of Power: The Divine Revised Edition*, page 56.
 
-## Relics
+### Relics
 
 Relics are physical objects that, in some way, house part of the power of the Divine. They are most common in Christianity, and often take the form of parts of the bodies of deceased saints. All relics have a number of common powers, listed below:
 
-- 1. Faith: All relics contain a True Faith score, giving it Faith Points that may be used by its bearer as Confidence. A relic also grants Magic Resistance equal to ten times its True Faith score to its bearer. A person can only benefit from one relic at a time, any attempt to do otherwise is a sin, and means that they lose the benefits of all relics. However, a person can humbly carry other relics, while only relying on one for the benefits. A character who normally relies on a particular relic would need a very good reason to swap it for another one.
-- 2. DIVINE MICHT: All relics have a Divine Might score, which limits how often their powers may be used (effectively preventing characters from over-using their powers). The Might score also acts as Magic Resistance for the relic against any spells or supernatural effects that target it directly. A relic's Divine Might is equal to the relic's Faith score (or highest Faith score, if more than one applies) multiplied by 10, and the Might Pool is refreshed with every sunrise.
-- 3. Scourcing the Infernal: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any
-
-creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
+1. FAITH: All relics contain a True Faith score, giving it Faith Points that may be used by its bearer as Confidence. A relic also grants Magic Resistance equal to ten times its True Faith score to its bearer. A person can only benefit from one relic at a time, any attempt to do otherwise is a sin, and means that they lose the benefits of all relics. However, a person can humbly carry other relics, while only relying on one for the benefits. A character who normally relies on a particular relic would need a very good reason to swap it for another one.
+2. DIVINE MIGHT: All relics have a Divine Might score, which limits how often their powers may be used (effectively preventing characters from over-using their powers). The Might score also acts as Magic Resistance for the relic against any spells or supernatural effects that target it directly. A relic's Divine Might is equal to the relic's Faith score (or highest Faith score, if more than one applies) multiplied by 10, and the Might Pool is refreshed with every sunrise.
+3. SCOURCING THE INFERNAL: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
 
 In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here, more can be found on pages 88 and 89 of *Realms of Power: The Divine Revised Edition*.
 
-## Miracles
+> #### Sample Relic Powers
+>
+> *The Faithful Made Whole*, 4 points, Init +15, Corpus. This power cures the recipient of all disease and heals all physical wounds.
+>
+> *Flabbergast the Impertinent*, 2 points, Init +3, Mentem. This curse causes the target to fall into a deep sleep, lasting the night, and accompanied by loud snores. The sleeper will wake in the morning exhausted from his snoring, down two long-term Fatigue levels. No magic can prematurely wake the sleeper.
+
+### Miracles
 
 Miracles are the direct intervention of God in the world. As such, they can do anything, cannot fail, and cannot be resisted by any other power. More discussion of their role in the setting can be found in the Mythic Europe chapter, on page 505.
 
-## Magic Resistance For Church Officers and Sovereigns
+> ### Magic Resistance For Church Officers and Sovereigns
+>
+> The Divine protects the ordained and anointed leaders of Mythic Europe from interference by other supernatural powers. The religious and secular leaders listed below receive a Magic Resistance score as listed here, and a Soak bonus equal to Magic Resistance / 5.
+>
+> Excommunication cancels these benefits (but only if the excommunication is God's will). Those listed here also have a Penetration 0 Aura of Rightful Authority extending to Voice Range. Roughly speaking, a legatus a latere is a cleric authorized to act on behalf of the Pope, with his power. A legatus missus has the same authorization, but for a single purpose.
+>
+> For more details, see *The Church*, page 31.
+>
+> - Pope 25
+> - Cardinal or Legatus a latere 20
+> - Legatus missus 15
+> - Archbishop 10
+> - King (once crowned) 10
+> - Wives gain Magic Resistance equal to their husbands'.
+> - Magic Resistance from relics is added to the above, but does not affect Soak.
 
-The Divine protects the ordained and anointed leaders of Mythic Europe from interference by other supernatural powers. The religious and secular leaders listed below receive a Magic Resistance score as listed here, and a Soak bonus equal to Magic Resistance / 5.
-
-Excommunication cancels these benefits (but only if the excommunication is God's will). Those listed here also have a Penetration 0 Aura of Rightful Authority extending to Voice Range. Roughly speaking, a legatus a latere is a cleric authorized to act on behalf of the Pope, with his power. A legatus missus has the same authorization, but for a single purpose.
-
-For more details, see The Church, page 31.
-
-- Pope 25
-- Cardinal or Legatus a latere 20
-- Legatus missus 15
-- Archbishop 10
-- King (once crowned) 10
-- Wives gain Magic Resistance equal to their husbands'.
-- Magic Resistance from relics is added to the above, but does not affect Soak.
-
-## Sample Relic Powers
-
-The Faithful Made Whole, 4 points, Init +15, Corpus. This power cures the recipient of all disease and heals all physical wounds.
-
-Flabbergast the Impertinent, 2 points, Init +3, Mentem. This curse causes the target to fall into a deep sleep, lasting the night, and accompanied by loud snores. The sleeper will wake in the morning exhausted from his snoring, down two long-term Fatigue levels. No magic can prematurely wake the sleeper.
 
 ## The Mundane
 
-he mundane is the embodiment of all that is normal and mortal. Generally speaking, areas not occupied by another realm are considered mundane and
-
-consist of ordinary people and places. The mundane has no aura rating — in fact, it is the absence of aura, so powers used there function without hindrance.
+The mundane is the embodiment of all that is normal and mortal. Generally speaking, areas not occupied by another realm are considered mundane and consist of ordinary people and places. The mundane has no aura rating — in fact, it is the absence of aura, so powers used there function without hindrance.
 
 There is a difference between "mundane society" and mundane areas. Mundane society comprises the everyday folk of Mythic Europe, including peasants, townsfolk, and nobility. These people, not being supernatural, would seem to belong to the mundane. However, widespread belief in God, and the fact that most settlements are within the Dominion, means that most "mundanes" actually share somewhat in the Divine. Only complete outsiders who lack faith are truly to be considered part of the mundane.
 
 ## Regiones
 
-ccasionally, within very special supernatural areas, special types of auras arise. These may exist within larger domains or by themselves, and may be of any type of aura.
+Occasionally, within very special supernatural areas, special types of auras arise. These may exist within larger domains or by themselves, and may be of any type of aura.
 
 They are called regiones (singular regio, "realm", pronounced 'REH-ghee-oh' and 'rehghee-OH-nays', with a hard 'g' in both cases).
 
-Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon,
-
-imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
+Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon,imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
 
 Just as the various floors of a building occupy the same spot of ground, so do the various levels of a regio occupy the same bit of space. It is entirely possible to pass through the bottom level of a regio without realizing that there are more levels than meet the eye.
 
 Regiones have inhabitants, just like other areas of supernatural aura. These beings tend to cluster on specific levels, though they can cross level boundaries freely. The higher one travels in the regio, the stranger and more supernaturally aligned its inhabitants become.
 
-# Entering and Leaving Regiones
+### Entering and Leaving Regiones
 
 Any character crossing the boundary of a regio disappears from the normal world and enters a supernatural realm. There are three ways to enter most regiones: being led, entering voluntarily, and getting lost.
 
@@ -19089,11 +18939,9 @@ There are two ways to enter a regio voluntarily, and either or both may apply to
 
 To see into a regio level, roll:
 
-$\begin{array}{c} R_{EGIO} \; S_{IGHT} \; Roll. \\ Perception \; + \; Appropriate \; Ability \; + \; Stress \; Die \end{array}$
+**REGIO SIGHT ROLL: Perception + Appropriate Ability + Stress Die**
 
-EASE FACTOR:
-
-5 + (2 x difference between current level's aura and sought level's aura)
+**EASE FACTOR: 5 + (2 × difference between current level's aura and sought level's aura)**
 
 If you are in an aura different from the aura of the regio, add the current aura and the aura of the regio level to determine the Ease Factor. Thus, the Ease Factor to see from a level 3 Divine aura into a level 5 Magic regio is 21, the difference between these two auras is 8. The Ease Factor may be modified by large amounts on particular days or by particular activities.
 
@@ -19105,13 +18953,11 @@ Finally, if a character gets lost near a regio boundary, he may accidentally ent
 
 At least one of these methods of entry must apply to any regio, at least if it is to have any impact on the game. There are some regiones into which you must be led by a native, and others into which you cannot be led, or enter voluntarily, but rather must get lost. Natives of a regio can almost always enter and leave freely, but even then there are exceptions. The most secure location possible for a covenant is a regio which people can only enter by being led, but getting into such a regio in the first place is very difficult.
 
-## Magic In Regiones
+#### Magic In Regiones
 
-Supernatural powers or spells used in a regio level are affected just as in any other aura, determined by the Realm Interaction Table. Use the aura rating of the level occupied to modify spell
+Supernatural powers or spells used in a regio level are affected just as in any other aura, determined by the Realm Interaction Table. Use the aura rating of the level occupied to modify spell and other supernatural rolls. However, any power used within a regio of a realm different from that of the power attracts twice the normal number of botch dice.
 
-and other supernatural rolls. However, any power used within a regio of a realm different from that of the power attracts twice the normal number of botch dice.
-
-## The Origins of Regiones
+### The Origins of Regiones
 
 Regiones arise in several ways, but two appear to be the most common. First, an inhabited aura might be surrounded by an aura of a different type, and slowly compressed. Sometimes, the aura simply disappears, but if the inhabitants are strong enough the besieged aura might move up into a regio, leaving a lower level aura in contact with the new aura. One or two Hermetic covenants have entered regiones in this way. When this happens the old contents of the aura are normally found on the new regio level, while the base level contains ruined and decaying versions of any buildings.
 
@@ -19121,21 +18967,16 @@ Hermetic magi would love to be able to create regiones at will, but they have ye
 
 ## Vis Sources
 
-aw vis (see page 212) can often be found in supernatural auras. Sometimes it is found in the bodies of creatures with Might, sometimes it is found in plants,
-
-or rocks, or even in the breeze. Often, once the vis has been gathered, it does not get replaced naturally. Sometimes, however, it is possible to take a certain number of pawns of vis from a place every year. These places are known as vis sources, and they are among a covenant's most important assets.
+Raw vis (see page 212) can often be found in supernatural auras. Sometimes it is found in the bodies of creatures with Might, sometimes it is found in plants, or rocks, or even in the breeze. Often, once the vis has been gathered, it does not get replaced naturally. Sometimes, however, it is possible to take a certain number of pawns of vis from a place every year. These places are known as vis sources, and they are among a covenant's most important assets.
 
 A vis source can produce vis associated with any Art, but a single vis source normally produces a single kind of vis. Vis sources can also produce any amount of vis, although sources providing more than six pawns per year are rare. Some vis sources produce a varying number of pawns each year, but normally somewhere between one and ten.
 
-The vis produced by a vis source needs to be gathered. Sometimes this is a simple matter. The vis
+The vis produced by a vis source needs to be gathered. Sometimes this is a simple matter. The vis might be in the three golden acorns that appear on a tree, and all that is required is to pick those three acorns. Sometimes it is easy provided that you can detect vis. The vis might take the form of ordinary-looking leaves on the tree, so that you have to know which are vis to know which to pick. Finally, spells might be needed to gather the vis at all. For example, the vis might be in the breeze that blows through the branches of the tree at sunrise on the summer solstice.
 
-might be in the three golden acorns that appear on a tree, and all that is required is to pick those three acorns. Sometimes it is easy provided that you can detect vis. The vis might take the form of ordinary-looking leaves on the tree, so that you have to know which are vis to know which to pick. Finally, spells might be needed to gather the vis at all. For example, the vis might be in the breeze that blows through the branches of the tree at sunrise on the summer solstice.
-
-## Sample Vis Sources
+### Sample Vis Sources
 
 - Golden acorns on a tree (Creo, Herbam, Terram)
-- The bones of people buried in an old pagan graveyard, as long as they were buried within the last year.
-  (Perdo, Corpus, Mentem)
+- The bones of people buried in an old pagan graveyard, as long as they were buried within the last year. (Perdo, Corpus, Mentem)
 - The first ice to form on a pond in winter. (Rego, Aquam)
 - The chrysalis cases of butterflies in a magical forest. (Muto, Animal, Imaginem)
 - The echoes of a shout in a particular valley at a particular time. (Intellego, Imaginem)
@@ -19145,7 +18986,7 @@ might be in the three golden acorns that appear on a tree, and all that is requi
 - Catkins that look like kittens in moonlight. (Animal)
 - Dust that gathers over months on a cobweb in a particular location in the covenant. (Vim)
 
-## Tainted Vis
+### Tainted Vis
 
 Vis found in non-Magic auras may be tainted by its aura of origin. Faerie vis is generally safe for magi to use, although sometimes it may have strange side effects. It does not, however, tend to distort spells or have bad effects on the magi using it. More details can be found in *Realms of Power: Faerie*, pages 18–19.
 
@@ -19153,11 +18994,13 @@ Divine vis makes most magi nervous. First, gathering it often has the potential 
 
 Infernal vis is avoided by all sensible magi. It tends to twist any project to evil ends, and slowly corrupt a magus's personality as he works with it. At the very least, using Infernally tainted vis adds twice as many botch dice as usual to spellcasting, and requires a roll on the experimental results chart for an enchanted item. Magi should be very wary of discoveries made while working with Infernal vis. For information on just how bad it can get, see *Realms of Power: The Infernal*, pages 18–19.
 
+---
+
+> Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic  lingering long across the ages.
+
 # XIII. Bestiary
 
-reatures in an **Ars Magica** game serve a variety of purposes. The simplest is something to fight, but this may not be the most
-
-common. Most supernatural creatures are intelligent, and thus can be bargained with, talked to, or even come to the player characters for help. It's at least as interesting to have a dragon ask the characters to defeat a knight, as to have a knight ask the characters to defeat a dragon. It is best to think of creatures as characters in the game, rather than as obstacles to be overcome.
+Creatures in an **Ars Magica** game serve a variety of purposes. The simplest is something to fight, but this may not be the most common. Most supernatural creatures are intelligent, and thus can be bargained with, talked to, or even come to the player characters for help. It's at least as interesting to have a dragon ask the characters to defeat a knight, as to have a knight ask the characters to defeat a dragon. It is best to think of creatures as characters in the game, rather than as obstacles to be overcome.
 
 In most cases, the storyguide will want to create creatures that fit a particular role in his story, so this chapter provides a range of examples from the four realms, to help spark your inspiration. This doesn't even approach an exhaustive listing of possible creatures, and the creatures given here might well not exist in your game. Further creatures can be found in many of the supplements for **Ars Magica**, particularly the Realms of Power books and the regional sourcebooks.
 
@@ -19165,7 +19008,7 @@ Creature statistics are very similar to human statistics. The main differences a
 
 ## Creature Might
 
-upernatural creatures have one of Divine Might, Infernal Might, Magic Might, and Faerie Might, depending on the realm to which they
+Supernatural creatures have one of Divine Might, Infernal Might, Magic Might, and Faerie Might, depending on the realm to which they
 
 belong. Might Score is very important, as it provides Magic Resistance, fuels the creature's powers, and determines the Penetration of those powers. The higher the Might Score, the more powerful the creature.
 
