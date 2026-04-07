@@ -5,7 +5,9 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
 *[Completion state: Chapters 1-11: All text and formatting manually fixed and reviewed. Remaining: The rest ]*
+
 *Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
+
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) througout replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
