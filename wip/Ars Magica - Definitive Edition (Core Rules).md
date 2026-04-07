@@ -5,7 +5,8 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
 *[Completion state: Chapters 1-8: All text and formatting manually fixed and reviewed. Chapter 9: until "## Ignem Spells"; Remaining: Chapter 10+]*
-*Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); The spell "VILE WATER OF STERILITY" looks like a PeAq spell, but it's under MuAq; Creo Auram Guidelines unclear notes under Level 25 (fixed);* 
+*Identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
+*For readability in Markdown, the Uppercase headings (originally in a font suitable for that) througout replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -15549,371 +15550,244 @@ Typical sigils seen in Creo Ignem spells involve the flame being a specific colo
 
 #### LEVEL 3
 
-MOONBEAM
-
-R: Touch, D: Conc, T: Ind
-
-Causes a gentle light, bright enough to read by, to shine down from above and illuminate the area described by your encircled arms. Lasts as long as you hold your arms in a circle.
-
+##### Moonbeam
+R: Touch, D: Conc, T: Ind<br>
+Causes a gentle light, bright enough to read by, to shine down from above and illuminate the area described by your encircled arms. Lasts as long as you hold your arms in a circle.<br>
 (Base 1, +1 Touch, +1 Conc)
 
 #### LEVEL 5
 
-PALM OF FLAME
-
-R: Touch, D: Conc, T: Ind
-
-A flame leaps up in your palm, which must be upturned for the spell's duration. The flame casts light like a torch, and can ignite very flammable items. It does no damage, and does not burn the caster.
-
+##### Palm of Flame
+R: Touch, D: Conc, T: Ind<br>
+A flame leaps up in your palm, which must be upturned for the spell's duration. The flame casts light like a torch, and can ignite very flammable items. It does no damage, and does not burn the caster.<br>
 (Base 3, +1 Touch, +1 Conc)
 
 #### LEVEL 10
 
-HEAT OF THE SEARING FORGE
-
-R: Voice, D: Mom, T: Ind
-
-Heats a piece of metal so that it is too hot to touch. Something the size of a breastplate or helmet does +5 damage if in direct contact with the skin for one round. For each additional round, more damage is done, the amount dropping by two points each round (+3 damage on round two, then +1). Smaller objects do less damage. Most metal armor has leather or cloth underneath that gives the victim a +3 Soak bonus against the heat.
-
+##### Heat of the Searing Forge
+R: Voice, D: Mom, T: Ind<br>
+Heats a piece of metal so that it is too hot to touch. Something the size of a breastplate or helmet does +5 damage if in direct contact with the skin for one round. For each additional round, more damage is done, the amount dropping by two points each round (+3 damage on round two, then +1). Smaller objects do less damage. Most metal armor has leather or cloth underneath that gives the victim a +3 Soak bonus against the heat.<br>
 (Base 4, +2 Voice)
 
-#### LAMP WITHOUT FLAME
-
-R: Touch, D: Conc, T: Ind
-
-This spell creates a steady light as bright as daylight on a cloudy day. The light has no apparent source, but illuminates an area about ten paces across, centered on a point indicated by the caster. This point may be a mobile item.
-
+#### Lamp without Flame
+R: Touch, D: Conc, T: Ind<br>
+This spell creates a steady light as bright as daylight on a cloudy day. The light has no apparent source, but illuminates an area about ten paces across, centered on a point indicated by the caster. This point may be a mobile item.<br>
 (Base 4, +1 Touch, +1 Conc)
 
 #### LEVEL 15
 
-Blade of the Virulent Flame
-
-R: Touch, D: Diameter, T: Ind
-
-Forms a fire along the length of a metal blade. This flame doubles the weapon damage score for the blade (or adds +5, whichever is greater), and can start fires as well. If the spell is cast repeatedly on the same blade, the blade gets hot enough to melt after half an hour, which ends the spell. Letting the blade cool for half an hour between castings avoids this.
-
+##### Blade of the Virulent Flame
+R: Touch, D: Diameter, T: Ind<br>
+Forms a fire along the length of a metal blade. This flame doubles the weapon damage score for the blade (or adds +5, whichever is greater), and can start fires as well. If the spell is cast repeatedly on the same blade, the blade gets hot enough to melt after half an hour, which ends the spell. Letting the blade cool for half an hour between castings avoids this.<br>
 (Base 5, +1 Touch, +1 Diameter)
 
-#### FLASH OF THE SCARLET FLAMES
-
-R: Voice, D: Mom, T: Ind
-
-A brilliant red flash explodes in the air where you designate. If you target a person's face the target needs a Stamina stress roll against an Ease Factor of 9 to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. The flash is equivalent to looking straight at the sun.
-
-In Rose of Jerbiton's version of this spell, there is a faint odor of roses in the area where the flash explodes.
-
+#### Flash of the Scarlet Flames
+R: Voice, D: Mom, T: Ind<br>
+A brilliant red flash explodes in the air where you designate. If you target a person's face the target needs a Stamina stress roll against an Ease Factor of 9 to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. The flash is equivalent to looking straight at the sun. In Rose of Jerbiton's version of this spell, there is a faint odor of roses in the area where the flash explodes.<br>
 (Base 5, +2 Voice)
 
 #### LEVEL 20
 
-PILUM OF FIRE
-
-R: Voice, D: Mom, T: Ind
-
-A 2-foot, thick, spear-shaped jet of fire flies from your palms, doing +15 damage to the individual it hits.
-
+##### Pilum of Fire
+R: Voice, D: Mom, T: Ind<br>
+A 2-foot, thick, spear-shaped jet of fire flies from your palms, doing +15 damage to the individual it hits.<br>
 (Base 10, +2 Voice)
 
 #### LEVEL 25
 
-ARC OF FIERY RIBBONS
-
-R: Voice, D: Mom, T: Group
-
-A dozen multi-hued ribbons of flame leap from your hands and fly out as far as your voice carries, covering a 60-degree arc. All those in the arc take +10 damage.
-
+##### Arc of Fiery Ribbons
+R: Voice, D: Mom, T: Group<br>
+A dozen multi-hued ribbons of flame leap from your hands and fly out as far as your voice carries, covering a 60-degree arc. All those in the arc take +10 damage.<br>
 (Base 5, +2 Voice, +2 Group)
 
-COAT OF FLAME
-
-R: Voice, D: Diam, T: Ind
-
-Req: Rego
-
-The target is swathed in fire, and takes +5 damage every round while the spell is in effect. That is, the damage must be rolled against Soak twenty times during the spell. The Rego requisite ensures that the fire does not spread.
-
+##### Coat of Flame
+R: Voice, D: Diam, T: Ind<br>
+Req: Rego<br>
+The target is swathed in fire, and takes +5 damage every round while the spell is in effect. That is, the damage must be rolled against Soak twenty times during the spell. The Rego requisite ensures that the fire does not spread.<br>
 (Base 5, +2 Voice, +1 Diam, +1 Rego requisite)
 
 #### LEVEL 35
 
-BALL OF ABYSMAL FLAME
-
-R: Voice, D: Mom, T: Ind
-
-A ball of flame shoots from your hand to strike a single target, doing +30 damage.
-
-Marius of Tremere's version of the spell causes the ball to make a loud bang when it hits the target. His sigil is a gaudiness in his spells.
-
+##### Ball of Abysmal Flame
+R: Voice, D: Mom, T: Ind<br>
+A ball of flame shoots from your hand to strike a single target, doing +30 damage. Marius of Tremere's version of the spell causes the ball to make a loud bang when it hits the target. His sigil is a gaudiness in his spells.<br>
 (Base 25, +2 Voice; the ball appearing to shoot from your hand is a cosmetic effect)
 
-CIRCLE OF ENCOMPASSING FLAMES
-
-R: Voice, D: Conc, T: Ind
-
-Creates a circle of flames 6 feet high. The circle begins at a 1-pace radius, but you can make it shrink to a pillar or grow to a 3-pace radius as you concentrate if you cast with a Rego requisite. Anyone moving through the flames takes +20 damage. You cannot move the center of the circle.
-
+##### Circle of Encompassing Flames
+R: Voice, D: Conc, T: Ind<br>
+Creates a circle of flames 6 feet high. The circle begins at a 1-pace radius, but you can make it shrink to a pillar or grow to a 3-pace radius as you concentrate if you cast with a Rego requisite. Anyone moving through the flames takes +20 damage. You cannot move the center of the circle.<br>
 (Base 20, +2 Voice, +1 Conc)
 
-## Intellego Ignem Guidelines
+### Intellego Ignem Guidelines
 
 Intellego Ignem botches typically provide false information, although they may also render the caster incapable of detecting heat or flames for a time.
 
-Level 1: • Sense one property of a fire.
+| Level | Intellego Ignem Guideline |
+| ----- | ------------------------- |
+| 1 | • Sense one property of a fire<br>• Locate a fire |
+| 2 | • Sense all mundane properties of a fire<br>• Become aware of all fires within the target area<br>• See a fire<br>• Sense levels of heat |
+| 3 | • Sense all mundane properties of ash<br>• Detect the traces of fires which burned within the last lunar month |
+| 4 | • See clearly through raging fire (an Auram requisite may be necessary if smoke is present as well)<br>• Learn the magical properties of a fire |
+| 10 | • See a fire and all things it illuminates (for example, see a campfire and everything within its circle of light) |
+| 20 | • Speak with a fire |
 
-• Locate a fire.
-
-Level 2: • Sense all mundane properties of a fire.
-
-• Become aware of all fires within the target area.
-
-• See a fire.
-
-• Sense levels of heat.
-
-Level 3: • Sense all mundane properties of ash.
-
-• Detect the traces of fires which burned within the last lunar month.
-
-Level 4: • See clearly through raging fire (an Auram requisite may be necessary if smoke is present as well).
-
-• Learn the magical properties of a fire.
-
-Level 10: • See a fire and all things it illuminates (for example, see a campfire and everything within its circle of light).
-
-Level 20: • Speak with a fire.
-
-## Muto Ignem Guidelines
-
-The intensity of a fire also affects the difficulty of changing it. For every five points by which the fire's damage exceeds +5, add one magnitude to the level of the spell.
-
-General: • Convert part of a fire elemental's body into another type of fire (clear to sooty flame, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter.
-
-Level 1: • Change one characteristic of a fire within the target area (for example, make a fire burn more brightly, or produce more smoke).
-
-Level 2: • Totally change a fire into another natural fire (changing any or all of its characteristics).
-
-Level 3: • Change a fire so that it is slightly unnatural (for example, make the flames colored, or make the smoke smell of roses). May require requisites.
-
-Level 4: • Change a fire so that it is completely unnatural (for example, multicolored flames that form images while the popping of the fire plays music). Often requires requisites.
-
-Level 5: • Change a fire into a natural example of another element, with an appropriate requisite.
-
-Level 10: • Change a fire into an unnatural example of another element, with an appropriate requisite.
-
-## Intellego Ignem Spells
+### Intellego Ignem Spells
 
 #### LEVEL 5
 
-TALES OF THE ASHES
-
-R: Touch, D: Conc T: Ind
-
-Lets you see what the ashes you touch originally were, and how and when the object was burned. The latter two are divined from markings and signs in the ashes.
-
+##### Tales of the Ashes
+R: Touch, D: Conc T: Ind<br>
+Lets you see what the ashes you touch originally were, and how and when the object was burned. The latter two are divined from markings and signs in the ashes.<br>
 (Base 3, +1 Touch, +1 Conc)
 
 #### LEVEL 15
 
-SHADOWS OF THE FIRES PAST
-
-R: Per, D: Mom, T: Vision
-
-Allows you to see where fires have been in the past lunar month. A light red flickering haze appears where the fire was, and you gain an intuitive sense of when the fire was there. This spell does not look into the past, but detects the traces of fire.
-
+##### Shadows of the Fires past
+R: Per, D: Mom, T: Vision<br>
+Allows you to see where fires have been in the past lunar month. A light red flickering haze appears where the fire was, and you gain an intuitive sense of when the fire was there. This spell does not look into the past, but detects the traces of fire.<br>
 (Base 3, +4 Vision)
 
 #### LEVEL 20
 
-VISION OF HEAT'S LIGHT
-
-R: Per, D: Sun, T: Vision
-
-Allows you to see the heat of objects that are of human body temperature or hotter. Excellent for use in the dark, but it doesn't give true vision. You can see well enough to use a weapon, even a missile weapon, without penalty, but recognizing people is very difficult.
-
+##### Vision of Heat's Light
+R: Per, D: Sun, T: Vision<br>
+Allows you to see the heat of objects that are of human body temperature or hotter. Excellent for use in the dark, but it doesn't give true vision. You can see well enough to use a weapon, even a missile weapon, without penalty, but recognizing people is very difficult.<br>
 (Base 2, +2 Sun, +4 Vision)
 
 #### LEVEL 35
 
-EYES OF THE FLAME
-
-R: Arc, D: Conc, T: Ind
-
-Lets you see a fire to which you have an Arcane Connection. You can also see all those things which the fire illuminates.
-
+##### Eyes of the Flame
+R: Arc, D: Conc, T: Ind<br>
+Lets you see a fire to which you have an Arcane Connection. You can also see all those things which the fire illuminates.<br>
 (Base 10, +4 Arc, +1 Conc)
 
-WORDS OF THE FLICKERING FLAME
-
-R: Voice, D: Conc, T: Ind
-
-Allows you to converse with a fire, commonly very chaotic and distractible. Promising a fire more fuel might keep its interest. Fires are mostly aware of what they've burned, but they have a limited awareness of what goes on around them as well.
-
+##### Words of the Flickering Flame
+R: Voice, D: Conc, T: Ind<br>
+Allows you to converse with a fire, commonly very chaotic and distractible. Promising a fire more fuel might keep its interest. Fires are mostly aware of what they've burned, but they have a limited awareness of what goes on around them as well.<br>
 (Base 20, +2 Voice, +1 Conc)
 
-## Muto Ignem Spells
+### Muto Ignem Guidelines
+
+The intensity of a fire also affects the difficulty of changing it. For every five points by which the fire's damage exceeds +5, add one magnitude to the level of the spell.
+
+| Level | Muto Ignem Guideline |
+| ----- | -------------------- |
+| General | • Convert part of a fire elemental's body into another type of fire (clear to sooty flame, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter |
+| 1 | • Change one characteristic of a fire within the target area (for example, make a fire burn more brightly, or produce more smoke) |
+| 2 | • Totally change a fire into another natural fire (changing any or all of its characteristics) |
+| 3 | • Change a fire so that it is slightly unnatural (for example, make the flames colored, or make the smoke smell of roses); may require requisites |
+| 4 | • Change a fire so that it is completely unnatural (for example, multicolored flames that form images while the popping of the fire plays music); often requires requisites |
+| 5 | • Change a fire into a natural example of another element, with an appropriate requisite |
+| 10 | • Change a fire into an unnatural example of another element, with an appropriate requisite |
+
+### Muto Ignem Spells
 
 #### LEVEL 5
 
-THE MANY-HUED CONFLAGRATION
-
-R: Voice, D: Mom, T: Ind
-
-Makes a fire burn brightly in shifting colors for an instant. Each being looking at the fire must make a Stamina stress roll against an Ease Factor of 6 or be blinded for one round by the multicolored lights.
-
+##### The Many-hued Conflagration
+R: Voice, D: Mom, T: Ind<br>
+Makes a fire burn brightly in shifting colors for an instant. Each being looking at the fire must make a Stamina stress roll against an Ease Factor of 6 or be blinded for one round by the multicolored lights.<br>
 (Base 3, +2 Voice)
 
 #### LEVEL 10
 
-Show of the Flames and Smoke
-
-R: Voice, D: Conc, T: Ind
-
-Causes smoke of different colors, streams of flame, and strange popping and sizzling noises to come from a fire. The effect is so spectacular that onlookers are either entranced or horrified, depending on the circumstances. The pyrotechnics might ignite nearby flammable objects and cause minor burns to those within 2 paces of the fire.
-
+##### Show of the Flames and Smoke
+R: Voice, D: Conc, T: Ind<br>
+Causes smoke of different colors, streams of flame, and strange popping and sizzling noises to come from a fire. The effect is so spectacular that onlookers are either entranced or horrified, depending on the circumstances. The pyrotechnics might ignite nearby flammable objects and cause minor burns to those within 2 paces of the fire.<br>
 (Base 3, +2 Voice, +1 Conc)
 
-HORNET FIRE
-
-R: Voice, D: Conc, T: Ind
-
-Req: Rego
-
-Turns a fire into a swarm of fireballs, each the size of a large insect, that fly and harass at your command. Their burning touch gives one person within range both a –3 penalty on all rolls and two extra botch dice, but they do not cause actual damage.
-
+##### Hornet Fire
+R: Voice, D: Conc, T: Ind<br>
+Req: Rego<br>
+Turns a fire into a swarm of fireballs, each the size of a large insect, that fly and harass at your command. Their burning touch gives one person within range both a –3 penalty on all rolls and two extra botch dice, but they do not cause actual damage.<br>
 (Base 2, +2 Voice, +1 Conc, +1 Rego requisite)
 
 #### LEVEL 20
 
-PRISON OF FLAMES
-
-R: Voice, D: Sun, T: Ind
-
-Turns a bonfire into a prison shaped like a miniature castle. A person thrown into the middle is not burned, but takes +15 damage if he or she tries to escape.
-
+##### Prison of Flames
+R: Voice, D: Sun, T: Ind<br>
+Turns a bonfire into a prison shaped like a miniature castle. A person thrown into the middle is not burned, but takes +15 damage if he or she tries to escape.<br>
 (Base 3, +2 Voice, +2 Sun, +1 Size)
 
 #### LEVEL 25
 
-TRAPPING THE FIRE
-
-R: Voice, D: Sun, T: Ind
-
-Req: Terram
-
-This spell turns the heat and flames of a large campfire into a small, very hard object, such as a gem or a piece of metal. If the object is broken, the flame returns, but dies if there is nothing to burn.
-
+##### Trapping the Fire
+R: Voice, D: Sun, T: Ind<br>
+Req: Terram<br>
+This spell turns the heat and flames of a large campfire into a small, very hard object, such as a gem or a piece of metal. If the object is broken, the flame returns, but dies if there is nothing to burn.<br>
 (Base 5, +2 Voice, +2 Sun, requisite is free)
 
 #### LEVEL 35
 
-FLAMES OF SCULPTED ICE R: Voice, D: Sun, T: Ind
-
-Req: Aquam
-
-Turns a fire up to the size of a small house into ice. The ice forms beautiful sculptures of leaping flame, until it begins to melt. When the ice has melted halfway, the flames start again, but probably won't spread, because of wet surroundings.
-
+##### Flames of Sculpted Ice
+R: Voice, D: Sun, T: Ind<br>
+Req: Aquam<br>
+Turns a fire up to the size of a small house into ice. The ice forms beautiful sculptures of leaping flame, until it begins to melt. When the ice has melted halfway, the flames start again, but probably won't spread, because of wet surroundings.<br>
 (Base 5, +2 Voice, +2 Sun, +2 size)
 
-## Perdo Ignem Spells
-
-#### LEVEL 10
-
-GLOOM OF EVENING
-
-R: Touch, D: Diam, T: Room
-
-The level of light in the target room drops substantially, making the room gloomy, with deep shadows everywhere.
-
-(Base 2, +1 Touch, +1 Diam, +2 Room)
-
-WINTER'S ICY TOUCH
-
-R: Voice, D: Mom, T: Ind
-
-Causes the target to feel a chill and lose body heat. The target loses a Fatigue level.
-
-(Base 4, +2 Voice)
-
-#### LEVEL 20
-
-SOOTHE THE RAGING FLAMES
-
-R: Voice, D: Mom, T: Ind
-
-Eradicates the heat of a bonfire, which, however, continues to burn until the fuel already covered in flame is consumed. The flames do not spread, or harm anything
-
-beyond what they were already burning. If the fire is extinguished and relit, it will burn hot again, as it is now a different fire.
-
-(Base 10, +2 Voice)
-
-#### LEVEL 25
-
-WELL WITHOUT LIGHT
-
-R: Touch, D: Sun, T: Str
-
-Removes light from the target structure. Only spells greater than level 25 can create light within this area. When casting this spell, magi typically clench a hand into a fist, and the light flows into the fist like a living entity, until the entire area is dark.
-
-(Base 3, +1 Touch, +2 Sun, +3 Str)
-
-CONJURATION OF THE INDUBITABLE COLD
-
-R: Voice, D: Mom, T: Part
-
-Cools the air within ten paces of the target, leaving it slightly below freezing. All nonliving things are chilled thoroughly, not just on the surface. All living things (except you, if you cast with a Rego requisite) lose one Fatigue level. House fires become as small as campfires, bonfires become as small as torch fires, and campfires and smaller fires go out.
-
-(Base 4, +2 Voice, +1 Part, +2 size)
-
-#### LEVEL 30
-
-WIZARD'S ICY GRIP
-
-R: Voice, D: Mom, T: Ind
-
-Chills a single target so that it takes +20 damage. If this is enough to kill, the target is frozen solid. Armor does not add to Soak against this spell.
-
-(Base 20, +2 Voice)
-
-#### LEVEL 35
-
-WIZARD'S ECLIPSE
-
-R: Touch, D: Diam, T: Bound, Ritual
-
-The sun is eclipsed within the target area, making it as dark as night. The darkness begins very suddenly — the superstitious are likely to panic, especially if they see that there is normal daylight just beyond the boundary of the spell.
-
-(Base 2, +1 Touch, +1 Diam, +4 Bound, +3 size)
-
-## Perdo Ignem Guidelines
+### Perdo Ignem Guidelines
 
 The intensity of a fire also affects the difficulty of destroying it. For every five points by which the fire's damage exceeds +5, add one magnitude to the level of the spell.
 
 Perdo Ignem botches might create fire instead of destroying it, or freeze the caster.
 
-General:
+| Level | Perdo Ignem Guideline |
+| ----- | --------------------- |
+| General | • Destroy sufficient matter to reduce a fire elemental's Might Score by the level of the spell +2 magnitudes |
+| 2 | • Greatly reduce the amount of light in an area |
+| 3 | • Completely extinguish all light in an area<br>• Reduce the size of a fire without destroying it completely |
+| 4 | • Extinguish a fire, cooling the ashes to merely warm<br>• Chill an object<br>• Chill a person so that they lose a Fatigue level |
+| 5 | • Strongly chill an object (for example, freeze water)<br>• Chill a person so that they take +5 damage |
+| 10 | • Destroy one aspect of a fire (for example, heat or light)<br>• Chill a person so strongly that they take +10 damage |
 
-• Destroy sufficient matter to reduce a fire elemental's Might Score by the level of the spell +2 magnitudes.
+### Perdo Ignem Spells
 
-Level 2: • Greatly reduce the amount of light in an area.
+#### LEVEL 10
 
-Level 3: • Completely extinguish all light in an area.
+##### Gloom of Evening
+R: Touch, D: Diam, T: Room<br>
+The level of light in the target room drops substantially, making the room gloomy, with deep shadows everywhere.<br>
+(Base 2, +1 Touch, +1 Diam, +2 Room)
 
-• Reduce the size of a fire without destroying it completely.
+##### Winter's Icy Touch
+R: Voice, D: Mom, T: Ind<br>
+Causes the target to feel a chill and lose body heat. The target loses a Fatigue level.<br>
+(Base 4, +2 Voice)
 
-Level 4: • Extinguish a fire, cooling the ashes to merely warm.
+#### LEVEL 20
 
-ashes to merely waChill an object.
+##### Soothe the Raging Flames
+R: Voice, D: Mom, T: Ind<br>
+Eradicates the heat of a bonfire, which, however, continues to burn until the fuel already covered in flame is consumed. The flames do not spread, or harm anything beyond what they were already burning. If the fire is extinguished and relit, it will burn hot again, as it is now a different fire.<br>
+(Base 10, +2 Voice)
 
-• Chill a person so that they lose a Fatigue level.
+#### LEVEL 25
 
-Level 5: • Strongly chill an object. (For example, freeze water.)
+##### Well without Light
+R: Touch, D: Sun, T: Str<br>
+Removes light from the target structure. Only spells greater than level 25 can create light within this area. When casting this spell, magi typically clench a hand into a fist, and the light flows into the fist like a living entity, until the entire area is dark.<br>
+(Base 3, +1 Touch, +2 Sun, +3 Str)
 
-• Chill a person so that they take +5 damage.
+##### Conjuration of the Indubitable Cold
+R: Voice, D: Mom, T: Part<br>
+Cools the air within ten paces of the target, leaving it slightly below freezing. All nonliving things are chilled thoroughly, not just on the surface. All living things (except you, if you cast with a Rego requisite) lose one Fatigue level. House fires become as small as campfires, bonfires become as small as torch fires, and campfires and smaller fires go out.<br>
+(Base 4, +2 Voice, +1 Part, +2 size)
 
-Level 10: • Destroy one aspect of a fire (for example, heat or light).
+#### LEVEL 30
 
-• Chill a person so strongly that they take +10 damage.
+##### Wizard's Icy Grip
+R: Voice, D: Mom, T: Ind<br>
+Chills a single target so that it takes +20 damage. If this is enough to kill, the target is frozen solid. Armor does not add to Soak against this spell.<br>
+(Base 20, +2 Voice)
+
+#### LEVEL 35
+
+##### Wizard's Eclipse
+R: Touch, D: Diam, T: Bound, Ritual<br>
+The sun is eclipsed within the target area, making it as dark as night. The darkness begins very suddenly — the superstitious are likely to panic, especially if they see that there is normal daylight just beyond the boundary of the spell.<br>
+(Base 2, +1 Touch, +1 Diam, +4 Bound, +3 size)
+
+### Rego Ignem Guidelines
 
 The intensity of a fire also affects the difficulty of controlling it. For every five points by which the fire's damage exceeds +5, add one magnitude to the level of the spell.
 
@@ -15921,75 +15795,58 @@ Rego Ignem spells can control heat or light as well as fire.
 
 Rego Ignem botches normally result in the fire doing exactly what the caster does not want.
 
-- General: Ward against beings associated with Ignem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
-- Level 3: Control a fire in a natural fashion (for example, control its direction of spread).
-  - Move a fire quickly through space while leaving it burning naturally.
-  - Transport a fire instantly up to 5 paces. Add 1 magnitude to increase the distance to 50 paces. 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection.
-- Level 4: Control a fire in a slightly unnatural fashion (for example, stop it from burning a person).
-- Level 5: Control a disembodied spirit associated with Ignem.
-  - Completely control a fire elemental.
-- Level 10: Control a fire in a very unnatural fashion (for example, fashion into a dancing humanoid shape).
-- Level 15: Summon a disembodied spirit associated with Ignem.
-  - Ward against fire doing up to +5 damage. (Touch, Ring, Circle)
-- Level 20: Ward against fire doing up to +10 damage. (Touch, Ring, Circle)
-- Level 25: Ward against fire doing up to +15 damage. (Touch, Ring, Circle)
-- Level 30: Ward against fire doing up to +20 damage. (Touch, Ring, Circle)
-- Level 35: Ward against fire doing up to +25 damage. (Touch, Ring, Circle)
-- Level 40: Ward against fire doing up to +30 damage. (Touch, Ring, Circle)
+| Level | Rego Ignem Guideline |
+| ----- | -------------------- |
+| General | • Ward against beings associated with Ignem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 3 | • Control a fire in a natural fashion (for example, control its direction of spread)<br>• Move a fire quickly through space while leaving it burning naturally<br>• Transport a fire instantly up to 5 paces (add 1 magnitude to increase the distance to 50 paces, 2 magnitudes for 500 paces, 3 magnitudes for 1 league, 4 magnitudes for seven leagues, and 5 magnitudes to a place for which you have an Arcane Connection) |
+| 4 | • Control a fire in a slightly unnatural fashion (for example, stop it from burning a person) |
+| 5 | • Control a disembodied spirit associated with Ignem<br>• Completely control a fire elemental |
+| 10 | • Control a fire in a very unnatural fashion (for example, fashion into a dancing humanoid shape) |
+| 15 | • Summon a disembodied spirit associated with Ignem<br>• Ward against fire doing up to +5 damage (Touch, Ring, Circle) |
+| 20 | • Ward against fire doing up to +10 damage (Touch, Ring, Circle) |
+| 25 | • Ward against fire doing up to +15 damage (Touch, Ring, Circle) |
+| 30 | • Ward against fire doing up to +20 damage (Touch, Ring, Circle) |
+| 35 | • Ward against fire doing up to +25 damage (Touch, Ring, Circle) |
+| 40 | • Ward against fire doing up to +30 damage (Touch, Ring, Circle) |
 
-Rego Lgnem Spells
+### Rego Ignem Spells
 
-LEVEL 5
+#### LEVEL 5
 
-TREMULOUS VAULT OF THE TORCH'S FLAME
-
-R: Voice, D: Mom T: Ind
-
-Causes a fire to guiver a few seconds and then make a leap of up to 10 feet in any direction. A Targeting roll is required to hit a specific target. The flame stays at the spot it hits if it can burn there (see rules for fire damage on page 407). Otherwise, it simply scorches the spot and goes out (doing +5 damage).
-
+##### Tremulous Vault of the Torch's Flame
+R: Voice, D: Mom T: Ind<br>
+Causes a fire to guiver a few seconds and then make a leap of up to 10 feet in any direction. A Targeting roll is required to hit a specific target. The flame stays at the spot it hits if it can burn there (see rules for fire damage on page 407). Otherwise, it simply scorches the spot and goes out (doing +5 damage).<br>
 (Base 3, +2 Voice)
 
-LEVEL 10
+#### LEVEL 10
 
-LEAP OF THE FIRE
-
-R: Voice, D: Mom, T: Ind
-
-Causes a bonfire to make a leap of up to 10 paces in any direction, where it catches if there is fuel, or burns out if there is none. Make a Targeting roll to hit a target; the flames do +10 damage.
-
+##### Leap of the Fire
+R: Voice, D: Mom, T: Ind<br>
+Causes a bonfire to make a leap of up to 10 paces in any direction, where it catches if there is fuel, or burns out if there is none. Make a Targeting roll to hit a target; the flames do +10 damage.<br>
 (Base 3, +2 Voice, +1 size)
 
-LEVEL 20
+#### LEVEL 20
 
-LIGHT SHAFT OF THE NIGHT
-
-R: Voice, D: Conc, T: Group
-
-Collects moonbeams and starlight into a single vertical shaft of soft, silvery light that moves under your control. It illuminates an area 15 paces across with light nearly equal to sunlight (if the moon is out) or moonlight (if the moon is not out). If the sky is overcast, the spell does not work. Can only be cast under the night sky.
-
+##### Light Shaft of the Night
+R: Voice, D: Conc, T: Group<br>
+Collects moonbeams and starlight into a single vertical shaft of soft, silvery light that moves under your control. It illuminates an area 15 paces across with light nearly equal to sunlight (if the moon is out) or moonlight (if the moon is not out). If the sky is overcast, the spell does not work. Can only be cast under the night sky.<br>
 (Base 3, +2 Voice, +1 Conc, +2 Group)
 
-LEVEL 25
+#### LEVEL 25
 
-BURST OF THE SWEEPING FLAMES
+##### Burst of the Sweeping Flames
+R: Sight, D: Mom, T: Ind<br>
+This spell causes a fire to explode outwards from its source along the ground, as if a giant wind were blowing on it from above. The fire travels for no more than 10 paces, but it ferociously ignites anything in its path. The original fire is left dead, but in all probability a number of new fires will be started. The flames cause +5 to +15 damage, depending on the intensity of the original fire.<br>
+(Base 10 (4 + 2 magnitudes for the intensity of the fire), +3 Sight)
 
-R: Sight, D: Mom, T: Ind
-
-This spell causes a fire to explode outwards from its source along the ground, as if a giant wind were blowing on it from above. The fire travels for no more than 10 paces, but it ferociously ignites anything in its
-
-path. The original fire is left dead, but in all probability a number of new fires will be started. The flames cause +5 to +15 damage, depending on the intensity of the original fire.
-
-(Base 10(4 + 2 magnitudes for the)intensity of the fire), +3 Sight)
-
-WARD AGAINST HEAT AND FLAMES
-
-R: Touch, D: Sun, T: Ind
-
-Keeps heat and fire at bay, unable to approach within a couple of inches of the target. This renders the target immune to damage from flames or heat of intensity less than that of molten iron. The target gets a +15 Soak against all fire-related damage. Any fire doing less than +15 damage per round doesn't penetrate the ward. Such fires simply dim at the protected person's passing and flare back up after he or she is gone.
-
+##### Ward against Heat and Flames
+R: Touch, D: Sun, T: Ind<br>
+Keeps heat and fire at bay, unable to approach within a couple of inches of the target. This renders the target immune to damage from flames or heat of intensity less than that of molten iron. The target gets a +15 Soak against all fire-related damage. Any fire doing less than +15 damage per round doesn't penetrate the ward. Such fires simply dim at the protected person's passing and flare back up after he or she is gone.<br>
 (Base 4, +2 for up to +15 damage, +1Touch, +2 Sun)
 
-# Imaginem Spells
+---
+
+## Imaginem Spells
 
 Imaginem is the Form of sensations and illusion. By using Imaginem, you can alter what others perceive. Imaginem, however, means "image," not "illusion." Thus, one creates, transforms, perceives, destroys, and controls images, not necessarily illusions. A clairvoyance spell, therefore, is Intellego Imaginem because it detects real images. By manipulating sensations, however, you can create effective illusions. The Art of Imaginem rewards the creative magus by fooling people into actions they would otherwise shun: for instance, they might walk off a cliff, while their eyes tell them there is a bridge over the chasm. Imaginem cannot affect light, as that is part of Ignem, but it can affect the things that light allows you to see.
 
@@ -16001,58 +15858,6 @@ It is more difficult to mimic a specific object or person using an Imaginem spel
 
 A base Individual for Imaginem is the equivalent of an adult human being, whether a visual image of about that size, an auditory illusion making that much noise, or whatever.
 
-#### LEVEL 10
-
-PHANTASM OF THE TALKING HEAD
-
-R: Voice, D: Diam, T: Ind
-
-Creates an illusory face on a wall or other flat object. The visage can speak during the spell's duration. Individual wizards' sigils can produce very interesting differences in how the voice sounds, how the face looks, and so on.
-
-(Base 2, +2 Voice, +1 Diam, +1 intelligible speech)
-
-#### LEVEL 20
-
-PHANTASMAL ANIMAL
-
-R: Voice, D: Diam, T: Ind
-
-Creates an image of any animal or beast up to the size of a pony (Size +1). Under your direct mental command, it moves about (within range) and makes
-
-appropriate noises. You need to be able to concentrate, and be within range, whenever you wish to direct the illusion to move in some manner. If you move out of range or stop concentrating, the illusion just freezes in place. The image does smell like an animal, but it has absolutely no effect on the sense of touch. Of course, a magus may not use this spell to create the image of an animal he or she does not know exists.
-
-(Base 3, +2 Voice, +1 Diam, +2 move under your command)
-
-#### PHANTASMAL FIRE
-
-R: Voice, D: Sun, T: Ind
-
-Req: Ignem
-
-Makes an image of a fire (up to the size of a large campfire) that dances, illuminates, crackles, and (apparently) warms. It does not spread, burn, or protect against cold. Makes a great joke at gatherings of House Flambeau, although creating a real fire is even more popular.
-
-(Base 3, +2 Voice, +2 Sun, +1 for light from Ignem requisite)
-
-#### LEVEL 25
-
-PHANTASM OF THE HUMAN FORM
-
-R: Voice, D: Sun, T: Ind
-
-Makes an image of a clothed and equipped person that can make noise. Under your direct, unspoken command, the person can move about, speak, and behave as a human does.
-
-(Base 2, +2 Voice, +2 Sun, +2 move at your command, +1 intricacy)
-
-#### LEVEL 35
-
-Haunt of the Living Ghost
-
-R: Arc, D: Conc, T: Ind
-
-Req: Intellego
-
-With this spell, you can instantly project your own image and voice to any designated spot that you have an Arcane Connection to (though troupes may wish to limit this range to some absolute distance like 300 miles). You can see and hear through the image. The image must appear in some medium, such as a fire, mirror, or pool.
-
 ## Creo Imaginem Guidelines
 
 These spells create and restore images. It is important to note that Creo Imaginem spells only create the images of things, not the things themselves. An image of a bucket will not hold water poured into it, nor will the image of a horse be able to carry a rider. This is often the first (and most important) clue that the image is just an illusion. On the other hand, the illusion of a wall may feel solid, but will present no resistance if someone pushes a hand through it.
@@ -16063,17 +15868,60 @@ Wizard's sigils can be very obvious in Creo Imaginem spells. The illusions commo
 
 Creo Imaginem botches might create obvious illusions which are clearly linked to the caster, thus marking him as a wizard.
 
-Level 1: • Create an image that affects a single sense.
+| Level | Creo Imaginem Guideline |
+| ----- | ----------------------- |
+| 1 | • Create an image that affects a single sense |
+| 2 | • Create an image that affects two senses |
+| 3 | • Create an image that affects three senses |
+| 4 | • Create an image that affects four senses |
+| 5 | • Create an image that affects five senses |
 
-Level 2: • Create an image that affects two senses.
+### Creo Imaginem Spells
 
-Level 3: • Create an image that affects three senses.
+#### LEVEL 10
 
-Level 4: • Create an image that affects four senses.
+##### Phantasm of the Talking Head
+R: Voice, D: Diam, T: Ind<br>
+Creates an illusory face on a wall or other flat object. The visage can speak during the spell's duration. Individual wizards' sigils can produce very interesting differences in how the voice sounds, how the face looks, and so on.<br>
+(Base 2, +2 Voice, +1 Diam, +1 intelligible speech)
 
-Level 5: • Create an image that affects five senses.
+#### LEVEL 20
 
-## Intellego Imaginem Guidelines
+##### Phantasmal Animal
+R: Voice, D: Diam, T: Ind<br>
+Creates an image of any animal or beast up to the size of a pony (Size +1). Under your direct mental command, it moves about (within range) and makes appropriate noises. You need to be able to concentrate, and be within range, whenever you wish to direct the illusion to move in some manner. If you move out of range or stop concentrating, the illusion just freezes in place. The image does smell like an animal, but it has absolutely no effect on the sense of touch. Of course, a magus may not use this spell to create the image of an animal he or she does not know exists.<br>
+(Base 3, +2 Voice, +1 Diam, +2 move under your command)
+
+#### Phantasmal Fire
+R: Voice, D: Sun, T: Ind<br>
+Req: Ignem<br>
+Makes an image of a fire (up to the size of a large campfire) that dances, illuminates, crackles, and (apparently) warms. It does not spread, burn, or protect against cold. Makes a great joke at gatherings of House Flambeau, although creating a real fire is even more popular.<br>
+(Base 3, +2 Voice, +2 Sun, +1 for light from Ignem requisite)
+
+#### LEVEL 25
+
+##### Phantasm of the Human Form
+R: Voice, D: Sun, T: Ind<br>
+Makes an image of a clothed and equipped person that can make noise. Under your direct, unspoken command, the person can move about, speak, and behave as a human does.<br>
+(Base 2, +2 Voice, +2 Sun, +2 move at your command, +1 intricacy)
+
+#### LEVEL 35
+
+##### Haunt of the Living Ghost
+R: Arc, D: Conc, T: Ind<br>
+Req: Intellego<br>
+With this spell, you can instantly project your own image and voice to any designated spot that you have an Arcane Connection to (though troupes may wish to limit this range to some absolute distance like 300 miles). You can see and hear through the image. The image must appear in some medium, such as a fire, mirror, or pool. Some magi use this spell to attend inter-covenant councils without traveling the intervening distance. Because other magi can see you, this spell is not held to constitute scrying by magic. Using it through another covenant's Aegis counts as showing off, however.<br>
+(Base 2, +4 Arc, +1 Conc, +2 move at your command, +1 intricacy, +1 Intellego requisite)
+
+#### LEVEL 40
+
+##### The Shadow of Human Life
+R: Touch, D: Sun, T: Ind<br>
+Req: Mentem<br>
+The human image created (as in Phantasm of the Human Form) has limited freedom and simulated intellect. It functions as an independent human, albeit a stupid one, capable of interpreting general orders in new situations.<br>
+(Base 2, +1 Touch, +2 Sun, +1 intricacy, +6 Mentem requisite, for a very elaborate effect)
+
+### Intellego Imaginem Guidelines
 
 Generally, these spells have the least to do with illusions of all the Imaginem spells, because one detects an image without altering or controlling it. These spells improve upon your senses by bringing in images (usually sounds and sights) not normally available.
 
@@ -16081,143 +15929,58 @@ Note that seeing or hearing into another room or a hundred miles away does you n
 
 As with most Intellego magic, Intellego Imaginem botches normally give false information.
 
-General: • Discern illusions caused by spells of equal or lower level than the level of this spell (Vision target).
+| Level | Intellego Imaginem Guideline |
+| ----- | ---------------------------- |
+| General | • Discern illusions caused by spells of equal or lower level than the level of this spell (Vision target) |
+| 1 | • Use one sense at a distance<br>• Memorize or perfect your memory about an image you have encountered<br>• Be able to discern your own false images |
+| 2 | • Use two senses at a distance |
+| 3 | • Use three senses at a distance<br>• Enhance one of your senses in one way (to see clearly at a distance, to see small things, or to see in the dark, for example) |
+| 4 | • Use four senses at a distance |
+| 5 | • Use all senses at a distance |
 
-Level 1: • Use one sense at a distance. Memorize or perfect your memory about an image you have encountered.
-
-• Be able to discern your own false images.
-
-Level 2: • Use two senses at a distance.
-
-Level 3: • Use three senses at a distance. • Enhance one of your senses in one
-
-way (to see clearly at a distance, to see small things, or to see in the dark, for example).
-
-Level 4: • Use four senses at a distance. Level 5: • Use all senses at a distance.
-
-Some magi use this spell to attend inter-covenant councils without traveling the intervening distance. Because other magi can see you, this spell is not held to constitute scrying by magic. Using it through another covenant's Aegis counts as showing off, however.
-
-(Base 2, +4 Arc, +1 Conc, +2 move at your command, +1 intricacy, +1 Intellego requisite)
-
-#### LEVEL 40
-
-THE SHADOW OF HUMAN LIFE R: Touch, D: Sun, T: Ind Req: Mentem
-
-The human image created (as in Phantasm of the Human Form) has limited freedom and simulated intellect. It functions as an independent human, albeit a stupid one, capable of interpreting general orders in new situations.
-
-(Base 2, +1 Touch, +2 Sun, +1 intricacy, +6 Mentem requisite, for a very elaborate effect)
-
-## Intellego Imaginem Spells
+### Intellego Imaginem Spells
 
 #### GENERAL
 
-DISCERN THE IMAGES OF Truth and Falsehood
-
-R: Per, D: Conc, T: Vision
-
-You can tell whether an image has been created or altered through a spell, seeing both the original and false images in the case of alterations. This spell must be at least 1 magnitude higher than an illusion in order to discern it. If you botch the spell, you mistake illusions for the real thing and reality for illusion. Your discernment is not limited to visual illusions, although you can only tell that a sound is illusory if you are looking at the apparent source.
-
+##### Discern the Images of Truth and Falsehood
+R: Per, D: Conc, T: Vision<br>
+You can tell whether an image has been created or altered through a spell, seeing both the original and false images in the case of alterations. This spell must be at least 1 magnitude higher than an illusion in order to discern it. If you botch the spell, you mistake illusions for the real thing and reality for illusion. Your discernment is not limited to visual illusions, although you can only tell that a sound is illusory if you are looking at the apparent source.<br>
 (Base effect, +1 Conc)
 
 #### LEVEL 5
 
-#### PRYING EYES
-
-R: Touch, D: Conc, T: Room
-
-You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.
-
+#### Prying Eyes
+R: Touch, D: Conc, T: Room<br>
+You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.<br>
 (Base 1, +1 Touch, +1 Conc, +2 Room)
 
 #### LEVEL 15
 
-#### DISCERN OWN ILLUSIONS
-
-R: Per, D: Sun, T: Vision
-
-This spell makes your own illusions appear largely transparent to you, but still discernible.
-
+#### Discern Own Illusions
+R: Per, D: Sun, T: Vision<br>
+This spell makes your own illusions appear largely transparent to you, but still discernible.<br>
 (Base 1, +2 Sun, +4 Vision)
 
 #### LEVEL 20
 
-THE EAR FOR DISTANT VOICES
-
-R: Arc, D: Conc, T: Room
-
-You can hear what is happening in the place you designate. You must have an Arcane Connection with the place or with a person there.
-
+##### The Ear for Distant Voices
+R: Arc, D: Conc, T: Room<br>
+You can hear what is happening in the place you designate. You must have an Arcane Connection with the place or with a person there.<br>
 (Base 1, +4 Arc, +1 Conc, +2 Room)
 
 #### LEVEL 25
 
-EYES OF THE EAGLE
-
-R: Per, D: Sun, T: Vision
-
-You see distant things clearly. No matter how far away something is, you can make out details as if it were only a foot or so from you. Things do not all appear to be a foot away; you can simply make out details as well as if they were. You can still judge distance accurately; in fact, more accurately than normal, to within an inch or so at a distance of several miles, since you can see as clearly as if you were judging distance a foot away.
-
+##### Eyes of the Eagle
+R: Per, D: Sun, T: Vision<br>
+You see distant things clearly. No matter how far away something is, you can make out details as if it were only a foot or so from you. Things do not all appear to be a foot away; you can simply make out details as well as if they were. You can still judge distance accurately; in fact, more accurately than normal, to within an inch or so at a distance of several miles, since you can see as clearly as if you were judging distance a foot away.<br>
 (Base 3, +2 Sun, +4 Vision)
 
-#### SUMMONING THE DISTANT IMAGE
-
-R: Arc, D: Conc, T: Room
-
-You can see and hear what is happening in a distant place if you have some sort of Arcane Connection to either the location or a person there.
-
+#### Summoning the Distant Image
+R: Arc, D: Conc, T: Room<br>
+You can see and hear what is happening in a distant place if you have some sort of Arcane Connection to either the location or a person there.<br>
 (Base 2, +4 Arc, +1 Conc, +2 Room)
 
-## Muto Imaginem Spells
-
-#### LEVEL 5
-
-TASTE OF THE SPICES AND HERBS
-
-R: Touch, D: Sun, T: Ind
-
-A setting's worth of food or drink tastes and smells exactly as you designate.
-
-(Base 2, +1 Touch, +2 Sun)
-
-#### LEVEL 10
-
-AURA OF ENNOBLED PRESENCE
-
-R: Touch, D: Sun, T: Ind
-
-The target appears more forceful, authoritative, and believable. Numerous subtle changes in appearance bring about this change, including a slight supernatural illumination of the face, a more erect posture, and a louder and smoother voice. The character gets a +3 on rolls to influence, lead, or convince others.
-
-(Base 3, +1 Touch, +2 Sun)
-
-Notes of a Delightful Sound
-
-R: Touch, D: Sun, T: Room
-
-Causes all sounds in a room, particularly music, to be especially clear and sonorous. The notes are clearer, sharper, and more distinct
-
-(Base 1, +1 Touch, +2 Sun, +2 Room)
-
-#### LEVEL 15
-
-Disguise of the  $T_{\hbox{\scriptsize ransformed}}$  Image
-
-R: Touch, D: Sun, T: Ind
-
-Makes someone look, sound, feel, and smell different, though at least passably human.
-
-(Base 4, +1 Touch, +2 Sun)
-
-#### LEVEL 20
-
-IMAGE PHANTOM
-
-R: Touch, D: Sun, T: Ind
-
-Any one thing, including a living thing, can be made to appear as if it were something else of approximately the same shape and size. The illusion cannot be cast on things that have a shape or size improper to the final appearance. If the target moves or is moved in such a way that the illusion is inappropriate, it looks very strange indeed.
-
-(Base 5, +1 Touch, +2 Sun)
-
-## Muto Imaginem Guidelines
+### Muto Imaginem Guidelines
 
 These are useful and powerful illusion spells, altering the visual image, noises, smell, or taste of some object or being. The image remains altered without your concentration and adapts itself appropriately to the medium. The accuracy of duplication depends on your knowledge of the subject. For instance, if you want to make a voice like that of a specific person, you must be familiar with the voice that you want to mimic. Those more familiar with the face, voice, body, or other aspect being mimicked might see through an illusion by mundane means ("Duke Tybol, isn't your scar on your left cheek?").
 
@@ -16225,29 +15988,50 @@ Muto Imaginem, or indeed other Imaginem magic, cannot overcome the effects of Th
 
 Muto Imaginem botches often change the caster's appearance in dangerous or embarrassing ways.
 
-Level 1:
+| Level | Muto Imaginem Guideline |
+| ----- | ----------------------- |
+| 1 | • Change one sensation of an object (for example, make a leaf look like a coin), but not its type (i.e. not from sight to sound) |
+| 2 | • Change two sensations of an object<br>• Transform species that affect one sense into those that affect another (for example, transform audible species into visual species, so that sounds can be seen) |
+| 3 | • Change three sensations of an object |
+| 4 | • Change four sensations of an object |
+| 5 | • Change the appearance of an object completely, in all things except solidity |
 
-Change one sensation of an object (for example, make a leaf look like a coin), but not its type (i.e. not from sight to sound).
+### Muto Imaginem Spells
 
-Level 2:
+#### LEVEL 5
 
-Change two sensations of an object.
+##### Taste of the Spices and Herbs
+R: Touch, D: Sun, T: Ind<br>
+A setting's worth of food or drink tastes and smells exactly as you designate.<br>
+(Base 2, +1 Touch, +2 Sun)
 
-Transform species that affect one sense into those that affect another. (For example, transform audible species into visual species, so that sounds can be seen.)
+#### LEVEL 10
 
-Level 3:
+##### Aura of Ennobled Presence
+R: Touch, D: Sun, T: Ind<br>
+The target appears more forceful, authoritative, and believable. Numerous subtle changes in appearance bring about this change, including a slight supernatural illumination of the face, a more erect posture, and a louder and smoother voice. The character gets a +3 on rolls to influence, lead, or convince others.<br>
+(Base 3, +1 Touch, +2 Sun)
 
-• Change three sensations of an object.
+##### Notes of a Delightful Sound
+R: Touch, D: Sun, T: Room<br>
+Causes all sounds in a room, particularly music, to be especially clear and sonorous. The notes are clearer, sharper, and more distinct<br>
+(Base 1, +1 Touch, +2 Sun, +2 Room)
 
-Level 4:
+#### LEVEL 15
 
-• Change four sensations of an object.
+##### Disguise of the Transformed Image
+R: Touch, D: Sun, T: Ind<br>
+Makes someone look, sound, feel, and smell different, though at least passably human.<br>
+(Base 4, +1 Touch, +2 Sun)
 
-Level 5:
+#### LEVEL 20
 
-Change the appearance of an object completely, in all things except solidity.
+##### Image Phantom
+R: Touch, D: Sun, T: Ind<br>
+Any one thing, including a living thing, can be made to appear as if it were something else of approximately the same shape and size. The illusion cannot be cast on things that have a shape or size improper to the final appearance. If the target moves or is moved in such a way that the illusion is inappropriate, it looks very strange indeed.<br>
+(Base 5, +1 Touch, +2 Sun)
 
-## Perdo Imaginem Guidelines
+### Perdo Imaginem Guidelines
 
 In addition to destroying created images, these spells dull the sensual properties of things — making wine tasteless, sneaks silent, and magi invisible. Destroying changing images is more difficult — add one level of magnitude to spells that do so.
 
@@ -16257,199 +16041,137 @@ Note also that shadows are due to the physical body blocking the light. Destroyi
 
 Perdo Imaginem botches might make the image more intense, or destroy the wrong image.
 
-Level 2: • Destroy an object's ability to affect taste or touch.
+| Level | Perdo Imaginem Guideline |
+| ----- | ------------------------ |
+| 2 | • Destroy an object's ability to affect taste or touch |
+| 3 | • Destroy an object's ability to affect smell or hearing<br>• Destroy an object's ability to affect taste and touch |
+| 4 | • Destroy an object's ability to affect sight<br>• Destroy an object's ability to affect any three of taste, touch, smell, or hearing |
+| 5 | • Destroy an object's ability to affect any four senses |
+| 10 | • Destroy an object's ability to affect all five senses |
 
-Level 3: • Destroy an object's ability to affect smell or hearing.
-
-Destroy an object's ability to affect taste and touch.
-
-Level 4: • Destroy an object's ability to affect sight.
-
-Destroy an object's ability to affect any three of taste, touch, smell, or hearing.
-
-Level 5: • Destroy an object's ability to affect any four senses.
-
-Level 10: • Destroy an object's ability to affect all five senses.
-
-## Perdo Imaginem Spells
+### Perdo Imaginem Spells
 
 #### GENERAL
 
-DISPEL THE PHANTOM IMAGE
-
-R: Voice, D: Mom, T: Ind
-
-Destroys the image from any one Crlm spell whose level you match or exceed on a stress die + the level of your spell.
-
+##### Dispel the Phantom Image
+R: Voice, D: Mom, T: Ind<br>
+Destroys the image from any one Crlm spell whose level you match or exceed on a stress die + the level of your spell.<br>
 (Base effect)
 
 #### LEVEL 5
 
-Taste of the Dulled Tongue
-
-R: Touch, D: Sun, T: Ind
-
-Hides the taste of any substance, liquid or solid.
-
+##### Taste of the Dulled Tongue
+R: Touch, D: Sun, T: Ind<br>
+Hides the taste of any substance, liquid or solid.<br>
 (Base 2, +1 Touch, +2 Sun)
 
 #### LEVEL 10
 
-ILLUSION OF COOL FLAMES
-
-R: Voice, D: Sun, T: Ind
-
-A source of heat, such as a fire, seems to lose its heat and drop to the surrounding temperature. It still, however, has its normal beneficial and harmful effects (that is, glowing coals still cook meat or burn a person's hand, though they do not feel hot).
-
+##### Illusion of Cool Flames
+R: Voice, D: Sun, T: Ind<br>
+A source of heat, such as a fire, seems to lose its heat and drop to the surrounding temperature. It still, however, has its normal beneficial and harmful effects (that is, glowing coals still cook meat or burn a person's hand, though they do not feel hot).<br>
 (Base 2, +2 Voice, +2 Sun)
 
 #### LEVEL 15
 
-Invisibility of the Standing Wizard
-
-R: Touch, D: Sun, T: Ind
-
-The target becomes invisible, but the spell is broken if the target moves (aside from breathing and shifting slightly in place). He still casts a shadow.
-
+##### Invisibility of the Standing Wizard
+R: Touch, D: Sun, T: Ind<br>
+The target becomes invisible, but the spell is broken if the target moves (aside from breathing and shifting slightly in place). He still casts a shadow.<br>
 (Base 4, +1 Touch, +2 Sun)
 
 #### LEVEL 20
 
-VEIL OF INVISIBILITY
-
-R: Touch, D: Sun, T: Ind
-
-The target becomes completely undetectable to normal sight, regardless of what it does, but still casts a shadow.
-
+##### Veil of Invisibility
+R: Touch, D: Sun, T: Ind<br>
+The target becomes completely undetectable to normal sight, regardless of what it does, but still casts a shadow.<br>
 (Base 4, +1 Touch, +2 Sun, +1 changing image)
 
 #### LEVEL 20
 
-REMOVAL OF THE CONSPICUOUS SIGIL
-
-R: Touch, D: Sun, T: Part
-
-Grooves, runes, writings, and similar markings are obscured so that they are not visible, but the overall shape of the medium remains constant. For example, runes carved into a sword blade can be made invisible, making the sword appear normal.
-
+##### Removal of the Conspicuous Sigil
+R: Touch, D: Sun, T: Part<br>
+Grooves, runes, writings, and similar markings are obscured so that they are not visible, but the overall shape of the medium remains constant. For example, runes carved into a sword blade can be made invisible, making the sword appear normal.<br>
 (Base 4, +1 Touch, +2 Sun, +1 Part)
 
-SILENCE OF THE SMOTHERED SOUND
-
-R: Voice, D: Sun, T: Ind
-
-Makes one being or object incapable of producing sound. Magi who cannot utter their magic words suffer the normal penalties to their spellcasting rolls.
-
+##### Silence of the Smothered Sound
+R: Voice, D: Sun, T: Ind<br>
+Makes one being or object incapable of producing sound. Magi who cannot utter their magic words suffer the normal penalties to their spellcasting rolls.<br>
 (Base 3, +2 Voice, +2 Sun, +1 changing image)
 
 #### LEVEL 25
 
-CHAMBER OF INVISIBILITY
-
-R: Touch, D: Sun, T: Group
-
-Causes a Group of creatures to become invisible. Any affected character who moves or is touched makes everyone visible. All members of the Group still cast shadows.
-
+##### Chamber of Invisibility
+R: Touch, D: Sun, T: Group<br>
+Causes a Group of creatures to become invisible. Any affected character who moves or is touched makes everyone visible. All members of the Group still cast shadows.<br>
 (Base 4, +1 Touch, +2 Sun, +2 Group)
 
-## Rego Imaginem Spells
-
-#### GENERAL
-
-RESTORE THE MOVED IMAGE
-
-R: Voice, D: Mom, T: Ind
-
-Cancels a Relm spell that moves an image, putting the image back where it belongs, as long as you can match the spell's level on a stress die + the level of your spell. This spell targets the image.
-
-#### LEVEL 10
-
-(Base effect)
-
-Illusion of the Shifted Image
-
-R: Voice, D: Sun, T: Ind
-
-Makes any person or object appear to be a pace away from its actual position. The image cannot be placed in a solid object. As soon as the original or image moves, the spell ends.
-
-(Base 2, +2 Voice, +2 Sun)
-
-#### WIZARD'S SIDESTEP
-
-R: Per, D: Sun, T: Ind
-
-Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot.
-
-In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.
-
-(Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)
-
-#### LEVEL 30
-
-THE CAPTIVE VOICE
-
-R: Voice, D: Sun, T: Part
-
-Captures a person's voice and places it in a bag. The person may not speak unless the bag is open, in which case the voice comes from the bag, not the victim's mouth. If the victim screams while the bag is shut, the bag vibrates visibly.
-
-(Base 4, +2 Voice, +2 Sun, +1 Part, +1 changing image)
-
-Confusion of the Insane Vibrations
-
-R: Touch, D: Conc, T: Vision
-
-The target of the spell sees everything vibrate back and forth at varying high speeds. In addition, sounds are displaced and seem to come from the wrong areas. Anyone trying to fight in these circumstances suffers –3 on Attack and Defense scores, and must roll two extra botch dice. The target is likely to become desperate and terribly confused. Navigation is exceedingly difficult. The visual effects of this spell are negated if the target is in complete darkness or if they close their eyes.
-
-(Base 3, +1 Touch, +1 Conc, +4 Vision, +1 additional senses)
-
-#### LEVEL 35
-
-IMAGE FROM THE WIZARD TORN
-
-R: Per, D: Conc, T: Ind
-
-Req: Intellego
-
-Your image separates from your body. It can speak whatever you say and do so in your voice, and you can see through its eyes. You must make an Int + Concentration stress roll for each solid object the image passes through and for each mile it travels. If you wish the image to be able to leave your sight, you must use an Arcane Connection to yourself (for example, a fingernail or a lock of hair) when you cast the spell. That connection becomes an integral part of the image, and when the spell ends, it falls to the ground wherever the image was located.
-
-As your image is away from your body, you are invisible and silent at your actual location. The image is your image, so while you may move it in space you may not have it sit down if you are standing. Further, it appears as if illuminated by whatever light is falling on you, no matter what the level of illumination is at the image.
-
-(Base 15, +1 Conc, +1 additional sense, +1 moving image, +1 Intellego requisite)
-
-#### LEVEL 50
-
-ILLUSION OF THE MISPLACED CASTLE
-
-$R{:}\ Voice,\ D{:}\ Sun,\ T{:}\ Bound,\ Ritual$
-
-Moves the image of any bounded structure or set of structures the size of a castle or less up to one mile from its actual position.
-
-(Base 10, +2 Voice, +2 Sun, +4 Bound)
-
-## Rego Imaginem Guidelines
+### Rego Imaginem Guidelines
 
 These spells make things appear to be somewhere other than where they actually are. As with Crlm and Pelm, it is slightly harder to affect changing images. Add one level of magnitude to spells that do so. Add a further level of magnitude if the image is to change along with the object. Add one level of magnitude to the guidelines for each additional sense to be affected.
 
 Rego Imaginem botches might control the wrong image, or do something completely inappropriate to the targeted image.
 
-- General: Ward against beings associated with Imaginem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell.
+| Level | Rego Imaginem Guideline |
+| ----- | ----------------------- |
+| General | • Ward against beings associated with Imaginem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 2 | • Make an object appear (to one sense) to be up to one pace away from its actual position |
+| 3 | • Make an object appear (to one sense) to be up to five paces away from its actual position<br>• Make objects appear to move rapidly in a disorientating way |
+| 4 | • Make an object appear (to one sense) to be up to fifteen paces from its actual position<br>• Make an object appear (to one sense) to be contained in or attached to another object defined at the time of casting (for example, make someone's voice appear to come from within a bag) |
+| 5 | • Make an object appear (to one sense) to be up to one hundred paces from its actual position<br>• Control a disembodied spirit associated with Imaginem |
+| 10 | • Make an object appear (to one sense) to be in Sight of its actual position |
+| 15 | • Make an object appear (to one sense) to be in a location that the caster has an Arcane Connection to<br>• Summon a disembodied spirit associated with Imaginem |
 
-  (Touch, Ring, Circle)
-- Level 2: Make an object appear (to one sense) to be up to one pace away from its actual position.
-- Level 3: Make an object appear (to one sense) to be up to five paces away from its actual position.
+### Rego Imaginem Spells
 
-  - Make objects appear to move rapidly in a disorientating way.
-- Level 4: Make an object appear (to one sense) to be up to fifteen paces from its actual position.
+#### GENERAL
 
-  - Make an object appear (to one sense) to be contained in or attached to another object defined at the time of casting (for example, make someone's voice appear to come from within a bag).
-- Level 5: Make an object appear (to one sense) to be up to one hundred paces from its actual position.
+##### Restore the Moved Image
+R: Voice, D: Mom, T: Ind<br>
+Cancels a Relm spell that moves an image, putting the image back where it belongs, as long as you can match the spell's level on a stress die + the level of your spell. This spell targets the image.<br>
+(Base effect)
 
-  - Control a disembodied spirit associated with Imaginem.
-- Level 10: Make an object appear (to one sense) to be in Sight of its actual position.
-- Level 15: Make an object appear (to one sense) to be in a location that the caster has an Arcane Connection to.
+#### LEVEL 10
 
-  - Summon a disembodied spirit associated with Imaginem.
+##### Illusion of the Shifted Image
+R: Voice, D: Sun, T: Ind<br>
+Makes any person or object appear to be a pace away from its actual position. The image cannot be placed in a solid object. As soon as the original or image moves, the spell ends.<br>
+(Base 2, +2 Voice, +2 Sun)
 
-# Mentem Spells
+#### Wizard's Sidestep
+R: Per, D: Sun, T: Ind<br>
+Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.<br>
+(Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)
+
+#### LEVEL 30
+
+##### The Captive Voice
+R: Voice, D: Sun, T: Part<br>
+Captures a person's voice and places it in a bag. The person may not speak unless the bag is open, in which case the voice comes from the bag, not the victim's mouth. If the victim screams while the bag is shut, the bag vibrates visibly.<br>
+(Base 4, +2 Voice, +2 Sun, +1 Part, +1 changing image)
+
+##### Confusion of the Insane Vibrations
+R: Touch, D: Conc, T: Vision<br>
+The target of the spell sees everything vibrate back and forth at varying high speeds. In addition, sounds are displaced and seem to come from the wrong areas. Anyone trying to fight in these circumstances suffers –3 on Attack and Defense scores, and must roll two extra botch dice. The target is likely to become desperate and terribly confused. Navigation is exceedingly difficult. The visual effects of this spell are negated if the target is in complete darkness or if they close their eyes.<br>
+(Base 3, +1 Touch, +1 Conc, +4 Vision, +1 additional senses)
+
+#### LEVEL 35
+
+##### Image from the Wizard Torn
+R: Per, D: Conc, T: Ind<br>
+Req: Intellego<br>
+Your image separates from your body. It can speak whatever you say and do so in your voice, and you can see through its eyes. You must make an Int + Concentration stress roll for each solid object the image passes through and for each mile it travels. If you wish the image to be able to leave your sight, you must use an Arcane Connection to yourself (for example, a fingernail or a lock of hair) when you cast the spell. That connection becomes an integral part of the image, and when the spell ends, it falls to the ground wherever the image was located. As your image is away from your body, you are invisible and silent at your actual location. The image is your image, so while you may move it in space you may not have it sit down if you are standing. Further, it appears as if illuminated by whatever light is falling on you, no matter what the level of illumination is at the image.<br>
+(Base 15, +1 Conc, +1 additional sense, +1 moving image, +1 Intellego requisite)
+
+#### LEVEL 50
+
+##### Illusion of the Misplaced Castle
+R: Voice, D: Sun, T: Bound, Ritual<br>
+Moves the image of any bounded structure or set of structures the size of a castle or less up to one mile from its actual position.<br>
+(Base 10, +2 Voice, +2 Sun, +4 Bound)
+
+---
+
+## Mentem Spells
 
 Mentem spells govern thoughts, emotions, and memories. Intelligent minds are affected by Mentem spells, while the minds of beasts are affected only by Animal spells and those of elementals, in so far as they have them, by the appropriate elemental Form. The mental Characteristics are Intelligence, Perception, Presence, and Communication, and they can be affected by Mentem spells.
 
@@ -16457,7 +16179,7 @@ Since the effects of Mentem spells are not usually visible, they give you a grea
 
 Minds do not have a size, so size modifiers do not apply to Mentem effects with Individual targets. However, minds can be counted, so for Groups you still need to boost the size to affect more people. Similarly, Mentem spells affecting everyone in a Room, Structure, or Boundary have size modifiers in the normal way.
 
-## Creo Mentem Guidelines
+### Creo Mentem Guidelines
 
 In addition to healing minds, these spells can also create thoughts, emotions, and memories in another person's mind. These creations interact normally with the target's other thoughts, and may be changed in the process.
 
@@ -16465,151 +16187,67 @@ Typical sigils for Creo Mentem spells involve some small quirk in what is create
 
 Creo Mentem botches might create inappropriate emotions in the caster's mind.
 
-- Level 3: Form words in another's mind.
-- Level 4: Put a thought or emotion into another's mind.
-  - Restore a memory of a brief event to a fresh state, as long as a fragment of it remains. The affected memory can be no more extensive than a short conversation (two or three rounds).
-- Level 5: Create a memory in another's mind.
-  - Restore a memory of an event to a fresh state, as long as a fragment of it remains. The affected memory can be no more extensive than about two minutes.
-- Level 10: Restore a memory of a day's events to a fresh state, as long as a fragment of it remains. Events are remembered as if they had occurred only an hour before.
-  - Spark a twinge of conscience in an intelligent being's mind, overriding the temporary obsession of a demon.
-- Level 30: Increase one of a person's mental Characteristics by one point, to no more than 0.
-- Level 35: Increase one of a person's mental Characteristics by one point, to no more than +1.
-- Level 40: Increase one of a person's mental Characteristics by one point, to no more than +2.
-- Level 45: Increase one of a person's mental Characteristics by one point, to no more than +3.
-- Level 50: Increase one of a person's mental Characteristics by one point, to no more than +4.
-- Level 55: Increase one of a person's mental Characteristics by one point, to no more than +5.
+| Level | Creo Mentem Guideline |
+| ----- | --------------------- |
+| 3 | • Form words in another's mind |
+| 4 | • Put a thought or emotion into another's mind<br>• Restore a memory of a brief event to a fresh state, as long as a fragment of it remains (the affected memory can be no more extensive than a short conversation of two or three rounds) |
+| 5 | • Create a memory in another's mind<br>• Restore a memory of an event to a fresh state, as long as a fragment of it remains (the affected memory can be no more extensive than about two minutes) |
+| 10 | • Restore a memory of a day's events to a fresh state, as long as a fragment of it remains (events are remembered as if they had occurred only an hour before)<br>• Spark a twinge of conscience in an intelligent being's mind, overriding the temporary obsession of a demon |
+| 30 | • Increase one of a person's mental Characteristics by one point, to no more than 0 |
+| 35 | • Increase one of a person's mental Characteristics by one point, to no more than +1 |
+| 40 | • Increase one of a person's mental Characteristics by one point, to no more than +2 |
+| 45 | • Increase one of a person's mental Characteristics by one point, to no more than +3 |
+| 50 | • Increase one of a person's mental Characteristics by one point, to no more than +4 |
+| 55 | • Increase one of a person's mental Characteristics by one point, to no more than +5 |
 
 ## Creo Mentem Spells
 
-LEVEL 10
+#### LEVEL 10
 
-WORDS OF THE UNBROKEN SILENCE
-
-R: Sight, D: Mom, T: Ind
-
-Lets you say two words directly to the mind of a target. The target can recognize your voice and knows that the message is of supernatural origin.
-
+##### Words of the Unbroken Silence
+R: Sight, D: Mom, T: Ind<br>
+Lets you say two words directly to the mind of a target. The target can recognize your voice and knows that the message is of supernatural origin.<br>
 (Base 3, +3 Sight)
 
-LEVEL 15
+#### LEVEL 15
 
-PANIC OF THE TREMBLING HEART
-
-R: Eye, D: Sun, T: Ind
-
-Creates an overpowering fear in one person of a specific object, person, or place.
-
+##### Panic of the Trembling Heart
+R: Eye, D: Sun, T: Ind<br>
+Creates an overpowering fear in one person of a specific object, person, or place.<br>
 (Base 4, +1 Eye, +2 Sun)
 
-RISING IRE
-
-R: Eye, D: Sun, T: Ind
-
-Makes the target furious at someone or something of your choice. A stress roll against an Ease Factor of 9 using an appropriate Personality Trait (like Calm) can hold the anger in check, but it is felt strongly regardless of the roll.
-
+##### Rising Ire
+R: Eye, D: Sun, T: Ind<br>
+Makes the target furious at someone or something of your choice. A stress roll against an Ease Factor of 9 using an appropriate Personality Trait (like Calm) can hold the anger in check, but it is felt strongly regardless of the roll.<br>
 (Base 4, +1 Eye, +2 Sun)
 
 #### LEVEL 20
 
-MEMORY OF THE DISTANT DREAM
-
-R: Eye, D: Sun, T: Ind
-
-Inserts a full and complete memory into a person's mind. If the target gives the memory some thought and concentration, and makes an Intelligence roll against an Ease Factor of 9, the memory is revealed as false. When the duration expires, the memory vanishes, although the subject may remember remembering it.
-
+##### Memory of the Distant Dream
+R: Eye, D: Sun, T: Ind<br>
+Inserts a full and complete memory into a person's mind. If the target gives the memory some thought and concentration, and makes an Intelligence roll against an Ease Factor of 9, the memory is revealed as false. When the duration expires, the memory vanishes, although the subject may remember remembering it.<br>
 (Base 5, +1 Eye, +2 Sun)
 
-Pains of the Perpetual Worry
-
-R: Eye, D: Moon, T: Ind
-
-Gives someone a nagging, taunting, painful emotion — a recurrent sense of anxiety, a fear of something he or she does not know, a fear of everything, and a fear of nothing. To have this spell cast on you is truly a curse.
-
+##### Pains of the Perpetual Worry
+R: Eye, D: Moon, T: Ind<br>
+Gives someone a nagging, taunting, painful emotion — a recurrent sense of anxiety, a fear of something he or she does not know, a fear of everything, and a fear of nothing. To have this spell cast on you is truly a curse.<br>
 (Base 4, +1 Eye, +3 Moon)
 
-LEVEL 25
+#### LEVEL 25
 
-WEIGHT OF A THOUSAND HELLS
-
-R: Eye, D: Moon, T: Ind
-
-Causes the victim to feel the despair, anguish, pain, and sorrow of a thousand sinners in Hell. This is a horrible spell, for the victim loses almost all motivation and earthly cares. All he can feel is his own pain – endless, inexorable, and searing. Appropriate Personality Trait rolls suffer a harmful adjustment of –5, and the target suffers –2 on any rolls that require thought or concentration. The target has a strong tendency to do nothing but brood.
-
+##### Weight of a Thousand Hells
+R: Eye, D: Moon, T: Ind<br>
+Causes the victim to feel the despair, anguish, pain, and sorrow of a thousand sinners in Hell. This is a horrible spell, for the victim loses almost all motivation and earthly cares. All he can feel is his own pain – endless, inexorable, and searing. Appropriate Personality Trait rolls suffer a harmful adjustment of –5, and the target suffers –2 on any rolls that require thought or concentration. The target has a strong tendency to do nothing but brood.<br>
 (Base 4, +1 Eye, +3 Moon, +1 complex effect)
 
 #### LEVEL 35
 
-#### GIFT OF REASON
-
-R: Touch, D: Mom, T: Ind, Ritual Permanently increases the target's Intelligence by 1 point, to no higher than 0.
-
+##### Gift of Reason
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Permanently increases the target's Intelligence by 1 point, to no higher than 0.<br>
 (Base 30, +1 Touch)
 
-## Intellego Mentem Spells
-
-#### LEVEL 10
-
-SIGHT OF THE TRANSPARENT MOTIVE
-
-R: Eye, D: Mom, T: Ind
-
-Detects the general motive most powerfully influencing the target at the moment. General motives are such things as fear, anger, and greed, not specific things like the desire to look good before one's superiors.
-
-(Base 5, +1 Eye)
-
-#### LEVEL 15
-
-Perception of the Conflicting Motives
-
-R: Eve, D: Mom, T: Ind
-
-You can detect the conflicting motives behind one target's actions. Thus you might learn that a guard feels conflict between fear and duty. This spell is often used before application of a Muto or Rego spell, since it is usually easier to change a target's emotions after you've sensed them than it is to create emotions.
-
-(Base 10, +1 Eve)
-
-#### LEVEL 20
-
-Frosty Breath of the Spoken Lie
-
-R: Eye, D: Conc, T: Ind
-
-For as long as you maintain this spell, the target exhales a misty breath with each spoken lie. Small bits of ice form on the person's lips if the lie is particularly severe. In winter, when breath is visible anyway, lies produce a greater than normal amount of mist (the mist actually billows out). A target who makes a Communication + Guile stress roll against an Ease Factor of 15 can
-
-determine whether any given statement will be taken by the spell as a lie. The spell can be defeated through extensive and judicious application of Creo Auram and Perdo Auram spells, and a demon is able to manipulate it in any way it wishes, as demons are the embodiment of deception and are never caught in a lie if they do not wish to be.
-
-House Guernicus brought the Order this spell, and it is a very poor Quaesitor who is without it.
-
-(Base 10, +1 Eye, +1 Conc, mist is a purely cosmetic effect and thus is free)
-
-#### Posing the Silent Question
-
-R: Eye, D: Mom, T: Ind
-
-You can ask one silent mental question of the target, then detect the answer. The truth of the answer is limited by the knowledge of the target. Questions to the effect of "What would you do if ...?" often receive inaccurate replies. You are likely to get what the target thinks he would do, not necessarily what he would really do. The target of this spell does not notice the questioning unless he or she resists the spell, in which case they notice the attempt.
-
-(Base 15, +1 Eye)
-
-#### LEVEL 25
-
-THOUGHTS WITHIN BABBLE
-
-R: Per, D: Conc, T: Hearing
-
-You can understand the speech of those within the target area. Perception or Communication stress rolls are needed for difficult exchanges. You also understand people who misuse a language that you do speak; you know what they meant to say, as well as hearing what they actually said.
-
-(Base 5, +1 Conc, +3 Hearing)
-
-#### LEVEL 30
-
-PEERING INTO THE MORTAL MIND
-
-R: Eye, D: Mom, T: Ind
-
-You can thoroughly probe and understand the contents of the mind of the target, including his or her immediate and long-term motives, personal strengths and weaknesses, and other pertinent information.
-
-(Base 25, +1 Eye)
-
-## Intellego Mentem Guidelines
+### Intellego Mentem Guidelines
 
 These spells are superb for cutting through the confusion of social interaction and the endless banter of the rabble. The lnAn spells that deal with the mind may also be used for ideas and guidelines for this section.
 
@@ -16621,27 +16259,58 @@ Sigils for InMe spells usually involve information being transmitted in unique w
 
 Intellego Mentem botches normally supply false information.
 
-Level 4: • Sense the state of consciousness of one intelligent being (for example, asleep, awake, meditating, dead, drugged, insane, or comatose).
+| Level | Intellego Mentem Guideline |
+| ----- | -------------------------- |
+| 4 | • Sense the state of consciousness of one intelligent being (for example, asleep, awake, meditating, dead, drugged, insane, or comatose) |
+| 5 | • Sense a single emotion in a being<br>• Understand the meaning behind spoken sounds |
+| 10 | • Sense all of the emotions in a being<br>• Discover the truth of a statement |
+| 15 | • Speak with any one human<br>• Read a person's surface thoughts<br>• Pick a single answer from the mind of a target |
+| 20 | • Read the last day's memories from one person |
+| 25 | • Learn all the information you wish from a person's mind |
 
-Level 5: • Sense a single emotion in a being.
+### Intellego Mentem Spells
 
-Understand the meaning behind spoken sounds.
+#### LEVEL 10
 
-Level 10: • Sense all of the emotions in a being.
+##### Sight of the Transparent Motive
+R: Eye, D: Mom, T: Ind<br>
+Detects the general motive most powerfully influencing the target at the moment. General motives are such things as fear, anger, and greed, not specific things like the desire to look good before one's superiors.<br>
+(Base 5, +1 Eye)
 
-• Discover the truth of a statement.
+#### LEVEL 15
 
-Level 15: • Speak with any one human.
+##### Perception of the Conflicting Motives
+R: Eve, D: Mom, T: Ind<br>
+You can detect the conflicting motives behind one target's actions. Thus you might learn that a guard feels conflict between fear and duty. This spell is often used before application of a Muto or Rego spell, since it is usually easier to change a target's emotions after you've sensed them than it is to create emotions.<br>
+(Base 10, +1 Eve)
 
-• Read a person's surface thoughts.
+#### LEVEL 20
 
-• Pick a single answer from the mind of a target.
+##### Frosty Breath of the Spoken Lie
+R: Eye, D: Conc, T: Ind<br>
+For as long as you maintain this spell, the target exhales a misty breath with each spoken lie. Small bits of ice form on the person's lips if the lie is particularly severe. In winter, when breath is visible anyway, lies produce a greater than normal amount of mist (the mist actually billows out). A target who makes a Communication + Guile stress roll against an Ease Factor of 15 can determine whether any given statement will be taken by the spell as a lie. The spell can be defeated through extensive and judicious application of Creo Auram and Perdo Auram spells, and a demon is able to manipulate it in any way it wishes, as demons are the embodiment of deception and are never caught in a lie if they do not wish to be. House Guernicus brought the Order this spell, and it is a very poor Quaesitor who is without it.<br>
+(Base 10, +1 Eye, +1 Conc, mist is a purely cosmetic effect and thus is free)
 
-Level 20: • Read the last day's memories from one person.
+##### Posing the Silent Question
+R: Eye, D: Mom, T: Ind<br>
+You can ask one silent mental question of the target, then detect the answer. The truth of the answer is limited by the knowledge of the target. Questions to the effect of "What would you do if ...?" often receive inaccurate replies. You are likely to get what the target thinks he would do, not necessarily what he would really do. The target of this spell does not notice the questioning unless he or she resists the spell, in which case they notice the attempt.<br>
+(Base 15, +1 Eye)
 
-Level 25: • Learn all the information you wish from a person's mind.
+#### LEVEL 25
 
-## Muto Mentem Guidelines
+##### Thoughts within Babble
+R: Per, D: Conc, T: Hearing<br>
+You can understand the speech of those within the target area. Perception or Communication stress rolls are needed for difficult exchanges. You also understand people who misuse a language that you do speak; you know what they meant to say, as well as hearing what they actually said.<br>
+(Base 5, +1 Conc, +3 Hearing)
+
+#### LEVEL 30
+
+##### Peering into the Mortal Mind
+R: Eye, D: Mom, T: Ind<br>
+You can thoroughly probe and understand the contents of the mind of the target, including his or her immediate and long-term motives, personal strengths and weaknesses, and other pertinent information.<br>
+(Base 25, +1 Eye)
+
+### Muto Mentem Guidelines
 
 Muto Mentem spells give a mind properties it could not naturally acquire. These fall into three main categories.
 
@@ -16655,400 +16324,239 @@ Muto Mentem botches might change the mind of the caster, thus making this magic 
 
 While Intellego spells can grant magical senses to a single person, granting a magical sense to multiple people is a function of Muto Mentem. The base level is one magnitude higher than the level of an Intellego spell to grant that sense at a Range of Personal and Duration of Momentary, and the Muto Mentem spell has requisites of Intellego and the appropriate Form or Forms. As for all base levels, this is for a spell with Range Personal, Duration Momentary, and Target Individual.
 
-- Level 1: Make a minor change in a person's memory of an event.
-- Level 2: Make a major change to a person's memory of an event.
-- Level 3: Make a major change to a person's memory of a series of events. Make a major change to a person's emotion.
-- Level 4: Make major changes to a person's memory of a period of their life. Completely change a person's emotions.
-- Level 5: Turn a single memory or emotion into a solid object. (Requisite of the Form of the shape.) The person whose memory or emotion was transformed must be touching the item to feel the emotion or recall the memory. Other people touching the object do not experience its mental aspects.
-- Level 10: Completely rewrite a person's memories.
-- Level 15: Make a mind or spirit visible. (Imaginem requisite)
-  - Utterly change a person's mind.
-- Level 25: Make a mind or spirit solid. (Requisite of the Form of the shape.)
+| Level | Muto Mentem Guideline |
+| ----- | --------------------- |
+| 1 | • Make a minor change in a person's memory of an event |
+| 2 | • Make a major change to a person's memory of an event |
+| 3 | • Make a major change to a person's memory of a series of events<br>• Make a major change to a person's emotion |
+| 4 | • Make major changes to a person's memory of a period of their life<br>• Completely change a person's emotions |
+| 5 | • Turn a single memory or emotion into a solid object (requisite of the Form of the shape; the person whose memory or emotion was transformed must be touching the item to feel the emotion or recall the memory; other people touching the object do not experience its mental aspects) |
+| 10 | • Completely rewrite a person's memories |
+| 15 | • Make a mind or spirit visible (Imaginem requisite)<br>• Utterly change a person's mind |
+| 25 | • Make a mind or spirit solid (requisite of the Form of the shape) |
 
-## Muto Mentem Spells
+### Muto Mentem Spells
 
-LEVEL 4
+#### LEVEL 4
 
-RECOLLECTION OF MEMORIES
-NEVER QUITE LIVED
-
-R: Eye, D: Sun, T: Ind
-
-Changes the target's memory of a detail into a similar, though different, memory. The target is no more sure of this manufactured memory than of the authentic one, so he may discover strange fabrications to be false.
-
+##### Recollection of Memories Never Quite Lived
+R: Eye, D: Sun, T: Ind<br>
+Changes the target's memory of a detail into a similar, though different, memory. The target is no more sure of this manufactured memory than of the authentic one, so he may discover strange fabrications to be false.<br>
 (Base 1, +1 Eye, +2 Sun)
 
-LEVEL 30
+#### LEVEL 30
 
-MIND OF THE BEAST
-
-R: Eye, D: Sun, T: Ind
-
-Req: Animal
-
-You turn the mind of the target into that of an animal of your choice. The victim acts and thinks like that animal as much as possible; a person who thinks he is a bird will try to fly, but will not be able to. This can be dangerous for the target.
-
+##### Mind of the Beast
+R: Eye, D: Sun, T: Ind<br>
+Req: Animal<br>
+You turn the mind of the target into that of an animal of your choice. The victim acts and thinks like that animal as much as possible; a person who thinks he is a bird will try to fly, but will not be able to. This can be dangerous for the target.<br>
 (Base 15, +1 Eye, +2 Sun)
 
-LEVEL 35
+#### LEVEL 35
 
-PAST OF ANOTHER
-
-R: Eye, D: Year, T: Ind, Ritual
-
-The target's memories are completely rewritten, and he is unable to remember his actual life until the effect is dispelled or expires.
-
+##### Past of Another
+R: Eye, D: Year, T: Ind, Ritual<br>
+The target's memories are completely rewritten, and he is unable to remember his actual life until the effect is dispelled or expires.<br>
 (Base 10, +1 Eye, +4 Year)
 
-LEVEL 40
+#### LEVEL 40
 
-INMOST COMPANION
-
-R: Eye, D: Sun, T: Ind
-
-Req: Animal
-
-The target's mind is made physical as a bird. This bird normally stays close to the target's body, but need not. If the target has Magic Resistance, it protects both his body and mind, as normal. No matter how far it travels, the target's mind controls his body, as well as
-
-the bird's, as normal. In particular, it can see through both sets of sense organs. If the bird is killed, the target also dies, as his mind has been killed.
-
+##### Inmost Companion
+R: Eye, D: Sun, T: Ind<br>
+Req: Animal<br>
+The target's mind is made physical as a bird. This bird normally stays close to the target's body, but need not. If the target has Magic Resistance, it protects both his body and mind, as normal. No matter how far it travels, the target's mind controls his body, as well as the bird's, as normal. In particular, it can see through both sets of sense organs. If the bird is killed, the target also dies, as his mind has been killed.<br>
 (Base 25, +1 Eye, +2 Sun)
 
-VISION OF THE HAUNTING SPIRITS
-
-R: Touch, D: Sun, T: Room
-
-Req: Imaginem
-
-All spirits within the target area become visible, although they might remain unseen if hiding behind something. This includes the spirits of living people, which appear as the person normally does. If the person is invisible or otherwise changed from his normal shape, his normal appearance is superimposed on his current appearance.
-
+##### Vision of the Haunting Spirits
+R: Touch, D: Sun, T: Room<br>
+Req: Imaginem<br>
+All spirits within the target area become visible, although they might remain unseen if hiding behind something. This includes the spirits of living people, which appear as the person normally does. If the person is invisible or otherwise changed from his normal shape, his normal appearance is superimposed on his current appearance.<br>
 (Base 15, +1 Touch, +2 Sun, +2 Room)
 
-## Perdo Mentem Spells
+### Perdo Mentem Guidelines
 
-**GENERAL**
+Emotions naturally reappear in a person, so spells that destroy them must have a continuing duration to ensure that they do not come back. Memories do not naturally return, so Momentary Duration spells remove them forever, although a person could be told what he had forgotten, or reconstruct the memory from things he does remember. A continuing spell would prevent a person from relearning that information, however.
 
-LAY TO REST THE HAUNTING SPIRIT
+| Level | Perdo Mentem Guideline |
+| ----- | ---------------------- |
+| 3 | • Remove a minor detail from a person's memory |
+| 4 | • Remove an important detail from a person's memory<br>• Diminish a single mental capability in a person<br>• Reduce the intensity of all of a person's emotions |
+| 5 | • Quell an emotion in a person |
+| 10 | • Remove a minor or short memory from a person's mind<br>• Reduce all of a person's mental capabilities |
+| 15 | • Remove a major or long memory from a person's mind<br>• Remove all emotions from a person<br>• Drive a person insane |
+| 25 | • Leave a person a mindless husk |
 
-R: Voice, D: Mom, T: Ind
+### Perdo Mentem Spells
 
-If your spell Penetrates the resistance of a ghost or similar spirit, it loses a number of points from its Might equal to the level of this spell. If this reduces the spirit's Might to zero, it vanishes, apparently destroyed. Philosophers concur that the spirit goes to the afterlife, or is perhaps weakened to helplessness, but is not actually destroyed. Souls, after all, are immortal.
+#### GENERAL
 
+##### Lay to Rest the Haunting Spirit
+R: Voice, D: Mom, T: Ind<br>
+If your spell Penetrates the resistance of a ghost or similar spirit, it loses a number of points from its Might equal to the level of this spell. If this reduces the spirit's Might to zero, it vanishes, apparently destroyed. Philosophers concur that the spirit goes to the afterlife, or is perhaps weakened to helplessness, but is not actually destroyed. Souls, after all, are immortal.<br>
 (Base effect)
 
-LEVEL 5
+#### LEVEL 5
 
-TIP OF THE TONGUE
-
-R: Eye, D: Diam, T: Ind
-
-Causes the target to forget one word of your choosing. The target cannot remember that word for the spell's duration, but afterwards he can come up with the word without assistance by making an Intelligence + Concentration stress roll against an Ease Factor of 9. If the target fails he may try again, but each additional roll adds +1 to the difficulty.
-
+##### Tip of the Tongue
+R: Eye, D: Diam, T: Ind<br>
+Causes the target to forget one word of your choosing. The target cannot remember that word for the spell's duration, but afterwards he can come up with the word without assistance by making an Intelligence + Concentration stress roll against an Ease Factor of 9. If the target fails he may try again, but each additional roll adds +1 to the difficulty.<br>
 (Base 3, +1 Eye, +1 Diam)
 
 #### LEVEL 10
 
-Trust of Childlike Faith
-
-R: Eye, D: Diam, T: Ind
-
-The target loses judgment and believes almost any passable lie for the duration of the spell. An Intelligence stress roll against an Ease Factor of 6 is allowed to resist. Truly incredible lies allow easier resistance rolls.
-
+##### Trust of Childlike Faith
+R: Eye, D: Diam, T: Ind<br>
+The target loses judgment and believes almost any passable lie for the duration of the spell. An Intelligence stress roll against an Ease Factor of 6 is allowed to resist. Truly incredible lies allow easier resistance rolls.<br>
 (Base 4, +1 Eye, +1 Diam)
 
 #### LEVEL 15
 
-CALM THE MOTION OF THE HEART
-
-R: Voice, D: Mom, T: Ind
-
-Removes one emotion from the target until it appears again naturally. An angry person stops being angry, and a curious one stops being inquisitive. Many a magus finds this spell useful for keeping his apprentice's nose out of his immediate business.
-
+##### Calm the Motion of the Heart
+R: Voice, D: Mom, T: Ind<br>
+Removes one emotion from the target until it appears again naturally. An angry person stops being angry, and a curious one stops being inquisitive. Many a magus finds this spell useful for keeping his apprentice's nose out of his immediate business.<br>
 (Base 5, +2 Voice)
 
-#### ENCHANTMENT OF DETACHMENT
-
-R: Eye, D: Sun, T: Ind
-
-Calms and greatly lowers the intensity of the target's current emotions.
-
+##### Enchantment of Detachment
+R: Eye, D: Sun, T: Ind<br>
+Calms and greatly lowers the intensity of the target's current emotions.<br>
 (Base 4, +1 Eye, +2 Sun)
 
-#### Loss of But a Moment's Memory
-
-R: Eye, D: Mom, T: Ind
-
-Removes up to five continuous minutes from a target's memory, leaving a blank. You target the loss of memory to a specific event or time. With an Intelligence stress roll against an Ease Factor of 9, the target realizes that memories of a certain period are missing. This Ease Factor can change, depending on how important the missing memory is and what sort of circumstances surrounded the event. Careful introspection over a period of time can allow reconstruction of much of the memory, but some details are lost forever.
-
+##### Loss of But a Moment's Memory
+R: Eye, D: Mom, T: Ind<br>
+Removes up to five continuous minutes from a target's memory, leaving a blank. You target the loss of memory to a specific event or time. With an Intelligence stress roll against an Ease Factor of 9, the target realizes that memories of a certain period are missing. This Ease Factor can change, depending on how important the missing memory is and what sort of circumstances surrounded the event. Careful introspection over a period of time can allow reconstruction of much of the memory, but some details are lost forever.<br>
 (Base 10, +1 Eye)
 
 #### LEVEL 25
 
-BLESSING OF CHILDLIKE BLISS
-
-R: Eye, D: Sun, T: Ind
-
-Reduces an adult mind to a child's level. The target solves problems, reasons, and expresses emotions as would a three-year-old. Magi affected cannot cast spells. At first, anyway, the target is
-
-likely to be happy at having lost a world of cares and troubles that are no longer imaginable.
-
+##### Blessing of Childlike Bliss
+R: Eye, D: Sun, T: Ind<br>
+Reduces an adult mind to a child's level. The target solves problems, reasons, and expresses emotions as would a three-year-old. Magi affected cannot cast spells. At first, anyway, the target is likely to be happy at having lost a world of cares and troubles that are no longer imaginable.<br>
 (Base 10, +1 Eye, +2 Sun)
 
-Passion's Lost Feeling
-
-R: Eye, D: Conc, T: Ind
-
-The target is unable to feel any sort of emotion and acts listlessly, without motivation or cares.
-
+##### Passion's Lost Feeling
+R: Eye, D: Conc, T: Ind<br>
+The target is unable to feel any sort of emotion and acts listlessly, without motivation or cares.<br>
 (Base 15, +1 Eye, +1 Conc)
 
 #### LEVEL 40
 
-#### BLACK WHISPER
-
-R: Touch, D: Moon, T: Ind
-
-You whisper a magic sentence in the target's ear. It takes several seconds to speak the sentence, so an unwilling, able-bodied target can stop you. If you speak the whole sentence, the target must make a Stamina stress roll against an Ease Factor of 15 or go completely insane. You need not use your hands for this spell, but you must be able to speak.
-
+##### Black Whisper
+R: Touch, D: Moon, T: Ind<br>
+You whisper a magic sentence in the target's ear. It takes several seconds to speak the sentence, so an unwilling, able-bodied target can stop you. If you speak the whole sentence, the target must make a Stamina stress roll against an Ease Factor of 15 or go completely insane. You need not use your hands for this spell, but you must be able to speak.<br>
 (Base 15, +1 Touch, +3 Moon, +1 for not needing to gesture)
 
 #### LEVEL 65
 
-POISONING THE WILL
-
-R: Touch, D: Moon,
-
-T: Bound, Ritual
-
-You curse a place, be it a valley, town, city, or covenant. The curse gradually saps the will and vitality from the people there. They become less energetic, and slowly stop caring about the place, what happens there, other people, and finally themselves. Colors seem more drab and the days longer, and there is an all-pervading sense of boredom and lassitude. Strong-willed individuals and those with strong Personality Traits are less affected, but still suffer to an extent. All Personality Trait rolls while in the area suffer a -3modifier. This spell affects only those who are within the cursed area, including visitors to it. Those who leave the area are overwhelmed by the return of their vigor and sense of purpose.
-
+##### Poisoning the Will
+R: Touch, D: Moon, T: Bound, Ritual<br>
+You curse a place, be it a valley, town, city, or covenant. The curse gradually saps the will and vitality from the people there. They become less energetic, and slowly stop caring about the place, what happens there, other people, and finally themselves. Colors seem more drab and the days longer, and there is an all-pervading sense of boredom and lassitude. Strong-willed individuals and those with strong Personality Traits are less affected, but still suffer to an extent. All Personality Trait rolls while in the area suffer a -3modifier. This spell affects only those who are within the cursed area, including visitors to it. Those who leave the area are overwhelmed by the return of their vigor and sense of purpose.<br>
 (Base 4, +1 Touch, +3 Moon, +4 Bound, +5 size)
 
-## Perdo Mentem Guidelines
-
-Emotions naturally reappear in a person, so spells that destroy them must have a continuing duration to ensure that they do not come back. Memories do not naturally return, so Momentary Duration spells remove them forever, although a person could be told what he had forgotten, or reconstruct the memory from things he does remember. A continuing spell would prevent a person from relearning that information, however.
-
-Perdo Mentem botches can destroy more than intended, or destroy elements of the caster's mind.
-
-Level 3: • Remove a minor detail from a person's memory.
-
-Level 4: • Remove an important detail from a person's memory.
-
-• Diminish a single mental capability in a person.
-
-• Reduce the intensity of all of a person's emotions.
-
-Level 5: • Quell an emotion in a person.
-
-Level 10: • Remove a minor or short memory from a person's mind.
-
-Reduce all of a person's mental capabilities.
-
-Level 15: • Remove a major or long memory from a person's mind.
-
-• Remove all emotions from a person.
-
-Drive a person insane.
-
-Level 25: • Leave a person a mindless husk.
-
-## Rego Mentem Guidelines
+### Rego Mentem Guidelines
 
 The Rego Animal spells that deal with the mind may also be used as good guidelines for levels of Rego Mentem spells. Many changes to the mind are Rego effects, because the mind could naturally assume that state.
 
 Rego Mentem botches can change the target's mental state in the wrong way, or change the state of mind of the caster.
 
-- General: Ward against beings associated with Mentem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+| Level | Rego Mentem Guideline |
+| ----- | --------------------- |
+| General | • Ward against beings associated with Mentem from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle)<br>• Ward against spirits belonging to one realm (Divine, Faerie, Infernal, or Magic) with a Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 3 | • Make a subtle difference to the target's mental state |
+| 4 | • Control a target's mental state (for example, awake, asleep, or confused) |
+| 5 | • Control a natural emotion (for example, calm, fear); the target must feel the emotion before you can control it<br>• Control a disembodied spirit associated with Mentem, such as most ghosts<br>• Incline a person to a particular sort of response |
+| 10 | • Control an unnatural emotion (for example, cultivate a person's feelings of bravery where he is usually cowardly)<br>• Imbue all of a person's responses with a particular emotion |
+| 15 | • Control a person as long as you can see them<br>• Summon a disembodied spirit associated with Mentem, such as a ghost |
+| 20 | • Give a person one complex command, which he tries to carry out to the best of his ability |
+| 25 | • Completely control a person's mind and emotions |
 
-  - Ward against spirits belonging to one realm (Divine, Faerie, Infernal, or Magic) with a Might less than or equal to the level of the spell. (Touch, Ring, Circle)
-- Level 3: Make a subtle difference to the target's mental state.
-- Control a target's mental state (for Level 4 example, awake, asleep, or confused)
-- Level 5: • Control a natural emotion (for example, calm, fear). The target must feel the emotion before you can control it.
+### Rego Mentem Spells
 
-  - Control a disembodied spirit associated with Mentem, such as most ghosts.
-  - Incline a person to a particular sort of response.
-- Level 10: Control an unnatural emotion (for example, cultivate a person's feelings of bravery where he is usually cowardly).
+#### GENERAL
 
-  - Imbue all of a person's responses with a particular emotion.
-- Level 15: Control a person as long as you can see them.
-
-  - Summon a disembodied spirit associated with Mentem, such as a ghost.
-- Level 20: Give a person one complex command, which he tries to carry out to the best of his ability.
-- Level 25: Completely control a person's mind and emotions.
-
-## Rego Mentem Spells
-
-#### GENERAL.
-
-RING OF WARDING AGAINST SPIRITS
-
-R: Touch, D: Ring, T: Circle
-
-Only ghosts and spirits with current Magic Might higher than the spell's level can enter the ring you create. At certain angles, the ring may be seen as an orange-hued dome. This spell does not affect ghosts or spirits associated with the other realms.
-
+##### Ring of Warding against Spirits
+R: Touch, D: Ring, T: Circle<br>
+Only ghosts and spirits with current Magic Might higher than the spell's level can enter the ring you create. At certain angles, the ring may be seen as an orange-hued dome. This spell does not affect ghosts or spirits associated with the other realms.<br>
 (Base effect)
 
 #### LEVEL 10
 
-THE CALL TO SLUMBER
-
-R: Voice D: Mom. T: Ind.
-
-The target becomes sleepy and falls asleep within a few seconds.
-
+##### The Call to Slumber
+R: Voice D: Mom. T: Ind.<br>
+The target becomes sleepy and falls asleep within a few seconds.<br>
 (Base 4, +2 Voice)
 
-#### SNAP OF AWAKENING
-
-R: Voice, D: Mom, T: Ind
-
-When you snap your fingers you instantly awaken the target from sleep to alert consciousness. Does not work on someone unconscious from Fatiguelevel loss, wounds, or magic.
-
+##### Snap of Awakening
+R: Voice, D: Mom, T: Ind<br>
+When you snap your fingers you instantly awaken the target from sleep to alert consciousness. Does not work on someone unconscious from Fatiguelevel loss, wounds, or magic.<br>
 (Base 4, +2 Voice)
 
 #### LEVEL 15
 
-CONFUSION OF THE NUMBED WILL
-
-R: Eye, D: Sun, T: Ind
-
-Confuses a person, who must make an Intelligence stress roll to take any direct action. A roll of 12+ ends the spell, while a roll of 9+ lets the character take the intended action, but the spell remains in effect. Any lower roll means the character is confused and takes some other type of action. When it is imperative for the victim to take an action, the storyguide should allow an appropriate modifier to the roll. While under this spell, a character always strikes last in combat and gets at least a -1 on all attacking and defending rolls.
-
+##### Confusion of the Numbed Will
+R: Eye, D: Sun, T: Ind<br>
+Confuses a person, who must make an Intelligence stress roll to take any direct action. A roll of 12+ ends the spell, while a roll of 9+ lets the character take the intended action, but the spell remains in effect. Any lower roll means the character is confused and takes some other type of action. When it is imperative for the victim to take an action, the storyguide should allow an appropriate modifier to the roll. While under this spell, a character always strikes last in combat and gets at least a -1 on all attacking and defending rolls.<br>
 (Base 4, +1 Eye, +2 Sun)
 
 #### LEVEL 20
 
-Aura of Rightful Authority
-
-R: Eye, D: Sun, T: Ind
-
-The target of the spell is strongly inclined to obey you, as if you were his natural superior.
-
+##### Aura of Rightful Authority
+R: Eye, D: Sun, T: Ind<br>
+The target of the spell is strongly inclined to obey you, as if you were his natural superior.<br>
 (Base 5, +1 Eve, +2 Sun)
 
-#### COERCE THE SPIRITS OF THE NIGHT
-
-R: Voice, D: Conc, T: Ind
-
-Makes a ghost obey you as long as you can coerce it with threats, such as a threat to defile its grave or to banish it to Hell. The more lurid and dramatic the threat, the more cooperative the ghost is. If the spell penetrates the ghost's Magic Resistance, roll Communication + Leadership to see how effective your threats are. The storyguide should always give a bonus or penalty that depends on the potency of the threat, and any roll other than a botch will compel at least minimal obedience.
-
+##### Coerce the spirits of the night
+R: Voice, D: Conc, T: Ind<br>
+Makes a ghost obey you as long as you can coerce it with threats, such as a threat to defile its grave or to banish it to Hell. The more lurid and dramatic the threat, the more cooperative the ghost is. If the spell penetrates the ghost's Magic Resistance, roll Communication + Leadership to see how effective your threats are. The storyguide should always give a bonus or penalty that depends on the potency of the threat, and any roll other than a botch will compel at least minimal obedience.<br>
 (Base 5, +2 Voice, +1 Conc)
 
-#### SCENT OF PEACEFUL SLUMBER
-
-R: Voice, D: Mom, T: Room
-
-Everyone in the room falls asleep over a few seconds, with the smell of lilacs in their nostrils
-
+##### Scent of peaceful slumber
+R: Voice, D: Mom, T: Room<br>
+Everyone in the room falls asleep over a few seconds, with the smell of lilacs in their nostrils<br>
 (Base 4, +2 Voice, +2 Room)
 
 #### LEVEL 30
 
-VISIONS OF THE INFERNAL TERRORS
-
-R: Voice, D: Sun, T: Ind
-
+##### Visions of the infernal terrors
+R: Voice, D: Sun, T: Ind<br>
 Causes everything the target sees to look and sound terrifying. The world looks basically the same, save that everything is hideously transformed somehow. The target must roll a stress die, adding his Stamina and adding or subtracting an appropriate Personality Trait to see what the effects are. The nature of the Personality Trait used determines how it affects the Stamina roll. A Trait like Brave makes you resistant to fear, while one like Cowardly reduces the result of your roll.
 
-
 | Roll      | Result                                                                          |
-| ----------- | --------------------------------------------------------------------------------- |
+| --------- | ------------------------------------------------------------------------------- |
 | 0 or less | Scared to death (literally)                                                     |
-| 1–5      | Incapacitated with fear,<br>permanent –1 to Stamina<br>Incapacitated with fear |
-| 6–9      | incapacitated with fear                                                         |
-| 10–15    | Flee, fight at –6 if cornered or obstructed                                    |
+| 1–5       | Incapacitated with fear, permanent –1 to Stamina                                |
+| 6–9       | Incapacitated with fear                                                         |
+| 10–15     | Flee, fight at –6 if cornered or obstructed                                     |
 | 16+       | Carry on, -3 on all rolls                                                       |
-| (D        | 2 2 V . 2 C .                                                                   |
 
 (Base 10, +2 Voice, +2 Sun)
 
 #### LEVEL 40
 
-Enslave the Mortal Mind
-
-R: Eye, D: Sun, T: Ind
-
-Enables you to completely control the loyalty, emotions, desires, interests, and activities of any person. People revert to normal when the spell ends, and may be extremely angry with the magus. (Base 25.  $\pm 1$  Eye.  $\pm 2$  Sun)
+##### Enslave the Mortal Mind
+R: Eye, D: Sun, T: Ind<br>
+Enables you to completely control the loyalty, emotions, desires, interests, and activities of any person. People revert to normal when the spell ends, and may be extremely angry with the magus.<br>
+(Base 25, +1 Eye, +2 Sun)
 
 #### Incantation of Summoning the Dead
-
-R: Arc, D: Conc, T: Ind, Ritual
-
-Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven.
-
-If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.
-
+R: Arc, D: Conc, T: Ind, Ritual<br>
+Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven. If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.<br>
 (Base 15, +4 Arc, +1 Conc)
 
-terrain is unsuitable for this spell. Once a searcher spots the hidden place, the spell does not prevent approach. Those who are present for the ritual are unaffected by the spell. This spell mimics the properties of many faerie forests.
-
+##### The shrouded glen
+R: Touch, D: Year, T: Bound, Ritual<br>
+Enchants the Boundary in which the ritual is cast so that anyone moving through it is subtly diverted, effectively keeping some place within it from being discovered accidentally. Anyone not actively searching for the hidden place never finds it. Those actively searching can find the place by making a Perception stress roll against an Ease Factor of 12 (allowed once per day). If the surrounding terrain is more difficult to search than the average forest, the Ease Factor increases. Likewise, the Ease Factor drops if the terrain is more open than a forest, and completely open terrain is unsuitable for this spell. Once a searcher spots the hidden place, the spell does not prevent approach. Those who are present for the ritual are unaffected by the spell. This spell mimics the properties of many faerie forests.<br>
 (Base 3, +1 Touch, +4 Year, +4 Bound)
 
 #### LEVEL 55
 
 #### Exchange of the Two Minds
-
-R: Touch, D: Year, T: Group, Ritual
-
-This spell switches the minds (but not the souls) of two creatures. A new body greatly confuses those who are unprepared for the shock, and even those who are ready take a day to adjust completely. Magi who transport their own minds into younger, healthier bodies usually find that having a strong body entails having powerful passions that interfere with the clear thinking needed to pursue the magical Arts. Both people involved must make a Stamina stress roll against an Ease Factor of 3, rolled before the switch is made, to survive the transfer. If only one person fails the roll, that person dies and the spell fails. The other target is unaffected.
-
+R: Touch, D: Year, T: Group, Ritual<br>
+This spell switches the minds (but not the souls) of two creatures. A new body greatly confuses those who are unprepared for the shock, and even those who are ready take a day to adjust completely. Magi who transport their own minds into younger, healthier bodies usually find that having a strong body entails having powerful passions that interfere with the clear thinking needed to pursue the magical Arts. Both people involved must make a Stamina stress roll against an Ease Factor of 3, rolled before the switch is made, to survive the transfer. If only one person fails the roll, that person dies and the spell fails. The other target is unaffected.<br>
 (Base 20, +1 Touch, +4 Year, +2 Group)
 
-## Creo Terram Guidelines
+---
 
-Creating earth in an elaborate shape or, with a Muto requisite, with some unnatural property is one level of magnitude higher than the listed guidelines.
-
-Wizard's sigils commonly visible in Creo Terram spells involve the object created being bizarre in some way, such as dirt being a specific color or texture.
-
-Creo Terram botches can entomb the caster in earth or stone, as well as creating the wrong sort of material, or creating it in the wrong place.
-
-Level 1: • Create sand, dirt, mud, or clay.
-
-Level 3: • Create stone or glass.
-
-Level 5: • Create base metal.
-
-Level 15: • Create precious metal.
-
-• Repair a crafted item, returning it to an "as new" state.
-
-Level 25: • Create gemstone.
-
-Create an earth elemental from a base amount of elemental matter. (Ritual)
-
-## Intellego Terram Guidelines
-
-Intellego Terram spell levels are not affected by the material of the thing affected, except as explicitly noted in the guidelines.
-
-Intellego Terram botches normally provide false information.
-
-Level 2: • Learn one visible property of an object (a property that someone with appropriate skills could determine just by looking).
-
-Level 4: • Learn one mundane property of an object.
-
-See an object and its surroundings.
-
-Level 5: • Learn all components of a mixture or alloy.
-
-Level 10: • Learn all the natural properties of an object.
-
-Level 15: • Sense all the mundane properties of a composite object.
-
-Level 20: • Learn the magical properties of an object.
-
-Make your senses unhindered by earth (for example, see right through a rock).
-
-• Speak with a natural rock (for example, a boulder)
-
-Level 25: • Speak with an artificial rock (for example, a statue).
-
-Level 30: • Commune with a natural rock. Speak with a metal object.
-
-Level 35: • Commune with an artificial rock (for example, a statue)
-
-Level 40: • Commune with a metal object (for example, a knife).
-
-# Terram Spells
+## Terram Spells
 
 Terram spells, in addition to covering earth, stone, clay, metal, and glass, can sometimes affect inanimate objects in general. For instance, Wielding the Invisible Sling (ReTe 10) throws all manner of nonliving things.
 
@@ -17056,136 +16564,129 @@ Though Terram spells affect all manner of solid objects, it is harder to affect 
 
 The base Individual for Terram depends on the material involved. For sand, dirt, mud, clay, or similar substances, it is about ten cubic paces of stuff. For stone, it is a single cubic pace. For base metals, it is a cubic foot, while for precious metals it is a tenth of that. For gemstones, the base individual is one cubic inch in size.
 
+### Creo Terram Guidelines
+
+Creating earth in an elaborate shape or, with a Muto requisite, with some unnatural property is one level of magnitude higher than the listed guidelines.
+
+Wizard's sigils commonly visible in Creo Terram spells involve the object created being bizarre in some way, such as dirt being a specific color or texture.
+
+Creo Terram botches can entomb the caster in earth or stone, as well as creating the wrong sort of material, or creating it in the wrong place.
+
+| Level | Creo Terram Guideline |
+| ----- | --------------------- |
+| 1 | • Create sand, dirt, mud, or clay |
+| 3 | • Create stone or glass |
+| 5 | • Create base metal |
+| 15 | • Create precious metal<br>• Repair a crafted item, returning it to an "as new" state |
+| 25 | • Create gemstone<br>• Create an earth elemental from a base amount of elemental matter (Ritual) |
+
 #### LEVEL 15
 
-SEAL THE EARTH
-
-R: Voice, D: Sun, T: Group Creates enough dirt to fill in a pit of up to 6 paces across and 3 paces deep. (Base 1, +2 Voice, +2 Sun, +2 Group)
+##### Seal the earth
+R: Voice, D: Sun, T: Group<br>
+Creates enough dirt to fill in a pit of up to 6 paces across and 3 paces deep.<br>
+(Base 1, +2 Voice, +2 Sun, +2 Group)
 
 #### LEVEL 20
 
-Touch of Midas
-
-R: Touch, D: Mom, T: Ind, Ritual
-
-This spell creates a roughly spherical lump of gold about six inches across. This weighs about eighty pounds, and is enough money to keep a peasant family in comfort for about three hundred years.
-
+##### Touch of Midas
+R: Touch, D: Mom, T: Ind, Ritual<br>
+This spell creates a roughly spherical lump of gold about six inches across. This weighs about eighty pounds, and is enough money to keep a peasant family in comfort for about three hundred years.<br>
 (Base 15, +1 Touch)
 
 #### LEVEL 25
 
-WALL OF PROTECTING STONE
-
-R: Voice, D: Sun, T: Ind
-
-Makes a wall of granite up to 25 paces wide, 4 paces high, and 1 pace thick. One needs miner's tools to break through it, though it can be toppled if it is not connected to a support on its side or top.
-
+##### Wall of protecting stone
+R: Voice, D: Sun, T: Ind<br>
+Makes a wall of granite up to 25 paces wide, 4 paces high, and 1 pace thick. One needs miner's tools to break through it, though it can be toppled if it is not connected to a support on its side or top.<br>
 (Base 3, +2 Voice, +2 Sun, +2 size)
 
 #### LEVEL 35
 
-Conjuring the Mystic Tower
-
-R: Touch, D: Mom, T: Ind, Ritual
-
-An elaborately carved tower, formed from a single block of stone, rises out of the ground. The tower stands 80 feet high and is 30 feet wide, with a foundation set 20 feet into the ground. You determine the design of the chambers within.
-
+##### Conjuring the Mystic Tower
+R: Touch, D: Mom, T: Ind, Ritual<br>
+An elaborately carved tower, formed from a single block of stone, rises out of the ground. The tower stands 80 feet high and is 30 feet wide, with a foundation set 20 feet into the ground. You determine the design of the chambers within.<br>
 (Base 3, +1 Touch, +4 size, +3 elaborate design)
 
-## Intellego Terram Spells
+### Intellego Terram Guidelines
+
+Intellego Terram spell levels are not affected by the material of the thing affected, except as explicitly noted in the guidelines.
+
+Intellego Terram botches normally provide false information.
+
+| Level | Intellego Terram Guideline |
+| ----- | -------------------------- |
+| 2 | • Learn one visible property of an object (a property that someone with appropriate skills could determine just by looking) |
+| 4 | • Learn one mundane property of an object<br>• See an object and its surroundings |
+| 5 | • Learn all components of a mixture or alloy |
+| 10 | • Learn all the natural properties of an object |
+| 15 | • Sense all the mundane properties of a composite object |
+| 20 | • Learn the magical properties of an object<br>• Make your senses unhindered by earth (for example, see right through a rock)<br>• Speak with a natural rock (for example, a boulder) |
+| 25 | • Speak with an artificial rock (for example, a statue) |
+| 30 | • Commune with a natural rock; speak with a metal object (for example, a knife) |
+| 35 | • Commune with an artificial rock (for example, a statue) |
+| 40 | • Commune with a metal object (for example, a knife) |
+
+### Intellego Terram Spells
 
 #### LEVEL 4
 
-PROBE FOR PURE SILVER
-
-R: Per, D: Mom, T: Smell You can smell silver, and follow the scent.
-
+##### Probe for pure silver
+R: Per, D: Mom, T: Smell<br>
+You can smell silver, and follow the scent.<br>
 (Base 2, +2 Smell)
 
 #### LEVEL 10
 
-Eyes of the Eons
-
-$R{:}\ Voice,\ D{:}\ Mom,\ T{:}\ Ind$
-
-Determines the age of any nonliving target to within 10% of its actual age.
-
+##### Eyes of the Eons
+R: Voice, D: Mom, T: Ind<br>
+Determines the age of any nonliving target to within 10% of its actual age.<br>
 (Base 4, +2 Voice)
 
 #### LEVEL 15
 
-Eyes of the Treacherous Terrain
-
-R: Per, D: Conc, T: Vision
-
-You can tell intuitively if any natural terrain you see is treacherous, such as if a rock field is prone to sliding.
-
+##### Eyes of the Treacherous Terrain
+R: Per, D: Conc, T: Vision<br>
+You can tell intuitively if any natural terrain you see is treacherous, such as if a rock field is prone to sliding.<br>
 (Base 2, +1 Conc, +4 Vision)
 
 #### LEVEL 20
 
-THE MINER'S KEEN EYE
-
-R: Per, D: Conc, T: Vision
-
-You can see any one type of mineral (gold, diamond, sand), specified at the time of casting, through up to 3 paces of intervening material. You have a good idea of how much is there and how pure it is, if appropriate.
-
+##### The miner's keen eye
+R: Per, D: Conc, T: Vision<br>
+You can see any one type of mineral (gold, diamond, sand), specified at the time of casting, through up to 3 paces of intervening material. You have a good idea of how much is there and how pure it is, if appropriate.<br>
 (Base 2, +1 Conc, +4 Vision, +1 see through intervening material)
 
 #### LEVEL 25
 
-Tracks of the Faerie Glow
-
-R: Per, D: Conc, T: Vision
-
-Causes even faintly perceptible tracks of a specific being to glow with a faint magic light, making them stand out when you are within 30 paces of them. The glow provides a bonus to Tracking rolls, which depends on the relationship between the target being tracked and the terrain. If the target is magically related to the terrain, +2; native to the terrain, +4; neutral to the terrain, +6; inimical to the terrain, +8. Tracking at night without a light source doubles the bonus. The more faint the tracks are, the more dimly they glow, so the storyguide may also modify the bonus based on the length of time since the target passed.
-
+##### Tracks of the Faerie Glow
+R: Per, D: Conc, T: Vision<br>
+Causes even faintly perceptible tracks of a specific being to glow with a faint magic light, making them stand out when you are within 30 paces of them. The glow provides a bonus to Tracking rolls, which depends on the relationship between the target being tracked and the terrain. If the target is magically related to the terrain, +2; native to the terrain, +4; neutral to the terrain, +6; inimical to the terrain, +8. Tracking at night without a light source doubles the bonus. The more faint the tracks are, the more dimly they glow, so the storyguide may also modify the bonus based on the length of time since the target passed.<br>
 (Base 4, +1 Conc, +4 Vision)
 
 #### LEVEL 30
 
-STONE TELL OF THE MIND THAT SITS R: Touch, D: Conc, T: Ind
-
-Allows you to talk with natural stone. A stone's answers feel slow and ponderous, but do not actually take any longer than a normal conversation. Though a stone is usually willing to talk, its direction sense and awareness of quickly moving things (such as people) are limited.
-
+##### Stone tell of the mind that sits
+R: Touch, D: Conc, T: Ind<br>
+Allows you to talk with natural stone. A stone's answers feel slow and ponderous, but do not actually take any longer than a normal conversation. Though a stone is usually willing to talk, its direction sense and awareness of quickly moving things (such as people) are limited.<br>
 (Base 20, +1 Touch, +1 Conc)
 
 #### LEVEL 30
 
-Sense the Feet that  $T_{\text{READ}}$  the  $E_{\text{ARTH}}$
-
-R: Touch, D: Conc, T: Part
-
-You touch the earth and feel what is moving along the ground within a mile of where you stand. You can tell the direction, distance, weight, number, and manner of movement of moving things. For instance, you
-
-might sense "a single 50-stone creature slithering toward us, a hundred rods in that direction." This spell is derived from the Terram tradition from which Guernicus the Founder came, and does not fit well into Hermetic theory.
-
+##### Sense the Feet that Thread the Earth
+R: Touch, D: Conc, T: Part<br>
+You touch the earth and feel what is moving along the ground within a mile of where you stand. You can tell the direction, distance, weight, number, and manner of movement of moving things. For instance, you might sense "a single 50-stone creature slithering toward us, a hundred rods in that direction." This spell is derived from the Terram tradition from which Guernicus the Founder came, and does not fit well into Hermetic theory.<br>
 (Base 4, +1 Touch, +1 Conc, +1 Part, +3 size)
 
 #### LEVEL 50
 
-DREAM OF THE MIND THAT SITS
-R: Touch, D: Sun, T: Ind
-Req: Creo
-
-Allows you to probe the memories of a spirit within a natural stone object. The spell also perfects those memories. Probing the memories of such a spirit is extremely slow. A typical session lasts between six and twelve hours, during which the caster is oblivious to the outside world. The spell allows the caster to perceive the memories of the spirit. The spirit's senses are limited and slow, but its memory of them is very long. Using this spell the caster can relive events witnessed by the spirit, as it recalls them. Larger stone objects have more powerful spirits and so have better perceptions. Precisely what level of detail an individual spirit can perceive is up to the storyguide.
-
+##### Dream of the mind that sits
+R: Touch, D: Sun, T: Ind<br>
+Req: Creo<br>
+Allows you to probe the memories of a spirit within a natural stone object. The spell also perfects those memories. Probing the memories of such a spirit is extremely slow. A typical session lasts between six and twelve hours, during which the caster is oblivious to the outside world. The spell allows the caster to perceive the memories of the spirit. The spirit's senses are limited and slow, but its memory of them is very long. Using this spell the caster can relive events witnessed by the spirit, as it recalls them. Larger stone objects have more powerful spirits and so have better perceptions. Precisely what level of detail an individual spirit can perceive is up to the storyguide.<br>
 (Base 30, +1 Touch, +2 Sun, +1 Creo effect)
 
-## Muto Terram Spells
-
-LEVEL 10
-
-THE CRYSTAL DART
-R: Voice, D: Mom, T: Ind
-
-Req: Rego
-
-The spell transforms a stone into a 10-inch crystal dart that rises from the ground at your feet, floats into the air, and speeds off like an arrow at a target that is within Voice range. It does +5 damage (because of the sharp edges of the crystal as much as its speed), and always hits its target, although it must Penetrate Magic Resistance to have any real effect.
-
-(Base 3, +2 Voice, +1 Rego requisite)
-
-## Muto Terram Guidelines
+### Muto Terram Guidelines
 
 The targets below are for changing dirt. To change to or from sand, mud, or clay, use the same level of magnitude as for dirt. To change to or from stone or glass, add one level of magnitude. To change to or from metal or gemstone, add two levels of magnitude. These adjustments only apply once, so that changing metal to metal is only two magnitudes higher.
 
@@ -17193,353 +16694,239 @@ The amount of material you can change is limited by the guidelines for each end.
 
 Serious Muto Terram botches have a tendency to turn the caster to stone or metal, but lesser botches transform the wrong thing, or transform things in the wrong way.
 
-General: • Convert part of an earth elemental's body into another type of earth (soil to dust, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by reabsorbing the matter.
+| Level | Muto Terram Guideline |
+| ----- | --------------------- |
+| General | • Convert part of an earth elemental's body into another type of earth (soil to dust, etc.), reducing the elemental's Might pool by the level of the spell +2 magnitudes. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter |
+| 1 | • Change one property of dirt |
+| 2 | • Change dirt to another type of natural earth (for example, sand to loam) |
+| 3 | • Change dirt so that it is slightly unnatural (requisites may be required)<br>• Change dirt into a liquid or gas (with requisites)<br>• Change dirt to stone, or vice versa |
+| 4 | • Change dirt so that it is highly unnatural (requisites will often be required)<br>• Change dirt into a mixture of liquids, solids, and gases (with requisites)<br>• Change dirt into a plant (with requisites)<br>• Make something grow to ten times its previous volume |
+| 5 | • Change dirt into a slightly unnatural liquid or gas (with requisites)<br>• Change dirt into an animal (with requisites) |
+| 10 | • Change dirt into a highly unnatural liquid or gas (with requisites) |
 
-Level 1: • Change one property of dirt.
+### Muto Terram Spells
 
-Level 2: • Change dirt to another type of natural earth (for example, sand to loam).
+#### LEVEL 10
 
-Level 3: • Change dirt so that it is slightly unnatural (requisites may be required).
+##### The crystal dart
+R: Voice, D: Mom, T: Ind<br>
+Req: Rego<br>
+The spell transforms a stone into a 10-inch crystal dart that rises from the ground at your feet, floats into the air, and speeds off like an arrow at a target that is within Voice range. It does +5 damage (because of the sharp edges of the crystal as much as its speed), and always hits its target, although it must Penetrate Magic Resistance to have any real effect.<br>
+(Base 3, +2 Voice, +1 Rego requisite)
 
-• Change dirt into a liquid or gas (with requisites).
+##### Supple iron and rigid rope
+R: Touch, D: Sun, T: Ind<br>
+Makes a flexible object stiff or a stiff object flexible. Casting requisites of Forms appropriate to the materials affected are required. Note that, despite the name, this spell is not high enough level to affect iron.<br>
+(Base 3, +1 Touch, +2 Sun)
 
-• Change dirt to stone, or vice versa.
+#### LEVEL 15
 
-Level 4: • Change dirt so that it is highly unnatural (requisites will often be required).
+##### Rock of viscid clay
+R: Touch, D: Sun, T: Part<br>
+Softens rock enough that it may be dug out, molded, and otherwise manipulated in the same way that hard river clay can be. The rock is slightly sticky. The spell affects rock in a roughly spherical shape with a three-foot diameter.<br>
+(Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part)
 
-• Change dirt into a mixture of liquids, solids, and gases (with requisites).
+#### LEVEL 20
 
-• Change dirt into a plant (with requisites).
+##### Edge of the razor
+R: Touch, D: Sun, T: Ind<br>
+Sharpens any metal edge to a degree unequaled by manual methods. An edged or pointed weapon gains a +2 bonus to Damage. Good-natured magi reward grogs by enchanting their weapons in this way, although since the resulting sword is resisted by Magic Resistance they rarely do this for all their grogs.<br>
+(Base 3, +1 Touch, +2 Sun, +2 metal)
 
-Make something grow to ten times its previous volume.
+##### Earth that breaks no more
+R: Touch, D: Sun, T: Part<br>
+Turns a volume of packed dirt up to ten cubic paces into stone.<br>
+(Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part, +1 size)
 
-Level 5: • Change dirt into a slightly unnatural liquid or gas (with requisites).
+##### Object of increased size
+R: Touch, D: Sun, T: Ind<br>
+This spell enlarges an inanimate object originally no bigger than a large chest. The object doubles in each dimension and increases its weight eight times. The size increase is based on the object's original, natural size, so casting the spell more than once on an object has no effect. Noble elements like gold, silver, and gems, are not affected by this spell. If any part of the item resists growth, the item as a whole does not grow. Casting requisites are required for the appropriate Form for the target.<br>
+(Base 4, +1 Touch, +2 Sun, +1 stone)
 
-• Change dirt into an animal (with requisites).
+#### LEVEL 35
 
-Level 10: • Change dirt into a highly unnatural liquid or gas (with requisites).
+##### Teeth of the earth mother
+R: Voice, D: Sun, T: Group<br>
+You cause twenty pointed pillars of white marble to spring up from the ground to a height of 12 feet, forming a circle 3 paces in diameter. At their tops, the pillars are thin and as sharp as spears. At the base, where they touch, they are 18 inches thick. When the pillars spring up, they can be used to cage people, to form a wall, or simply to skewer enemies. Climbing to the top of the pillars requires three Dexterity + Athletics stress rolls against an Ease Factor of 12, and the tops break away when the target reaches them, causing the victim to fall. Skewering a target does +25 damage, possibly more on following rounds if the victim struggles or is exceptionally heavy. When the spell ends, the pillars crumble to dust.<br>
+(Base 3, +2 Voice, +2 Sun, +2 Group, +2 fancy effect)
 
-## Perdo Terram Guidelines
+### Perdo Terram Guidelines
 
 To destroy sand, mud, or clay, use the same level of magnitude as for earth. To destroy stone or glass, add one magnitude. To destroy metal or gemstone, add two magnitudes.
 
 Perdo Terram botches, as well as destroying the wrong thing, can destroy the ground that the caster is standing on, or metal objects that he is holding.
 
-General: • Destroy sufficient matter to reduce an earth elemental's Might Score by the level of the spell +2 magnitudes.
+| Level | Perdo Terram Guideline |
+| ----- | ---------------------- |
+| General | • Destroy sufficient matter to reduce an earth elemental's Might Score by the level of the spell +2 magnitudes |
+| 2 | • Weaken dirt |
+| 3 | • Destroy dirt |
+| 5 | • Destroy one aspect of dirt, such as its weight or its cohesiveness |
 
-Level 2: • Weaken dirt.
-
-Level 3: • Destroy dirt.
-
-Level 5: • Destroy one aspect of dirt, such as its weight or its cohesiveness.
-
-#### SUPPLE IRON AND RIGID ROPE
-
-R: Touch, D: Sun, T: Ind
-
-Makes a flexible object stiff or a stiff object flexible. Casting requisites of Forms appropriate to the materials affected are required. Note that, despite the name, this spell is not high enough level to affect iron.
-
-(Base 3, +1 Touch, +2 Sun)
-
-#### LEVEL 15
-
-#### ROCK OF VISCID CLAY
-
-R: Touch, D: Sun, T: Part
-
-Softens rock enough that it may be dug out, molded, and otherwise manipulated in the same way that hard river clay can be. The rock is slightly sticky. The spell affects rock in a roughly spherical shape with a three-foot diameter.
-
-(Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part)
-
-#### LEVEL 20
-
-#### EDGE OF THE RAZOR
-
-R: Touch, D: Sun, T: Ind
-
-Sharpens any metal edge to a degree unequaled by manual methods. An edged or pointed weapon gains a +2 bonus to Damage. Good-natured magi reward grogs by enchanting their weapons in this way, although since the resulting sword is resisted by Magic Resistance they rarely do this for all their grogs.
-
-(Base 3, +1 Touch, +2 Sun, +2 metal)
-
-#### EARTH THAT BREAKS NO MORE
-
-R: Touch, D: Sun, T: Part
-
-Turns a volume of packed dirt up to ten cubic paces into stone.
-
-(Base 2, +1 stone, +1 Touch, +2 Sun, +1 Part, +1 size)
-
-#### OBJECT OF INCREASED SIZE
-
-R: Touch, D: Sun, T: Ind
-
-This spell enlarges an inanimate object originally no bigger than a large chest. The object doubles in each dimension and increases its weight eight times. The size increase is based on the object's original, natural size, so casting the spell more than once on an object has no effect. Noble elements like gold, silver, and gems, are not affected by this spell. If any part of the item resists growth, the item as a whole does not grow. Casting requisites are required for the appropriate Form for the target.
-
-(Base 4, +1 Touch, +2 Sun, +1 stone)
-
-#### LEVEL 35
-
-#### TEETH OF THE EARTH MOTHER
-
-R: Voice, D: Sun, T: Group
-
-You cause twenty pointed pillars of white marble to spring up from the ground to a height of 12 feet, forming a circle 3 paces in diameter. At their tops, the pillars are thin and as sharp as spears. At the base, where they touch, they are 18 inches thick. When the pillars spring up, they can be used to cage people, to form a wall, or simply to skewer enemies. Climbing to the top of the pillars requires three Dexterity + Athletics stress rolls against an Ease Factor of 12, and the tops break away when the target reaches them, causing
-
-the victim to fall. Skewering a target does +25 damage, possibly more on following rounds if the victim struggles or is exceptionally heavy. When the spell ends, the pillars crumble to dust.
-
-(Base 3, +2 Voice, +2 Sun, +2 Group, +2 fancy effect)
-
-## Perdo Terram Spells
+### Perdo Terram Spells
 
 #### LEVEL 10
 
-#### FIST OF SHATTERING
-
-R: Voice, D: Mom, T: Ind
-
-An object of stone or weaker material up to a pace across breaks apart. The appropriate Form for the target is a casting requisite.
-
+##### Fist of shattering
+R: Voice, D: Mom, T: Ind<br>
+An object of stone or weaker material up to a pace across breaks apart. The appropriate Form for the target is a casting requisite.<br>
 (Base 3, +1 stone, +2 Voice)
 
-#### RUSTED DECAY OF TEN-SCORE YEARS
-
-R: Voice, D: Mom, T: Ind
-
-After the spell is cast, the metal of the target becomes so thoroughly rusted that it breaks if used in any demanding way (for example, used to strike a blow in combat or to pry open a door). It also loses any sharpness it might once have had.
-
+##### Rusted decay of ten-score years
+R: Voice, D: Mom, T: Ind<br>
+After the spell is cast, the metal of the target becomes so thoroughly rusted that it breaks if used in any demanding way (for example, used to strike a blow in combat or to pry open a door). It also loses any sharpness it might once have had.<br>
 (Base 2, +2 metal, +2 Voice)
 
 #### LEVEL 15
 
-#### PIT OF THE GAPING EARTH
-
-R: Voice, D: Mom, T: Part
-
-The dirt in a circle 6 paces across recedes into the ground, leaving a pit 9 feet deep. If the target area contains material other than dirt, that material is not affected.
-
+##### Pit of the gaping earth
+R: Voice, D: Mom, T: Part<br>
+The dirt in a circle 6 paces across recedes into the ground, leaving a pit 9 feet deep. If the target area contains material other than dirt, that material is not affected.<br>
 (Base 3, +2 Voice, +1 Part, +1 size)
 
 #### LEVEL 20
 
-#### OBLITERATION OF THE METALLIC BARRIER
-
-R: Touch, D: Mom, T: Ind
-
-Reg: Rego
-
-Shatters a barrier of metal or stone up to one foot thick. Those within one pace of the barrier, on the opposite side from you, take +10 Damage. Alchemically refined and magical metals may be able to withstand this spell.
-
+##### Obliteration of the metallic barrier
+R: Touch, D: Mom, T: Ind<br>
+Reg: Rego<br>
+Shatters a barrier of metal or stone up to one foot thick. Those within one pace of the barrier, on the opposite side from you, take +10 Damage. Alchemically refined and magical metals may be able to withstand this spell.<br>
 (Base 3, +2 metal, +1 Touch, +1 size, +1 Rego to fling the fragments away)
 
-#### STONE TO FALLING DUST
-
-R: Sight, D: Mom, T: Ind
-
-One solid non-living object turns to a pile of dust. The object must be a base Individual or smaller, so a stone item can be a pace across while a metal item can only be one tenth that size in total. A casting requisite may be required, of the Form appropriate to the target.
-
+##### Stone to falling dust
+R: Sight, D: Mom, T: Ind<br>
+One solid non-living object turns to a pile of dust. The object must be a base Individual or smaller, so a stone item can be a pace across while a metal item can only be one tenth that size in total. A casting requisite may be required, of the Form appropriate to the target.<br>
 (Base 3, +2 metal/gems, +3 Sight)
 
 #### LEVEL 25
 
-#### END OF THE MIGHTY CASTLE
-
-R: Voice, D: Mom, T: Str
-
-A single stone structure, such as a castle keep or manor house, crumbles to dust and small pebbles. Anyone inside at the time takes +10 damage from falling and having stones land on them, possibly more if the structure is particularly large.
-
+##### End of the mighty castle
+R: Voice, D: Mom, T: Str<br>
+A single stone structure, such as a castle keep or manor house, crumbles to dust and small pebbles. Anyone inside at the time takes +10 damage from falling and having stones land on them, possibly more if the structure is particularly large.<br>
 (Base 3, +1 stone, +2 Voice, +3 Str)
 
 #### LEVEL 40
 
-#### CASCADE OF ROCKS
-
-R: Sight, D: Mom, T: Part
-
-Makes a cliff collapse, causing an avalanche. The effects depend on the size of the cliff and what lies below it.
-
+##### Cascade of rocks
+R: Sight, D: Mom, T: Part<br>
+Makes a cliff collapse, causing an avalanche. The effects depend on the size of the cliff and what lies below it.<br>
 (Base 3, +1 stone, +3 Sight, +1 Part, +4 size)
 
-#### GENERAL.
-
-WARD AGAINST FAERIES OF THE MOUNTAIN
-
-R: Touch, D: Ring, T: Circle
-
-As Ward Against Faeries of the Waters (ReAg Gen). but for faeries of earth and stone. At some angles at night, the ring may be seen as
-
-a dark brown dome.
-
-#### LEVEL 5
-
-#### Unseen Arm
-
-R: Voice, D: Conc, T: Ind
-
-Slowly moves a nonliving thing, like a mug, instrument, or small pouch of coins; it cannot oppose intentional resistance. Magi use this spell to manipulate things at a distance, but the spell cannot be used to pull something from a person's hand or to move something that is held. Casting requisites of an appropriate Form for the target are required.
-
-(Base 2, +2 Voice, +1 Conc)
-
-## Rego Terram Guidelines
+### Rego Terram Guidelines
 
 The guidelines for controlling dirt, sand, mud, or clay are listed below. Add one magnitude to control stone or glass, and two for metal or gemstones, unless the item is simply being moved from one place to another (as in Unseen Arm or either Invisible Sling). Manipulating objects with great precision may also be higher, depending on the level of precision.
 
 Rego Terram botches often result in the caster being struck by large amounts of flying stone.
 
-General: • Ward against beings associated with Terram from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
+| Level | Rego Terram Guideline |
+| ----- | --------------------- |
+| General | • Ward against beings associated with Terram from one supernatural realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle) |
+| 1 | • Control or move dirt in a natural fashion |
+| 2 | • Control or move dirt in a slightly unnatural fashion<br>• Keep dirt away from you, under your conscious control (that is, you must be aware of its presence)<br>• Shape and form dirt, as if a craftsman had worked it |
+| 3 | • Control or move dirt in a very unnatural fashion |
+| 4 | • Transport a non-living object instantly up to 5 paces (add one magnitude for 50 paces, two magnitudes for 500 paces, three magnitudes for one league, four magnitudes for seven leagues, and five magnitudes for a place to which you have an Arcane Connection; casting requisites may be needed if the item is primarily not under the Form of Terram) |
+| 5 | • Keep all dirt away from your body, or ward a target against dirt<br>• Control a disembodied spirit associated with Terram<br>• Completely control an earth elemental<br>• Hurl a hard projectile with enough force to do +5 damage (range increment of 20 paces; this applies magical force to the projectile at the moment of casting, and the projectile then moves naturally) |
+| 10 | • Hurl a hard projectile with enough force to do +10 damage (range increment of 20 paces; this applies magical force to the projectile at the moment of casting, and the projectile then moves naturally) |
+| 15 | • Summon a disembodied spirit associated with Terram<br>• Hurl a hard projectile with enough force to do +15 damage (range increment of 20 paces; this applies magical force to the projectile at the moment of casting, and the projectile then moves naturally) |
 
-Level 1: • Control or move dirt in a natural fashion
+### Rego Terram Spells
 
-Level 2: • Control or move dirt in a slightly unnatural fashion.
+#### GENERAL
 
-• Keep dirt away from you, under your conscious control (that is, you must be aware of its presence).
+##### Ward against faeries of the mountain
+R: Touch, D: Ring, T: Circle<br>
+As Ward Against Faeries of the Waters (ReAg Gen). but for faeries of earth and stone. At some angles at night, the ring may be seen as a dark brown dome.<br>
 
-• Shape and form dirt, as if a craftsman had worked it.
+#### LEVEL 5
 
-Level 3: • Control or move dirt in a very unnatural fashion.
-
-Level 4: • Transport a non-living object instantly up to 5 paces. Add one magnitude for 50 paces, two magnitudes for 500 paces, three magnitudes for one league, four magnitudes for seven leagues, and five magnitudes for a place to which you have an Arcane Connection. Casting requisites may be needed if the item is primarily not under the Form of Terram.
-
-Level 5: • Keep all dirt away from your body, or ward a target against dirt.
-
-Control a disembodied spirit associated with Terram.
-
-• Completely control an earth elemental.
-
-• Hurl a hard projectile with enough force to do +5 damage (range increment of 20 paces). This applies magical force to the projectile at the moment of casting, and the projectile then moves naturally.
-
-> Level 10: • Hurl a hard projectile with enough force to do +10 damage (range increment of 20 paces) This applies magical force to the projectile at the moment of casting, and the projectile then moves naturally.
-
-Level 15: • Summon a disembodied spirit associated with Terram.
-
-> • Hurl a hard projectile with enough force to do +15 damage (range increment of 20 paces) This applies magical force to the projectile at the moment of casting, and the projectile then moves naturally.
+##### Unseen Arm
+R: Voice, D: Conc, T: Ind<br>
+Slowly moves a nonliving thing, like a mug, instrument, or small pouch of coins; it cannot oppose intentional resistance. Magi use this spell to manipulate things at a distance, but the spell cannot be used to pull something from a person's hand or to move something that is held. Casting requisites of an appropriate Form for the target are required.<br>
+(Base 2, +2 Voice, +1 Conc)
 
 #### LEVEL 10
 
-#### TRACKLESS STEP
-
-R: Touch, D: Special, T: Part
-
-You leave no tracks in the earth until you come to a stop, such as to rest or fight. This spell draws on pre-Hermetic traditions, and does not perfectly fit the categories of Hermetic magic.
-
+##### Trackless step
+R: Touch, D: Special, T: Part<br>
+You leave no tracks in the earth until you come to a stop, such as to rest or fight. This spell draws on pre-Hermetic traditions, and does not perfectly fit the categories of Hermetic magic.<br>
 (Base 2, +1 Touch, +2 Special (based on Concentration), +1 Part)
 
-#### INVISIBLE SLING OF VILANO
-
-R: Touch, D: Mom, T: Ind
-
-Hurl a stone (of a size that could be thrown with a mundane sling) at a target within range. Unlike Wielding the Invisible Sling, this spell hurls the stone as a projectile. An aiming roll is required to hit the intended target, but if it succeeds, Magic Resistance offers no protection. The stone inflicts +5 damage on impact and has a range increment of 20 paces.
-
+##### Invisible sling of vilano
+R: Touch, D: Mom, T: Ind<br>
+Hurl a stone (of a size that could be thrown with a mundane sling) at a target within range. Unlike Wielding the Invisible Sling, this spell hurls the stone as a projectile. An aiming roll is required to hit the intended target, but if it succeeds, Magic Resistance offers no protection. The stone inflicts +5 damage on impact and has a range increment of 20 paces.<br>
 (Base 5, +1 Touch)
 
-#### WIELDING THE INVISIBLE SLING
-
-R: Voice, D: Mom, T: Ind
-
-Hurls any nearby object that could normally be thrown by a person at any target within range. The object must not be held down or otherwise restrained. Damage depends on the object thrown, up to +5 for a fist-sized stone. The object always hits, but it is resisted by Magic Resistance. Casting requisites of an appropriate Form for the target are required.
-
+##### Wielding the invisible sling
+R: Voice, D: Mom, T: Ind<br>
+Hurls any nearby object that could normally be thrown by a person at any target within range. The object must not be held down or otherwise restrained. Damage depends on the object thrown, up to +5 for a fist-sized stone. The object always hits, but it is resisted by Magic Resistance. Casting requisites of an appropriate Form for the target are required.<br>
 (Base 4, +2 Voice)
 
-#### THE FORGIVING EARTH
-
-R: Voice, D: Mom, T: Part
-
-Loosens earth in a 15-pace-by-15-pace area to a depth of one foot, making packed dirt as loose as plowed ground.
-
+##### The forgiving earth
+R: Voice, D: Mom, T: Part<br>
+Loosens earth in a 15-pace-by-15-pace area to a depth of one foot, making packed dirt as loose as plowed ground.<br>
 (Base 2, +2 Voice, +1 Part, +1 size)
 
-#### THE UNSEEN PORTER
-
-R: Voice, D: Conc, T: Ind
-
-Like *Unseen Arm* (ReTe 5), but it can carry large objects such as crates. Roughly speaking, it has
-
-the capabilities of a very strong person (Str +5). The heavier the object is, the slower the unseen porter moves. If delicacy is required, high Finesse stress rolls (Ease Factor 12 or so) are needed. The spell can only carry inanimate objects, and cannot carry you. It also cannot lift things more than 6 feet above the ground. Casting requisites of an appropriate Form for the target are required.
-
+##### The unseen porter
+R: Voice, D: Conc, T: Ind<br>
+Like *Unseen Arm* (ReTe 5), but it can carry large objects such as crates. Roughly speaking, it has the capabilities of a very strong person (Str +5). The heavier the object is, the slower the unseen porter moves. If delicacy is required, high Finesse stress rolls (Ease Factor 12 or so) are needed. The spell can only carry inanimate objects, and cannot carry you. It also cannot lift things more than 6 feet above the ground. Casting requisites of an appropriate Form for the target are required.<br>
 (Base 3, +2 Voice, +1 Conc)
 
-#### UNYIELDING EARTH
-
-R: Voice, D: Mom, T: Part
-
-Compacts the surface of the ground in a 15-pace-by-15-pace area to a depth of one foot, making it more solid. Mud becomes as soft earth, and soft earth becomes as packed dirt.
-
+##### Unyielding earth
+R: Voice, D: Mom, T: Part<br>
+Compacts the surface of the ground in a 15-pace-by-15-pace area to a depth of one foot, making it more solid. Mud becomes as soft earth, and soft earth becomes as packed dirt.<br>
 (Base 2, +2 Voice, +1 Part, +1 size)
 
 #### LEVEL 15
 
-THE EARTH'S CARBUNCLE
-
-R: Voice, D: Mom, T: Part
-
-Req: Muto
-
-Causes a 1-pace circle of ground to become jagged stone, just under the surface, and those fragments burst into the air. Anyone standing on the circle is thrown into the air and hit with flying debris. Damage is +10.
-
+##### The earth's carbuncle
+R: Voice, D: Mom, T: Part<br>
+Req: Muto<br>
+Causes a 1-pace circle of ground to become jagged stone, just under the surface, and those fragments burst into the air. Anyone standing on the circle is thrown into the air and hit with flying debris. Damage is +10.<br>
 (Base 3, +2 Voice, +1 Part, +1 Muto requisite)
 
-#### HANDS OF THE GRASPING EARTH
-
-$R{:}\ Voice,\ D{:}\ D{iam},\ T{:}\ Part$
-
-Reg: Muto
-
-Earthen hands from beneath the target rise out of the ground, and grasp the target's ankles. To break free requires a Strength stress roll of 15+. (One attempt is allowed per round, and each requires a Fatigue roll.) Each hand can be destroyed by beating its +25 Soak roll (hacking weapons do double normal damage) and inflicting a Light Wound.
-
+##### Hands of the grasping earth
+R: Voice, D: Diam, T: Part<br>
+Reg: Muto<br>
+Earthen hands from beneath the target rise out of the ground, and grasp the target's ankles. To break free requires a Strength stress roll of 15+. (One attempt is allowed per round, and each requires a Fatigue roll.) Each hand can be destroyed by beating its +25 Soak roll (hacking weapons do double normal damage) and inflicting a Light Wound.<br>
 (Base 3, +2 Voice, +1 Diam, +1 Part, requisite free)
 
 #### LEVEL 20
 
-CREST OF THE EARTH WAVE
-
-R: Voice, D: Mom, T: Part
-
-Creates a wave in the earth that starts at your feet and travels out to the range of your Voice in a designated direction. It starts as a narrow ripple and within 5 paces reaches its full size of 5 feet high and 30 paces wide. It moves about 50 paces per round. Those caught in its path must make Dexterity stress rolls against an Ease Factor of 12 to leap over the wave, or they are tossed aside and take +10 Damage. The wave overturns trees and damages buildings in its path.
-
+##### Crest of the earth wave
+R: Voice, D: Mom, T: Part<br>
+Creates a wave in the earth that starts at your feet and travels out to the range of your Voice in a designated direction. It starts as a narrow ripple and within 5 paces reaches its full size of 5 feet high and 30 paces wide. It moves about 50 paces per round. Those caught in its path must make Dexterity stress rolls against an Ease Factor of 12 to leap over the wave, or they are tossed aside and take +10 Damage. The wave overturns trees and damages buildings in its path.<br>
 (Base 3, +2 Voice, +1 Part, +2 size)
 
 #### LEVEL 30
 
-#### CREEPING CHASM
-
-R: Voice, D: Mom, T: Part
-
-Creates a chasm that runs from the ground in front of your feet towards some target within range that you designate. The chasm travels about 4 paces per round, growing wider as it travels, reaching a maximum width of 20 feet at a distance of 30 paces. The chasm is 20 to 30 feet deep, and the sides are likely to collapse, so any caught in it are in a bit of a bind. To avoid the growing chasm, a target must make a Quickness stress roll against an Ease Factor of 9. The spell effect lasts a moment, creating the stresses that then open the chasm over a few rounds. The normal forces of the earth tend to close the chasm in a week or so, but may not in some locations.
-
+##### Creeping chasm
+R: Voice, D: Mom, T: Part<br>
+Creates a chasm that runs from the ground in front of your feet towards some target within range that you designate. The chasm travels about 4 paces per round, growing wider as it travels, reaching a maximum width of 20 feet at a distance of 30 paces. The chasm is 20 to 30 feet deep, and the sides are likely to collapse, so any caught in it are in a bit of a bind. To avoid the growing chasm, a target must make a Quickness stress roll against an Ease Factor of 9. The spell effect lasts a moment, creating the stresses that then open the chasm over a few rounds. The normal forces of the earth tend to close the chasm in a week or so, but may not in some locations.<br>
 (Base 3, +2 Voice, +1 Part, +3 size, +1 fancy effect)
 
-#### EARTH SHOCK
-
-R: Voice, D: Mom, T: Part
-
-Shakes the ground in a 100 pace radius. All affected by this spell must make a Quickness - Encumbrance stress roll against an Ease Factor of 10 or fall. Apply these modifiers: standing still, +2; on solid stone, +2; moving slowly, +0; on earth, +0; running, -2; standing on a narrow bridge, -6.
-
+##### Earth shock
+R: Voice, D: Mom, T: Part<br>
+Shakes the ground in a 100 pace radius. All affected by this spell must make a Quickness - Encumbrance stress roll against an Ease Factor of 10 or fall. Apply these modifiers: standing still, +2; on solid stone, +2; moving slowly, +0; on earth, +0; running, -2; standing on a narrow bridge, -6.<br>
 (Base 3, +2 Voice, +1 Part, +4 size)
 
-THE EARTH SPLIT ASUNDER
-
-R: Voice, D: Spec, T: Part
-
-Creates a 5-foot-wide, 60-foot-long, 10-footdeep crack in the ground. It opens on one round, stays open for another round, and closes at the start of a third round, crushing all within it for +25 damage. You must maintain concentration for all three rounds, or the pit slowly closes, over an hour's time, rather than shutting quickly and violently. To avoid the pit, those in its vicinity other than the caster must make a Quickness stress roll against an Ease Factor of 9. Falling in incurs +5 damage. To escape, another such roll is made. Unless outside help is provided, people in the pit only get one chance to escape.
-
+##### The earth split asunder
+R: Voice, D: Spec, T: Part<br>
+Creates a 5-foot-wide, 60-foot-long, 10-footdeep crack in the ground. It opens on one round, stays open for another round, and closes at the start of a third round, crushing all within it for +25 damage. You must maintain concentration for all three rounds, or the pit slowly closes, over an hour's time, rather than shutting quickly and violently. To avoid the pit, those in its vicinity other than the caster must make a Quickness stress roll against an Ease Factor of 9. Falling in incurs +5 damage. To escape, another such roll is made. Unless outside help is provided, people in the pit only get one chance to escape.<br>
 (Base 3, +2 Voice, +1 Special based on Mom, +1 Part, +2 size, +1 fancy effect)
 
 #### LEVEL 75
 
-HERMES' PORTAL
-
-R: Arc. D: Year, T: Ind, Ritual
-
-Creates a magical portal through which people, animals, and objects can travel almost instantaneously. The ritual must be cast twice, simultaneously at two different locations, and after the rituals are performed, there is a magical connection between them. The magi conducting each ritual must have an Arcane Connection (such as a clod of dirt) to the other location when they are conducting the ritual. The portal is activated by some command word or ritual determined when the portal is enchanted. Inanimate things and unwilling creatures may be transmitted if someone else says the command word, and pushes the subject through.
-
+##### Hermes' portal
+R: Arc. D: Year, T: Ind, Ritual<br>
+Creates a magical portal through which people, animals, and objects can travel almost instantaneously. The ritual must be cast twice, simultaneously at two different locations, and after the rituals are performed, there is a magical connection between them. The magi conducting each ritual must have an Arcane Connection (such as a clod of dirt) to the other location when they are conducting the ritual. The portal is activated by some command word or ritual determined when the portal is enchanted. Inanimate things and unwilling creatures may be transmitted if someone else says the command word, and pushes the subject through.<br>
 (Mercurian Ritual)
 
-# Vim Spells
+---
+
+## Vim Spells
 
 Vim spells are very useful. They help you use your spells to better effect, and since using spells efficiently is what being a master magus is all about, these spells are very important. With imagination, you can use these spells to make wards, alarms, one-use magic items, and other interesting things. Many Vim spells are meant to be cast along with other spells, and modify or change their effects.
 
-Vim magic also encompasses dealing with demons. Summoning and dealing with demons is
-
-prohibited within the Order, but fighting them is allowed.
+Vim magic also encompasses dealing with demons. Summoning and dealing with demons is prohibited within the Order, but fighting them is allowed.
 
 Magi often use Vim to counteract magical phenomena. Storyguides should assign spell levels for all magical phenomena that those using Vim counterspells will have to match.
 
@@ -17547,39 +16934,7 @@ Most Vim spells are of General level, because the magic that Vim spells affect v
 
 As usual, these guidelines refer to a spell with the basic Range, Duration and Target. When changing these parameters the change in level should be taken account of before multiplying or dividing the spell level to get the effect. Thus, a version of Wind of Mundane Silence (PeVi) with Sight range would dispel a spell with a level of up to half (spell level -5 + stress die). Ten levels of the spell's power are devoted to increasing the Target to Room, and 15 to increasing the Range to Sight, and only the remaining power is available for the spell.
 
-The Individual target for a Vim spell can refer to either an individual spell, or an individual object or person, and similarly for Group. If the target is an object or person, the Vim spell will affect any suitable magic
-
-## Creo Vim Guidelines
-
-There are few Creo Vim spells known throughout the Order.
-
-Creo Vim botches often give the caster additional Warping Points, as the raw magic runs out of control.
-
-- General: Create a magical shell which looks real to Intellego spells with a level less than or equal to twice its level, plus one magnitude (this aura is generic 'magic' only — no misleading information can be supplied).
-  - Create a magical shell which prevents Intellego spells with a level less than or equal to its level, plus one magnitude from learning any details about the magic on the target.
-  - Create a magical shell which gives false information about the target to Intellego spells with level less than or equal to half its (level plus one magnitude).
-  - Refreshes all spell traces within the target that are less then the magnitude of the guideline -1, in negative magnitude. This restores them to their initial strength, generally half the magnitude of the spell (see the Intellego Vim guidelines)
-
-#### Level 3:
-
-• Taint something with magic.
-
-#### Level 4:
-
-• Create a temporary Arcane Connection to a target within range. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. It does, however, allow the magus to use other methods to boost Penetration, and to use other spells on the target even if the magus can no longer perceive it. Note that this spell must Penetrate the target's Magic Resistance, if any, like any other spell.
-
-#### Level 5:
-
-- Create a burst of magic that gives the target one Warping Point. Spells that grant Warping cannot have a duration of greater than Momentary. Note that doing this to a magus is an attack, and clearly against the Code.
-- Decrease the rate of decay of an Arcane Connection as if the connection were one step higher on the table on page 220. If this increases the Duration to Years or greater, the duration of the connection continues to be measured in a period of years. Hermetic magic can not make an Arcane Connection last indefinitely without fixing the connection as described in the Laboratory chapter (page 250). Note that the range is the range to the Arcane Connection, and you must know what you are targeting just like any other spell.
-- Level 10: Give the target two Warping Points.
-
-  - Decrease the rate of decay of an Arcane Connection as if the connection were two steps higher on the table on page 220, subject to the same limits as above.
-- Level 15: Give the target three Warping Points.
-
-  - Decrease the rate of decay of an Arcane Connection as if the connection were three steps higher on the table on page 220, subject to the same limits as above.
-
-person, not just one spell. Most such spells can only be cast on either other spells or individuals, but, if the description suggests that they could be cast on either, then they can. For example, Mirror of Opposition can only be cast on other spells, while The Phantom Gift can only be cast on people.
+The Individual target for a Vim spell can refer to either an individual spell, or an individual object or person, and similarly for Group. If the target is an object or person, the Vim spell will affect any suitable magic affecting that person, not just one spell. Most such spells can only be cast on either other spells or individuals, but, if the description suggests that they could be cast on either, then they can. For example, Mirror of Opposition can only be cast on other spells, while The Phantom Gift can only be cast on people.
 
 Spells and magical effects do not have sizes, so size modifications do not apply to the levels of Individual Target Vim spells. However, Vim spells affecting areas, or number of spells, must be increased in level for large areas or large numbers, as normal.
 
@@ -17587,89 +16942,55 @@ The guidelines below refer mainly to spells. This is for the sake of brevity, as
 
 It should be noted that Hermetic magi, and most non-Hermetic wizards, do not have Might scores, and thus are not affected by wards or other spells that act against Might scores.
 
-## Creo Vim Spells
+### Creo Vim Guidelines
+
+There are few Creo Vim spells known throughout the Order.
+
+Creo Vim botches often give the caster additional Warping Points, as the raw magic runs out of control.
+
+| Level | Creo Vim Guideline |
+| ----- | ------------------ |
+| General | • Create a magical shell which looks real to Intellego spells with a level less than or equal to twice its level, plus one magnitude (this aura is generic 'magic' only — no misleading information can be supplied)<br>• Create a magical shell which prevents Intellego spells with a level less than or equal to its level, plus one magnitude from learning any details about the magic on the target<br>• Create a magical shell which gives false information about the target to Intellego spells with level less than or equal to half its level plus one magnitude<br>• Refreshes all spell traces within the target that are less than the magnitude of the guideline –1, in negative magnitude (this restores them to their initial strength, generally half the magnitude of the spell) |
+| 3 | • Taint something with magic |
+| 4 | • Create a temporary Arcane Connection to a target within range (this Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration, but does allow the magus to use other methods to boost Penetration and to use other spells on the target even if the magus can no longer perceive it; note that this spell must Penetrate the target's Magic Resistance like any other spell) |
+| 5 | • Create a burst of magic that gives the target one Warping Point (spells that grant Warping cannot have a duration of greater than Momentary; note that doing this to a magus is an attack and clearly against the Code)<br>• Decrease the rate of decay of an Arcane Connection as if the connection were one step higher on the table on page 220 (if this increases the Duration to Years or greater, the duration continues to be measured in years; Hermetic magic cannot make an Arcane Connection last indefinitely without fixing it in the laboratory) |
+| 10 | • Give the target two Warping Points<br>• Decrease the rate of decay of an Arcane Connection as if the connection were two steps higher on the table on page 220, subject to the same limits as above |
+| 15 | • Give the target three Warping Points<br>• Decrease the rate of decay of an Arcane Connection as if the connection were three steps higher on the table on page 220, subject to the same limits as above |
+
+### Creo Vim Spells
 
 #### GENERAL
 
-RESTORE THE FADED THREADS
-
-R: Touch, D: Diam, T: Circle
-
-Once a spell trace has been found or suspected, this spell is used to make it examinable. This spell temporarily restores spell traces to a fresh state (as if they had just expired). The spell will restore spell traces of negative magnitude up to the magnitude of this spell –3. The trace must still be existent to be affected (magnitude -9 or greater).
-
-Versions of this spell also exist for all standard Targets. Diameter duration is normally long enough to conduct Intellego Vim investigations of the spell traces.
-
+##### Restore the faded threads
+R: Touch, D: Diam, T: Circle<br>
+Once a spell trace has been found or suspected, this spell is used to make it examinable. This spell temporarily restores spell traces to a fresh state (as if they had just expired). The spell will restore spell traces of negative magnitude up to the magnitude of this spell –3. The trace must still be existent to be affected (magnitude -9 or greater). Versions of this spell also exist for all standard Targets. Diameter duration is normally long enough to conduct Intellego Vim investigations of the spell traces.<br>
 (Base, +1 Touch, +1 Dia)
 
-#### SHELL OF FALSE DETERMINATIONS
-
-R: Touch, D: Mom, T: Ind, Ritual
-
-Creates a "shell" of magic on an item, helping to shield it from investigation by other magi. All attempts to investigate the magic item give false information about its powers unless half of the level of the shell is exceeded by the magus's Investigation roll.
-
+##### Shell of false determinations
+R: Touch, D: Mom, T: Ind, Ritual<br>
+Creates a "shell" of magic on an item, helping to shield it from investigation by other magi. All attempts to investigate the magic item give false information about its powers unless half of the level of the shell is exceeded by the magus's Investigation roll.<br>
 (Base effect, +1 Touch)
 
-#### SHELL OF OPAQUE MYSTERIES
-
-R: Touch, D: Mom, T: Ind, Ritual
-
-This spell is similar to Shell of False Determinations (above), but it causes all attempts to investigate the magic item to utterly fail, unless the level of the ritual is exceeded by the magus's Investigation roll. Once a magus determines the presence of a particular shell (that is, by overcoming it), it has no more power against him or her.
-
+##### Shell of opaque mysteries
+R: Touch, D: Mom, T: Ind, Ritual<br>
+This spell is similar to Shell of False Determinations (above), but it causes all attempts to investigate the magic item to utterly fail, unless the level of the ritual is exceeded by the magus's Investigation roll. Once a magus determines the presence of a particular shell (that is, by overcoming it), it has no more power against him or her.<br>
 (Base effect, +1 Touch)
 
 #### LEVEL 15
 
-#### THE PHANTOM GIFT
-
-R: Voice, D: Sun, T: Ind
-
-The target of the spell becomes tainted with magic as most magi are. Beasts and people react to the target as though he were a magus. Those who normally associate with the victim do not become hostile, but do give him or her a wider berth. The spell has no effect on those who already have The Gift, including those blessed with the Gentle Gift.
-
+##### The phantom gift
+R: Voice, D: Sun, T: Ind<br>
+The target of the spell becomes tainted with magic as most magi are. Beasts and people react to the target as though he were a magus. Those who normally associate with the victim do not become hostile, but do give him or her a wider berth. The spell has no effect on those who already have The Gift, including those blessed with the Gentle Gift.<br>
 (Base 3, +2 Voice, +2 Sun)
 
 #### LEVEL 30
 
-THE ENIGMA'S GIFT
-
-R: Voice, D: Mom, T: Ind
-
-The target of the spell gains four Warping Points (plus the normal one for being affected by a powerful supernatural effect, in most cases) and, if a Hermetic magus, must check to see whether he enters Twilight in the normal way. Although the burst of magic that causes the Warping lasts but a moment, the resulting Warping is permanent.
-
+##### The enigma's gift
+R: Voice, D: Mom, T: Ind<br>
+The target of the spell gains four Warping Points (plus the normal one for being affected by a powerful supernatural effect, in most cases) and, if a Hermetic magus, must check to see whether he enters Twilight in the normal way. Although the burst of magic that causes the Warping lasts but a moment, the resulting Warping is permanent.<br>
 (Base 20, +2 Voice)
 
-## Intellego Vim Spells
-
-#### GENERAL
-
-THE INVISIBLE EYE REVEALED
-
-R: Per, D: Conc, T: Touch
-
-The caster can feel any magical means currently being used to spy on him. The representation varies in a way that depends on the spell, but it often feels like something touching the magus's back. For example, a magus being spied upon with Enchantment of the Scrying Pool might feel wet fingers, while a magus who is being tracked by The Inexorable Search might feel a finger running over his skin. This spell detects the use of Intellego spells of up to double the level of this spell. A special spell is required because most Intellego spells are designed to be subtle, and they are more subtle at higher levels.
-
-(Base effect)
-
-#### LEVEL 2
-
-SENSE OF MAGICAL POWER
-
-R: Touch, D: Mom, T: Ind
-
-This spell tells the caster whether he is currently in a Magic aura. It does not give any further information. Other spells do the same for other kinds of aura.
-
-(Base 1, +1 Touch)
-
-#### LEVEL 5
-
-Scales of the Magical Weight
-
-R: Touch, D: Mom, T: Ind
-
-When casting this spell, you typically hold your hands straight out from your body, place a known amount of Vim vis in your left hand (usually one pawn), and then place an unknown amount of vis in your right hand. After casting the spell, you may sense how heavy the unknown vis is in relation to the known, determining the number of pawns present. If you cast the spell without anything to measure the unknown vis against, you only have a very general idea of how valuable it is. The spell cannot be used to determine the amount of raw vis invested in an enchanted item.
-
-(Base 4, +1 Touch)
-
-## Intellego Vim Guidelines
+### Intellego Vim Guidelines
 
 Since magic is a tricky thing to understand, spells that detect magic are at once difficult and important. Although demons deal in Vim, they are made of the essence of deception itself. If a demon does not wish to be detected, it cannot be (at least to the common knowledge of the Order), and for this reason there are no demon-locating magics. Magic items cannot be investigated with simple magic spells. Investigation requires that you spend at least one season in the laboratory to discover what magic an enchanted item contains (see the Laboratory chapter). A spell will suffice to tell you that an item is magical, however, and may give you some idea of its powers. Spells will never tell you how to use an item.
 
@@ -17677,9 +16998,7 @@ The base level of a spell to detect magic also gives a fairly good idea of the s
 
 Different spells may be invented to detect Faerie, Divine, or Infernal effects.
 
-Different spells may be invented to detect Faerie, Divine, or Infernal effects. Each spell only affects one realm, and storyguides may wish to disallow spells to
-
-detect the Divine or Infernal.
+Different spells may be invented to detect Faerie, Divine, or Infernal effects. Each spell only affects one realm, and storyguides may wish to disallow spells to detect the Divine or Infernal.
 
 As a general rule, residues of magic decline as follows. As soon as the magic finishes, the magnitude halves. It then drops by one for every duration of the spell that passes. Once this reaches zero, the residues decline more slowly. Residues of non-Ritual Momentary, Concentration, and Diameter Duration drop by one every month, while residues of other effects drop by one every year. A 'negative magnitude' of 10 indicates that the residue has disappeared completely, and no longer exists to be detected.
 
@@ -17691,106 +17010,65 @@ Raw vis will show up as magical, simply as raw vis, under any magical detection.
 
 Intellego Vim botches generally give false information.
 
-- **General:** Detect the traces of magic of negative magnitude up to the magnitude of the guideline used -2.
-- Level 1: Detect magic of tenth magnitude or higher.
-  - Detect the presence of a supernatural aura.
-  - Detect the presence of vis. As concentrated magic, vis is not hard to spot.
-- Level 2: Detect magic of eighth magnitude or higher.
-  - Determine the power of a supernatural aura.
-- Level 3: Detect magic of sixth magnitude or higher.
-  - Detect regio boundaries. If cast with a Vision target, this provides enough information to find a way between levels, for regiones that allow that sort of entrance. Otherwise, it reveals the presence of a regio, and possibly its rough shape.
-- Level 4: Detect magic of third magnitude or higher.
-  - Judge the amount of vis present.
-  - Discern the Art of vis.
-- Level 5: Detect any active magic.
+| Level | Intellego Vim Guideline |
+| ----- | ----------------------- |
+| General | • Detect the traces of magic of negative magnitude up to the magnitude of the guideline used – 2 |
+| 1 | • Detect magic of tenth magnitude or higher<br>• Detect the presence of a supernatural aura<br>• Detect the presence of vis (as concentrated magic, vis is not hard to spot) |
+| 2 | • Detect magic of eighth magnitude or higher<br>• Determine the power of a supernatural aura |
+| 3 | • Detect magic of sixth magnitude or higher<br>• Detect regio boundaries (if cast with a Vision target, this provides enough information to find a way between levels for regiones that allow that sort of entrance; otherwise, it reveals the presence of a regio, and possibly its rough shape) |
+| 4 | • Detect magic of third magnitude or higher<br>• Judge the amount of vis present<br>• Discern the Art of vis |
+| 5 | • Detect any active magic |
 
-Muto Vim spells affect other spells, and can also affect spell-like effects instilled in enchanted devices, as long as certain conditions are met.
+### Intellego Vim Spells
 
-A Muto Vim effect can be put into a magical item, as long as it affects another power instilled in the item. If spell-like powers in a magical item can be manipulated by Muto Vim effects, then spell-like powers can also be manipulated by Muto Vim spells. The reverse is not true; a general purpose Muto Vim spell-like effect cannot be instilled in a magical item with the intent to affect spells that the wielder desires to target. Muto Vim spell-like effects can only affect other spell-like effects in the same magical item.
+#### GENERAL
 
-If the magus casting the Muto Vim spell is the same person activating a magical item, then the standard rules for casting a Muto Vim spell apply. The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9.
+##### The invisible eye revealed
+R: Per, D: Conc, T: Touch<br>
+The caster can feel any magical means currently being used to spy on him. The representation varies in a way that depends on the spell, but it often feels like something touching the magus's back. For example, a magus being spied upon with Enchantment of the Scrying Pool might feel wet fingers, while a magus who is being tracked by The Inexorable Search might feel a finger running over his skin. This spell detects the use of Intellego spells of up to double the level of this spell. A special spell is required because most Intellego spells are designed to be subtle, and they are more subtle at higher levels.<br>
+(Base effect)
 
-If the magus is not the same person activating the magical item, the rules governing a Muto Vim spell cast on another magus' spell apply. If an ally activates the magical item, and the magus and item-activator have worked out the timing issues before hand, the two are considered to be cooperating. The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9.
+#### LEVEL 2
 
-If the caster and the item-activator have not worked out the timing issues beforehand, then they are not cooperating. An enemy using a magical item falls into this category. In this case, the magus must fast cast the Muto Vim spell. He must also beat the magical item's Penetration with his Muto Vim spell's Penetration. Because most Muto Vim spells are Form specific, he must also correctly identify the Form of the device's spelllike effect. Use the Determining Form of Magical Effect formula (page 217) to determine whether the magus is successful. If the magus correctly identifies the Form, succeeds with a fast cast defense roll against the item-activator's Initiative roll, and casts his spell with higher Penetration than the device's Penetration, his Muto Vim spell affects the device's spell-like effect.
+##### Sense of magical power
+R: Touch, D: Mom, T: Ind<br>
+This spell tells the caster whether he is currently in a Magic aura. It does not give any further information. Other spells do the same for other kinds of aura.<br>
+(Base 1, +1 Touch)
 
-All other Muto Vim spell rules apply. The magical item must be Hermetic. The Muto Vim spell can have Range Touch if the magus is holding the magical item, but must have Range Voice, at least, if someone else is holding the magical item or he triggers it from a distance.
+#### LEVEL 5
 
-SENSE THE NATURE OF VIS
+##### Scales of the Magical Weight
+R: Touch, D: Mom, T: Ind<br>
+When casting this spell, you typically hold your hands straight out from your body, place a known amount of Vim vis in your left hand (usually one pawn), and then place an unknown amount of vis in your right hand. After casting the spell, you may sense how heavy the unknown vis is in relation to the known, determining the number of pawns present. If you cast the spell without anything to measure the unknown vis against, you only have a very general idea of how valuable it is. The spell cannot be used to determine the amount of raw vis invested in an enchanted item.<br>
+(Base 4, +1 Touch)
 
-R: Touch, D: Mom, T: Ind
-
-You can tell what Art a supply of raw vis is connected to. To you, the vis appears to glow with an aura that is appropriate to the Technique or Form that the vis is associated with. Creo is white, Intellego gold, Muto constantly fluctuating, Perdo black, Rego purple, Animal brown, Aquam blue, Auram violet, Corpus dark red, Herbam green, Imaginem pearly blue, Ignem bright red, Mentem orange, Terram dark brown, and Vim silver. Some of the colors are very similar, but are easy to distinguish if the item is held steadily and studied for a few seconds.
-
+##### Sense the nature of vis
+R: Touch, D: Mom, T: Ind<br>
+You can tell what Art a supply of raw vis is connected to. To you, the vis appears to glow with an aura that is appropriate to the Technique or Form that the vis is associated with. Creo is white, Intellego gold, Muto constantly fluctuating, Perdo black, Rego purple, Animal brown, Aquam blue, Auram violet, Corpus dark red, Herbam green, Imaginem pearly blue, Ignem bright red, Mentem orange, Terram dark brown, and Vim silver. Some of the colors are very similar, but are easy to distinguish if the item is held steadily and studied for a few seconds.<br>
 (Base 4, +1 Touch)
 
 #### LEVEL 20
 
-PIERCING THE FAERIE VEIL
-
-R: Per, D: Conc, T: Vision.
-
-This spell allows the caster to see through the boundaries of Faerie regiones, and therefore divine the path to the next level (more details about regiones are given on page 420). There are separate but related spells for Divine, Magical and Infernal regiones.
-
+##### Piercing the faerie veil
+R: Per, D: Conc, T: Vision<br>
+This spell allows the caster to see through the boundaries of Faerie regiones, and therefore divine the path to the next level (more details about regiones are given on page 420). There are separate but related spells for Divine, Magical and Infernal regiones.<br>
 (Base 3, +1 Conc, +4 Vision)
 
 #### LEVEL 30
 
-Sense of the Lingering Magic
-
-R: Per, D: Conc, T: Hearing
-
-This spell can detect the presence of many magical residues, even from weak spells, as well as giving the presence and power of active spells. It does not grant any information apart from the power, however. The residue must be of at least zero magnitude.
-
+##### Sense of the Lingering Magic
+R: Per, D: Conc, T: Hearing<br>
+This spell can detect the presence of many magical residues, even from weak spells, as well as giving the presence and power of active spells. It does not grant any information apart from the power, however. The residue must be of at least zero magnitude.<br>
 (Base 10, +1 Conc, +3 Hearing)
 
 #### LEVEL 40
 
-SIGHT OF THE ACTIVE MAGICS
-
-R: Per, D: Conc, T: Vision
-
-You can see spells as "auras" around things and people. The color of the aura indicates the Form of the spell working on a subject, the color matching the appropriate one described in Sense the Nature of Vis (page 367). The Technique of a spell working on the subject is recognized by the aura's shape, not color. Creo and Rego are both very orderly auras. Muto is constantly shifting, and Intellego usually is as well, but more slowly. A Perdo aura is usually in fragments. Thus, a magus with both Endurance of the Berserkers and The Invisible Eye Revealed upon him has a very controlled, orderly aura of deep red around his or her entire body, and the magus's eyes are surrounded with slowly shifting auras of a silvery hue. You should be warned: Imaginem or Vim spells may be used to disguise auras. Also note that this spell will detect the residues of some spells.
-
+##### Sight of the active magics
+R: Per, D: Conc, T: Vision<br>
+You can see spells as "auras" around things and people. The color of the aura indicates the Form of the spell working on a subject, the color matching the appropriate one described in Sense the Nature of Vis (page 367). The Technique of a spell working on the subject is recognized by the aura's shape, not color. Creo and Rego are both very orderly auras. Muto is constantly shifting, and Intellego usually is as well, but more slowly. A Perdo aura is usually in fragments. Thus, a magus with both Endurance of the Berserkers and The Invisible Eye Revealed upon him has a very controlled, orderly aura of deep red around his or her entire body, and the magus's eyes are surrounded with slowly shifting auras of a silvery hue. You should be warned: Imaginem or Vim spells may be used to disguise auras. Also note that this spell will detect the residues of some spells.<br>
 (Base 5, +1 Conc, +4 Vision, +2 Techniques and Forms)
 
-## Muto Vim Spells
-
-#### GENERAL
-
-MIRROR OF OPPOSITION (FORM)
-
-R: Voice, D: Mom, T: Ind
-
-Cast on another spell while the other spell is being cast, this causes the targeted spell to have the exact opposite of its normal effects. This effect works on spells up to half the (level – 5) of the Mirror of Opposition spell. The effects of the inversion are up to the storyguide to determine, but the target of the inverted spell usually remains the same as that of the original spell. The inverted spell cannot overcome any limitations of Hermetic magic. For example, if a Momentary Perdo Corpus spell is cast, the inversion is probably a Creo Corpus spell of Sun duration. There are ten versions of this spell, each affecting spells of one of the Hermetic forms.
-
-(Base effect, +2 Voice)
-
-#### SHROUD MAGIC
-
-R: Touch, D: Mom, T: Ind
-
-This spell allows a magus to suppress or alter the sigil in a spell that is currently being cast. The spell to be shrouded can be up to double the Shroud's level, and *Shroud Magic* has the same sigil (or lack of) as that given to the shrouded spell.
-
-(Base effect, +1 Touch)
-
-#### THE SORCERER'S FORK
-
-R: Touch, D: Mom, T: Ind
-
-This spell splits another spell (whose level must be less than or equal to the level of this spell) into two or more identical spells of reduced power, which may be cast against two or more separate targets. Each resulting spell has the same Range and Target (target category, that is — the actual target may be different) as the original spell, but the power of the effect is divided by the number of resulting split spells. The precise effect is at storyguide discretion. One casting die is rolled, and the Penetration total is split between the spells. *The Sorcerer's Fork* must be equal to or greater than the level of the spell that is to be split. The split spell has a targeting penalty as for multiple casting (see page 225). If the casting magus is not cooperating, all the split spells will strike the original target.
-
-(Base effect, +1 Touch)
-
-#### Wizard's Boost (Form)
-
-R: Touch, D: Mom, T: Ind
-
-You cast this spell as another spell of a level less than or equal to this one is cast. The effect of the other spell increases 5 levels in power, but not past the level of the Wizard's Boost. The effects of the extra 5 levels of power are for the storyguide to determine. A Wizard's Boost may never affect a single spell more than once. There are ten versions of this spell, one for each Hermetic Form.
-
-(Base effect, +1 Touch)
-
-## Muto Vim Guidelines
+### Muto Vim Guidelines
 
 These spells let you change other spells.
 
@@ -17812,187 +17090,143 @@ It is not possible, for reasons that Hermetic theorists do not well understand, 
 
 If the parameters of an effect after it has been changed by a Muto Vim spell would normally require a Ritual, then at least one of the original spell and the Muto Vim spell must be a Ritual. For example, a Formulaic or Spontaneous Muto Vim effect on a Formulaic spell cannot produce an effect that would normally require a Ritual.
 
-Muto Vim botches can have any conceivable effect, as they alter the
-
-other spell in unpredictable ways.
+Muto Vim botches can have any conceivable effect, as they alter the other spell in unpredictable ways.
 
 Muto Vim spells work by altering the magical energies that create the spell as it is being cast. The spell is the result of the combination of the base casting and the Muto Vim effect, and has its effect once both the casting and the Muto Vim effect have finished. This means that a Muto Vim spell must have a duration at least as long as the casting of the target spell, but need not last for as long as the spell itself. For normally-cast formulaic spells, a Momentary Duration is sufficient, but if the casting time is longer for any reason, the Muto Vim spell must also have a longer Duration; Sun is sufficient for any practical Ritual.
 
-An increase in power or parameters may not raise the level of the
+An increase in power or parameters may not raise the level of the target spell above the level of the Muto Vim spell.
 
-target spell above the level of the Muto Vim spell.
+| Level | Muto Vim Guideline |
+| ----- | ------------------ |
+| General | • Superficially change a spell of less than or equal to twice the (level + 1 magnitude) of the Vim spell (this may not change the primary effect of the spell, or its power)<br>• Significantly change a spell of less than or equal to the level + 1 magnitude of the Vim spell (this may not change either the Technique or Form of the target spell; a change in power of plus or minus one magnitude is a significant change, as is a change of target if the target was possible for the original spell)<br>• Totally change a spell of less than or equal to half the (level + 1 magnitude) of the Vim spell (this may change the Technique, Form, or both of the target spell, and needs no requisites for those Arts; the Vim spell affects the structure of the spell, not the things that the spell targets; a change in power of up to two magnitudes is a total change; any greater change requires either Creo or Perdo to create more magical energy or destroy some) |
 
-#### General:
+> ### Muto Vim Spells & Enchanted Devices
+>
+> Muto Vim spells affect other spells, and can also affect spell-like effects instilled in enchanted devices, as long as certain conditions are met.
+>
+> A Muto Vim effect can be put into a magical item, as long as it affects another power instilled in the item. If spell-like powers in a magical item can be manipulated by Muto Vim effects, then spell-like powers can also be manipulated by Muto Vim spells. The reverse is not true; a general purpose Muto Vim spell-like effect cannot be instilled in a magical item with the intent to affect spells that the wielder desires to target. Muto Vim spell-like effects can only affect other spell-like effects in the same magical item.
+>
+> If the magus casting the Muto Vim spell is the same person activating a magical item, then the standard rules for casting a Muto Vim spell apply. The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9.
+>
+> If the magus is not the same person activating the magical item, the rules governing a Muto Vim spell cast on another magus' spell apply. If an ally activates the magical item, and the magus and item-activator have worked out the timing issues before hand, the two are considered to be cooperating. The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9.
+> 
+> If the caster and the item-activator have not worked out the timing issues beforehand, then they are not cooperating. An enemy using a magical item falls into this category. In this case, the magus must fast cast the Muto Vim spell. He must also beat the magical item's Penetration with his Muto Vim spell's Penetration. Because most Muto Vim spells are Form specific, he must also correctly identify the Form of the device's spelllike effect. Use the Determining Form of Magical Effect formula (page 217) to determine whether the magus is successful. If the magus correctly identifies the Form, succeeds with a fast cast defense roll against the item-activator's Initiative roll, and casts his spell with higher Penetration than the device's Penetration, his Muto Vim spell affects the device's spell-like effect.
+>
+> All other Muto Vim spell rules apply. The magical item must be Hermetic. The Muto Vim spell can have Range Touch if the magus is holding the magical item, but must have Range Voice, at least, if someone else is holding the magical item or he triggers it from a distance.
 
-- Superficially change a spell of less than or equal to twice the (level + 1 magnitude) of the Vim spell. This may not change the primary effect of the spell, or its power.
-- Significantly change a spell of less than or equal to the level + 1 magnitude of the Vim spell. This may not change either the Technique or Form of the target spell. A change in power of plus or minus one magnitude is a significant change, as is a change of target, if the target was possible for the original spell.
-- Totally change a spell of less than or equal to half the (level + 1 magnitude) of the Vim spell. This may change the Technique, Form, or both of the target spell, and needs no requisites for those Arts. The Vim spell affects the structure of the spell, not the things that the spell targets. A change in power of up to two magnitudes is a total change. Any greater change requires either Creo or Perdo to create more magical energy or destroy some.
+### Muto Vim Spells
 
-## Perdo Vim Guidelines
+#### GENERAL
+
+##### Mirror of opposition (form)
+R: Voice, D: Mom, T: Ind<br>
+Cast on another spell while the other spell is being cast, this causes the targeted spell to have the exact opposite of its normal effects. This effect works on spells up to half the (level – 5) of the Mirror of Opposition spell. The effects of the inversion are up to the storyguide to determine, but the target of the inverted spell usually remains the same as that of the original spell. The inverted spell cannot overcome any limitations of Hermetic magic. For example, if a Momentary Perdo Corpus spell is cast, the inversion is probably a Creo Corpus spell of Sun duration. There are ten versions of this spell, each affecting spells of one of the Hermetic forms.<br>
+(Base effect, +2 Voice)
+
+##### Shroud magic
+R: Touch, D: Mom, T: Ind<br>
+This spell allows a magus to suppress or alter the sigil in a spell that is currently being cast. The spell to be shrouded can be up to double the Shroud's level, and *Shroud Magic* has the same sigil (or lack of) as that given to the shrouded spell.<br>
+(Base effect, +1 Touch)
+
+##### The sorcerer's fork
+R: Touch, D: Mom, T: Ind<br>
+This spell splits another spell (whose level must be less than or equal to the level of this spell) into two or more identical spells of reduced power, which may be cast against two or more separate targets. Each resulting spell has the same Range and Target (target category, that is — the actual target may be different) as the original spell, but the power of the effect is divided by the number of resulting split spells. The precise effect is at storyguide discretion. One casting die is rolled, and the Penetration total is split between the spells. *The Sorcerer's Fork* must be equal to or greater than the level of the spell that is to be split. The split spell has a targeting penalty as for multiple casting (see page 225). If the casting magus is not cooperating, all the split spells will strike the original target.<br>
+(Base effect, +1 Touch)
+
+##### Wizard's Boost (Form)
+R: Touch, D: Mom, T: Ind<br>
+You cast this spell as another spell of a level less than or equal to this one is cast. The effect of the other spell increases 5 levels in power, but not past the level of the Wizard's Boost. The effects of the extra 5 levels of power are for the storyguide to determine. A Wizard's Boost may never affect a single spell more than once. There are ten versions of this spell, one for each Hermetic Form.<br>
+(Base effect, +1 Touch)
+
+##### Wizard's Communion
+R: Voice, D: Mom, T: Group<br>
+This spell lets magi combine their power to cast spells. The group of magi work together to cast a specified spell through the unified power of the Communion. Only one extra magus may join the Communion for each 5 levels of the specified spell being cast. One of the magi in the group must also know the specified spell, or cast it from a Casting Tablet (page 263). Only one magus in the group needs to cast the spell. The magus who casts the Wizard's Communion need not be the one who casts the main spell, and normally it is better for them to be different. More than one magus in the group may cast this spell. In this case, add the total levels of successfully cast Wizard's Communion to get the effective level of the Wizard's Communion for this casting. This combined total must be at least twice the level of the specified spell being cast. One magus must roll for success as if casting the specified spell himself. However, the target number for the spellcasting roll is the spell's level divided by the number of magi participating in the Communion. So if five magi participate to cast a 50th level spell, the caster would have to successfully cast a 10th level spell — with all the relevant requisites, of course. This method of casting adds one botch die per magus participating. If the spell botches, all participants gain Warping Points and must check for Twilight if they gain two or more. Communion is a remnant of Mercurian rituals, so it does not perfectly fit into the guidelines of Hermetic theory.<br>
+(Base effect)
+
+##### Wizard's Reach (Form)
+R: Voice, D: Mom, T: Ind<br>
+The range of the targeted spell increases by one category. You may not affect a single spell more than once with this spell, and the targeted spell must be at least one magnitude lower in level than this spell. There are ten versions of *Wizard's Reach*, one for each Form.<br>
+(Base effect, +2 Voice)
+
+##### Wizard's vigil
+R: Voice, D: Sun, T: Group<br>
+This spell functions as *Wizard's Communion*, except that the longer duration allows it to be used with Ritual spells. For the purposes of its effect, treat it as a *Wizard's Communion* of two magnitudes lower.<br>
+
+### Perdo Vim Guidelines
 
 Most Perdo Vim spells are specific to one of the four Supernatural Realms. If you want to cast a Perdo Vim spell on a character who has Magic Resistance, you must overcome the Magic Resistance.
 
-General:
+| Level | Perdo Vim Guideline |
+| ----- | ------------------- |
+| General | • Make something (including a magical item) seem non-magical to any Intellego spell of less than or equal to twice the (level + 2 magnitudes) of this spell<br>• Dispel effects of a specific type with a level less than or equal to the level + 4 magnitudes of the Vim spell + a stress die (no botch); a specific type could be Hermetic Terram magic, or Shamanic spirit control magic; a magus must have some knowledge of a type of magic to invent a spell to affect it<br>• Reduce a target's Might Score by the level of the spell + 2 magnitudes, as long as the spell penetrates the creature's Magic Resistance<br>• Reduce a target's Might Pool by the level of the spell + 2 magnitudes, as long as the spell penetrates the creature's Magic Resistance<br>• Dispel any supernatural effect of one realm with a level less than or equal to half the (level + 4 magnitudes + a stress die (no botch)) of the Vim spell<br>• Reduce the casting total for all supernatural powers of one realm cast by the target by half the (level + 2 magnitudes) of the spell (if two or more such spells affect one target, only the highest has any effect; the spell must penetrate the target's Magic Resistance)<br>• Reduce the casting total for a specific type of supernatural effect cast by the target by the (level + 2 magnitudes) of the spell (if two or more such spells affect one target, only the highest has any effect; the spell must penetrate the target's Magic Resistance; a maga must be familiar with a type of supernatural effect to invent a spell to affect it)<br>• Age a spell trace to a negative magnitude equal to the guideline used (for example, –2 for a level 10 guideline)<br>• Dispel a Hermetic enchantment with a level less than the guideline level used + 1 magnitude + a stress die (no botch); the spell must be a Ritual<br>• Dispel a specific type of enchantment with a level less than twice the guideline level used + 2 magnitudes + a stress die (no botch); the spell must specify a particular Hermetic Form or a specific type of enchantment such as Talismans, Familiars or Longevity Rituals; spell must be a Ritual<br>• Dispel Hermetic Form Resistance aligned to a given Form with a level less than or equal to the level of the Vim spell + 2 magnitudes + a stress die (no botch); spell must penetrate the Vim-based Magic Resistance of the target<br>• Dispel Magic Resistance from a Might score aligned to one Realm with a level less than or equal to the level of the Vim spell + 4 magnitudes + a stress die (no botch); spell must penetrate the Vim-based Magic Resistance of the target<br>• Destroy an amount of raw vis equal to the level of the spell |
+| 5 | • Reduce the duration of an Arcane Connection by one step on the table on page 220 (if this reduces the duration below Hours, the connection expires immediately; does not work on connections that naturally have Indefinite duration, but can make a fixed connection expire; note that the Range is the range to the Arcane Connection) |
+| 10 | • Reduce the duration of an Arcane Connection by two steps on the table on page 220, subject to the same limits as above |
+| 15 | • Reduce the duration of an Arcane Connection by three steps on the table on page 220, subject to the same limits as above |
+| 20 | • Reduce the duration of an Arcane Connection by four steps on the table on page 220, subject to the same limits as above |
+| 25 | • Reduce the duration of an Arcane Connection by five steps on the table on page 220, subject to the same limits as above |
+| 30 | • Reduce the duration of an Arcane Connection by six steps on the table on page 220, subject to the same limits as above (this level of effect is sufficient to make almost any Arcane Connection expire instantly) |
 
-- Make something (including a magical item) seem non-magical to any Intellego spell of less than or equal to twice the (level + 2 magnitudes) of this spell.
-- Dispel effects of a specific type with a level less than or equal to the level + 4 magnitudes of the Vim spell + a stress die (no botch). A specific type could be Hermetic Terram magic, or Shamanic spirit control magic. A magus must have some knowledge of a type of magic (although not necessarily ability to use it) to invent a spell to affect it. All Hermetic magi have some knowledge of all Hermetic magic.
-- Reduce a target's Might Score by the level of the spell + 2 magnitudes, as long as the spell penetrates the creature's Magic Resistance.
-- Reduce a target's Might Pool by the level of the spell + 2 magnitudes, as long as the spell penetrates the creature's Magic Resistance.
-- Dispel any supernatural effect of one realm with a level less than or equal to half the (level + 4 magnitudes + a stress die (no botch)) of the Vim spell.
-- Reduce the casting total for all supernatural powers of one realm cast by the target by half the (level + 2 magnitudes) of the spell. If two or more such spells affect one target, only the highest has any effect: the penalties do not add. The spell must penetrate the target's Magic Resistance in order to have any effect.
-- Reduce the casting total for a specific type of supernatural effect (such as Hermetic magic) cast by the target by the (level + 2 magnitudes) of the spell. If two or more such spells affect one target, only the highest has any effect: the penalties do not add. The spell must penetrate the target's Magic Resistance in order to have any effect. A maga must be familiar with a type of supernatural effect to invent a spell to affect it.
-- Age a spell trace to a negative magnitude equal to the guideline used (for example, -2 for a level 10 guideline).
-- Dispel a Hermetic enchantment with a level less than the guideline level used + 1 magnitude + a stress die (no botch). The spell must be a Ritual.
-- Dispel a specific type of enchantment with a level less than twice the guideline level used + 2 magnitudes + a stress die (no botch). The spell must specify a particular Hermetic Form or a specific type of enchantment, such as Talismans, Familiars or Longevity Rituals. More general enchantments do not qualify. Spell must be a Ritual.
-- Dispel Hermetic Form Resistance aligned to a given Form with a level less than or equal to the level of the Vim spell + 2 magnitudes + a stress die (no botch). Spell must penetrate the Vim-based Magic Resistance of the target.
-- Dispel Magic Resistance from a Might score aligned to one Realm with a level less than or equal to the level of the Vim spell + 4 magnitudes + a stress die (no botch). Spell must penetrate the Vim-based Magic Resistance of the target.
-- Destroy an amount of raw vis equal to the level of the spell.
-
-Level 5:
-
-• Reduce the duration of an Arcane Connection by one step on the table on page 220. If this reduces the duration below Hours, the connection expires immediately. Does not work on connections that naturally have Indefinite duration, but can make an Arcane Connection that was fixed in the laboratory expire. Note that the Range is the range to the Arcane Connection, and you must know what you are targeting, just as for any other spell.
-
-Level 10:
-
-• Reduce the duration of an Arcane Connection by two steps on the table on page 220, subject to the same limits as above.
-
-Level 15:
-
-• Reduce the duration of an Arcane Connection by three steps on the table on page 220, subject to the same limits as above.
-
-Level 20:
-
-Reduce the duration of an Arcane Connection by four steps on the table on page 220, subject to the same limits as above.
-
-Level 25:
-
-• Reduce the duration of an Arcane Connection by five steps on the table on page 220, subject to the same limits as above.
-
-Level 30:
-
-• Reduce the duration of an Arcane Connection by six steps on the table on page 220, subject to the same limits as above. This level of effect is sufficient to make almost any Arcane Connection expire instantly.
-
-#### Wizard's Communion
-
-R: Voice, D: Mom, T: Group
-
-This spell lets magi combine their power to cast spells. The group of magi work together to cast a specified spell through the unified power of the Communion. Only one extra magus may join the Communion for each 5 levels of the specified spell being cast. One of the magi in the group must also know the specified spell, or cast it from a Casting Tablet (page 263).
-
-Only one magus in the group needs to cast the spell. The magus who casts the Wizard's Communion need not be the one who casts the main spell, and normally it is better for them to be different. More than one magus in the group may cast this spell. In this case, add the total levels of successfully cast Wizard's Communion to get the effective level of the Wizard's Communion for this casting. This combined total must be at least twice the level of the specified spell being cast.
-
-One magus must roll for success as if casting the specified spell himself. However, the target number for the spellcasting roll is the spell's level divided by the number of magi participating in the Communion. So if five magi participate to cast a 50th level spell, the caster would have to successfully cast a 10th level spell — with all the relevant requisites, of course. This method of casting adds one botch die per magus participating. If the spell botches, all participants gain Warping Points and must check for Twilight if they gain two or more.
-
-Communion is a remnant of Mercurian rituals, so it does not perfectly fit into the guidelines of Hermetic theory.
-
-(Base effect)
-
-#### Wizard's Reach (Form)
-
-R: Voice, D: Mom, T: Ind
-
-The range of the targeted spell increases by one category. You may not affect a single spell more than once with this spell, and the targeted spell must be at least one magnitude lower in level than this spell. There are ten versions of *Wizard's Reach*, one for each Form.
-
-(Base effect, +2 Voice)
-
-WIZARD'S VIGIL
-
-R: Voice, D: Sun, T: Group
-
-This spell functions as *Wizard's Communion*, except that the longer duration allows it to be used with Ritual spells. For the purposes of its effect, treat it as a *Wizard's Communion* of two magnitudes lower.
+### Perdo Vim Spells
 
 #### GENERAL
 
-DEMON'S ETERNAL OBLIVION
-
-R: Voice, D: Mom, T: Ind
-
-Weakens and possibly destroys a creature with Infernal Might. If the spell penetrates the creature's Magic Resistance, the creature loses Might Score equal to the spell's level.
-
+##### Demon's eternal oblivion
+R: Voice, D: Mom, T: Ind<br>
+Weakens and possibly destroys a creature with Infernal Might. If the spell penetrates the creature's Magic Resistance, the creature loses Might Score equal to the spell's level.<br>
 (Base effect, +2 Voice)
 
-#### DISENCHANT
-
-R: Touch, D: Mom,
-
-T: Ind, Ritual
-
-You make a Hermetic magic item lose all its powers permanently if the level of this spell + a stress die (no botch) equals or exceeds the highest level of the enchantments in the item. The enchantment is utterly destroyed, as is all of the vis that was used in the magic item. The object left is in all ways a mundane item, but could be invested with enchantments again at a later time.
-
+##### Disenchant
+R: Touch, D: Mom, T: Ind, Ritual<br>
+You make a Hermetic magic item lose all its powers permanently if the level of this spell + a stress die (no botch) equals or exceeds the highest level of the enchantments in the item. The enchantment is utterly destroyed, as is all of the vis that was used in the magic item. The object left is in all ways a mundane item, but could be invested with enchantments again at a later time.<br>
 (Base effect, +1 Touch)
 
-#### Masking the Odor of Magic
-
-R: Touch, D: Sun, T: Ind
-
-Prevents the detection of a magic spell, or of a magic power in an item or being, by InVi magic, unless the level of the InVi spell exceeds twice the level of this spell – 5 (for example, exceeds 20 for a level 15 version).
-
+##### Masking the Odor of Magic
+R: Touch, D: Sun, T: Ind<br>
+Prevents the detection of a magic spell, or of a magic power in an item or being, by InVi magic, unless the level of the InVi spell exceeds twice the level of this spell – 5 (for example, exceeds 20 for a level 15 version).<br>
 (Base effect, +1 Touch, +2 Sun)
 
-#### Unravelling the Fabric of (Form)
-
-R: Voice, D: Mom, T: Ind
-
-This spell will cancel the effects of any one spell of a specified Form whose level is less than or equal to (spell level + 10 + stress die (no botch)). There are 10 variants that cover each Hermetic Form, and a number of much rarer
-
-variants for different kinds of non-Hermetic magic.
-
+##### Unravelling the Fabric of (Form)
+R: Voice, D: Mom, T: Ind<br>
+This spell will cancel the effects of any one spell of a specified Form whose level is less than or equal to (spell level + 10 + stress die (no botch)). There are 10 variants that cover each Hermetic Form, and a number of much rarer variants for different kinds of non-Hermetic magic.<br>
 (Base effect, +2 Voice)
 
-#### WIND OF MUNDANE SILENCE
-
-R: Voice, D: Mom, T: Room
-
-You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of vour spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."
-
+##### Wind of mundane silence
+R: Voice, D: Mom, T: Room<br>
+You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of vour spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."<br>
 (Base effect, +2 Voice, +2 Room)
 
-#### GENERAL
-
-Aegis of the Hearth
-
-R: Touch, D: Year,
-
-T: Bound, Ritual
-
-This ritual protects a covenant in a way similar to the way in which a Parma Magica protects a magus. It provides very strong protection against supernatural effects and creatures that originate from outside the boundary of the Aegis, and much weaker and less consistent protection against supernatural effects originating within the Aegis. The ritual also allows certain individuals to be excluded from the effects of the Aegis, so that it does not hinder their supernatural powers at all. These individuals are referred to as "natives" of the Aegis in this description, and other individuals. and the effects they create, are referred to as "foreign". "Native" and "foreign" are determined for a particular casting of an Aegis. Each casting of Aegis of the Hearth determines who and what is native and foreign without reference to any
-
-## Rego Vim Guidelines
+### Rego Vim Guidelines
 
 Rego Vim spells repel demons and other supernatural creatures. Theoretically, it is possible to conjure and control demons through Rego Vim spells, but this knowledge and its use are forbidden by the Hermetic Code. Any who find and dare to use this knowledge face dangers from both the beings they deal with and those in the Order of Hermes who strongly object to such practices.
 
 Rego Vim would also be the combination of Arts that granted Magic Resistance, but not even Bonisagus was able to turn Parma Magica into a spell. Aegis of the Hearth is the best that has been managed, and that spell is not fully integrated into Hermetic theory.
 
-General:
+| Level | Rego Vim Guideline |
+| ----- | ------------------ |
+| General | • Ward against all supernatural beings from one realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell (Touch, Ring, Circle)<br>• Sustain or suppress a spell you have cast whose level is less than or equal to the level + 2 magnitudes of the Vim spell (this cannot make a spell last longer than it could have naturally, so the sustaining version is only useful with Concentration Duration among standard Hermetic Durations; a suppressed spell still ends when its original duration expires)<br>• Create a conduit or container for spells with level less than or equal to the level + 5 magnitudes of the Vim spell (a conduit puts you in mystical contact with the target at effective Touch range, while a container holds a spell for a specific length of time before releasing it)<br>• Sustain or suppress a spell cast by another with level less than or equal to half the (level + 5 magnitudes) of the Vim spell (this guideline may target the spell itself or the caster of the spells)<br>• Sustain or suppress a spell or spells of a specific type cast by another with level less than the level + 2 magnitudes of the Vim spell (examples of specific types include Hermetic Terram magic and Shamanic spirit control magic; this guideline may target the spell itself or the caster of the spells) |
+| 5 | • Control any disembodied spirit associated with one of the four supernatural realms (a different spell is needed for each realm) |
+| 10 | • Move raw vis from one physical object to another, without needing a laboratory |
+| 15 | • Summon any disembodied spirit associated with one of the four supernatural realms (a different spell is needed for each realm) |
 
-- Ward against all supernatural beings from one realm (Divine, Faerie, Infernal, or Magic) with Might less than or equal to the level of the spell. (Touch, Ring, Circle)
-- Sustain or suppress a spell you have cast whose level is less than or equal to the level + 2 magnitudes of the Vim spell. This, and the similar guidelines below, cannot make a spell last longer than it could have naturally, and so the sustaining version is only useful with Concentration Duration, among the standard Hermetic Durations. Similarly, a spell that has been suppressed still ends when its original duration expires.
-- Create a conduit or container for spells with level less than or equal to the level + 5 magnitudes of the Vim spell. A conduit puts you in mystical contact with the target (effective Touch range), while a container will hold a spell for a specific length of time before releasing it.
-- Sustain or suppress a spell cast by another with level less than or equal to half the (level + 5 magnitudes) of the Vim spell. This guideline may be used to target the spell itself or the caster of the spells.
-- Sustain or suppress a spell or spells of a specific type cast by another with level less than the level + 2 magnitudes of the Vim spell. Examples of specific types include Hermetic Terram magic and Shamanic spirit control magic. This guideline may be used to target the spell itself or the caster of the spells.
+### Rego Vim Spells
 
-Level 5:
+#### GENERAL
 
-- Control any disembodied spirit associated with one of the four supernatural realms. (A different spell is needed for each realm.)
-- Level 10: Move raw vis from one physical object to another, without needing a laboratory.
-- Level 15: Summon any disembodied spirit associated with one of the four supernatural realms. (A different spell is needed for each realm.)
-
-other Aegis, even if it is a new Aegis being cast, by the same group of magi on the same boundary, to replace their covenant's old Aegis.
+##### Aegis of the Hearth
+R: Touch, D: Year, T: Bound, Ritual<br>
+This ritual protects a covenant in a way similar to the way in which a Parma Magica protects a magus. It provides very strong protection against supernatural effects and creatures that originate from outside the boundary of the Aegis, and much weaker and less consistent protection against supernatural effects originating within the Aegis. The ritual also allows certain individuals to be excluded from the effects of the Aegis, so that it does not hinder their supernatural powers at all. These individuals are referred to as "natives" of the Aegis in this description, and other individuals. and the effects they create, are referred to as "foreign". "Native" and "foreign" are determined for a particular casting of an Aegis. Each casting of Aegis of the Hearth determines who and what is native and foreign without reference to any other Aegis, even if it is a new Aegis being cast, by the same group of magi on the same boundary, to replace their covenant's old Aegis.
 
 No foreign supernatural creature with Might, of any type, can cross the boundary of the Aegis unless its Might exceeds the level of the Aegis. The Aegis of the Hearth must Penetrate the creature's Magic Resistance in order to have this effect. A foreign supernatural creature that is within the Aegis when it is created is not expelled, although it does suffer the limits to its powers described later. If the creature were to leave the Aegis, it would need to have a higher Might than the Aegis, or resist the Aegis, in order to enter again. A spirit with Might that is capable of possessing another creature may enter the Aegis inside that creature, as long as it remains entirely passive. It is aware of what is going on, but cannot act in any way, including to end the possession. If the vessel becomes a native of the Aegis, the possessing spirit also does. The spirit can, however, have its invitation revoked (see later) separately from that of its vessel, if the person revoking the invitation knows that the spirit is there.
 
 Any foreign supernatural effect that originates from outside the Aegis and would affect anything inside the Aegis must Penetrate a Magic Resistance equal to the level of the Aegis of the Hearth to take effect. If it fails to Penetrate, the effect fails completely and harmlessly. This applies to all effects, including Intellego effects that would not normally be blocked by Magic Resistance, and effects that would move something across the boundary of the Aegis.
 
-This also applies to an existing foreign supernatural effect that tries to cross the boundary. If the effect cannot Penetrate the Aegis, it is dispelled. However, if the spell is cast on someone with Magic Resistance, for example an invisibility spell on a magus, then the Aegis must Penetrate the magus's Magic Resistance in order to dispel the effect. This includes such effects as the Parma Magica, Hermetic Longevity Rituals, Familiar Bonds, and Talisman
-
-Bonds. However, the last three of these are automatically sustained by the underlying magic, and so immediately come back into effect once the magus has entered the Aegis. Parma Magica must be raised again, in the normal way.
+This also applies to an existing foreign supernatural effect that tries to cross the boundary. If the effect cannot Penetrate the Aegis, it is dispelled. However, if the spell is cast on someone with Magic Resistance, for example an invisibility spell on a magus, then the Aegis must Penetrate the magus's Magic Resistance in order to dispel the effect. This includes such effects as the Parma Magica, Hermetic Longevity Rituals, Familiar Bonds, and Talisman Bonds. However, the last three of these are automatically sustained by the underlying magic, and so immediately come back into effect once the magus has entered the Aegis. Parma Magica must be raised again, in the normal way.
 
 Any foreign supernatural effect originating within the boundary of the Aegis must subtract half the level of the Aegis from any Casting Total or equivalent. If the effect does not have a Casting Total, as for an effect from an enchanted item, then half the level of the Aegis is subtracted from its Penetration. If the effect has neither a Casting Total nor a Penetration, like the Parma Magica, it is not hindered by the Aegis once it is inside. The supernatural powers of creatures with Might that have been able to enter the Aegis are affected in the same way as any other foreign supernatural effect: this effect does not need to Penetrate Magic Resistance, unlike the exclusion effect.
 
 Anyone who participated in the ritual to cast the Aegis is a native of that Aegis. Entirely mundane people can participate in the Aegis ritual. At most covenants, only the magi participate in the ritual, to avoid the risk of making disguised demons into natives of the Aegis, but this is a custom rather than a feature of the ritual.
 
-Participants who have The Gift and have been opened to the Hermetic Arts are referred to here as "participating magi", although they may, for example, be apprentices. Participating magi, and only participating magi, can invite other individuals into the Aegis. This involves giving the individual a token that was designated as part of the ritual. Individuals that are invited in this way become natives of the Aegis. Any participating magus can also revoke an invitation, whether issued by themselves or by someone else. They do not need to retrieve the token in order to do this. Invitations and revocations can only be issued to specific individuals — it is not possible to revoke "all invitations", for
-
-example — but the individual does not need to be present. Invitations and revocations are effective even if the participating magus is mistaken about the identity of the individual. A participating magus can attempt to revoke an invitation even if they do not know for sure that a particular individual has been invited into the Aegis. If they were, then the invitation is revoked, but if they were not, this obviously has no effect. A creature with Might whose invitation is withdrawn is affected in the same way as a creature with Might who was within the Aegis when it was created. Individuals who participated in the ritual, including participants who are not participating magi, cannot be cast out of the ritual; they are native until the Aegis expires, or is dispelled.
+Participants who have The Gift and have been opened to the Hermetic Arts are referred to here as "participating magi", although they may, for example, be apprentices. Participating magi, and only participating magi, can invite other individuals into the Aegis. This involves giving the individual a token that was designated as part of the ritual. Individuals that are invited in this way become natives of the Aegis. Any participating magus can also revoke an invitation, whether issued by themselves or by someone else. They do not need to retrieve the token in order to do this. Invitations and revocations can only be issued to specific individuals — it is not possible to revoke "all invitations", for example — but the individual does not need to be present. Invitations and revocations are effective even if the participating magus is mistaken about the identity of the individual. A participating magus can attempt to revoke an invitation even if they do not know for sure that a particular individual has been invited into the Aegis. If they were, then the invitation is revoked, but if they were not, this obviously has no effect. A creature with Might whose invitation is withdrawn is affected in the same way as a creature with Might who was within the Aegis when it was created. Individuals who participated in the ritual, including participants who are not participating magi, cannot be cast out of the ritual; they are native until the Aegis expires, or is dispelled.
 
 Enchanted items can also be native to the Aegis. There are three main classes. The first is items that were within the boundary at the time the Aegis was raised. Unlike creatures with Might, non-sentient items become native to the Aegis simply by being present. The second class is items created within the Aegis by someone native to the Aegis. The third is items deliberately and directly activated by a native of the Aegis. Covenfolk who will use enchanted items may, therefore, participate in the Aegis ritual, but many enchanted items do not need Penetration, and thus can be used within the Aegis without any problems. The set of native items, like the set of native people, resets every time the Aegis is recast. Items, however, cannot be invited into the Aegis.
 
@@ -18000,53 +17234,35 @@ The Aegis is often cast on the Winter Solstice, as the Magic aura may be slightl
 
 Aegis of the Hearth was created by Notatus, the first Primus of House Bonisagus. It was a Major Breakthrough (see page 277), incorporating Mercurian rituals as well as Hermetic theory, and was the reason Notatus was chosen to succeed Bonisagus. As a result, the spell is more powerful than it ought to be, and has no Perdo requisite. By 1220, Notatus's discoveries have spread, and any magus in the Order is capable of inventing versions of the Aegis with the above parameters, but different levels or sizes, or both. Inventing a version with different parameters, however, would require at least a Minor Breakthrough, and vears of research.
 
-#### CIRCULAR WARD AGAINST DEMONS
-
-R: Touch, D: Ring, T: Circle
-
-All creatures with Infernal Might equal to or less than or equal to the level of the spell are unable to enter the circle or harm those within it. If you cast the spell again, the stronger ring dispels the weaker, regardless of the order of casting. Some magi cast this spell before going to sleep at night. At night, from certain angles, the ring may be seen as a silver-hued dome.
-
+##### Circular ward against demons
+R: Touch, D: Ring, T: Circle<br>
+All creatures with Infernal Might equal to or less than or equal to the level of the spell are unable to enter the circle or harm those within it. If you cast the spell again, the stronger ring dispels the weaker, regardless of the order of casting. Some magi cast this spell before going to sleep at night. At night, from certain angles, the ring may be seen as a silver-hued dome.<br>
 (Base spell)
 
-Maintaining the Demanding Spell
-
-R: Touch, D: Diam, T: Ind
-
-You cast this spell on a spell that you have already cast and are maintaining through concentration. The spell that requires concentration is then automatically maintained for the duration of this spell. whether you concentrate or not. You cannot change the effects of the first spell without concentrating on it again. For instance, you can use The Unseen Arm (ReTe 5) to hold an object in the air without concentrating, but to move the object still requires concentration. A Stamina + Concentration stress roll against an Ease Factor of 6 must be made in order to cast this spell while keeping the first one going (a lower roll than normal because this is what the spell is designed for). This spell only works on spells of equal or lower level.
-
+##### Maintaining the Demanding Spell
+R: Touch, D: Diam, T: Ind<br>
+You cast this spell on a spell that you have already cast and are maintaining through concentration. The spell that requires concentration is then automatically maintained for the duration of this spell. whether you concentrate or not. You cannot change the effects of the first spell without concentrating on it again. For instance, you can use The Unseen Arm (ReTe 5) to hold an object in the air without concentrating, but to move the object still requires concentration. A Stamina + Concentration stress roll against an Ease Factor of 6 must be made in order to cast this spell while keeping the first one going (a lower roll than normal because this is what the spell is designed for). This spell only works on spells of equal or lower level.<br>
 (Base effect, +1 Touch, +1 Diam)
 
-OPENING THE INTANGIBLE TUNNEL
-
-R: Arc, D: Conc, T: Ind
-
+##### Opening the intangible tunnel
+R: Arc, D: Conc, T: Ind<br>
 You can open a magical channel from yourself to some target, allowing you to cast any spell with a range greater than Personal on that target. The tunnel does not, of itself, grant any sense impressions of the target — you must cast appropriate spells through it if you wish to see.
 
 Spells cast through the tunnel cannot be of higher level than that of this spell. You must make standard Concentration rolls to maintain concentration on the Opening spell as you cast other spells.
 
 A magus who magically recognizes the tunnel (through *The Invisible Eye Revealed* or a similar spell) may cast spells through the tunnel back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the tunneling spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell.
 
-If the target of the spell has Magic Resistance, you must Penetrate that resistance to open the tunnel. Spells cast through the tunnel must also Penetrate Magic Resistance normally.
-
+If the target of the spell has Magic Resistance, you must Penetrate that resistance to open the tunnel. Spells cast through the tunnel must also Penetrate Magic Resistance normally.<br>
 (Base effect, +4 Arc, +1 Conc)
 
-SUPPRESSING THE WIZARD'S HANDIWORK
-
-R: Touch, D: Conc, T: Ind
-
-Cancels one spell that you have cast, but only as long as you concentrate. When concentration is broken the effects of the spell return. The level of the spell to be suppressed must be less than or equal to the level of this spell. The effects of the spell being suppressed take about one round to fade out, and then another round to return after concentration is broken. The spell to be affected must be active to be suppressed — in particular, it may not be of Momentary duration.
-
-Common uses of this spell include providing access to some place normally blocked by magic (for example, having a MuTe blocking the door to your lab, and then suppressing it to enter), and avoiding traps (such as suppressing a *Watching Ward* [ReVi Gen] on your rear door). This spell is designed to be held while you do something else, so the magus gets a +3 bonus to all Concentration rolls.
-
+##### Suppressing the wizard's handiwork
+R: Touch, D: Conc, T: Ind<br>
+Cancels one spell that you have cast, but only as long as you concentrate. When concentration is broken the effects of the spell return. The level of the spell to be suppressed must be less than or equal to the level of this spell. The effects of the spell being suppressed take about one round to fade out, and then another round to return after concentration is broken. The spell to be affected must be active to be suppressed — in particular, it may not be of Momentary duration. Common uses of this spell include providing access to some place normally blocked by magic (for example, having a MuTe blocking the door to your lab, and then suppressing it to enter), and avoiding traps (such as suppressing a *Watching Ward* [ReVi Gen] on your rear door). This spell is designed to be held while you do something else, so the magus gets a +3 bonus to all Concentration rolls.<br>
 (Base, +1 Touch, +1 Conc)
 
-WATCHING WARD
-
-R: Touch, D: Spec, T: Ind, Ritual
-
-Watching Ward puts another spell on a given target on hold until that spell is triggered by a simple condition, which is determined when this ritual is cast. The target of the Watching Ward must be
-
-present for the entire casting ritual. When the conditions you specify come to pass, the suspended spell takes effect.
+##### Watching ward
+R: Touch, D: Spec, T: Ind, Ritual<br>
+Watching Ward puts another spell on a given target on hold until that spell is triggered by a simple condition, which is determined when this ritual is cast. The target of the Watching Ward must be present for the entire casting ritual. When the conditions you specify come to pass, the suspended spell takes effect.
 
 Only one Watching Ward can be placed on any one person or object. The level of the Watching Ward must at least equal the level of the spell held in suspension. You can put multiple spells in the Ward, provided that its level at least equals the sum of the levels of the contained spells. If Intellego spells are included in a Watching Ward, they may be used to trigger the other spells. Thus, if you put Frosty Breath of the Spoken Lie (InMe 20) into the Watching Ward, you can also put in a spell that is cast when someone lies. An Intellego spell in the Watching Ward has no effect other than to cast other spells when the proper condition is detected. Thus, in the example, one's breath is not frosty when he or she is caught in a lie.
 
@@ -18054,19 +17270,19 @@ If someone tries to dispel the Watching Ward and fails, the suspended spell is c
 
 The *Watching Ward* is dispelled when it releases its spell.
 
-A version of this spell with target Room, known as *Waiting Spell*, is also well known in the Order. It can contain spells up to the level of the Waiting Spell – 10, and is also a Ritual.
-
+A version of this spell with target Room, known as *Waiting Spell*, is also well known in the Order. It can contain spells up to the level of the Waiting Spell – 10, and is also a Ritual.<br>
 (Base effect, +1 Touch, Duration is non-standard)
 
-Level 15
+#### LEVEL 15
 
-GATHER THE ESSENCE OF THE BEAST R: Touch, D: Mom, T: Ind
-
-Concentrates the raw vis in a corpse into one part of that corpse, which can then be removed. This spell lets you gather all the raw vis you find without lugging around entire corpses of beasts. Note that the vis in many magical creatures is already concentrated in this manner in some specific organ, though this spell will allow you
-
-to relocate that vis if you wish.
-
+##### Gather the essence of the beast
+R: Touch, D: Mom, T: Ind<br>
+Concentrates the raw vis in a corpse into one part of that corpse, which can then be removed. This spell lets you gather all the raw vis you find without lugging around entire corpses of beasts. Note that the vis in many magical creatures is already concentrated in this manner in some specific organ, though this spell will allow you to relocate that vis if you wish.<br>
 (Base 10, +1 Touch)
+
+---
+
+> Deeper we venture, into the shadowed grove where a faerie ring glows with ethereal light, and the very air hums with unseen power. The veil between realms thins, as the voice of my mistress rises in incantations that reshape the very fabric of reality. She conjures a shimmering portal, as the local lord watches the unfolding ritual intently, his armored soldiers standing guard silently. With focused concentration, my maga reaches out to the faerie seeming through the swirling gateway, her fingers passing through its shimmering surface, rippling the curtain between worlds. Strange entities gather on the far side, their forms shifting like dreams, their intentions unknowable.
 
 # X. Long Term Events
 
