@@ -5608,7 +5608,7 @@ Most words in Gaelic are accented on the first syllable or the next to the last 
 | Cattle       | Crodh            | kro           |
 | Chicken      | Eireag           | erag          |
 | Cormorant    | Sgarbh           | scarv         |
-| Cow          | Во               | bo            |
+| Cow          | Bo               | bo            |
 | Crow         | Feannag          | FYANN-ag      |
 | Dog          | Cu, Madadh       | koo, mad-     |
 | Duck         | Lach             | lac           |
