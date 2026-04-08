@@ -236,47 +236,26 @@ December 2024
 ## Table of Contents
 
 **Credits**<br>
-
 **Memorials**<br>
-
 **Preface**<br>
-
 **Table of Illustrations**
-
 **Chapter 1: Introduction**<br>
-
 **Chapter 2: Order of Hermes**<br>
-
 **Chapter 3: Characters**<br>
-
 **Chapter 4: Virtues & Flaws**<br>
-
 **Chapter 5: Abilities**<br>
-
 **Chapter 6: Covenants**<br>
-
 **Chapter 7: Hermetic Magic**<br>
-
 **Chapter 8: Laboratory**<br>
-
 **Chapter 9: Spells**<br>
-
 **Chapter 10: Long-Term Events**<br>
-
 **Chapter 11: Obstacles**<br>
-
 **Chapter 12: Realms**<br>
-
 **Chapter 13: Bestiary**<br>
-
 Map of Mythic Europe<br>
-
 **Chapter 14: Mythic Europe**<br>
-
 **Chapter 15: Stories**<br>
-
 **Chapter 16: Sagas**<br>
-
 Appendix A: Editor's Note<br>
 Appendix B: Ars Magica Open License<br>
 Appendix C: Fourth Edition Conversion<br>
@@ -286,6 +265,7 @@ Appendix F: Bestiary Index<br>
 Appendix G: Traditional Index<br>
 Appendix H: Character Sheet<br>
 Appendix I: Fifth Edition Line<br>
+
 ---
 
 > *A flash of bronze scales against a cerulean sky! Its shadow has been our fleeting companion for days, but now the monstrous creature descends upon our small band. Our magus’s eyes blaze with arcane power, our sturdy grog grips his sword, and I keep my arrow nocked and at the ready. The distant covenant, perched high in the soaring heights of the far mountainside, watches over our perilous journey, as church bells call out a warning from below. A desperate message secreted in my bag must reach its destination before nightfall! Our journey has only just begun, through this land of myth and magic, where the mundane world fades into the embrace of legend.*
@@ -3377,7 +3357,7 @@ You can communicate with animals as if they were human beings. Choosing this Vir
 
 Free. Social Status
 
-This Virtue may be taken by a child character who has the Gift and who has been accepted by an experienced Hermetic magus, with the troupe's approval. You are a discipulus and will receive extensive magical training. having the potential to become a Hermetic magus in your own right. However vou must obev the dictates and fulfill the errands of your master and endure his or her rigorous training, and may be treated no better than a slave.
+This Virtue may be taken by a child character who has the Gift and who has been accepted by an experienced Hermetic magus, with the troupe's approval. You are a discipulus and will receive extensive magical training. having the potential to become a Hermetic magus in your own right. However you must obey the dictates and fulfill the errands of your master and endure his or her rigorous training, and may be treated no better than a slave.
 
 #### Apt Student
 
@@ -3518,7 +3498,7 @@ Minor, Hermetic
 
 By spending a pawn of vis when casting Formulaic spells you may "boost" the Range, Duration, Target, or size of the effect by one magnitude. You can do this multiple times for the same spell.
 
-For example, boosting Range from Touch to Sight and Target from Individual to Group would cost you four pawns of vis. You may not reduce any of the parameters of the spell, nor may vou exceed the limits of Formulaic magic. Casting success, Fatigue loss, and Penetration are all calculated based on the original level of the spell, but you do add one additional botch die for each pawn of vis used. This has no effect on Spontaneous or Ritual spells, though you can still use vis to boost your Penetration as normal.
+For example, boosting Range from Touch to Sight and Target from Individual to Group would cost you four pawns of vis. You may not reduce any of the parameters of the spell, nor may you exceed the limits of Formulaic magic. Casting success, Fatigue loss, and Penetration are all calculated based on the original level of the spell, but you do add one additional botch die for each pawn of vis used. This has no effect on Spontaneous or Ritual spells, though you can still use vis to boost your Penetration as normal.
 
 #### Brother Chaplain
 
@@ -3684,7 +3664,7 @@ Your magic is attuned to some cycle of nature (solar, lunar, or seasonal, for ex
 
 Major, General
 
-You have been blessed or cursed as to your fate. Someone (a magician, a faerie, or other supernatural creature) has put a condition on vour death, and until the condition is met, you will not die, though you can be seriously injured. You heal normally, but cannot die as a result of wounds or old age. Unfortunately for you, fate or bad planning can bring about the conditions in unexpected ways. If, for instance, your death condition is to fear only boars, you should be wary of men bearing boars on their coats of arms or of inns named after boars, in addition to the purely mundane creature. This symbolism may not be obvious: a man known as a pig in his village might also count as a boar.
+You have been blessed or cursed as to your fate. Someone (a magician, a faerie, or other supernatural creature) has put a condition on your death, and until the condition is met, you will not die, though you can be seriously injured. You heal normally, but cannot die as a result of wounds or old age. Unfortunately for you, fate or bad planning can bring about the conditions in unexpected ways. If, for instance, your death condition is to fear only boars, you should be wary of men bearing boars on their coats of arms or of inns named after boars, in addition to the purely mundane creature. This symbolism may not be obvious: a man known as a pig in his village might also count as a boar.
 
 The storyguide must keep the prophecy in mind and give fair warning of items related to the prophecy. This is a Major Virtue because the character knows he can get away with insane risks; sneaking his prophecy up on him is an unfair way of negating the value of the Virtue. Players may only take this Virtue with the agreement of the storyguide or troupe.
 
@@ -3957,7 +3937,7 @@ Major, Hermetic
 
 The character's experience with faeries and the Faerie realm has conditioned him to invent spells very quickly; to him, Formulaic spells seem like inherent powers that you can learn through observation and experimentation.
 
-Because of this, he can teach himself spells outside of the laboratory. You may spend experience points from Exposure, Adventure, and Practice on spells vou could normally invent that mimic faerie powers or other supernatural effects your character has observed that season.
+Because of this, he can teach himself spells outside of the laboratory. You may spend experience points from Exposure, Adventure, and Practice on spells you could normally invent that mimic faerie powers or other supernatural effects your character has observed that season.
 
 To invent a spell in this way, the magus's Technique + Form + Intelligence + Magic Theory must at least equal (the spell's level – 10), and you must spend a number of experience points equal to (the spell magnitude + 4). Spells of level 5 or less cost their level in experience points (but always at least 1). For example, a level 2 spell costs 2 experience points, and a Level 15 spell costs 7 experience points. The magus cannot invent Ritual spells in this way.
 
@@ -4477,7 +4457,7 @@ You are a knight, a member of the noble classes and one of the elite warriors of
 
 Minor General
 
-Your social contacts are not important for what they give you directly: they are important because they allow you to match up the desires of vour various friends. A skilled socialite is a middleman, who is owed gratitude for bringing opportunities to his friends, not someone who demands favors based on friendship.
+Your social contacts are not important for what they give you directly: they are important because they allow you to match up the desires of your various friends. A skilled socialite is a middleman, who is owed gratitude for bringing opportunities to his friends, not someone who demands favors based on friendship.
 
 Once per story or session, a character with this Virtue may ask for a bait for a non-player character. A bait is the beginning of a scene or short, secondary story, outside the main story being told, which if completed allows the character to gain aid from the nominated target. For example, if the player characters are unable to gain the assistance of a nobleman, a player may demand a bait. In the game, this means the character uses his social skills to determine the needs of the nobleman, and to hint that he may know a third person with a solution. If the troupe then plays out a brief scene in which the nobleman's problem is sorted out, he becomes more biddable.
 
@@ -4515,7 +4495,7 @@ This Status Virtue is compatible with the Knight Minor Status Virtue, but unlike
 
 Minor, General
 
-Your Size is +1 instead of 0, so vou are between six and seven feet tall. This means that the severity of wounds you take increases in six point intervals rather than five point intervals. (See page 404). You cannot take this Virtue and Giant Blood (page 83), Small Frame (page 145), or Dwarf (page 126).
+Your Size is +1 instead of 0, so you are between six and seven feet tall. This means that the severity of wounds you take increases in six point intervals rather than five point intervals. (See page 404). You cannot take this Virtue and Giant Blood (page 83), Small Frame (page 145), or Dwarf (page 126).
 
 #### Lasiq
 
@@ -4571,7 +4551,7 @@ You have been blessed by some supernatural power. The effects of the benediction
 >
 > Every sexual encounter with a partner of the opposite sex results in conception.
 >
-> may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If vou do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
+> may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Lesser Immunity
 
@@ -4613,7 +4593,7 @@ Major, Hermetic
 
 You can do more with spontaneous magic than most magi at the cost of your own life energy. When you decide to use this ability in casting a spontaneous spell, you declare the level of effect you wish to produce before rolling. This level may include a number of levels of Penetration (see page 169). For example, you can choose to cast a level 10 effect at level 20, to give a Penetration of 10 plus your Penetration score.
 
-Roll to cast a Fatiguing Spontaneous spell. If your result after division is higher than the level you declared, you spend only one Fatigue level as usual. If your result after division is less than the level you declared, you must expend one additional Fatigue level per five points (or fraction thereof) by which you missed the target level. If you run out of Fatigue levels, you take a wound. The number of levels still needed for the spell is treated as the amount by which a Damage total exceeds your Soak, and you take the corresponding wound. You can kill vourself this way.
+Roll to cast a Fatiguing Spontaneous spell. If your result after division is higher than the level you declared, you spend only one Fatigue level as usual. If your result after division is less than the level you declared, you must expend one additional Fatigue level per five points (or fraction thereof) by which you missed the target level. If you run out of Fatigue levels, you take a wound. The number of levels still needed for the spell is treated as the amount by which a Damage total exceeds your Soak, and you take the corresponding wound. You can kill yourself this way.
 
 A maga with this Virtue may still cast Fatiguing Spontaneous spells normally.
 
@@ -4627,7 +4607,7 @@ You have especially good handeye coordination and great proficiency for using yo
 
 Minor, General
 
-You respond to surprises almost instantly. In fact, your reflexes are sometimes so fast that you don't have a chance to think about how you are going to respond. Whenever you are surprised or startled, roll a stress die + Quickness. If you get a 3 or better, you respond reflexively. You must tell the storyguide on each occasion what one type of action (attacking, blocking, running, etc.) you would like to respond with. If attacking in response, you gain +9 to your Initiative Total. The storyguide is the final arbiter of what happens (though it is always in the best interests of vour immediate selfpreservation). You only react to threats that you are not fully aware of, so you don't get a bonus against an assassin you watch sneak up on you. Note that you do not get a choice about whether to react. You could just as easily skewer a friend sneaking up in fun as you would an assassin about to strike. Also note that you must perceive an action to react to it — you can still be easily killed in your sleep. This Virtue gives you no special powers of perception.
+You respond to surprises almost instantly. In fact, your reflexes are sometimes so fast that you don't have a chance to think about how you are going to respond. Whenever you are surprised or startled, roll a stress die + Quickness. If you get a 3 or better, you respond reflexively. You must tell the storyguide on each occasion what one type of action (attacking, blocking, running, etc.) you would like to respond with. If attacking in response, you gain +9 to your Initiative Total. The storyguide is the final arbiter of what happens (though it is always in the best interests of your immediate selfpreservation). You only react to threats that you are not fully aware of, so you don't get a bonus against an assassin you watch sneak up on you. Note that you do not get a choice about whether to react. You could just as easily skewer a friend sneaking up in fun as you would an assassin about to strike. Also note that you must perceive an action to react to it — you can still be easily killed in your sleep. This Virtue gives you no special powers of perception.
 
 #### Linguist
 
@@ -5162,7 +5142,7 @@ You have exclusive access to a supply of raw vis. Determine the amount and type 
 
 Minor, General
 
-The character has attended the famed School of Salerno, the pre-eminent source of medical learning. Not only does he carry the reputation of the school with him (granting a Reputation of Physician of Salerno 2), but he has also learned some unique medical procedures such as the preparation of anesthetics. This Virtue grants an additional 50 experience points to spend on Medicine, Philosophiae, and medical formulae (if you are using the rules in Art and Academe, Chapter Five). To take this Virtue, vou must be able to take Academic Abilities.
+The character has attended the famed School of Salerno, the pre-eminent source of medical learning. Not only does he carry the reputation of the school with him (granting a Reputation of Physician of Salerno 2), but he has also learned some unique medical procedures such as the preparation of anesthetics. This Virtue grants an additional 50 experience points to spend on Medicine, Philosophiae, and medical formulae (if you are using the rules in Art and Academe, Chapter Five). To take this Virtue, you must be able to take Academic Abilities.
 
 #### Piercing Gaze
 
@@ -5350,7 +5330,7 @@ The character has a supernatural power that he can activate at will. This is a s
 
 This Virtue may be taken more than once, and the levels added together to create several powers or a single stronger power.
 
-This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, vou may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If vou do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
+This Virtue may be associated with any supernatural realm. If you have access to other books, such as Realms of Power: The Divine Revised Edition, Realms of Power: The Infernal, Realms of Power: Faerie, or Hedge Magic Revised Edition, you may want to base the power on a different system of supernatural powers, to get something more appropriate to the character. If you do, remember that the levels of effects may work on different scales for different systems, and you may want to change the number of levels of effect. The power must be associated with the same supernatural realm as the system on which it is based. (If you have access to other books, you may want to restrict powers based on Hermetic magic to the Magic realm.)
 
 #### Rosh Beth Din
 
@@ -5489,7 +5469,7 @@ The character can hide one item on his person, and attempts to find it suffer a 
 
 Minor, Supernatural
 
-You have a magical cloak, animal skin or similar item made from an animal. While in physical contact with it, you may transform into the form of the animal represented by the item. The transformation takes one full round, and you retain both intelligence and sentience while in animal form. Clothing and possessions (save the animal item) do not transform, and you may be seen as a transformed human with InAn or InCo, or similar spells. If the item is stolen, the new owner has an Arcane Connection to you, and vou may not transform until the item is retrieved. If the item is destroyed, you can make a new one over the course of a season. although the method varies depending on what the item is. Skinchangers may transform into any non-magical animal between Size -10 (robin) and Size +2 (bear). The character has the normal physical characteristics of the animal, except that +3 is added to the character's Soak score (in animal form only).
+You have a magical cloak, animal skin or similar item made from an animal. While in physical contact with it, you may transform into the form of the animal represented by the item. The transformation takes one full round, and you retain both intelligence and sentience while in animal form. Clothing and possessions (save the animal item) do not transform, and you may be seen as a transformed human with InAn or InCo, or similar spells. If the item is stolen, the new owner has an Arcane Connection to you, and you may not transform until the item is retrieved. If the item is destroyed, you can make a new one over the course of a season. although the method varies depending on what the item is. Skinchangers may transform into any non-magical animal between Size -10 (robin) and Size +2 (bear). The character has the normal physical characteristics of the animal, except that +3 is added to the character's Soak score (in animal form only).
 
 #### Skinchanger (Dove)
 
@@ -5529,7 +5509,7 @@ You are able to perform magic better in certain uncommon situations (such as dur
 
 Minor, Hermetic
 
-The magus may add the magnitude of a Formulaic spell he knows as a bonus to his Casting Total when Spontaneously casting a spell that is similar to it (see Similar Spells, page 260). This includes fast-casting a spell that is the same as or very similar to one of his Formulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case vou add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
+The magus may add the magnitude of a Formulaic spell he knows as a bonus to his Casting Total when Spontaneously casting a spell that is similar to it (see Similar Spells, page 260). This includes fast-casting a spell that is the same as or very similar to one of his Formulaic spells, though he does not get this bonus if he has the Fast Cast Ability for a mastered spell, since in that case you add his Mastery Ability instead. This bonus does not stack with other bonuses to his Casting Total, nor does it stack with itself if the magus happens to know several similar spells.
 
 #### Spirit Votary
 
@@ -6286,7 +6266,7 @@ You are completely unable to learn a certain class of Abilities, for some reason
 
 Minor, General
 
-You have a speech impediment, such as a lisp, stutter, or missing teeth. You suffer a -2 penalty to all rolls involving the voice, and all Casting Scores if you cast the spell using words. If you are a magus, vou must also roll an extra botch die when casting a spell using words.
+You have a speech impediment, such as a lisp, stutter, or missing teeth. You suffer a -2 penalty to all rolls involving the voice, and all Casting Scores if you cast the spell using words. If you are a magus, you must also roll an extra botch die when casting a spell using words.
 
 #### Age Quickly
 
@@ -6842,7 +6822,7 @@ The Infernal realm has taken an interest in the character, but he does not know 
 
 He cannot discuss this openly for fear that he will be accused of infernalism, but must be always on his guard against the dark forces that he knows will come for him one day.
 
-The storyguide will use this Flaw to subtly work the Infernal realm into your character, leaving you unaware of the specifics. You might have other Flaws that relate to the Infernal, but not (yet) know what they are, such as Corrupted Abilities. The character could also simply be Plagued by Demons or Susceptible to the Infernal. Through the course of the story vou may eventually discover what his Flaw is, but until then vou are only haunted with the knowledge that something about him is not right.
+The storyguide will use this Flaw to subtly work the Infernal realm into your character, leaving you unaware of the specifics. You might have other Flaws that relate to the Infernal, but not (yet) know what they are, such as Corrupted Abilities. The character could also simply be Plagued by Demons or Susceptible to the Infernal. Through the course of the story you may eventually discover what his Flaw is, but until then you are only haunted with the knowledge that something about him is not right.
 
 #### Evil Eye
 
@@ -7472,7 +7452,7 @@ Riding a horse, in a cart, or sailing on a ship makes you violently ill. When no
 
 Major, General
 
-You cannot speak; perhaps your tongue was cut out. You probably use rudimentary hand gestures and grunts to communicate vour needs. You can still understand languages perfectly well, and may learn to read and write if you have an appropriate Virtue. Note that magi with this Flaw get a -10 penalty to all spellcasting, although this may be offset by taking the Quiet Magic Virtue (page 105). A magus with this Flaw can be assumed to be able to make sounds, which are sufficient to allow normal use of the Voice Range.
+You cannot speak; perhaps your tongue was cut out. You probably use rudimentary hand gestures and grunts to communicate your needs. You can still understand languages perfectly well, and may learn to read and write if you have an appropriate Virtue. Note that magi with this Flaw get a -10 penalty to all spellcasting, although this may be offset by taking the Quiet Magic Virtue (page 105). A magus with this Flaw can be assumed to be able to make sounds, which are sufficient to allow normal use of the Voice Range.
 
 #### Necessary Condition
 
@@ -8053,7 +8033,7 @@ Tainted characters are designed for specific situations. Characters who struggle
 
 Major or Minor, Story
 
-You have found the one person meant for you in all of creation. and the bond between the two of you cannot be sundered. Whenever you are suffering, in danger, or dejected, the thought of your love will give you strength to persevere. In dire need, he may even come to rescue vou. More often, he will be in trouble and need rescuing. If any enchantment keeps you from your true love's side, the power of your devotion can probably break it. Your love is higher than mortal magic, and no magic can make you hate your love, or make you truly betray him. Your True Love must be a non-player character. To have another player character as your True Love, see the True Love Virtue on page 113.
+You have found the one person meant for you in all of creation. and the bond between the two of you cannot be sundered. Whenever you are suffering, in danger, or dejected, the thought of your love will give you strength to persevere. In dire need, he may even come to rescue you. More often, he will be in trouble and need rescuing. If any enchantment keeps you from your true love's side, the power of your devotion can probably break it. Your love is higher than mortal magic, and no magic can make you hate your love, or make you truly betray him. Your True Love must be a non-player character. To have another player character as your True Love, see the True Love Virtue on page 113.
 
 This Story Hook may be renamed 'True Friend' to cover characters with whom you are very closely linked, but not in a romantic way.
 
@@ -13516,7 +13496,7 @@ As a general rule of thumb, if the spell would still do something without the re
 
 Additional effects may not require a requisite if they are purely cosmetic. Thus, a spell that creates fire that looks like flaming skulls does not require an Imaginem requisite. A spell that allowed the caster to choose how the fire looked would, because that flexibility is more than a cosmetic effect.
 
-Requisites, if any, are listed for each formulaic spell. (See the spell Curse of Circe on page 334 as an example.) Requisites make it more difficult to cast spells, as they demand the caster have wider knowledge. You must use the lesser of your score in the requisite and your score in the spell's main Technique or Form — Technique if the requisite is a Technique, Form if the requisite is a Form. For example, if you have the scores Animal 6 and Corpus 13, and you cast the Muto Corpus spell Curse of Circe, which has a requisite of Animal, vou treat your Corpus score as if it were only 6. Note that if your requisite happened to be higher (for example, if your Animal were 15), you would use the lower basic form (your Corpus of 13 in this case).
+Requisites, if any, are listed for each formulaic spell. (See the spell Curse of Circe on page 334 as an example.) Requisites make it more difficult to cast spells, as they demand the caster have wider knowledge. You must use the lesser of your score in the requisite and your score in the spell's main Technique or Form — Technique if the requisite is a Technique, Form if the requisite is a Form. For example, if you have the scores Animal 6 and Corpus 13, and you cast the Muto Corpus spell Curse of Circe, which has a requisite of Animal, you treat your Corpus score as if it were only 6. Note that if your requisite happened to be higher (for example, if your Animal were 15), you would use the lower basic form (your Corpus of 13 in this case).
 
 Sometimes a spell has a requisite for both its Technique and Form. You must use the lowest in each case. And, if several requisites apply to the same primary Art (for example, if there are two Form requisites), your effective score is the lowest of the group. Furthermore, any Deficiencies you have with an Art apply when you use that Art as a requisite.
 
@@ -14362,7 +14342,7 @@ A lightning bolt shoots forth from your outstretched hand in the direction you a
 
 ##### Breath of the Open Sky
 R: Touch, D: Conc, T: Ind, Ritual<br>
-You can call up a wind capable of devastating the countryside. You must stand under the open sky to cast this spell. While you cast the spell, a breeze picks up, blowing from you in the direction you are facing. When the ritual is completed, the wind strengthens to a gale roaring over the visible countryside and beyond, strong enough to topple wooden structures and knock down trees. The wind does not weaken while it is within your sight, but loses its force naturally where you cannot see it. If vou turn away from your original facing for more than a few seconds, you have to make a Concentration roll against an Ease Factor of 12 to maintain the spell. If you turn away for a minute or more, the spell ends. The air behind you is still.<br>
+You can call up a wind capable of devastating the countryside. You must stand under the open sky to cast this spell. While you cast the spell, a breeze picks up, blowing from you in the direction you are facing. When the ritual is completed, the wind strengthens to a gale roaring over the visible countryside and beyond, strong enough to topple wooden structures and knock down trees. The wind does not weaken while it is within your sight, but loses its force naturally where you cannot see it. If you turn away from your original facing for more than a few seconds, you have to make a Concentration roll against an Ease Factor of 12 to maintain the spell. If you turn away for a minute or more, the spell ends. The air behind you is still.<br>
 (Base 5, +1 Touch, +1 Conc, +4 size, +1 unnatural, ritual because of spectacular effect)
 
 #### LEVEL 65
@@ -15016,7 +14996,7 @@ Allows the target to leap up to 15 feet vertically or 25 feet horizontally (2 fe
 
 ##### Lifting the Dangling Puppet
 R: Voice, D: Conc, T: Ind<br>
-Lifts a person of Size +1 or less vertically into the air. Generally, vou can make the target rise or descend as fast as smoke rises, but a heavier person rises more slowly and falls more quickly.<br>
+Lifts a person of Size +1 or less vertically into the air. Generally, you can make the target rise or descend as fast as smoke rises, but a heavier person rises more slowly and falls more quickly.<br>
 (Base 4, +2 Voice, +1 Conc)
 
 #### LEVEL 20
@@ -15042,7 +15022,7 @@ You can control the physical movements of a person, such as walking, standing, a
 
 ##### Seven-league Stride
 R: Per, D: Mom, T: Ind<br>
-Transports you to any place within seven leagues either that you can see or that vou have an Arcane Connection with. If you fail an Intelligence + Finesse stress roll against an Ease Factor of 9, your arrival goes slightly awry. For instance, you might fall when you appear, or just be facing the wrong way. A botch means you appear in the wrong place. perhaps even in a wall. Praefactus of Bonisagus's version of this spell always allows him to appear in a safe, unembarrassing place (assuming he doesn't fail his Finesse roll). All Praefactus's spells make him seem as dignified as possible - manifesting his wizard's sigil.<br>
+Transports you to any place within seven leagues either that you can see or that you have an Arcane Connection with. If you fail an Intelligence + Finesse stress roll against an Ease Factor of 9, your arrival goes slightly awry. For instance, you might fall when you appear, or just be facing the wrong way. A botch means you appear in the wrong place. perhaps even in a wall. Praefactus of Bonisagus's version of this spell always allows him to appear in a safe, unembarrassing place (assuming he doesn't fail his Finesse roll). All Praefactus's spells make him seem as dignified as possible - manifesting his wizard's sigil.<br>
 (Base 30)
 
 #### LEVEL 35
@@ -17061,7 +17041,7 @@ This spell will cancel the effects of any one spell of a specified Form whose le
 
 ##### Wind of Mundane Silence
 R: Voice, D: Mom, T: Room<br>
-You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of vour spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."<br>
+You raise a metaphorical "breeze" that blows the magic away from an area, canceling the effects of any spell there. You can cancel the effects of any spell if, with this spell, you can double the level of the spell on a stress die + the level of your spell. The spell must Penetrate to affect effects on a creature with Magic Resistance, including Parma Magica. If the spell penetrates, and its level + the stress die is double Parma Magica x 5, then this spell dispels the Parma Magica. Wind of Mundane Silence does not affect spells of Momentary duration. Magical things near the area of the Wind wave slightly from the "breeze."<br>
 (Base effect, +2 Voice, +2 Room)
 
 ### Rego Vim Guidelines
@@ -17169,7 +17149,7 @@ Experience points are used to increase Arts and Abilities. A character gains exp
 
 ### Advancement Tables
 
-| Score | ART To Buy | To Raise To | ABILITY | To Raise To |
+| Score | ART To Buy | To Raise To | ABILITY To Buy | To Raise To |
 | ----- | ---------- | ----------- | ------- | ----------- |
 | 1     | 1          | 1           | 5       | 5           |
 | 2     | 3          | 2           | 15      | 10          |
@@ -23454,7 +23434,7 @@ Enjoy yourselves.
 
 ## Editor's Note
 
-AImost ten years ago I wrote an afterword for *Dies Irae* in which I said it was "the last book in the **Ars Magica** Fifth Edition line that I will produce as Line Editor".
+Almost ten years ago I wrote an afterword for *Dies Irae* in which I said it was "the last book in the **Ars Magica** Fifth Edition line that I will produce as Line Editor".
 
 Strictly speaking, that remains true: Atlas did not hire me as Line Editor for this book.
 
