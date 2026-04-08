@@ -204,7 +204,7 @@ December 2024
 | ADAM REX       | 89, 246 |
 | JOHN SCOTELLO  | 114, 231, 517 |
 | PAM SHANTEAU   | 234 |
-| DOUG SHULER    | 1-2, 4, 26, 39, 59-60, 155-156, 201-202, 155-156, 201-202, 247-248, 299-300, 312, 373-374, 380, 423-424, 513 |
+| DOUG SHULER    | 1-2, 4, 26, 39, 59-60, 155-156, 201-202, 247-248, 299-300, 312, 373-374, 380, 423-424, 513 |
 | MARK "JOCK" SIMPSON | 286, 321, 330, 529 |
 | CHRISTIAN St. PIERRE | 174, 204, 289, 302, 313, 328, 350, 358, 364, 396, 417, 516 | 
 | GREY THORNBERRY | 5, 10, 22, 37, 38, 39, 40, 41, 42, 43, 58, 88, 97, 108, 112, 127, 129, 133, 142, 144, 149, 160, 177, 216, 229, 250, 261, 269, 338, 347, 348, 351, 362, 377, 403, 419, 489, 498, 507, 522, 525 |
@@ -235,30 +235,62 @@ December 2024
 
 ## Table of Contents
 
-|    |    |    |    |
-| ----- | ------------------------------ | ----- | --------------------------------------------- |
-| ii  | Credits                      | 423 | Chapter 13: Bestiary                        |
-| iv  | Memorials                    | 493 | Map of                                            |
-| V   | Preface                      |     | Mythic Europe                               |
-| vi  | Table of Illustrations       | 495 | Chapter 14: Mythic Europe                   |
-| 1   | Chapter 1: Introduction      | 515 | Chapter 15:  Stories                        |
-| 9   | Chapter 2: Order of Hermes   | 523 | Chapter 16: Sagas                           |
-| 25  | Chapter 3: Characters        | 535 | Appendix A: Editor's Note                   |
-| 59  | Chapter 4: Virtues & Flaws   | 536 | Appendix B: ARS MAGICA                      |
-| 155 | Chapter 5: Abilities         |     | OPEN LICENSE                                |
-| 173 | Chapter 6: Covenants         | 537 | Appendix C: Fourth edition conversion |
-| 201 | Chapter 7: Hermetic Magic    | 539 | Appendix D: Reference Guide                 |
-| 247 | Chapter 8: Laboratory        | 553 | Appendix E: Spell index                  |
-| 299 | Chapter 9: Spells            | 557 | Appendix F: Bestiary Index                  |
-| 373 | Chapter 10: Long-Term Events | 558 | Appendix G: Traditional Index            |
-| 393 | Chapter 11: Obstacles        | 569 | Appendix H: Character Sheet              |
-| 409 | Chapter 12: Realms           | 573 | Appendix I: Fifth edition line              |
+**Credits**<br>
 
+**Memorials**<br>
+
+**Preface**<br>
+
+**Table of Illustrations**
+
+**Chapter 1: Introduction**<br>
+
+**Chapter 2: Order of Hermes**<br>
+
+**Chapter 3: Characters**<br>
+
+**Chapter 4: Virtues & Flaws**<br>
+
+**Chapter 5: Abilities**<br>
+
+**Chapter 6: Covenants**<br>
+
+**Chapter 7: Hermetic Magic**<br>
+
+**Chapter 8: Laboratory**<br>
+
+**Chapter 9: Spells**<br>
+
+**Chapter 10: Long-Term Events**<br>
+
+**Chapter 11: Obstacles**<br>
+
+**Chapter 12: Realms**<br>
+
+**Chapter 13: Bestiary**<br>
+
+Map of Mythic Europe<br>
+
+**Chapter 14: Mythic Europe**<br>
+
+**Chapter 15: Stories**<br>
+
+**Chapter 16: Sagas**<br>
+
+Appendix A: Editor's Note<br>
+Appendix B: Ars Magica Open License<br>
+Appendix C: Fourth Edition Conversion<br>
+Appendix D: Reference Guide<br>
+Appendix E: Spell Index<br>
+Appendix F: Bestiary Index<br>
+Appendix G: Traditional Index<br>
+Appendix H: Character Sheet<br>
+Appendix I: Fifth Edition Line<br>
 ---
 
-> *A flash of bronze scales against a cerulean sky! Its shadow has been our fleeting companion for days, but now the monstrous creature descends upon our small band. Our magus’s eyes blaze with arcane power,our sturdy grog grips his sword, and I keep my arrow nocked and at the ready. The distant covenant, perched high in the soaring heights of the far mountainside, watches over our perilous journey, as church bells call out a warning from below. A desperate message secreted in my bag must reach its destination before nightfall! Our journey has only just begun, through this land of myth and magic, where the mundane world fades into the embrace of legend.*
+> *A flash of bronze scales against a cerulean sky! Its shadow has been our fleeting companion for days, but now the monstrous creature descends upon our small band. Our magus’s eyes blaze with arcane power, our sturdy grog grips his sword, and I keep my arrow nocked and at the ready. The distant covenant, perched high in the soaring heights of the far mountainside, watches over our perilous journey, as church bells call out a warning from below. A desperate message secreted in my bag must reach its destination before nightfall! Our journey has only just begun, through this land of myth and magic, where the mundane world fades into the embrace of legend.*
 
-# I. Introduction
+# Chapter 1: Introduction
 
 On the day the faeries came to burn the village, Walter was repairing the thatch on his roof. As he worked, he kept half an eye on the strangers who had arrived the previous evening. Walter didn't like the look of them, particularly the woman. She looked like the sort who sold watered ale, then robbed and killed men while they slept.
 
@@ -463,9 +495,9 @@ Notes: An average character has a score of 0 in the relevant Characteristic, whi
 
 ---
 
-# II. The Order of Hermes
+# Chapter 2:  The Order of Hermes
 
-The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
+The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200 members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
 
 ## The History of the Order
 
@@ -883,7 +915,7 @@ More information about non-Hermetic wizards can be found in *Hedge Magic Revised
 
 ---
 
-# III. Characters
+# Chapter 3: Characters
 
 ## Character Types
 
@@ -1018,7 +1050,7 @@ Reputations can change over time. See the Long-Term Events chapter, page 386, fo
 #### Reputation Ease Factors
 
 
-| Ease Factor | Local | Ecclesiastical | Нermetic | Comments |
+| Ease Factor | Local | Ecclesiastical | Hermetic | Comments |
 | ----------- | ----- | -------------- | -------- | -------- |
 | 0  | Same village | Same parish/monastery | Same covenant | Everyone in these groups has heard of everyone else in them. |
 | 6  | Same town    | Same diocese  | Same Tribunal | On average, people have heard of about half the people in this area, and of most people who have any sort of reputation. |
@@ -1376,7 +1408,7 @@ Virtues and Flaws: Priest; Inspirational, Lesser Immunity (lightning), Relic, Se
 
 Clumsy, Vow of Celibacy
 
-Personality Traits: Compassionate +3, Pious +3, Loval +2
+Personality Traits: Compassionate +3, Pious +3, Loyal +2
 
 Reputations: None
 
@@ -2093,7 +2125,7 @@ The next step in creating a Hermetic magus is choosing his House. The twelve Hou
 
 The Hermetic Houses are described in more detail starting on page 12. Members of each House get a particular benefit at character creation, listed in the following table.
 
-| House          | Түре         | Description   | Benefit  |
+| House          | Type         | Description   | Benefit  |
 | -------------- | ------------ | ----------------------------------------------------------- | ----------------------------------------------------------------- |
 | Bjornaer       | Mystery Cult | Magi who are animals as well as humans                      | Heartbeast (page 85), beginning score of 1 in Heartbeast Ability. |
 | Bonisagus      | True Lineage | Divided between researchers and politicians                 | Puissant Magic Theory (researchers) or Puissant Intrigue (politicians). |
@@ -2229,7 +2261,7 @@ Characters with the Wealthy Virtue get 20 experience points per year, while char
 
 #### Advancement Table
 
-| <br>Score | ART<br>To Buy | <br>To Raise | ABILITY<br>То Buy | <br>To Raise |
+| Score | ART To Buy | To Raise | ABILITY To Buy | To Raise |
 | ----- | ------ | -------- | -------- | ---------- |
 | 1     | 1      | 1        | 5        | 5        |
 | 2     | 3      | 2        | 15       | 10       |
@@ -2638,7 +2670,8 @@ Nephilim should begin play with the following minimum Ability scores:
 
 - Dominion Lore 4
 - Hebrew 1
-- Penetration 1Sense Holiness and Unholiness 3
+- Penetration 1
+- Sense Holiness and Unholiness 3
 
 ### Spirit Votary
 
@@ -2669,9 +2702,9 @@ Spirit Votaries should begin play with the following minimum Ability scores:
 
 > The worn cobblestones lead our party past the keep and through a bustling town market. A vibrant hub of trade and exchange, here the merchants of distant lands hawk their wares and diverse folk crowd the stalls. The air buzzes with the sound of haggling and the aroma of exotic spices, while two sages passionately debate philosophy. Our magus rolls his eyes at their hubris, then with a flick of his wrist conjures a shimmering illusion to delight a small child, just out of mundane sight. But infernal eyes watch us from the shadows of a nearby alley, their intent veiled and unsettling.
 
-# IV. Virtues and Flaws
+# Chapter 4: Virtues and Flaws
 
-AImost all characters have some particular talents and some particular problems, represented in the game by Virtues and Flaws.
+Almost all characters have some particular talents and some particular problems, represented in the game by Virtues and Flaws.
 
 Virtues and Flaws are either Minor or Major. Virtues cost points, while Flaws grant points. Major Virtues cost three points, while Major Flaws grant three points. Minor Virtues and Flaws cost and grant (respectively) one point. Players start with no points for buying Virtues and Flaws, and thus must take Flaws if they want Virtues. A central character may have up to ten points of Flaws, but no more than five Minor Flaws.
 
@@ -4124,7 +4157,7 @@ You can explain new concepts and skills with great facility. Add three to the Qu
 
 Major, General
 
-The blood of the ancient race of giants flows in your veins. Though you are not as large as your ancestors, you are up to eight feet tall and can weigh as much as 500 pounds. Your Size is +2, so you take wounds in 7point increments, rather than the normal 5 (see page 404). You also gain +1 to both Strength and Stamina. This bonus may raise your scores in those Characteristics as high as +6. You cannot take this Virtue and Large (page 89), Small Frame (page 145), or Dwarf (page 126).
+The blood of the ancient race of giants flows in your veins. Though you are not as large as your ancestors, you are up to eight feet tall and can weigh as much as 500 pounds. Your Size is +2, so you take wounds in 7 point increments, rather than the normal 5 (see page 404). You also gain +1 to both Strength and Stamina. This bonus may raise your scores in those Characteristics as high as +6. You cannot take this Virtue and Large (page 89), Small Frame (page 145), or Dwarf (page 126).
 
 #### Gorgiastic
 
@@ -6568,7 +6601,7 @@ You were raised in a large, old covenant that has little contact with the outsid
 
 Minor, General
 
-The character suffers from feelings of loneliness, boredom, and depression if he does not expose himself to new experiences. He can stave off the boredom for a while, but if he remains in one place for more than a season, he suffers a -1 penalty to all rolls and totals until he experiences a change in scene. This penalty rises to -3after a year of boredom. This character is probably the first to volunteer for a mission beyond the covenant gates, and may even spend part of each year in a different location such as the nearby wood. This Flaw might seem to make the character unsuitable for life at a covenant, so you should decide what it is at the covenant that means he keeps coming back. Perhaps it is the love of his life, the camaraderie, or perhaps just the feeling that he fits in here.
+The character suffers from feelings of loneliness, boredom, and depression if he does not expose himself to new experiences. He can stave off the boredom for a while, but if he remains in one place for more than a season, he suffers a -1 penalty to all rolls and totals until he experiences a change in scene. This penalty rises to -3 after a year of boredom. This character is probably the first to volunteer for a mission beyond the covenant gates, and may even spend part of each year in a different location such as the nearby wood. This Flaw might seem to make the character unsuitable for life at a covenant, so you should decide what it is at the covenant that means he keeps coming back. Perhaps it is the love of his life, the camaraderie, or perhaps just the feeling that he fits in here.
 
 #### Creative Block
 
@@ -6687,7 +6720,7 @@ This Flaw may be taken more than once, if the character has more than one Power.
 
 Minor, General
 
-The character is extremely attached to a parent or child. Where he goes, she goes also. Separation of more than a day causes anxiety, and gives a -1penalty to all rolls due to stress.
+The character is extremely attached to a parent or child. Where he goes, she goes also. Separation of more than a day causes anxiety, and gives a -1 penalty to all rolls due to stress.
 
 #### Dhimmi
 
@@ -8953,7 +8986,7 @@ Unholiness aspect to work. If the troupe allows Divine powers to be false, this 
 
 ---
 
-# VI. Covenants
+# Chapter 6: Covenants
 
 The covenant is the single most important character in most ARS MAGICA sagas, because it is the character that all the players contribute to. It is their home, a secure base, and the place where they study, improve, and create magical wonders. Thus, coming up with a concept for the covenant is very important, as it will have a strong influence on the feel of the saga. A saga based on a covenant located in a hidden regio in the heart of Constantinople will be very different from one based in a covenant occupying a large castle on an island off the coast of Scotland, and different again from one based in a covenant in a magical glade in the heart of a haunted forest in Brittany.
 
@@ -9900,7 +9933,7 @@ Not all Hooks can be removed, but if a particular Hook can be overcome it should
 
 > Under the eerie glow of the full moon rising, our clandestine meeting unfolds among ancient standing stones. On one side stand our magi of the Order, their scholarly robes rustling in the night breeze, their gazes intent upon the negotiation of their carefully worded contract. Opposite us, the hedge magicians seem a wild and untamed assembly, their eyes gleaming with unfettered power, their restlessness betraying a disdain for parchment and polite discourse. The air crackles with unspoken tension, the clash of two magical philosophies hanging heavy amidst the monolithic stones of their chosen meeting place.
 
-# VII. Hermetic Magic
+# Chapter 7: Hermetic Magic
 
 In the eighth century the wizard Bonisagus developed a universal theory of magic and the Order of Hermes was born. The most immediate advantage of Hermetic magic was that it allowed wizards of diverse magical backgrounds to share their knowledge. Before Bonisagus' theory, the practice of magic had been highly individualized and therefore limited in scope. With the ability to share and accumulate knowledge, Hermetic magi gained an immense advantage over other wizards. This universal theory is not without its disadvantages, however. Detractors of the system believe that the strict regimentation of Hermetic magic robs truly brilliant magi of the chance to discover the modes of magic power that best suit them, and that it is truly helpful only to mediocre magi who need an exact system to guide them.
 
@@ -11431,7 +11464,7 @@ A character with this Ability is able to create a wind, duplicating the effects 
 
 > Torches flicker in our covenant’s shadowed corridors, as my quick footsteps navigate the labyrinthine passages. The iron-clad door creaks on worn hinges, opening to a dimly lit chamber cluttered with the amassed learning of centuries. My master pores over a shimmering crystal sphere, his face illuminated by the eerie glow of the arcane, his brow furrowed in concentration as he unlocks its long-forgotten secrets. My arrival is an intrusion into his sanctum, but a welcome one. My arms are laden with stacks of ancient tomes, their leather bindings embossed with symbols of power, ready to aid in his quest for knowledge.
 
-# VIII. Laboratory
+# Chapter 3: Laboratory
 
 A magus spends much more time in his laboratory engaged in study and other activities than adventuring in the lands outside the covenant. There are Arts to study, books to write, spells to invent, and items to enchant. Time between stories is recorded in seasons, each of which is enough time to accomplish a single long-term laboratory activity. Each of those activities is described in this chapter.
 
@@ -13133,7 +13166,7 @@ Specific effects for each item should be created as normal. If an effect cannot 
 
 > A wave of ghostly skeletons rises from the fetid ground around us, animated by infernal magic, eyes glowing with malevolent intent. A chill wind rustles through the twisted branches overhead, whispers of the dead echoing through the ages, as we face the undead horde. Our party’s magi stand together, unleashing bolts of crackling energy, streaks of light that tear through the skeletal ranks. I stand firm at their backs, arrows whistling through the spectres in futile defence of my masters. Above the fray, their swift-winged companion circles, its keen eyes seeking tactical advantage against the advancing skeletal tide.
 
-# IX. Spells
+# Chapter 9: Spells
 
 The Order of Hermes has collected and created hundreds of spells that have been passed down to apprentices and traded among magi for centuries. Those listed here are representative of the most useful, interesting, and exemplary of those spells — in no way are the spells listed here a definitive list of those available, and more examples can be found throughout the supplements, particularly in *Magi of Hermes*. Instead, they should be used as examples so that you may invent spells of your own. Many of these spells serve as good examples for creating other, similar spells. For instance, a spell to turn you into a wolf can be used as a model for a spell to turn you into another animal.
 
@@ -17120,7 +17153,7 @@ Concentrates the raw vis in a corpse into one part of that corpse, which can the
 
 > Deeper we venture, into the shadowed grove where a faerie ring glows with ethereal light, and the very air hums with unseen power. The veil between realms thins, as the voice of my mistress rises in incantations that reshape the very fabric of reality. She conjures a shimmering portal, as the local lord watches the unfolding ritual intently, his armored soldiers standing guard silently. With focused concentration, my maga reaches out to the faerie seeming through the swirling gateway, her fingers passing through its shimmering surface, rippling the curtain between worlds. Strange entities gather on the far side, their forms shifting like dreams, their intentions unknowable.
 
-# X. Long Term Events
+# Chapter 10: Long Term Events
 
 ## Experience and Advancement
 
@@ -17824,7 +17857,7 @@ A character who survives a crisis, even through magic, needs the rest of the sea
 
 ---
 
-# XI. Obstacles
+# Chapter 11: Obstacles
 
 The characters have goals that they want to achieve, but Mythic Europe does not always cooperate.
 
@@ -17884,7 +17917,7 @@ A combat round lasts for about six seconds, so that a Diameter Duration spell la
 
 ### Damage Table
 
-| Size          | Light | Меdium | Heavy | Incapacitating | Dead |
+| Size          | Light | Medium | Heavy | Incapacitating | Dead |
 | ------------- | ----- | ------ | ----- | -------------- | ---- |
 | -4 or less    | 1     | 2      | 3     | 4              | 5+   |
 | -3            | 1–2   | 3–4    | 5–6   | 7–8            | 9+   |
@@ -18137,7 +18170,7 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 ### Melee Weapon Statistics
 
-|                 | Ability | Init | Аtk | Dfn | Dam | Str | Load | Cost   |
+|                 | Ability | Init | Atk | Dfn | Dam | Str | Load | Cost   |
 | --------------- | ------- | ---- | --- | --- | --- | --- | ---- | ------ |
 | Dodge           | Brawl   | 0    | n/a    | 0   | n/a | n/a | 0    | n/a    |
 | Fist            | Brawl   | 0    | 0      | 0   | 0   | n/a | 0    | n/a    |
@@ -18183,7 +18216,7 @@ Partial armor covers the vital areas only, and generally consists of a hauberk (
 
 ### Missile Weapon Statistics
 
-| Weapon        | Ability | Init | Аtk | Dfn | Dam | Range | Str | Load | Cost   |
+| Weapon        | Ability | Init | Atk | Dfn | Dam | Range | Str | Load | Cost   |
 | ------------- | ------- | ---- | --- | --- | --- | ----- | --- | ---- | ------ |
 | Axe, Throwing | Thrown  | 0    | +2  | 0   | +6  | 5     | 0   | 1    | Std.   |
 | Javelin       | Thrown  | 0    | +2  | 0   | +5  | 10    | 0   | 1    | Std.   |
@@ -18349,7 +18382,7 @@ There is no maximum limit to a character's Wound Penalty, and characters cannot 
 
 ### Damage Table
 
-| Size       | Light | Меdium | Heavy | Incapacitating | Dead |
+| Size       | Light | Medium | Heavy | Incapacitating | Dead |
 | ---------- | ----- | ------ | ----- | -------------- | ---- |
 | -4 or less | 1     | 2      | 3     | 4             | 5+   |
 | -3         | 1-2   | 3–4    | 5–6   | 7–8           | 9+   |
@@ -18474,7 +18507,7 @@ Fatigue levels lost due to food or water deprivation are Long-Term Fatigue level
 
 #### Deprivation Table 
 
-| Type of Deprivation | Тime       |
+| Type of Deprivation | Time       |
 | ------------------- | ---------- |
 | Air                 | 30 seconds |
 | Water               | 1 day      |
@@ -18542,7 +18575,7 @@ For most sagas, you should work out which places can be reached and returned fro
 
 ---
 
-# XII. Realms
+# Chapter 12:  Realms
 
 Magic is the supernatural basis of **Ars Magica**, but it is not the only power in Mythic Europe. Four realms of power exist: Magic, Divine, Faerie, and Infernal.
 
@@ -18925,7 +18958,7 @@ Infernal vis is avoided by all sensible magi. It tends to twist any project to e
 
 > Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic  lingering long across the ages.
 
-# XIII. Bestiary
+# Chapter 13: Bestiary
 
 Creatures in an **Ars Magica** game serve a variety of purposes. The simplest is something to fight, but this may not be the most common. Most supernatural creatures are intelligent, and thus can be bargained with, talked to, or even come to the player characters for help. It's at least as interesting to have a dragon ask the characters to defeat a knight, as to have a knight ask the characters to defeat a dragon. It is best to think of creatures as characters in the game, rather than as obstacles to be overcome.
 
@@ -19621,7 +19654,7 @@ Personality Flaws are particularly appropriate for beasts; you may need to come 
 
 All creatures have the following Abilities:
 
-| Түре     | Abilities |
+| Type     | Abilities |
 | -------- | --------- |
 | Clawed Beast | Awareness 3 (food), Athletics 3 (running), Brawl 3 (bite or claw), Survival 3 (home terrain)          |
 | Hoofed Beast | Awareness 3 (predators), Athletics 4 (running), Brawl 2 (dodging), Survival 3 (home terrain) |
@@ -19742,7 +19775,7 @@ Your creature is now finished!
 
 ### Natural Weapons Table
 
-| Attack                  | Init | Аtk | Dfn | Dam |
+| Attack                  | Init | Atk | Dfn | Dam |
 | ----------------------- | ---- | --- | --- | --- |
 | Grapple                 | 0    | 0   | 0   | n/a |
 | Dodge                   | 0    | n/a | 0   | n/a |
@@ -21001,7 +21034,7 @@ Powers:
 
 Human Form: 1 point, Init 0, Corpus: The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eves, in the prime of life. The transformation lasts until he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
 
-Instill Loyalty, 5 points, Init 0, Mentem: Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loval to the dragon, and this loyalty lasts as long as Stellatus is alive.
+Instill Loyalty, 5 points, Init 0, Mentem: Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loyal to the dragon, and this loyalty lasts as long as Stellatus is alive.
 
 Fiery Breath, 1 point, Init +5, Ignem: Stellatus can breathe fire. The fire extends in a cone from his mouth, out to a distance of 20 paces, where it is 20 paces across. The fire has an intensity of +15. Dodging it is a Oik + Athletics roll against an Ease Factor of 9. A failure means that the character is engulfed in the flames, taking +45 damage, a success by 3 points or less means that a limb is covered, for +30 damage, a success by 4 to 6 points (that is, success against Ease Factor 12) means that the character is only brushed by the flames, for +15 damage, while success by 7 points or more (that is, success against Ease Factor 15) means that the character dodges out of the fire entirely.
 
@@ -22405,7 +22438,7 @@ Seferiel sometimes takes an interest in a particular magus, one whom he sees has
 
 ---
 
-# XIV. Mythic Europe
+# Chapter 14: Mythic Europe
 
 The official setting for Ars Magica is Mythic Europe, a world very like the Middle Ages of our world, but with magic. For many people, this setting is a large part of the fun of the game. You can 'change history', or at least 'visit' historical places. When you save a country from demons, you've saved France, not some imaginary land. It's also possible to actually visit the place where your saga is set, although that's easier for European players.
 
@@ -22933,7 +22966,7 @@ For things which have played an important role in the saga, that is unlikely to 
 
 ---
 
-# XV. Stories
+# Chapter 15: Stories
 
 ## General Considerations
 
@@ -23129,7 +23162,7 @@ Quests shape a series of stories, rather than a single story. They differ from t
 
 ---
 
-# XVI. Sagas
+# Chapter 16: Sagas
 
 A saga is a series of connected stories, centered around a single covenant. In some cases the only connection between two stories is that both happen to people who live at the covenant, and not even the same people. Other stories are linked into a longer narrative, with a major climax. This chapter provides guidance on how to run a good saga.
 
@@ -24606,7 +24639,7 @@ One year’s work for one craftsman is +9
 
 ## Aging Rolls
 
-р168-170 р391
+p168-170 p391
 
 Roll every year after turning 35.
 
@@ -24614,7 +24647,7 @@ AGING TOTAL: Stress die (no botch) + age/10 (round up) - Living Conditions modif
 
 ## Aging
 
-р168-170 р391
+p168-170 p391
 
 | Living Conditions | Modifier |
 |-------------------|----------|
