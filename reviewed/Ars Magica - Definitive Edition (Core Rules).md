@@ -12,6 +12,24 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
+### Markdown Version Quick Convenience Links
+
+[Table of Contents](#table-of-contents)<br>
+[Detailed Character Creation](#detailed-character-creation)<br>
+[List of Virtues](#list-of-virtues)<br>
+[List of Flaws](#list-of-flaws)<br>
+[Ability List](#ability-list)<br>
+[Arcane Experimentation](#arcane-experimentation)<br>
+[Spell Design](#spell-design)<br>
+
+[Reference Guide](#reference-guide)<br>
+[Combat Rules Reference](#combat-rules)<br>
+[Magic Rules Reference](#magic-rules)<br>
+[Laboratory Rules Reference](#laboratory-rules)<br>
+[Spells Index](#spells-index)<br>
+[Spell Guidelines Index](#spell-guidelines-index)<br>
+[Bestiary Index](#beastiary-index)<br>
+
 ## Step into a Medieval World of Magic & Myth
 
 In Ars Magica, the superstitions of the common folk are all true. Faeries drink milk left on doorsteps, demons roam the countryside, and wizards wield magic beyond the ken of mortals.
@@ -238,30 +256,29 @@ December 2024
 **Credits**<br>
 **Memorials**<br>
 **Preface**<br>
-**Table of Illustrations**
-**Chapter 1: Introduction**<br>
-**Chapter 2: Order of Hermes**<br>
-**Chapter 3: Characters**<br>
-**Chapter 4: Virtues & Flaws**<br>
-**Chapter 5: Abilities**<br>
-**Chapter 6: Covenants**<br>
-**Chapter 7: Hermetic Magic**<br>
-**Chapter 8: Laboratory**<br>
-**Chapter 9: Spells**<br>
-**Chapter 10: Long-Term Events**<br>
-**Chapter 11: Obstacles**<br>
-**Chapter 12: Realms**<br>
-**Chapter 13: Bestiary**<br>
+**Table of Illustrations**<br>
+[**Chapter 1: Introduction**](#chapter-1-introduction)<br>
+[**Chapter 2: The Order of Hermes**](#chapter-2-the-order-of-hermes)<br>
+[**Chapter 3: Characters**](#chapter-3-characters)<br>
+[**Chapter 4: Virtues and Flaws**](#chapter-4-virtues-and-flaws)<br>
+[**Chapter 5: Abilities**](#chapter-5-abilities)<br>
+[**Chapter 6: Covenants**](#chapter-6-covenants)<br>
+[**Chapter 7: Hermetic Magic**](#chapter-7-hermetic-magic)<br>
+[**Chapter 8: Laboratory**](#chapter-8-laboratory)<br>
+[**Chapter 9: Spells**](#chapter-9-spells)<br>
+[**Chapter 10: Long-Term Events**](#chapter-10-long-term-events)<br>
+[**Chapter 11: Obstacles**](#chapter-11-obstacles)<br>
+[**Chapter 12: Realms**](#chapter-12-realms)<br>
+[**Chapter 13: Bestiary**](#chapter-13-bestiary)<br>
 Map of Mythic Europe<br>
-**Chapter 14: Mythic Europe**<br>
-**Chapter 15: Stories**<br>
-**Chapter 16: Sagas**<br>
-Appendix A: Editor's Note<br>
-Appendix B: Ars Magica Open License<br>
-Appendix C: Fourth Edition Conversion<br>
-Appendix D: Reference Guide<br>
-Appendix E: Spell Index<br>
-Appendix F: Bestiary Index<br>
+[**Chapter 14: Mythic Europe**](#chapter-14-mythic-europe)<br>
+[**Chapter 15: Stories**](#chapter-15-stories)<br>
+[**Chapter 16: Sagas**](#chapter-16-sagas)<br>
+[**Appendix A: Editor's Note**](#editors-note)<br>
+[**Appendix B: Ars Magica Open License**](#ars-magica-open-license)<br>
+[**Appendix C: Fourth Edition Conversion**](#fourth-edition-conversion)<br>
+[**Appendix D: Reference Guide**](#reference-guide)<br>
+[**Appendix E: Spells Index**](#spells-index)<br>
 Appendix G: Traditional Index<br>
 Appendix H: Character Sheet<br>
 Appendix I: Fifth Edition Line<br>
@@ -475,7 +492,7 @@ Notes: An average character has a score of 0 in the relevant Characteristic, whi
 
 ---
 
-# Chapter 2:  The Order of Hermes
+# Chapter 2: The Order of Hermes
 
 The Order of Hermes is an organization of magi that spans the whole of Mythic Europe, even reaching some distance beyond. It has about 1200 members, living in thirteen Tribunals which divide up the continent. In the Magical Realm, no single group can even think to challenge the Order as a whole, but the power of God is far beyond even Hermetic magi. This chapter lays out the history and current state of the Order of Hermes, to which Ars Magica characters are almost all affiliated in some way.
 
@@ -2920,358 +2937,358 @@ General Virtues and Flaws cover everything else. Most provide bonuses or penalti
 
 ## List of Virtues
 
-The Gift
+[The Gift](#the-gift-1)
 
 ### Hermetic, Major
 
-Diedne Magic<br>
-Elemental Magic<br>
-Faerie-Raised Magic<br>
-Flawless Magic<br>
-Flexible Formulaic Magic<br>
-Gentle Gift<br>
-Leper Magus<br>
-Life-Linked Spontaneous Magic<br>
-Major Magical Focus<br>
-Mercurian Magic<br>
-Mythic Blood<br>
-Potent Magic
+[Diedne Magic](#diedne-magic)<br>
+[Elemental Magic](#elemental-magic)<br>
+[Faerie-Raised Magic](#faerie-raised-magic)<br>
+[Flawless Magic](#flawless-magic)<br>
+[Flexible Formulaic Magic](#flexible-formulaic-magic)<br>
+[Gentle Gift](#gentle-gift)<br>
+[Leper Magus](#leper-magus)<br>
+[Life-Linked Spontaneous Magic](#life-linked-spontaneous-magic)<br>
+[Major Magical Focus](#major-magical-focus)<br>
+[Mercurian Magic](#mercurian-magic)<br>
+[Mythic Blood](#mythic-blood)<br>
+[Potent Magic](#potent-magic)
 
 ### Supernatural, Major
 
-Amorphous<br>
-Bee King<br>
-Blood of the Nephilim<br>
-Command Animals<br>
-Corpse Magic<br>
-Curse-Throwing<br>
-Demonic Blood<br>
-Embitterment<br>
-Entrancement<br>
-Focus Power<br>
-Greater Benediction<br>
-Greater Immunity<br>
-Greater Power<br>
-Greater Purifying Touch<br>
-Hex<br>
-Immune to Disease<br>
-Induction<br>
-Ritual Power<br>
-Sense Passions<br>
-Shapeshifter<br>
-Skinchanger (Dove)<br>
-Spiritual Pact<br>
-Strong Faerie Blood<br>
-Summon Animals<br>
-Supernatural Beauty<br>
-Whistle Up The Wind
+[Amorphous](#amorphous)<br>
+[Bee King](#bee-king)<br>
+[Blood of the Nephilim](#blood-of-the-nephilim)<br>
+[Command Animals](#command-animals)<br>
+[Corpse Magic](#corpse-magic)<br>
+[Curse-Throwing](#curse-throwing)<br>
+[Demonic Blood](#demonic-blood)<br>
+[Embitterment](#embitterment)<br>
+[Entrancement](#entrancement)<br>
+[Focus Power](#focus-power)<br>
+[Greater Benediction](#greater-benediction)<br>
+[Greater Immunity](#greater-immunity)<br>
+[Greater Power](#greater-power)<br>
+[Greater Purifying Touch](#greater-purifying-touch)<br>
+[Hex](#hex)<br>
+[Immune to Disease](#immune-to-disease)<br>
+[Induction](#induction)<br>
+[Ritual Power](#ritual-power)<br>
+[Sense Passions](#sense-passions)<br>
+[Shapeshifter](#shapeshifter)<br>
+[Skinchanger (Dove)](#skinchanger-dove)<br>
+[Spiritual Pact](#spiritual-pact)<br>
+[Strong Faerie Blood](#strong-faerie-blood)<br>
+[Summon Animals](#summon-animals)<br>
+[Supernatural Beauty](#supernatural-beauty)<br>
+[Whistle Up The Wind](#whistle-up-the-wind)
 
 ### Social Status, Major
 
-Archieunuch<br>
-Capo<br>
-Cathedral School Master<br>
-Doctor in (Faculty)<br>
-Guild Dean<br>
-Landed Noble<br>
-Lasiq<br>
-Magister in Artibus<br>
-Magister in Medicina<br>
-Master Bard<br>
-Muqtaʿ<br>
-Partner<br>
-Redcap<br>
-Rosh Beth Din<br>
-Senior Clergy<br>
-Senior Master<br>
-Templar Commander<br>
-Venditor
+[Archieunuch](#archieunuch)<br>
+[Capo](#capo)<br>
+[Cathedral School Master](#cathedral-school-master)<br>
+[Doctor in (Faculty)](#doctor-in-faculty)<br>
+[Guild Dean](#guild-dean)<br>
+[Landed Noble](#landed-noble)<br>
+[Lasiq](#lasiq)<br>
+[Magister in Artibus](#magister-in-artibus)<br>
+[Magister in Medicina](#magister-in-medicina)<br>
+[Master Bard](#master-bard)<br>
+[Muqtaʿ](#muqta)<br>
+[Partner](#partner)<br>
+[Redcap](#redcap)<br>
+[Rosh Beth Din](#rosh-beth-din)<br>
+[Senior Clergy](#senior-clergy)<br>
+[Senior Master](#senior-master)<br>
+[Templar Commander](#templar-commander)<br>
+[Venditor](#venditor)
 
 ### General, Major
 
-Death Prophecy<br>
-Ghostly Warder<br>
-Giant Blood<br>
-Guardian Angel<br>
-License of Absence<br>
-Magian Lineage<br>
-Magical Warder<br>
-Powerful Relic<br>
-True Faith<br>
-Ways of the (Land)<br>
-Wealthy
+[Death Prophecy](#death-prophecy)<br>
+[Ghostly Warder](#ghostly-warder)<br>
+[Giant Blood](#giant-blood)<br>
+[Guardian Angel](#guardian-angel)<br>
+[License of Absence](#license-of-absence)<br>
+[Magian Lineage](#magian-lineage)<br>
+[Magical Warder](#magical-warder)<br>
+[Powerful Relic](#powerful-relic)<br>
+[True Faith](#true-faith)<br>
+[Ways of the (Land)](#ways-of-the-land)<br>
+[Wealthy](#wealthy)
 
 ### Hermetic, Minor
 
-Adept Laboratory Student<br>
-Affinity with Art<br>
-Atlantean Magic<br>
-Boosted Magic<br>
-Cautious Sorcerer<br>
-Clan Ilfetu<br>
-Cyclic Magic (positive)<br>
-Deft Form<br>
-Enduring Magic<br>
-The Enigma<br>
-Exotic Casting<br>
-Extractor of (Form) Vis<br>
-Faerie Magic<br>
-Fast Caster<br>
-Free Study<br>
-Gorgiastic<br>
-Guest of House Criamon<br>
-Harnessed Magic<br>
-Heartbeast<br>
-Hermetic Prestige<br>
-Imbued with the Spirit of (Form)<br>
-Inoffensive to (Beings)<br>
-Inventive Genius<br>
-Life Boost<br>
-Magical Memory<br>
-Mastered Spells<br>
-Masterpiece<br>
-Method Caster<br>
-Minor Magical Focus<br>
-Mystical Choreography<br>
-Performance Magic<br>
-Personal Vis Source<br>
-Potent Magic<br>
-Puissant Art<br>
-Quiet Magic<br>
-Secondary Insight<br>
-Side Effect<br>
-Skilled Parens<br>
-Special Circumstances<br>
-Spell Improvisation<br>
-Study Bonus<br>
-Subtle Magic<br>
-Tethered Magic<br>
-Verditius Magic<br>
-Withstand Casting
+[Adept Laboratory Student](#adept-laboratory-student)<br>
+[Affinity with Art](#affinity-with-art)<br>
+[Atlantean Magic](#atlantean-magic)<br>
+[Boosted Magic](#boosted-magic)<br>
+[Cautious Sorcerer](#cautious-sorcerer)<br>
+[Clan Ilfetu](#clan-ilfetu)<br>
+[Cyclic Magic (positive)](#cyclic-magic-positive)<br>
+[Deft Form](#deft-form)<br>
+[Enduring Magic](#enduring-magic)<br>
+[The Enigma](#the-enigma)<br>
+[Exotic Casting](#exotic-casting)<br>
+[Extractor of (Form) Vis](#extractor-of-form-vis)<br>
+[Faerie Magic](#faerie-magic)<br>
+[Fast Caster](#fast-caster)<br>
+[Free Study](#free-study)<br>
+[Gorgiastic](#gorgiastic)<br>
+[Guest of House Criamon](#guest-of-house-criamon)<br>
+[Harnessed Magic](#harnessed-magic)<br>
+[Heartbeast](#heartbeast)<br>
+[Hermetic Prestige](#hermetic-prestige)<br>
+[Imbued with the Spirit of (Form)](#imbued-with-the-spirit-of-form)<br>
+[Inoffensive to (Beings)](#inoffensive-to-beings)<br>
+[Inventive Genius](#inventive-genius)<br>
+[Life Boost](#life-boost)<br>
+[Magical Memory](#magical-memory)<br>
+[Mastered Spells](#mastered-spells)<br>
+[Masterpiece](#masterpiece)<br>
+[Method Caster](#method-caster)<br>
+[Minor Magical Focus](#minor-magical-focus)<br>
+[Mystical Choreography](#mystical-choreography)<br>
+[Performance Magic](#performance-magic)<br>
+[Personal Vis Source](#personal-vis-source)<br>
+[Potent Magic](#potent-magic)<br>
+[Puissant Art](#puissant-art)<br>
+[Quiet Magic](#quiet-magic)<br>
+[Secondary Insight](#secondary-insight)<br>
+[Side Effect](#side-effect)<br>
+[Skilled Parens](#skilled-parens)<br>
+[Special Circumstances](#special-circumstances)<br>
+[Spell Improvisation](#spell-improvisation)<br>
+[Study Bonus](#study-bonus)<br>
+[Subtle Magic](#subtle-magic)<br>
+[Tethered Magic](#tethered-magic)<br>
+[Verditius Magic](#verditius-magic)<br>
+[Withstand Casting](#withstand-casting)
 
 ### Supernatural, Minor
 
-Amorphous<br>
-Animal Ken<br>
-Crafter's Healing<br>
-Demonic Might<br>
-Demonic Powers<br>
-Dowsing<br>
-Dust Devil<br>
-Enchanting (Ability)<br>
-Eye of Hephaestus<br>
-Fabric Ripper<br>
-Faerie Blood<br>
-Familiarity with the Fae<br>
-Feather Messenger<br>
-Font of Knowledge<br>
-Frightful Presence<br>
-Gender Shift<br>
-Homing Instinct<br>
-Immunity to Cold<br>
-Infernal Heirloom<br>
-Kassalan Exorcism<br>
-(Land) Regio Network<br>
-Leather Ripper<br>
-Lesser Benediction<br>
-Lesser Immunity<br>
-Lesser Power<br>
-Lesser Purifying Touch<br>
-Magic Sensitivity<br>
-Magical Blood<br>
-Maker of Textured Vessels<br>
-Maker of Water Vessels<br>
-Master of (Form) Creatures<br>
-Muse<br>
-Persona<br>
-Personal Power<br>
-Premonitions<br>
-Ripper<br>
-Second Sight<br>
-See in Darkness<br>
-Sense Holiness and Unholiness<br>
-Skinchanger<br>
-Strong Angelic Heritage<br>
-Sufi<br>
-Unaging<br>
-Unbound Tongue<br>
-Variable Power<br>
-Voice of the (Land)<br>
-Wilderness Sense<br>
-Wisdom from Ignorance
+[Amorphous](#amorphous)<br>
+[Animal Ken](#animal-ken)<br>
+[Crafter's Healing](#crafters-healing)<br>
+[Demonic Might](#demonic-might)<br>
+[Demonic Powers](#demonic-powers)<br>
+[Dowsing](#dowsing)<br>
+[Dust Devil](#dust-devil)<br>
+[Enchanting (Ability)](#enchanting-ability)<br>
+[Eye of Hephaestus](#eye-of-hephaestus)<br>
+[Fabric Ripper](#fabric-ripper)<br>
+[Faerie Blood](#faerie-blood)<br>
+[Familiarity with the Fae](#familiarity-with-the-fae)<br>
+[Feather Messenger](#feather-messenger)<br>
+[Font of Knowledge](#font-of-knowledge)<br>
+[Frightful Presence](#frightful-presence)<br>
+[Gender Shift](#gender-shift)<br>
+[Homing Instinct](#homing-instinct)<br>
+[Immunity to Cold](#immunity-to-cold)<br>
+[Infernal Heirloom](#infernal-heirloom)<br>
+[Kassalan Exorcism](#kassalan-exorcism)<br>
+[(Land) Regio Network](#land-regio-network)<br>
+[Leather Ripper](#leather-ripper)<br>
+[Lesser Benediction](#lesser-benediction)<br>
+[Lesser Immunity](#lesser-immunity)<br>
+[Lesser Power](#lesser-power)<br>
+[Lesser Purifying Touch](#lesser-purifying-touch)<br>
+[Magic Sensitivity](#magic-sensitivity)<br>
+[Magical Blood](#magical-blood)<br>
+[Maker of Textured Vessels](#maker-of-textured-vessels)<br>
+[Maker of Water Vessels](#maker-of-water-vessels)<br>
+[Master of (Form) Creatures](#master-of-form-creatures)<br>
+[Muse](#muse)<br>
+[Persona](#persona)<br>
+[Personal Power](#personal-power)<br>
+[Premonitions](#premonitions)<br>
+[Ripper](#ripper)<br>
+[Second Sight](#second-sight)<br>
+[See in Darkness](#see-in-darkness)<br>
+[Sense Holiness and Unholiness](#sense-holiness-and-unholiness)<br>
+[Skinchanger](#skinchanger)<br>
+[Strong Angelic Heritage](#strong-angelic-heritage)<br>
+[Sufi](#sufi)<br>
+[Unaging](#unaging)<br>
+[Unbound Tongue](#unbound-tongue)<br>
+[Variable Power](#variable-power)<br>
+[Voice of the (Land)](#voice-of-the-land)<br>
+[Wilderness Sense](#wilderness-sense)<br>
+[Wisdom from Ignorance](#wisdom-from-ignorance)
 
 ### Social Status, Minor
 
-ʿAlim<br>
-Almogaten<br>
-Almogavar<br>
-Baccalaureus<br>
-Beadle<br>
-Brother Chaplain<br>
-Brother Knight<br>
-Brother Sergeant<br>
-Bureaucrat<br>
-Clerk<br>
-Custos<br>
-Emir<br>
-Eunuch<br>
-Factor<br>
-Failed Apprentice<br>
-Falconer<br>
-Fidaʾi<br>
-Forge-Companion<br>
-Gentleman/woman<br>
-Guild Apprentice<br>
-Guild Master<br>
-Ineslemen<br>
-Journeyman<br>
-Jurist<br>
-Knight<br>
-Lone Redcap<br>
-Mamluk<br>
-Marshal<br>
-Master of Kennels<br>
-Mazdean Priest<br>
-Mendicant Friar<br>
-Mercenary Captain<br>
-Merchant Adventurer<br>
-Notary<br>
-Perfectus<br>
-Priest<br>
-Rabbi<br>
-Religious<br>
-Senior Bard<br>
-Shadchan<br>
-Simple Student<br>
-Sufi<br>
-Templar Administrator<br>
-Templar Office Holder<br>
-Templar Specialist<br>
-Town Magistrate<br>
-Troubadour/Trobairitz<br>
-University Grammar Teacher<br>
-Wise One
+[ʿAlim](#alim)<br>
+[Almogaten](#almogaten)<br>
+[Almogavar](#almogavar)<br>
+[Baccalaureus](#baccalaureus)<br>
+[Beadle](#beadle)<br>
+[Brother Chaplain](#brother-chaplain)<br>
+[Brother Knight](#brother-knight)<br>
+[Brother Sergeant](#brother-sergeant)<br>
+[Bureaucrat](#bureaucrat)<br>
+[Clerk](#clerk)<br>
+[Custos](#custos)<br>
+[Emir](#emir)<br>
+[Eunuch](#eunuch)<br>
+[Factor](#factor)<br>
+[Failed Apprentice](#failed-apprentice)<br>
+[Falconer](#falconer)<br>
+[Fidaʾi](#fidai)<br>
+[Forge-Companion](#forge-companion)<br>
+[Gentleman/woman](#gentlemanwoman)<br>
+[Guild Apprentice](#guild-apprentice)<br>
+[Guild Master](#guild-master)<br>
+[Ineslemen](#ineslemen)<br>
+[Journeyman](#journeyman)<br>
+[Jurist](#jurist)<br>
+[Knight](#knight)<br>
+[Lone Redcap](#lone-redcap)<br>
+[Mamluk](#mamluk)<br>
+[Marshal](#marshal)<br>
+[Master of Kennels](#master-of-kennels)<br>
+[Mazdean Priest](#mazdean-priest)<br>
+[Mendicant Friar](#mendicant-friar)<br>
+[Mercenary Captain](#mercenary-captain)<br>
+[Merchant Adventurer](#merchant-adventurer)<br>
+[Notary](#notary)<br>
+[Perfectus](#perfectus)<br>
+[Priest](#priest)<br>
+[Rabbi](#rabbi)<br>
+[Religious](#religious)<br>
+[Senior Bard](#senior-bard)<br>
+[Shadchan](#shadchan)<br>
+[Simple Student](#simple-student)<br>
+[Sufi](#sufi)<br>
+[Templar Administrator](#templar-administrator)<br>
+[Templar Office Holder](#templar-office-holder)<br>
+[Templar Specialist](#templar-specialist)<br>
+[Town Magistrate](#town-magistrate)<br>
+[Troubadour/Trobairitz](#troubadourtrobairitz)<br>
+[University Grammar Teacher](#university-grammar-teacher)<br>
+[Wise One](#wise-one)
 
 ### General, Minor
 
-Academic Concentration (Subject)<br>
-Affinity with Ability<br>
-All According to Plan<br>
-Alluring to (Beings)<br>
-Apt Student<br>
-Aptitude for (Sin)<br>
-Arcane Lore<br>
-Aristotelian Training<br>
-Berserk<br>
-Book Learner<br>
-Cautious with (Ability)<br>
-Clear Thinker<br>
-Craft Guild Training<br>
-Common Sense<br>
-Convoluted Mind<br>
-Educated<br>
-Educated (Bardic)<br>
-Educated (Hebrew)<br>
-Educated (Islamic)<br>
-Educated (Vernacular)<br>
-Enduring Constitution<br>
-Enticer of Multitudes<br>
-Falls Like a Cat<br>
-Famous<br>
-Ferocity<br>
-Finding Hidden Loot<br>
-Free Expression<br>
-Forgettable Face<br>
-Good Teacher<br>
-Gossip<br>
-Great (Characteristic)<br>
-Hermetic Experience<br>
-Improved Characteristics<br>
-Independent Study<br>
-Indescribable Face<br>
-Inoffensive to (Beings)<br>
-Inspirational<br>
-Intuition<br>
-Jack-of-All-Trades<br>
-Just an Instant<br>
-Keen Sense of Smell<br>
-Keen Vision<br>
-Knows People<br>
-Large<br>
-Latent Magical Ability<br>
-Learn (Ability) from Mistakes<br>
-Light Touch<br>
-Lightning Reflexes<br>
-Linguist<br>
-Long-Winded<br>
-Luck<br>
-Magian Lineage<br>
-Magic Items<br>
-Magical Mount<br>
-Mentored by Demons<br>
-Mild Aging<br>
-Natural Leader<br>
-Rapid Convalescence<br>
-Perfect Balance<br>
-Perfect Eye for (Commodity)<br>
-Physician of Salerno<br>
-Piercing Gaze<br>
-Prestigious Student<br>
-Privileged Upbringing<br>
-Protection<br>
-Puissant Ability<br>
-Rat Up a Drainpipe<br>
-Relic<br>
-Reserves of Strength<br>
-Schooled in Crime<br>
-Self-Confident<br>
-Sharp Ears<br>
-Skilled Smuggler<br>
-Social Contacts<br>
-Strong-Willed<br>
-Student of (Realm)<br>
-Tainted Treasure<br>
-Templar Prestige<br>
-Temporal Influence<br>
-Tough<br>
-Trained Assassin<br>
-Troupe Upbringing<br>
-True Love (PC)<br>
-Unaffected by The Gift<br>
-Venus' Blessing<br>
-Warrior<br>
-Well-Traveled
+[Academic Concentration (Subject)](#academic-concentration-subject)<br>
+[Affinity with Ability](#affinity-with-ability)<br>
+[All According to Plan](#all-according-to-plan)<br>
+[Alluring to (Beings)](#alluring-to-beings)<br>
+[Apt Student](#apt-student)<br>
+[Aptitude for (Sin)](#aptitude-for-sin)<br>
+[Arcane Lore](#arcane-lore)<br>
+[Aristotelian Training](#aristotelian-training)<br>
+[Berserk](#berserk)<br>
+[Book Learner](#book-learner)<br>
+[Cautious with (Ability)](#cautious-with-ability)<br>
+[Clear Thinker](#clear-thinker)<br>
+[Craft Guild Training](#craft-guild-training)<br>
+[Common Sense](#common-sense)<br>
+[Convoluted Mind](#convoluted-mind)<br>
+[Educated](#educated)<br>
+[Educated (Bardic)](#educated-bardic)<br>
+[Educated (Hebrew)](#educated-hebrew)<br>
+[Educated (Islamic)](#educated-islamic)<br>
+[Educated (Vernacular)](#educated-vernacular)<br>
+[Enduring Constitution](#enduring-constitution)<br>
+[Enticer of Multitudes](#enticer-of-multitudes)<br>
+[Falls Like a Cat](#falls-like-a-cat)<br>
+[Famous](#famous)<br>
+[Ferocity](#ferocity)<br>
+[Finding Hidden Loot](#finding-hidden-loot)<br>
+[Free Expression](#free-expression)<br>
+[Forgettable Face](#forgettable-face)<br>
+[Good Teacher](#good-teacher)<br>
+[Gossip](#gossip)<br>
+[Great (Characteristic)](#great-characteristic)<br>
+[Hermetic Experience](#hermetic-experience)<br>
+[Improved Characteristics](#improved-characteristics)<br>
+[Independent Study](#independent-study)<br>
+[Indescribable Face](#indescribable-face)<br>
+[Inoffensive to (Beings)](#inoffensive-to-beings)<br>
+[Inspirational](#inspirational)<br>
+[Intuition](#intuition)<br>
+[Jack-of-All-Trades](#jack-of-all-trades)<br>
+[Just an Instant](#just-an-instant)<br>
+[Keen Sense of Smell](#keen-sense-of-smell)<br>
+[Keen Vision](#keen-vision)<br>
+[Knows People](#knows-people)<br>
+[Large](#large)<br>
+[Latent Magical Ability](#latent-magical-ability)<br>
+[Learn (Ability) from Mistakes](#learn-ability-from-mistakes)<br>
+[Light Touch](#light-touch)<br>
+[Lightning Reflexes](#lightning-reflexes)<br>
+[Linguist](#linguist)<br>
+[Long-Winded](#long-winded)<br>
+[Luck](#luck)<br>
+[Magian Lineage](#magian-lineage)<br>
+[Magic Items](#magic-items)<br>
+[Magical Mount](#magical-mount)<br>
+[Mentored by Demons](#mentored-by-demons)<br>
+[Mild Aging](#mild-aging)<br>
+[Natural Leader](#natural-leader)<br>
+[Rapid Convalescence](#rapid-convalescence)<br>
+[Perfect Balance](#perfect-balance)<br>
+[Perfect Eye for (Commodity)](#perfect-eye-for-commodity)<br>
+[Physician of Salerno](#physician-of-salerno)<br>
+[Piercing Gaze](#piercing-gaze)<br>
+[Prestigious Student](#prestigious-student)<br>
+[Privileged Upbringing](#privileged-upbringing)<br>
+[Protection](#protection)<br>
+[Puissant Ability](#puissant-ability)<br>
+[Rat Up a Drainpipe](#rat-up-a-drainpipe)<br>
+[Relic](#relic)<br>
+[Reserves of Strength](#reserves-of-strength)<br>
+[Schooled in Crime](#schooled-in-crime)<br>
+[Self-Confident](#self-confident)<br>
+[Sharp Ears](#sharp-ears)<br>
+[Skilled Smuggler](#skilled-smuggler)<br>
+[Social Contacts](#social-contacts)<br>
+[Strong-Willed](#strong-willed)<br>
+[Student of (Realm)](#student-of-realm)<br>
+[Tainted Treasure](#tainted-treasure)<br>
+[Templar Prestige](#templar-prestige)<br>
+[Temporal Influence](#temporal-influence)<br>
+[Tough](#tough)<br>
+[Trained Assassin](#trained-assassin)<br>
+[Troupe Upbringing](#troupe-upbringing)<br>
+[True Love (PC)](#true-love-pc)<br>
+[Unaffected by The Gift](#unaffected-by-the-gift)<br>
+[Venus' Blessing](#venus-blessing)<br>
+[Warrior](#warrior)<br>
+[Well-Traveled](#well-traveled)
 
 ### Mythic Companion, Free
 
-Devil Child<br>
-Faerie Doctor<br>
-Nephilim<br>
-Spirit Votary
+[Devil Child](#devil-child-1)<br>
+[Faerie Doctor](#faerie-doctor)<br>
+[Nephilim](#nephilim-1)<br>
+[Spirit Votary](#spirit-votary-1)
 
 ### Social Status, Free
 
-Apprentice<br>
-Bard<br>
-Covenfolk<br>
-Craftsman<br>
-Domestic Animal<br>
-Hermetic Magus<br>
-Laborer<br>
-Male Guild Sponsor<br>
-Merchant<br>
-Nuntius<br>
-Paid Rights<br>
-Peasant<br>
-Shamash<br>
-Sofer<br>
-Templar Confrere/Consoeur<br>
-Templar Servant<br>
-Wanderer
+[Apprentice](#apprentice)<br>
+[Bard](#bard)<br>
+[Covenfolk](#covenfolk)<br>
+[Craftsman](#craftsman)<br>
+[Domestic Animal](#domestic-animal)<br>
+[Hermetic Magus](#hermetic-magus)<br>
+[Laborer](#laborer)<br>
+[Male Guild Sponsor](#male-guild-sponsor)<br>
+[Merchant](#merchant)<br>
+[Nuntius](#nuntius)<br>
+[Paid Rights](#paid-rights)<br>
+[Peasant](#peasant)<br>
+[Shamash](#shamash)<br>
+[Sofer](#sofer)<br>
+[Templar Confrere/Consoeur](#templar-confrereconsoeur)<br>
+[Templar Servant](#templar-servant)<br>
+[Wanderer](#wanderer)
 
 ### Supernatural, Free
 
-Commanding Aura
+[Commanding Aura](#commanding-aura)
 
 ## Virtues
 
@@ -4507,7 +4524,7 @@ The character is an experienced assassin of the Nizari İsma'ilis, having succes
 
 Minor, General
 
-You have a magical quality that has not vet manifested itself. You probably do not realize you have this capacity; if you are a magus, your master failed to detect it during your apprenticeship. At the storyguide's discretion, this quality might appear spontaneously or because of some relevant event (like drinking faerie wine). This is not The Gift, and the latent ability is more limited than that.
+You have a magical quality that has not yet manifested itself. You probably do not realize you have this capacity; if you are a magus, your master failed to detect it during your apprenticeship. At the storyguide's discretion, this quality might appear spontaneously or because of some relevant event (like drinking faerie wine). This is not The Gift, and the latent ability is more limited than that.
 
 #### Learn (Ability) From Mistakes
 
@@ -5890,357 +5907,357 @@ It is, however, useful to have the Withstand Casting Virtue even with Life- Link
 
 ### Hermetic, Major
 
-Blatant Gift<br>
-Chaotic Magic<br>
-The Constant Expression<br>
-Deficient Technique<br>
-Difficult Longevity Ritual<br>
-Environmental Magic Condition<br>
-Magic Addiction<br>
-Monastic Vows (Hermetic)<br>
-Necessary Condition<br>
-Painful Magic<br>
-Restriction<br>
-Rigid Magic<br>
-Short-Ranged Magic<br>
-Study Requirement<br>
-Suppressed Gift<br>
-Twilight Prone<br>
-Unnatural Magic<br>
-Unstructured Caster<br>
-Vulnerable Magic<br>
-Waster of Vis<br>
-Weak Magic Resistance<br>
-Weak Spontaneous Magic
+[Blatant Gift](#blatant-gift)<br>
+[Chaotic Magic](#chaotic-magic)<br>
+[The Constant Expression](#the-constant-expression)<br>
+[Deficient Technique](#deficient-technique)<br>
+[Difficult Longevity Ritual](#difficult-longevity-ritual)<br>
+[Environmental Magic Condition](#environmental-magic-condition)<br>
+[Magic Addiction](#magic-addiction)<br>
+[Monastic Vows (Hermetic)](#monastic-vows-hermetic)<br>
+[Necessary Condition](#necessary-condition)<br>
+[Painful Magic](#painful-magic)<br>
+[Restriction](#restriction)<br>
+[Rigid Magic](#rigid-magic)<br>
+[Short-Ranged Magic](#short-ranged-magic)<br>
+[Study Requirement](#study-requirement)<br>
+[Suppressed Gift](#suppressed-gift)<br>
+[Twilight Prone](#twilight-prone)<br>
+[Unnatural Magic](#unnatural-magic)<br>
+[Unstructured Caster](#unstructured-caster)<br>
+[Vulnerable Magic](#vulnerable-magic)<br>
+[Waster of Vis](#waster-of-vis)<br>
+[Weak Magic Resistance](#weak-magic-resistance)<br>
+[Weak Spontaneous Magic](#weak-spontaneous-magic)
 
 ### Personality, Major or Minor
 
-Ambitious<br>
-Avaricious<br>
-Compassionate<br>
-Compulsion<br>
-Compulsive Lying<br>
-Depraved<br>
-Driven<br>
-Envious<br>
-Gender Nonconforming<br>
-Generous<br>
-Greedy<br>
-Hatred<br>
-Higher Purpose<br>
-Lecherous<br>
-Meddler<br>
-Obsessed<br>
-Optimistic<br>
-Overconfident<br>
-Oversensitive<br>
-Pagan<br>
-Pious<br>
-Proud<br>
-Rebellious<br>
-Reckless<br>
-Vow<br>
-Weakness<br>
-Wrathful
+[Ambitious](#ambitious)<br>
+[Avaricious](#avaricious)<br>
+[Compassionate](#compassionate)<br>
+[Compulsion](#compulsion)<br>
+[Compulsive Lying](#compulsive-lying)<br>
+[Depraved](#depraved)<br>
+[Driven](#driven)<br>
+[Envious](#envious)<br>
+[Gender Nonconforming](#gender-nonconforming)<br>
+[Generous](#generous)<br>
+[Greedy](#greedy)<br>
+[Hatred](#hatred)<br>
+[Higher Purpose](#higher-purpose)<br>
+[Lecherous](#lecherous)<br>
+[Meddler](#meddler)<br>
+[Obsessed](#obsessed)<br>
+[Optimistic](#optimistic)<br>
+[Overconfident](#overconfident)<br>
+[Oversensitive](#oversensitive)<br>
+[Pagan](#pagan)<br>
+[Pious](#pious)<br>
+[Proud](#proud)<br>
+[Rebellious](#rebellious)<br>
+[Reckless](#reckless)<br>
+[Vow](#vow)<br>
+[Weakness](#weakness)<br>
+[Wrathful](#wrathful)
 
 ### Story, Major
 
-Abandoned Apprentice<br>
-Beloved Rival<br>
-Bigamist<br>
-Black Sheep<br>
-Curse of Venus<br>
-Dark Secret<br>
-A Deal with the Devil<br>
-Dependent<br>
-Diabolic Past<br>
-Difficult Underlings<br>
-Enemies<br>
-Envied Beauty<br>
-Evil Destiny<br>
-Excommunicate<br>
-Favors<br>
-Feud<br>
-Fury<br>
-Indiscreet<br>
-Many Marriageable Daughters<br>
-Mistaken Identity<br>
-Monastic Vows<br>
-Oath of Fealty<br>
-Plagued by Supernatural Entity<br>
-Raised from the Dead<br>
-Rector/Proctor<br>
-Servant of the (Land)<br>
-Supernatural Nuisance<br>
-Suppressed Gift<br>
-Tainted Offspring<br>
-Tormenting Master<br>
-Tragic Life<br>
-True Love (NPC)<br>
-Tzadik Nistar<br>
-Unbaptized<br>
-Unhappily Married<br>
-University Dean<br>
-Vendetta<br>
-Vengeful Powers<br>
-Wanderlust
+[Abandoned Apprentice](#abandoned-apprentice)<br>
+[Beloved Rival](#beloved-rival)<br>
+[Bigamist](#bigamist)<br>
+[Black Sheep](#black-sheep)<br>
+[Curse of Venus](#curse-of-venus)<br>
+[Dark Secret](#dark-secret)<br>
+[A Deal with the Devil](#a-deal-with-the-devil)<br>
+[Dependent](#dependent)<br>
+[Diabolic Past](#diabolic-past)<br>
+[Difficult Underlings](#difficult-underlings)<br>
+[Enemies](#enemies)<br>
+[Envied Beauty](#envied-beauty)<br>
+[Evil Destiny](#evil-destiny)<br>
+[Excommunicate](#excommunicate)<br>
+[Favors](#favors)<br>
+[Feud](#feud)<br>
+[Fury](#fury)<br>
+[Indiscreet](#indiscreet)<br>
+[Many Marriageable Daughters](#many-marriageable-daughters)<br>
+[Mistaken Identity](#mistaken-identity)<br>
+[Monastic Vows](#monastic-vows)<br>
+[Oath of Fealty](#oath-of-fealty)<br>
+[Plagued by Supernatural Entity](#plagued-by-supernatural-entity)<br>
+[Raised from the Dead](#raised-from-the-dead)<br>
+[Rector/Proctor](#rectorproctor)<br>
+[Servant of the (Land)](#servant-of-the-land)<br>
+[Supernatural Nuisance](#supernatural-nuisance)<br>
+[Suppressed Gift](#suppressed-gift)<br>
+[Tainted Offspring](#tainted-offspring)<br>
+[Tormenting Master](#tormenting-master)<br>
+[Tragic Life](#tragic-life)<br>
+[True Love (NPC)](#true-love-npc)<br>
+[Tzadik Nistar](#tzadik-nistar)<br>
+[Unbaptized](#unbaptized)<br>
+[Unhappily Married](#unhappily-married)<br>
+[University Dean](#university-dean)<br>
+[Vendetta](#vendetta)<br>
+[Vengeful Powers](#vengeful-powers)<br>
+[Wanderlust](#wanderlust)
 
 ### Social Status, Major
 
-Outlaw<br>
-Outsider
+[Outlaw](#outlaw)<br>
+[Outsider](#outsider)
 
 ### Supernatural, Major
 
-Age Quickly<br>
-Blatant Magical Air<br>
-Bound to (Realm)<br>
-Bound to (Role) Role<br>
-Broken Vessel<br>
-False Power<br>
-Greater Malediction<br>
-Horrifying Appearance – Snake Legs<br>
-Hunger for (Form) Magic<br>
-Lycanthrope<br>
-Raised from the Dead
+[Age Quickly](#age-quickly)<br>
+[Blatant Magical Air](#blatant-magical-air)<br>
+[Bound to (Realm)](#bound-to-realm)<br>
+[Bound to (Role) Role](#bound-to-role-role)<br>
+[Broken Vessel](#broken-vessel)<br>
+[False Power](#false-power)<br>
+[Greater Malediction](#greater-malediction)<br>
+[Horrifying Appearance – Snake Legs](#horrifying-appearance--snake-legs)<br>
+[Hunger for (Form) Magic](#hunger-for-form-magic)<br>
+[Lycanthrope](#lycanthrope)<br>
+[Raised from the Dead](#raised-from-the-dead)
 
 ### General, Major
 
-Blind<br>
-Crippled<br>
-Deaf<br>
-Dwarf<br>
-Enfeebled<br>
-The Falling Evil<br>
-Leprosy<br>
-Low Self-Esteem<br>
-Magical Air<br>
-Mute<br>
-No Hands<br>
-Poor<br>
-Repellent
+[Blind](#blind)<br>
+[Crippled](#crippled)<br>
+[Deaf](#deaf)<br>
+[Dwarf](#dwarf)<br>
+[Enfeebled](#enfeebled)<br>
+[The Falling Evil](#the-falling-evil)<br>
+[Leprosy](#leprosy)<br>
+[Low Self-Esteem](#low-self-esteem)<br>
+[Magical Air](#magical-air)<br>
+[Mute](#mute)<br>
+[No Hands](#no-hands)<br>
+[Poor](#poor)<br>
+[Repellent](#repellent)
 
 ### Hermetic, Minor
 
-Bound Casting Tools<br>
-Bound Magic<br>
-Brutal Artist<br>
-Careless Sorcerer<br>
-Ceremonial Spontaneous Magic<br>
-Clumsy Magic<br>
-Consumed Casting Tools<br>
-Corrupted Arts<br>
-Corrupted Spells<br>
-Creative Block<br>
-Cyclic Magic (negative)<br>
-Deficient Form<br>
-Deleterious Circumstances<br>
-Difficult Spontaneous Magic<br>
-Disjointed Magic<br>
-Disorientating Magic<br>
-Exciting Experimentation<br>
-Fettered Magic<br>
-Flawed Parma Magica<br>
-Harmless Magic<br>
-Hedge Wizard<br>
-Incompatible Arts<br>
-Inconstant Magic<br>
-Infamous Master<br>
-Limited Magic Resistance<br>
-Loose Magic<br>
-Offensive to (Beings)<br>
-Poor Formulaic Magic<br>
-Primogeniture Lineage<br>
-Short-Lived Magic<br>
-Slow Caster<br>
-Spontaneous Casting Tools<br>
-Stockade Parma Magica<br>
-Susceptibility to Divine Power<br>
-Susceptibility to Faerie Power<br>
-Susceptibility to Infernal Power<br>
-Unbearable to (Beings)<br>
-Unimaginative Learner<br>
-Unpredictable Magic<br>
-Vulnerable Casting<br>
-Vulnerable to Folk Tradition<br>
-Warped Magic<br>
-Weak Enchanter<br>
-Weak Magic<br>
-Weak Parens<br>
-Weak Scholar<br>
-Weird Magic
+[Bound Casting Tools](#bound-casting-tools)<br>
+[Bound Magic](#bound-magic)<br>
+[Brutal Artist](#brutal-artist)<br>
+[Careless Sorcerer](#careless-sorcerer)<br>
+[Ceremonial Spontaneous Magic](#ceremonial-spontaneous-magic)<br>
+[Clumsy Magic](#clumsy-magic)<br>
+[Consumed Casting Tools](#consumed-casting-tools)<br>
+[Corrupted Arts](#corrupted-arts)<br>
+[Corrupted Spells](#corrupted-spells)<br>
+[Creative Block](#creative-block)<br>
+[Cyclic Magic (negative)](#cyclic-magic-negative)<br>
+[Deficient Form](#deficient-form)<br>
+[Deleterious Circumstances](#deleterious-circumstances)<br>
+[Difficult Spontaneous Magic](#difficult-spontaneous-magic)<br>
+[Disjointed Magic](#disjointed-magic)<br>
+[Disorientating Magic](#disorientating-magic)<br>
+[Exciting Experimentation](#exciting-experimentation)<br>
+[Fettered Magic](#fettered-magic)<br>
+[Flawed Parma Magica](#flawed-parma-magica)<br>
+[Harmless Magic](#harmless-magic)<br>
+[Hedge Wizard](#hedge-wizard)<br>
+[Incompatible Arts](#incompatible-arts)<br>
+[Inconstant Magic](#inconstant-magic)<br>
+[Infamous Master](#infamous-master)<br>
+[Limited Magic Resistance](#limited-magic-resistance)<br>
+[Loose Magic](#loose-magic)<br>
+[Offensive to (Beings)](#offensive-to-beings)<br>
+[Poor Formulaic Magic](#poor-formulaic-magic)<br>
+[Primogeniture Lineage](#primogeniture-lineage)<br>
+[Short-Lived Magic](#short-lived-magic)<br>
+[Slow Caster](#slow-caster)<br>
+[Spontaneous Casting Tools](#spontaneous-casting-tools)<br>
+[Stockade Parma Magica](#stockade-parma-magica)<br>
+[Susceptibility to Divine Power](#susceptibility-to-divine-power)<br>
+[Susceptibility to Faerie Power](#susceptibility-to-faerie-power)<br>
+[Susceptibility to Infernal Power](#susceptibility-to-infernal-power)<br>
+[Unbearable to (Beings)](#unbearable-to-beings)<br>
+[Unimaginative Learner](#unimaginative-learner)<br>
+[Unpredictable Magic](#unpredictable-magic)<br>
+[Vulnerable Casting](#vulnerable-casting)<br>
+[Vulnerable to Folk Tradition](#vulnerable-to-folk-tradition)<br>
+[Warped Magic](#warped-magic)<br>
+[Weak Enchanter](#weak-enchanter)<br>
+[Weak Magic](#weak-magic)<br>
+[Weak Parens](#weak-parens)<br>
+[Weak Scholar](#weak-scholar)<br>
+[Weird Magic](#weird-magic)
 
 ### Personality, Minor
 
-Busybody<br>
-Carefree<br>
-Church Upbringing<br>
-Continence<br>
-Covenant Upbringing<br>
-Delusion<br>
-Depressed<br>
-Dutybound<br>
-Faerie Upbringing<br>
-Fear<br>
-Fickle Nature<br>
-Follower<br>
-Foreign Upbringing<br>
-Grudge<br>
-Humble<br>
-Imagined Folk Tradition Vulnerability<br>
-Lost Love<br>
-Magical Fascination<br>
-Noncombatant<br>
-Pessimistic<br>
-Poor Memory<br>
-Reclusive<br>
-Secretive<br>
-Seeker<br>
-Short Attention Span<br>
-Simple-Minded<br>
-Sheltered Upbringing<br>
-Slothful<br>
-Soft-Hearted<br>
-Temperate<br>
-Weak-Willed
+[Busybody](#busybody)<br>
+[Carefree](#carefree)<br>
+[Church Upbringing](#church-upbringing)<br>
+[Continence](#continence)<br>
+[Covenant Upbringing](#covenant-upbringing)<br>
+[Delusion](#delusion)<br>
+[Depressed](#depressed)<br>
+[Dutybound](#dutybound)<br>
+[Faerie Upbringing](#faerie-upbringing)<br>
+[Fear](#fear)<br>
+[Fickle Nature](#fickle-nature)<br>
+[Follower](#follower)<br>
+[Foreign Upbringing](#foreign-upbringing)<br>
+[Grudge](#grudge)<br>
+[Humble](#humble)<br>
+[Imagined Folk Tradition Vulnerability](#imagined-folk-tradition-vulnerability)<br>
+[Lost Love](#lost-love)<br>
+[Magical Fascination](#magical-fascination)<br>
+[Noncombatant](#noncombatant)<br>
+[Pessimistic](#pessimistic)<br>
+[Poor Memory](#poor-memory)<br>
+[Reclusive](#reclusive)<br>
+[Secretive](#secretive)<br>
+[Seeker](#seeker)<br>
+[Short Attention Span](#short-attention-span)<br>
+[Simple-Minded](#simple-minded)<br>
+[Sheltered Upbringing](#sheltered-upbringing)<br>
+[Slothful](#slothful)<br>
+[Soft-Hearted](#soft-hearted)<br>
+[Temperate](#temperate)<br>
+[Weak-Willed](#weak-willed)
 
 ### Story, Minor
 
-Animal Companion<br>
-Beloved Rival<br>
-Blackmail<br>
-Close Family Ties<br>
-Demonic Familiar<br>
-Employed by Company<br>
-Faerie Friend<br>
-Heir<br>
-Hermetic Patron<br>
-Impious Friend<br>
-Magical (Being) Companion<br>
-Manufactured Ignorance<br>
-Mentor<br>
-Primogeniture Lineage<br>
-Visions<br>
-Weak Personality
+[Animal Companion](#animal-companion)<br>
+[Beloved Rival](#beloved-rival)<br>
+[Blackmail](#blackmail)<br>
+[Close Family Ties](#close-family-ties)<br>
+[Demonic Familiar](#demonic-familiar)<br>
+[Employed by Company](#employed-by-company)<br>
+[Faerie Friend](#faerie-friend)<br>
+[Heir](#heir)<br>
+[Hermetic Patron](#hermetic-patron)<br>
+[Impious Friend](#impious-friend)<br>
+[Magical (Being) Companion](#magical-being-companion)<br>
+[Manufactured Ignorance](#manufactured-ignorance)<br>
+[Mentor](#mentor)<br>
+[Primogeniture Lineage](#primogeniture-lineage)<br>
+[Visions](#visions)<br>
+[Weak Personality](#weak-personality)
 
 ### Social Status, Minor
 
-Branded Criminal<br>
-Companion Animal<br>
-Failed Journeyman<br>
-Failed Master<br>
-Failed Monk/Nun<br>
-Gabai<br>
-Outcast<br>
-Outlaw Leader<br>
-Outsider<br>
-Surgical Empiricus<br>
-Usurer
+[Branded Criminal](#branded-criminal)<br>
+[Companion Animal](#companion-animal)<br>
+[Failed Journeyman](#failed-journeyman)<br>
+[Failed Master](#failed-master)<br>
+[Failed Monk/Nun](#failed-monknun)<br>
+[Gabai](#gabai)<br>
+[Outcast](#outcast)<br>
+[Outlaw Leader](#outlaw-leader)<br>
+[Outsider](#outsider)<br>
+[Surgical Empiricus](#surgical-empiricus)<br>
+[Usurer](#usurer)
 
 ### Supernatural, Minor
 
-Baneful Circumstances<br>
-Corrupted Abilities<br>
-Curse of Slander<br>
-Cursed Guile<br>
-Deteriorating Power<br>
-Evil Eye<br>
-Exiled Atlantean<br>
-Flawed Powers<br>
-Fluctuating Fortune<br>
-Folk Magic<br>
-(Form) Monstrosity<br>
-Inscribed Shadow<br>
-Lesser Malediction<br>
-Manifest Sin<br>
-Monstrous Blood<br>
-Necessary (Realm) Aura for (Ability)<br>
-Prohibition<br>
-(Realm) Stigmatic<br>
-Restricted Power<br>
-Slow Power<br>
-Stigmatic Catalyst<br>
-Susceptibility to Sunlight<br>
-Susceptibility to Warping<br>
-Unruly Air<br>
-Viaticarus<br>
-Visions<br>
-Warped by Magic
+[Baneful Circumstances](#baneful-circumstances)<br>
+[Corrupted Abilities](#corrupted-abilities)<br>
+[Curse of Slander](#curse-of-slander)<br>
+[Cursed Guile](#cursed-guile)<br>
+[Deteriorating Power](#deteriorating-power)<br>
+[Evil Eye](#evil-eye)<br>
+[Exiled Atlantean](#exiled-atlantean)<br>
+[Flawed Powers](#flawed-powers)<br>
+[Fluctuating Fortune](#fluctuating-fortune)<br>
+[Folk Magic](#folk-magic)<br>
+[(Form) Monstrosity](#form-monstrosity)<br>
+[Inscribed Shadow](#inscribed-shadow)<br>
+[Lesser Malediction](#lesser-malediction)<br>
+[Manifest Sin](#manifest-sin)<br>
+[Monstrous Blood](#monstrous-blood)<br>
+[Necessary (Realm) Aura for (Ability)](#necessary-realm-aura-for-ability)<br>
+[Prohibition](#prohibition)<br>
+[(Realm) Stigmatic](#realm-stigmatic)<br>
+[Restricted Power](#restricted-power)<br>
+[Slow Power](#slow-power)<br>
+[Stigmatic Catalyst](#stigmatic-catalyst)<br>
+[Susceptibility to Sunlight](#susceptibility-to-sunlight)<br>
+[Susceptibility to Warping](#susceptibility-to-warping)<br>
+[Unruly Air](#unruly-air)<br>
+[Viaticarus](#viaticarus)<br>
+[Visions](#visions)<br>
+[Warped by Magic](#warped-by-magic)
 
 ### General, Minor
 
-Ability Block<br>
-Afflicted Tongue<br>
-Anchored to the (Land)<br>
-Apostate<br>
-Arthritis<br>
-Careless with (Ability)<br>
-Castratus<br>
-Clumsy<br>
-Craving for Travel<br>
-Curse of Slander<br>
-Devoted Parent/Child<br>
-Dhimmi<br>
-Disfigured<br>
-Environmental Sensitivity<br>
-Failed Student<br>
-Feral Scent<br>
-Feral Upbringing<br>
-Fish Out of Water (Terrain)<br>
-Flashbacks<br>
-Fragile Constitution<br>
-Frail<br>
-Gullible<br>
-Hallucinations<br>
-Hobbled<br>
-Hunchback<br>
-Incomprehensible<br>
-Independent Craftsman<br>
-Infamous<br>
-Jinxed<br>
-Judged Unfairly<br>
-Lame<br>
-Lingering Injury<br>
-Low Tolerance<br>
-Master of None<br>
-Missing Ear<br>
-Missing Eye<br>
-Missing Hand<br>
-Motion Sickness<br>
-Night Terrors<br>
-No Sense of Direction<br>
-Nocturnal<br>
-Obese<br>
-Offensive to (Beings)<br>
-Palsied Hands<br>
-Poor (Characteristic)<br>
-Poor Concentration<br>
-Poor Eyesight<br>
-Poor Hearing<br>
-Poor Living Conditions<br>
-Poor Student<br>
-Primitive Equipment<br>
-Raised in the Gutter<br>
-Regular<br>
-Restricted Learning<br>
-Rolling Stone<br>
-Savantism<br>
-Short of Breath<br>
-Sleep Disorder<br>
-Slow Reflexes<br>
-Small Frame<br>
-Social Handicap<br>
-Stuck in Your Ways<br>
-Tainted with Evil<br>
-Unbearable to (Beings)<br>
-Uncertain Faith<br>
-Uncontrollable Strength<br>
-Uninspirational<br>
-Unlucky<br>
-Unspecialized<br>
-Warped Senses<br>
-Weak Characteristics<br>
-Witch Marks
+[Ability Block](#ability-block)<br>
+[Afflicted Tongue](#afflicted-tongue)<br>
+[Anchored to the (Land)](#anchored-to-the-land)<br>
+[Apostate](#apostate)<br>
+[Arthritis](#arthritis)<br>
+[Careless with (Ability)](#careless-with-ability)<br>
+[Castratus](#castratus)<br>
+[Clumsy](#clumsy)<br>
+[Craving for Travel](#craving-for-travel)<br>
+[Curse of Slander](#curse-of-slander)<br>
+[Devoted Parent/Child](#devoted-parentchild)<br>
+[Dhimmi](#dhimmi)<br>
+[Disfigured](#disfigured)<br>
+[Environmental Sensitivity](#environmental-sensitivity)<br>
+[Failed Student](#failed-student)<br>
+[Feral Scent](#feral-scent)<br>
+[Feral Upbringing](#feral-upbringing)<br>
+[Fish Out of Water (Terrain)](#fish-out-of-water-terrain)<br>
+[Flashbacks](#flashbacks)<br>
+[Fragile Constitution](#fragile-constitution)<br>
+[Frail](#frail)<br>
+[Gullible](#gullible)<br>
+[Hallucinations](#hallucinations)<br>
+[Hobbled](#hobbled)<br>
+[Hunchback](#hunchback)<br>
+[Incomprehensible](#incomprehensible)<br>
+[Independent Craftsman](#independent-craftsman)<br>
+[Infamous](#infamous)<br>
+[Jinxed](#jinxed)<br>
+[Judged Unfairly](#judged-unfairly)<br>
+[Lame](#lame)<br>
+[Lingering Injury](#lingering-injury)<br>
+[Low Tolerance](#low-tolerance)<br>
+[Master of None](#master-of-none)<br>
+[Missing Ear](#missing-ear)<br>
+[Missing Eye](#missing-eye)<br>
+[Missing Hand](#missing-hand)<br>
+[Motion Sickness](#motion-sickness)<br>
+[Night Terrors](#night-terrors)<br>
+[No Sense of Direction](#no-sense-of-direction)<br>
+[Nocturnal](#nocturnal)<br>
+[Obese](#obese)<br>
+[Offensive to (Beings)](#offensive-to-beings)<br>
+[Palsied Hands](#palsied-hands)<br>
+[Poor (Characteristic)](#poor-characteristic)<br>
+[Poor Concentration](#poor-concentration)<br>
+[Poor Eyesight](#poor-eyesight)<br>
+[Poor Hearing](#poor-hearing)<br>
+[Poor Living Conditions](#poor-living-conditions)<br>
+[Poor Student](#poor-student)<br>
+[Primitive Equipment](#primitive-equipment)<br>
+[Raised in the Gutter](#raised-in-the-gutter)<br>
+[Regular](#regular)<br>
+[Restricted Learning](#restricted-learning)<br>
+[Rolling Stone](#rolling-stone)<br>
+[Savantism](#savantism)<br>
+[Short of Breath](#short-of-breath)<br>
+[Sleep Disorder](#sleep-disorder)<br>
+[Slow Reflexes](#slow-reflexes)<br>
+[Small Frame](#small-frame)<br>
+[Social Handicap](#social-handicap)<br>
+[Stuck in Your Ways](#stuck-in-your-ways)<br>
+[Tainted with Evil](#tainted-with-evil)<br>
+[Unbearable to (Beings)](#unbearable-to-beings)<br>
+[Uncertain Faith](#uncertain-faith)<br>
+[Uncontrollable Strength](#uncontrollable-strength)<br>
+[Uninspirational](#uninspirational)<br>
+[Unlucky](#unlucky)<br>
+[Unspecialized](#unspecialized)<br>
+[Warped Senses](#warped-senses)<br>
+[Weak Characteristics](#weak-characteristics)<br>
+[Witch Marks](#witch-marks)
 
 ## Flaws
 
@@ -8364,7 +8381,7 @@ You are prone to anger over the smallest issues, and your rage when you are thwa
 
 > Torches flicker under a bright flare of magelight! Our wizard illuminates our hurried journey with his glowing staff, while our grim-faced guards flank our footsteps. Our covenant welcomes us home from the craggy cliffs, battlements etched against the sky, overlooking the vast darkening ocean as the sun dips low. It guards tales of valiant knights, cunning sorcerers, and their faithful companions. Our wagon rattles down the winding path, pressing onward toward safety with haste as the wind whips dark threats past our ears. For we all know unseen danger lurks in the deepening shadows, tracking our every move from the treeline, testing our courage at each step.
 
-# V. Abilities
+# Chapter 5: Abilities
 
 Abilities represent the things that a character has learned over the course of her life. They increase over the course of a saga, as people continue learning all the time.
 
@@ -11444,7 +11461,7 @@ A character with this Ability is able to create a wind, duplicating the effects 
 
 > Torches flicker in our covenant’s shadowed corridors, as my quick footsteps navigate the labyrinthine passages. The iron-clad door creaks on worn hinges, opening to a dimly lit chamber cluttered with the amassed learning of centuries. My master pores over a shimmering crystal sphere, his face illuminated by the eerie glow of the arcane, his brow furrowed in concentration as he unlocks its long-forgotten secrets. My arrival is an intrusion into his sanctum, but a welcome one. My arms are laden with stacks of ancient tomes, their leather bindings embossed with symbols of power, ready to aid in his quest for knowledge.
 
-# Chapter 3: Laboratory
+# Chapter 8: Laboratory
 
 A magus spends much more time in his laboratory engaged in study and other activities than adventuring in the lands outside the covenant. There are Arts to study, books to write, spells to invent, and items to enchant. Time between stories is recorded in seasons, each of which is enough time to accomplish a single long-term laboratory activity. Each of those activities is described in this chapter.
 
@@ -15015,7 +15032,7 @@ Causes a corpse to function at your verbal command. Commands have to be very sim
 
 ##### Strings of the Unwilling Marionette
 R: Voice, D: Conc, T: Ind<br>
-You can control the physical movements of a person, such as walking, standing, and turning. If the target resists the control, the movements are jerky. The target can vell, but you can prevent intelligible speech by controlling the target's mouth. The target must be conscious to be moved about.<br>
+You can control the physical movements of a person, such as walking, standing, and turning. If the target resists the control, the movements are jerky. The target can yell, but you can prevent intelligible speech by controlling the target's mouth. The target must be conscious to be moved about.<br>
 (Base 10, +2 Voice, +1 Conc)
 
 #### LEVEL 30
@@ -18555,7 +18572,7 @@ For most sagas, you should work out which places can be reached and returned fro
 
 ---
 
-# Chapter 12:  Realms
+# Chapter 12: Realms
 
 Magic is the supernatural basis of **Ars Magica**, but it is not the only power in Mythic Europe. Four realms of power exist: Magic, Divine, Faerie, and Infernal.
 
@@ -24744,363 +24761,485 @@ p168-170 p391
 
 | Spell Name | Arts | Level | Page |
 |------------|------|-------|------|
-| Aegis Of The Hearth | ReVim | General | 370 |
-| Agony Of The Beast | PeAn | 15 | 318 |
-| Air's Ghostly Form | CrAu | 5 | 325 |
-| Arc Of Fiery Ribbons | CrIg | 25 | 344 |
-| Arm Of The Infant | MuCo | 20 | 334 |
-| Aura Of Ennobled Presence | MuIm | 10 | 350 |
-| Aura Of Rightful Authority | ReMe | 20 | 357 |
-| Awaken The Slumbering Corpse | ReCo | 25 | 338 |
-| Ball Of Abysmal Flame | CrIg | 35 | 344 |
-| Bane Of The Decrepit Body | PeCo | 25 | 336 |
-| Beast Of Minuscule Proportions | MuAn | 20 | 318 |
-| Beast Of Outlandish Size | MuAn | 15 | 317 |
-| Beast Remade, The | MuAn | 25 | 318 |
-| Bind Wound | CrCo | 10 | 332 |
-| Black Whisper | PeMe | 40 | 356 |
-| Blade Of The Virulent Flame | CrIg | 15 | 344 |
-| Blessing Of Childlike Bliss | PeMe | 25 | 356 |
-| Blunt The Viper's Fangs | PeAn | 20 | 319 |
-| Bountiful Feast, The | CrHe | 35 | 339 |
-| Break The Oncoming Wave | ReAq | 10 | 324 |
-| Breath Of The Open Sky | CrAu | 40 | 327 |
-| Breath Of Winter | ReAq | 15 | 324 |
-| Bridge Of Frost | ReAq | 30 | 324 |
-| Bridge Of Wood | CrHe | 20 | 339 |
-| Broom Of The Winds | CrAu | 15 | 326 |
-| Burst Of The Sweeping Flames | ReIg | 25 | 347 |
-| Call Of The Rushing Waters | InAq | 15 | 322 |
-| Call To Slumber, The | ReMe | 10 | 357 |
-| Calling The Council Of The Trees | ReHe | 45 | 343 |
-| Calling The Odious Drought | PeAq | 50 | 323 |
-| Calm The Motion Of The Heart | PeMe | 15 | 356 |
-| Captive Voice, The | ReIm | 30 | 352 |
-| Cascade Of Rocks | PeTe | 40 | 362 |
-| Chamber Of Invisibility | PeIm | 25 | 351 |
-| Chamber Of Spring Breezes | CrAu | 5 | 325 |
-| Chaos Of The Angry Waves | ReAq | 30 | 324 |
-| Charge Of The Angry Winds | CrAu | 15 | 326 |
-| Charm Against Putrefaction | CrCo | 10 | 332 |
-| Cheating The Reaper | CrCo | 30 | 332 |
-| Chirurgeon's Healing Touch, The | CrCo | 20 | 332 |
-| Circle Of Beast Warding | ReAn | 5 | 319 |
-| Circle Of Encompassing Flames | CrIg | 35 | 344 |
-| Circling Winds Of Protection | CrAu | 20 | 326 |
-| Circular Ward Against Demons | ReVim | General | 371 |
-| Clear Sight Of The Naiad | InAq | 5 | 321 |
-| Clenching Grasp Of The Crushed Heart | PeCo | 40 | 336 |
-| Cloak Of Black Feathers | MuCo | 30 | 334 |
-| Cloak Of Mist | MuCo | 40 | 335 |
-| Cloak Of The Duck's Feathers | ReAq | 5 | 323 |
-| Closing The Earth's Gate | PeAq | 25 | 323 |
-| Cloudless Sky Returned, The | PeAu | 45 | 329 |
-| Clouds Of Rain And Thunder | CrAu | 25 | 326 |
-| Clouds Of Summer Snow | CrAu | 25 | 326 |
-| Clouds Of Thunderous Might | ReAu | 30 | 330 |
-| Coat Of Flame | CrIg | 25 | 344 |
-| Coerce The Spirits Of The Night | ReMe | 20 | 357 |
-| Coils Of The Entangling Plants | ReHe | 20 | 342 |
-| Comfort Of The Drenched Traveler | PeAq | 5 | 323 |
-| Commanding The Harnessed Beast | ReAn | 30 | 320 |
-| Confusion Of The Insane Vibrations | ReIm | 30 | 352 |
-| Confusion Of The Numbed Will | ReMe | 15 | 357 |
-| Conjuration Of The Indubitable Cold | PeIg | 25 | 346 |
-| Conjure The Sturdy Vine | CrHe | 5 | 339 |
-| Conjuring The Mystic Tower | CrTe | 35 | 359 |
-| Converse With Plant And Tree | InHe | 25 | 340 |
-| Creeping Chasm | ReTe | 30 | 363 |
-| Creeping Oil | CrAq | 15 | 321 |
-| Crest Of The Earth Wave | ReTe | 20 | 363 |
-| Cripple The Howling Wolf | PeAn | 25 | 319 |
-| Crystal Dart, The | MuTe | 10 | 360 |
-| Curse Of Circe | MuCo | 30 | 334 |
-| Curse Of The Desert | PeAq | 25 | 323 |
-| Curse Of The Haunted Forest | MuHe | 60 | 341 |
-| Curse Of The Leprous Flesh | PeCo | 25 | 336 |
-| Curse Of The Ravenous Swarm | CrAn | 50 | 316 |
-| Curse Of The Rotted Wood | PeHe | 5 | 341 |
-| Curse Of The Unportended Plague | PeCo | 55 | 337 |
-| Curse Of The Unruly Tongue | ReCo | 5 | 337 |
-| Dance Of The Staves | ReHe | 5 | 342 |
-| Decay Fur And Hide | PeAn | 10 | 318 |
-| Deluge Of Rushing And Dashing | CrAq | 40 | 321 |
-| Demon's Eternal Oblivion | PeVim | General | 370 |
-| Despair Of The Quivering Manacles | ReCo | 15 | 337 |
-| Discern Own Illusions | InIm | 15 | 349 |
-| Discern The Images Of Truth And Falsehood | InIm | General | 349 |
-| Disenchant | PeVim | General | 370 |
-| Disguise Of The New Visage | MuCo | 15 | 333 |
-| Disguise Of The Putrid Aroma | ReAn | 5 | 319 |
-| Disguise Of The Transformed Image | MuIm | 15 | 350 |
-| Dispel The Phantom Image | PeIm | General | 351 |
-| Doublet Of Impenetrable Silk | MuAn | 15 | 318 |
-| Dream Of The Mind That Sits | InTe | 50 | 360 |
-| Dust To Dust | PeCo | 15 | 335 |
-| Ear For Distant Voices, The | InIm | 20 | 349 |
-| Earth Shock | ReTe | 30 | 363 |
-| Earth Split Asunder, The | ReTe | 30 | 364 |
-| Earth That Breaks No More | MuTe | 20 | 361 |
-| Earth's Carbuncle, The | ReTe | 15 | 363 |
-| Edge Of The Razor | MuTe | 20 | 361 |
-| Enchantment Of Detachment | PeMe | 15 | 356 |
-| Enchantment Of The Scrying Pool | InAq | 30 | 322 |
-| End Of The Mighty Castle | PeTe | 25 | 362 |
-| Endurance Of The Berserkers | ReCo | 15 | 338 |
-| Enigma's Gift, The | CrVim | 30 | 365 |
-| Enslave The Mortal Mind | ReMe | 40 | 358 |
-| Exchange Of The Two Minds | ReMe | 55 | 358 |
-| Eye Of The Sage, The | InCo | 30 | 333 |
-| Eyes Of The Bat | InAu | 25 | 327 |
-| Eyes Of The Cat | MuCo | 5 | 333 |
-| Eyes Of The Eagle | InIm | 25 | 349 |
-| Eyes Of The Eons | InTe | 10 | 359 |
-| Eyes Of The Flame | InIg | 35 | 345 |
-| Eyes Of The Treacherous Terrain | InTe | 15 | 359 |
-| Falcon's Hood, The | PeAn | 25 | 319 |
-| Fist Of Shattering | PeTe | 10 | 361 |
-| Flames Of Sculpted Ice | MuIg | 35 | 346 |
-| Flash Of The Scarlet Flames | CrIg | 15 | 344 |
-| Fog Of Confusion | MuAu | 45 | 328 |
-| Footsteps Of Slippery Oil | CrAq | 5 | 320 |
-| Forgiving Earth, The | ReTe | 10 | 363 |
-| Freeing The Striding Tree | ReHe | 30 | 343 |
-| Frosty Breath Of The Spoken Lie | InMe | 20 | 354 |
-| Gather The Essence Of The Beast | ReVim | 15 | 372 |
-| Gathering Of The Stormy Might | ReAu | 40 | 330 |
-| Gentle Beast, The | ReAn | 25 | 320 |
-| Gentle Touch Of The Purified Body | CrCo | 20 | 332 |
-| Gift Of Reason | CrMe | 35 | 354 |
-| Gift Of The Bear's Fortitude | MuCo | 25 | 334 |
-| Gift Of The Frog's Legs | ReCo | 15 | 338 |
-| Gift Of Vigor, The | ReCo | 20 | 338 |
-| Gloom Of Evening | PeIg | 10 | 346 |
-| Great Rot, The | PeHe | 25 | 341 |
-| Grip Of The Choking Hand | PeCo | 25 | 336 |
-| Growth Of The Creeping Things | MuAn | 15 | 318 |
-| Hands Of The Grasping Earth | ReTe | 15 | 363 |
-| Haunt Of The Living Ghost | CrIm | 35 | 348 |
-| Heat Of The Searing Forge | CrIg | 10 | 343 |
-| Hermes' Portal | ReTe | 75 | 364 |
-| Hornet Fire | MuIg | 10 | 345 |
-| Hunt For The Wild Herb | InHe | 5 | 340 |
-| Hunter's Sense | InAn | 30 | 317 |
-| Ice Of Drowning | ReAq | 35 | 324 |
-| Illusion Of Cool Flames | PeIm | 10 | 351 |
-| Illusion Of The Misplaced Castle | ReIm | 50 | 352 |
-| Illusion Of The Shifted Image | ReIm | 10 | 352 |
-| Image From The Wizard Torn | ReIm | 35 | 352 |
-| Image Of The Beast | InAn | 5 | 316 |
-| Image Phantom | MuIm | 20 | 350 |
-| Incantation Of Lightning, The | CrAu | 35 | 327 |
-| Incantation Of Putrid Wine | MuAq | 15 | 322 |
-| Incantation Of Summoning The Dead | ReMe | 40 | 358 |
-| Incantation Of The Body Made Whole | CrCo | 40 | 332 |
-| Incantation Of The Milky Eyes | PeCo | 30 | 336 |
-| Inexorable Search, The | InCo | 20 | 333 |
-| Infernal Smoke Of Death | MuAu | 40 | 328 |
-| Inmost Companion | MuMe | 40 | 355 |
-| Intuition Of The Forest | InHe | 10 | 340 |
-| Invisibility Of The Standing Wizard | PeIm | 15 | 351 |
-| Invisible Eye Revealed, The | InVim | General | 366 |
-| Invisible Sling Of Vilano | ReTe | 10 | 363 |
-| Invocation Of Weariness | PeCo | 20 | 336 |
-| Jupiter's Resounding Blow | CrAu | 10 | 326 |
-| Kiss Of Death, The | PeCo | 45 | 336 |
-| Lamp Without Flame | CrIg | 10 | 344 |
-| Lay To Rest The Haunting Spirit | PeMe | General | 355 |
-| Leap Of Homecoming, The | ReCo | 35 | 338 |
-| Leap Of The Fire | ReIg | 10 | 347 |
-| Lifting The Dangling Puppet | ReCo | 15 | 338 |
-| Light Shaft Of The Night | ReIg | 20 | 347 |
-| Lord Of The Trees | ReHe | 25 | 343 |
-| Loss Of But A Moment's Memory | PeMe | 15 | 356 |
-| Lungs Of The Fish | MuAq | 20 | 323 |
-| Maintaining The Demanding Spell | ReVim | General | 372 |
-| Many-Hued Conflagration, The | MuIg | 5 | 345 |
-| Masking The Odor Of Magic | PeVim | General | 369 |
-| Mastering The Unruly Beast | ReAn | 25 | 320 |
-| Memory Of The Distant Dream | CrMe | 20 | 353 |
-| Mighty Torrent Of Water | CrAq | 20 | 321 |
-| Mind Of The Beast | MuMe | 30 | 355 |
-| Miner's Keen Eye, The | InTe | 20 | 359 |
-| Mirror Of Opposition (Form) | MuVim | General | 368 |
-| Mists Of Change | MuCo | 60 | 335 |
-| Moonbeam | CrIg | 3 | 343 |
-| Neptune's Wrath | ReAq | 40 | 325 |
-| Notes Of A Delightful Sound | MuIm | 10 | 350 |
-| Object Of Increased Size | MuTe | 20 | 361 |
-| Obliteration Of The Metallic Barrier | PeTe | 20 | 361 |
-| Opening The Intangible Tunnel | ReVim | General | 372 |
-| Opening The Tome Of The Animal's Mind | InAn | 25 | 317 |
-| Pains Of The Perpetual Worry | CrMe | 20 | 353 |
-| Palm Of Flame | CrIg | 5 | 343 |
-| Panic Of The Elephant's Mouse | ReAn | 15 | 319 |
-| Panic Of The Trembling Heart | CrMe | 15 | 353 |
-| Parching Wind | PeAq | 20 | 323 |
-| Parting The Waves | ReAq | 30 | 324 |
-| Pass The Unyielding Portal | MuHe | 5 | 340 |
-| Passion's Lost Feeling | PeMe | 25 | 356 |
-| Past Of Another | MuMe | 35 | 355 |
-| Peering Into The Mortal Mind | InMe | 30 | 354 |
-| Perception Of The Conflicting Motives | InMe | 15 | 354 |
-| Phantasm Of The Human Form | CrIm | 25 | 348 |
-| Phantasm Of The Talking Head | CrIm | 10 | 348 |
-| Phantasmal Animal | CrIm | 20 | 348 |
-| Phantasmal Fire | CrIm | 20 | 348 |
-| Phantom Gift, The | CrVim | 15 | 365 |
-| Physician's Eye | InCo | 5 | 333 |
-| Piercing Shaft Of Wood | MuHe | 10 | 341 |
-| Piercing The Faerie Veil | InVim | 20 | 367 |
-| Pilum Of Fire | CrIg | 20 | 344 |
-| Pit Of The Gaping Earth | PeTe | 15 | 361 |
-| Plant's Withering Bane | PeHe | 20 | 341 |
-| Poisoning The Will | PeMe | 65 | 356 |
-| Posing The Silent Question | InMe | 20 | 354 |
-| Preternatural Growth And Shrinking | MuCo | 15 | 333 |
-| Prison Of Flames | MuIg | 20 | 345 |
-| Probe For Pure Silver | InTe | 4 | 359 |
-| Probe Nature's Hidden Lore | InHe | 4 | 340 |
-| Prying Eyes | InIm | 5 | 349 |
-| Pull Of The Skybound Winds | CrAu | 30 | 326 |
-| Pull Of The Watery Grave | ReAq | 35 | 325 |
-| Purification Of The Festering Wounds | CrCo | 20 | 332 |
-| Push Of The Gentle Wave | ReAq | 15 | 324 |
-| Quiet The Raging Winds | PeAu | 20 | 329 |
-| Rain Of Oil | MuAu | 50 | 329 |
-| Rain Of Stones | MuAu | 20 | 328 |
-| Recollection Of Memories Never Quite Lived | MuMe | 4 | 355 |
-| Removal Of The Conspicuous Sigil | PeIm | 20 | 351 |
-| Repel The Wooden Shafts | ReHe | 10 | 342 |
-| Restoration Of The Defiled Body | CrCo | 25 | 332 |
-| Restore The Faded Threads | CrVim | General | 365 |
-| Restore The Moved Image | ReIm | General | 352 |
-| Revealed Flaws Of Mortal Flesh | InCo | 10 | 333 |
-| Ring Of Warding Against Spirits | ReMe | General | 357 |
-| Rise Of The Feathery Body | ReCo | 10 | 337 |
-| Rising Ire | CrMe | 15 | 353 |
-| Rock Of Viscid Clay | MuTe | 15 | 361 |
-| Room Of Stale Air | PeAu | 15 | 329 |
-| Rope Of Bronze | MuHe | 15 | 341 |
-| Rusted Decay Of Ten-Score Years | PeTe | 10 | 361 |
-| Sailor's Foretaste Of The Morrow | InAu | 15 | 327 |
-| Scales Of The Magical Weight | InVim | 5 | 366 |
-| Scent Of Peaceful Slumber | ReMe | 20 | 357 |
-| Seal The Earth | CrTe | 15 | 359 |
-| Sense Of Magical Power | InVim | 2 | 366 |
-| Sense Of The Lingering Magic | InVim | 30 | 367 |
-| Sense The Feet That Tread The Earth | InTe | 30 | 360 |
-| Sense The Nature Of Vis | InVim | 5 | 367 |
-| Seven-League Stride | ReCo | 30 | 338 |
-| Severed Limb Made Whole, The | CrCo | 25 | 332 |
-| Shadow Of Human Life, The | CrIm | 40 | 349 |
-| Shadow Of Life Renewed, The | CrCo | 75 | 332 |
-| Shadows Of The Fires Past | InIg | 15 | 345 |
-| Shape Of The Woodland Prowler | MuCo | 25 | 334 |
-| Shell Of False Determinations | CrVim | General | 365 |
-| Shell Of Opaque Mysteries | CrVim | General | 365 |
-| Shiver Of The Lycanthrope | InAn | 10 | 317 |
-| Show Of The Flames And Smoke | MuIg | 10 | 345 |
-| Shriek Of The Impending Shafts | InHe | 15 | 340 |
-| Shroud Magic | MuVim | General | 368 |
-| Shrouded Glen, The | ReMe | 40 | 358 |
-| Sight Of The Active Magics | InVim | 40 | 367 |
-| Sight Of The Transparent Motive | InMe | 10 | 354 |
-| Sight Of The True Form | InCo | General | 333 |
-| Silence Of The Smothered Sound | PeIm | 20 | 351 |
-| Silent Vigil, The | MuCo | 45 | 335 |
-| Snap Of Awakening | ReMe | 10 | 357 |
-| Soothe Pains Of The Beast | CrAn | 20 | 316 |
-| Soothe The Ferocious Bear | ReAn | 10 | 319 |
-| Soothe The Raging Flames | PeIg | 20 | 346 |
-| Sorcerer's Fork, The | MuVim | General | 368 |
-| Spasms Of The Uncontrolled Hand | ReCo | 5 | 337 |
-| Stance Of The Patient Tree | MuCo | 35 | 335 |
-| Steed Of Vengeance | MuAn | 35 | 318 |
-| Stench Of The Twenty Corpses | CrAu | 10 | 326 |
-| Stir The Slumbering Tree | MuHe | 25 | 341 |
-| Stone Tell Of The Mind That Sits | InTe | 30 | 360 |
-| Stone To Falling Dust | PeTe | 20 | 362 |
-| Strike Of The Angered Branch | ReHe | 15 | 342 |
-| Strings Of The Unwilling Marionette | ReCo | 25 | 338 |
-| Subtle Taste Of Poison And Purity | InAq | 5 | 321 |
-| Summoning The Distant Image | InIm | 25 | 350 |
-| Supple Iron And Rigid Rope | MuTe | 10 | 361 |
-| Suppressing The Wizard's Handiwork | ReVim | General | 372 |
-| Tales Of The Ashes | InIg | 5 | 345 |
-| Talons Of The Winds | MuAu | 20 | 328 |
-| Tangle Of Wood And Thorns | ReHe | 15 | 342 |
-| Taste Of The Dulled Tongue | PeIm | 5 | 351 |
-| Taste Of The Spices And Herbs | MuIm | 5 | 350 |
-| Teeth Of The Earth Mother | MuTe | 35 | 361 |
-| Thaumaturgical Transformation Of Plants To Iron | MuHe | 20 | 341 |
-| Thoughts Within Babble | InMe | 25 | 354 |
-| Tip Of The Tongue | PeMe | 5 | 355 |
-| Touch Of Midas | CrTe | 20 | 359 |
-| Touch Of The Goose Feather | PeCo | 5 | 335 |
-| Touch Of The Pearls | InAq | 5 | 322 |
-| Tower Of Whirling Water | ReAq | 35 | 325 |
-| Trackless Step | ReTe | 10 | 363 |
-| Tracks Of The Faerie Glow | InTe | 25 | 359 |
-| Transform To Water | MuCo | 40 | 335 |
-| Transformation Of The Ravenous Beast To The Torpid Toad | MuAn | 25 | 318 |
-| Transformation Of The Thorny Staff | MuHe | 10 | 341 |
-| Trap Of The Entwining Vines | CrHe | 15 | 339 |
-| Trapping The Fire | MuIg | 25 | 346 |
-| Treacherous Spear, The | ReHe | 25 | 343 |
-| Treading The Ashen Path | PeHe | 30 | 342 |
-| Tremulous Vault Of The Torch's Flame | ReIg | 5 | 347 |
-| True Rest Of The Injured Brute | CrAn | 20 | 316 |
-| True Sight Of The Air | InAu | 15 | 327 |
-| Trust Of Childlike Faith | PeMe | 10 | 356 |
-| Twist Of The Tongue | PeCo | 30 | 336 |
-| Twist The Living Tree | ReHe | 25 | 343 |
-| Unraveling The Fabric Of (Form) | PeVim | General | 370 |
-| Unseen Arm | ReTe | 5 | 362 |
-| Unseen Porter, The | ReTe | 10 | 363 |
-| Unyielding Earth | ReTe | 10 | 363 |
-| Veil Of Invisibility | PeIm | 20 | 351 |
-| Vile Water Of Sterility | MuAq | 45 | 323 |
-| Viper's Gaze | ReAn | 15 | 320 |
-| Vision Of Heat's Light | InIg | 20 | 345 |
-| Vision Of The Haunting Spirits | MuMe | 40 | 355 |
-| Visions Of The Infernal Terrors | ReMe | 30 | 357 |
-| Voice Of The Lake | InAq | 25 | 322 |
-| Walking Corpse, The | ReCo | 35 | 339 |
-| Wall Of Living Wood | CrHe | 25 | 339 |
-| Wall Of Protecting Stone | CrTe | 25 | 359 |
-| Wall Of Thorns | CrHe | 20 | 339 |
-| Ward Against Faeries Of The Air | ReAu | General | 329 |
-| Ward Against Faeries Of The Mountain | ReTe | General | 362 |
-| Ward Against Faeries Of The Waters | ReAq | General | 323 |
-| Ward Against Faeries Of The Wood | ReHe | General | 342 |
-| Ward Against Heat And Flames | ReIg | 25 | 347 |
-| Ward Against Rain | ReAu | 10 | 330 |
-| Ward Against The Beasts Of Legend | ReAn | General | 319 |
-| Ward Against Wood | ReHe | 25 | 343 |
-| Watching Ward | ReVim | General | 372 |
-| Waves Of Drowning And Smashing | ReAq | 30 | 324 |
-| Weaver's Trap Of Webs | CrAn | 35 | 316 |
-| Weight Of A Thousand Hells | CrMe | 25 | 353 |
-| Well Without Light | PeIg | 25 | 346 |
-| Whispering Winds | InAu | 15 | 327 |
-| Whispers Through The Black Gate | InCo | 15 | 333 |
-| Wielding The Invisible Sling | ReTe | 10 | 363 |
-| Wind At The Back | ReAu | 5 | 329 |
-| Wind Of Mundane Silence | PeVim | General | 370 |
-| Wings Of The Soaring Wind | CrAu | 30 | 326 |
-| Winter's Icy Touch | PeIg | 10 | 346 |
-| Wizard's Autumn | PeHe | 15 | 341 |
-| Wizard's Boost (Form) | MuVim | General | 368 |
-| Wizard's Communion | MuVim | General | 369 |
-| Wizard's Eclipse | PeIg | 35 | 346 |
-| Wizard's Icy Grip | PeIg | 30 | 346 |
-| Wizard's Mount, The | CrAn | 35 | 316 |
-| Wizard's Reach (Form) | MuVim | General | 369 |
-| Wizard's Sidestep | ReIm | 10 | 352 |
-| Wizard's Vigil | MuVim | General | 370 |
-| Words Of The Flickering Flame | InIg | 35 | 345 |
-| Words Of The Unbroken Silence | CrMe | 10 | 353 |
-| Wound That Weeps, The | PeCo | 15 | 335 |
-| Wrath Of Whirling Winds And Water | CrAu | 65 | 327 |
-| Wreaths Of Foul Smoke | CrAu | 10 | 326 |
+| Aegis Of The Hearth | ReVim | General | [370](#aegis-of-the-hearth-1) |
+| Agony Of The Beast | PeAn | 15 | [318](#agony-of-the-beast) |
+| Air's Ghostly Form | CrAu | 5 | [325](#airs-ghostly-form) |
+| Arc Of Fiery Ribbons | CrIg | 25 | [344](#arc-of-fiery-ribbons) |
+| Arm Of The Infant | MuCo | 20 | [334](#arm-of-the-infant) |
+| Aura Of Ennobled Presence | MuIm | 10 | [350](#aura-of-ennobled-presence) |
+| Aura Of Rightful Authority | ReMe | 20 | [357](#aura-of-rightful-authority) |
+| Awaken The Slumbering Corpse | ReCo | 25 | [338](#awaken-the-slumbering-corpse) |
+| Ball Of Abysmal Flame | CrIg | 35 | [344](#ball-of-abysmal-flame) |
+| Bane Of The Decrepit Body | PeCo | 25 | [336](#bane-of-the-decrepit-body) |
+| Beast Of Minuscule Proportions | MuAn | 20 | [318](#beast-of-minuscule-proportions) |
+| Beast Of Outlandish Size | MuAn | 15 | [317](#beast-of-outlandish-size) |
+| Beast Remade, The | MuAn | 25 | [318](#the-beast-remade) |
+| Bind Wound | CrCo | 10 | [332](#bind-wound) |
+| Black Whisper | PeMe | 40 | [356](#black-whisper) |
+| Blade Of The Virulent Flame | CrIg | 15 | [344](#blade-of-the-virulent-flame) |
+| Blessing Of Childlike Bliss | PeMe | 25 | [356](#blessing-of-childlike-bliss) |
+| Blunt The Viper's Fangs | PeAn | 20 | [319](#blunt-the-vipers-fangs) |
+| Bountiful Feast, The | CrHe | 35 | [339](#the-bountiful-feast) |
+| Break The Oncoming Wave | ReAq | 10 | [324](#break-the-oncoming-wave) |
+| Breath Of The Open Sky | CrAu | 40 | [327](#breath-of-the-open-sky) |
+| Breath Of Winter | ReAq | 15 | [324](#breath-of-winter) |
+| Bridge Of Frost | ReAq | 30 | [324](#bridge-of-frost) |
+| Bridge Of Wood | CrHe | 20 | [339](#bridge-of-wood) |
+| Broom Of The Winds | CrAu | 15 | [326](#broom-of-the-winds) |
+| Burst Of The Sweeping Flames | ReIg | 25 | [347](#burst-of-the-sweeping-flames) |
+| Call Of The Rushing Waters | InAq | 15 | [322](#call-of-the-rushing-waters) |
+| Call To Slumber, The | ReMe | 10 | [357](#the-call-to-slumber) |
+| Calling The Council Of The Trees | ReHe | 45 | [343](#calling-the-council-of-the-trees) |
+| Calling The Odious Drought | PeAq | 50 | [323](#calling-the-odious-drought) |
+| Calm The Motion Of The Heart | PeMe | 15 | [356](#calm-the-motion-of-the-heart) |
+| Captive Voice, The | ReIm | 30 | [352](#the-captive-voice) |
+| Cascade Of Rocks | PeTe | 40 | [362](#cascade-of-rocks) |
+| Chamber Of Invisibility | PeIm | 25 | [351](#chamber-of-invisibility) |
+| Chamber Of Spring Breezes | CrAu | 5 | [325](#chamber-of-spring-breezes) |
+| Chaos Of The Angry Waves | ReAq | 30 | [324](#chaos-of-the-angry-waves) |
+| Charge Of The Angry Winds | CrAu | 15 | [326](#charge-of-the-angry-winds) |
+| Charm Against Putrefaction | CrCo | 10 | [332](#charm-against-putrefaction) |
+| Cheating The Reaper | CrCo | 30 | [332](#cheating-the-reaper) |
+| Chirurgeon's Healing Touch, The | CrCo | 20 | [332](#the-chirurgeons-healing-touch) |
+| Circle Of Beast Warding | ReAn | 5 | [319](#circle-of-beast-warding) |
+| Circle Of Encompassing Flames | CrIg | 35 | [344](#circle-of-encompassing-flames) |
+| Circling Winds Of Protection | CrAu | 20 | [326](#circling-winds-of-protection) |
+| Circular Ward Against Demons | ReVim | General | [371](#circular-ward-against-demons) |
+| Clear Sight Of The Naiad | InAq | 5 | [321](#clear-sight-of-the-naiad) |
+| Clenching Grasp Of The Crushed Heart | PeCo | 40 | [336](#clenching-grasp-of-the-crushed-heart) |
+| Cloak Of Black Feathers | MuCo | 30 | [334](#cloak-of-black-feathers) |
+| Cloak Of Mist | MuCo | 40 | [335](#cloak-of-mist) |
+| Cloak Of The Duck's Feathers | ReAq | 5 | [323](#cloak-of-the-ducks-feathers) |
+| Closing The Earth's Gate | PeAq | 25 | [323](#closing-the-earths-gate) |
+| Cloudless Sky Returned, The | PeAu | 45 | [329](#the-cloudless-sky-returned) |
+| Clouds Of Rain And Thunder | CrAu | 25 | [326](#clouds-of-rain-and-thunder) |
+| Clouds Of Summer Snow | CrAu | 25 | [326](#clouds-of-summer-snow) |
+| Clouds Of Thunderous Might | ReAu | 30 | [330](#clouds-of-thunderous-might) |
+| Coat Of Flame | CrIg | 25 | [344](#coat-of-flame) |
+| Coerce The Spirits Of The Night | ReMe | 20 | [357](#coerce-the-spirits-of-the-night) |
+| Coils Of The Entangling Plants | ReHe | 20 | [342](#coils-of-the-entangling-plants) |
+| Comfort Of The Drenched Traveler | PeAq | 5 | [323](#comfort-of-the-drenched-traveler) |
+| Commanding The Harnessed Beast | ReAn | 30 | [320](#commanding-the-harnessed-beast) |
+| Confusion Of The Insane Vibrations | ReIm | 30 | [352](#confusion-of-the-insane-vibrations) |
+| Confusion Of The Numbed Will | ReMe | 15 | [357](#confusion-of-the-numbed-will) |
+| Conjuration Of The Indubitable Cold | PeIg | 25 | [346](#conjuration-of-the-indubitable-cold) |
+| Conjure The Sturdy Vine | CrHe | 5 | [339](#conjure-the-sturdy-vine) |
+| Conjuring The Mystic Tower | CrTe | 35 | [359](#conjuring-the-mystic-tower) |
+| Converse With Plant And Tree | InHe | 25 | [340](#converse-with-plant-and-tree) |
+| Creeping Chasm | ReTe | 30 | [363](#creeping-chasm) |
+| Creeping Oil | CrAq | 15 | [321](#creeping-oil) |
+| Crest Of The Earth Wave | ReTe | 20 | [363](#crest-of-the-earth-wave) |
+| Cripple The Howling Wolf | PeAn | 25 | [319](#cripple-the-howling-wolf) |
+| Crystal Dart, The | MuTe | 10 | [360](#the-crystal-dart) |
+| Curse Of Circe | MuCo | 30 | [334](#curse-of-circe) |
+| Curse Of The Desert | PeAq | 25 | [323](#curse-of-the-desert) |
+| Curse Of The Haunted Forest | MuHe | 60 | [341](#curse-of-the-haunted-forest) |
+| Curse Of The Leprous Flesh | PeCo | 25 | [336](#curse-of-the-leprous-flesh) |
+| Curse Of The Ravenous Swarm | CrAn | 50 | [316](#curse-of-the-ravenous-swarm) |
+| Curse Of The Rotted Wood | PeHe | 5 | [341](#curse-of-the-rotted-wood) |
+| Curse Of The Unportended Plague | PeCo | 55 | [337](#curse-of-the-unportended-plague) |
+| Curse Of The Unruly Tongue | ReCo | 5 | [337](#curse-of-the-unruly-tongue) |
+| Dance Of The Staves | ReHe | 5 | [342](#dance-of-the-staves) |
+| Decay Fur And Hide | PeAn | 10 | [318](#decay-fur-and-hide) |
+| Deluge Of Rushing And Dashing | CrAq | 40 | [321](#deluge-of-rushing-and-dashing) |
+| Demon's Eternal Oblivion | PeVim | General | [370](#demons-eternal-oblivion) |
+| Despair Of The Quivering Manacles | ReCo | 15 | [337](#despair-of-the-quivering-manacles) |
+| Discern Own Illusions | InIm | 15 | [349](#discern-own-illusions) |
+| Discern The Images Of Truth And Falsehood | InIm | General | [349](#discern-the-images-of-truth-and-falsehood) |
+| Disenchant | PeVim | General | [370](#disenchant) |
+| Disguise Of The New Visage | MuCo | 15 | [333](#disguise-of-the-new-visage) |
+| Disguise Of The Putrid Aroma | ReAn | 5 | [319](#disguise-of-the-putrid-aroma) |
+| Disguise Of The Transformed Image | MuIm | 15 | [350](#disguise-of-the-transformed-image) |
+| Dispel The Phantom Image | PeIm | General | [351](#dispel-the-phantom-image) |
+| Doublet Of Impenetrable Silk | MuAn | 15 | [318](#doublet-of-impenetrable-silk) |
+| Dream Of The Mind That Sits | InTe | 50 | [360](#dream-of-the-mind-that-sits) |
+| Dust To Dust | PeCo | 15 | [335](#dust-to-dust) |
+| Ear For Distant Voices, The | InIm | 20 | [349](#the-ear-for-distant-voices) |
+| Earth Shock | ReTe | 30 | [363](#earth-shock) |
+| Earth Split Asunder, The | ReTe | 30 | [364](#the-earth-split-asunder) |
+| Earth That Breaks No More | MuTe | 20 | [361](#earth-that-breaks-no-more) |
+| Earth's Carbuncle, The | ReTe | 15 | [363](#the-earths-carbuncle) |
+| Edge Of The Razor | MuTe | 20 | [361](#edge-of-the-razor) |
+| Enchantment Of Detachment | PeMe | 15 | [356](#enchantment-of-detachment) |
+| Enchantment Of The Scrying Pool | InAq | 30 | [322](#enchantment-of-the-scrying-pool) |
+| End Of The Mighty Castle | PeTe | 25 | [362](#end-of-the-mighty-castle) |
+| Endurance Of The Berserkers | ReCo | 15 | [338](#endurance-of-the-berserkers) |
+| Enigma's Gift, The | CrVim | 30 | [365](#the-enigmas-gift) |
+| Enslave The Mortal Mind | ReMe | 40 | [358](#enslave-the-mortal-mind) |
+| Exchange Of The Two Minds | ReMe | 55 | [358](#exchange-of-the-two-minds) |
+| Eye Of The Sage, The | InCo | 30 | [333](#the-eye-of-the-sage) |
+| Eyes Of The Bat | InAu | 25 | [327](#eyes-of-the-bat) |
+| Eyes Of The Cat | MuCo | 5 | [333](#eyes-of-the-cat) |
+| Eyes Of The Eagle | InIm | 25 | [349](#eyes-of-the-eagle) |
+| Eyes Of The Eons | InTe | 10 | [359](#eyes-of-the-eons) |
+| Eyes Of The Flame | InIg | 35 | [345](#eyes-of-the-flame) |
+| Eyes Of The Treacherous Terrain | InTe | 15 | [359](#eyes-of-the-treacherous-terrain) |
+| Falcon's Hood, The | PeAn | 25 | [319](#the-falcons-hood) |
+| Fist Of Shattering | PeTe | 10 | [361](#fist-of-shattering) |
+| Flames Of Sculpted Ice | MuIg | 35 | [346](#flames-of-sculpted-ice) |
+| Flash Of The Scarlet Flames | CrIg | 15 | [344](#flash-of-the-scarlet-flames) |
+| Fog Of Confusion | MuAu | 45 | [328](#fog-of-confusion) |
+| Footsteps Of Slippery Oil | CrAq | 5 | [320](#footsteps-of-slippery-oil) |
+| Forgiving Earth, The | ReTe | 10 | [363](#the-forgiving-earth) |
+| Freeing The Striding Tree | ReHe | 30 | [343](#freeing-the-striding-tree) |
+| Frosty Breath Of The Spoken Lie | InMe | 20 | [354](#frosty-breath-of-the-spoken-lie) |
+| Gather The Essence Of The Beast | ReVim | 15 | [372](#gather-the-essence-of-the-beast) |
+| Gathering Of The Stormy Might | ReAu | 40 | [330](#gathering-of-the-stormy-might) |
+| Gentle Beast, The | ReAn | 25 | [320](#the-gentle-beast) |
+| Gentle Touch Of The Purified Body | CrCo | 20 | [332](#gentle-touch-of-the-purified-body) |
+| Gift Of Reason | CrMe | 35 | [354](#gift-of-reason) |
+| Gift Of The Bear's Fortitude | MuCo | 25 | [334](#gift-of-the-bears-fortitude) |
+| Gift Of The Frog's Legs | ReCo | 15 | [338](#gift-of-the-frogs-legs) |
+| Gift Of Vigor, The | ReCo | 20 | [338](#the-gift-of-vigor) |
+| Gloom Of Evening | PeIg | 10 | [346](#gloom-of-evening) |
+| Great Rot, The | PeHe | 25 | [341](#the-great-rot) |
+| Grip Of The Choking Hand | PeCo | 25 | [336](#grip-of-the-choking-hand) |
+| Growth Of The Creeping Things | MuAn | 15 | [318](#growth-of-the-creeping-things) |
+| Hands Of The Grasping Earth | ReTe | 15 | [363](#hands-of-the-grasping-earth) |
+| Haunt Of The Living Ghost | CrIm | 35 | [348](#haunt-of-the-living-ghost) |
+| Heat Of The Searing Forge | CrIg | 10 | [343](#heat-of-the-searing-forge) |
+| Hermes' Portal | ReTe | 75 | [364](#hermes-portal) |
+| Hornet Fire | MuIg | 10 | [345](#hornet-fire) |
+| Hunt For The Wild Herb | InHe | 5 | [340](#hunt-for-the-wild-herb) |
+| Hunter's Sense | InAn | 30 | [317](#hunters-sense) |
+| Ice Of Drowning | ReAq | 35 | [324](#ice-of-drowning) |
+| Illusion Of Cool Flames | PeIm | 10 | [351](#illusion-of-cool-flames) |
+| Illusion Of The Misplaced Castle | ReIm | 50 | [352](#illusion-of-the-misplaced-castle) |
+| Illusion Of The Shifted Image | ReIm | 10 | [352](#illusion-of-the-shifted-image) |
+| Image From The Wizard Torn | ReIm | 35 | [352](#image-from-the-wizard-torn) |
+| Image Of The Beast | InAn | 5 | [316](#image-of-the-beast) |
+| Image Phantom | MuIm | 20 | [350](#image-phantom) |
+| Incantation Of Lightning, The | CrAu | 35 | [327](#the-incantation-of-lightning) |
+| Incantation Of Putrid Wine | MuAq | 15 | [322](#incantation-of-putrid-wine) |
+| Incantation Of Summoning The Dead | ReMe | 40 | [358](#incantation-of-summoning-the-dead) |
+| Incantation Of The Body Made Whole | CrCo | 40 | [332](#incantation-of-the-body-made-whole) |
+| Incantation Of The Milky Eyes | PeCo | 30 | [336](#incantation-of-the-milky-eyes) |
+| Inexorable Search, The | InCo | 20 | [333](#the-inexorable-search) |
+| Infernal Smoke Of Death | MuAu | 40 | [328](#infernal-smoke-of-death) |
+| Inmost Companion | MuMe | 40 | [355](#inmost-companion) |
+| Intuition Of The Forest | InHe | 10 | [340](#intuition-of-the-forest) |
+| Invisibility Of The Standing Wizard | PeIm | 15 | [351](#invisibility-of-the-standing-wizard) |
+| Invisible Eye Revealed, The | InVim | General | [366](#the-invisible-eye-revealed) |
+| Invisible Sling Of Vilano | ReTe | 10 | [363](#invisible-sling-of-vilano) |
+| Invocation Of Weariness | PeCo | 20 | [336](#invocation-of-weariness) |
+| Jupiter's Resounding Blow | CrAu | 10 | [326](#jupiters-resounding-blow) |
+| Kiss Of Death, The | PeCo | 45 | [336](#the-kiss-of-death) |
+| Lamp Without Flame | CrIg | 10 | [344](#lamp-without-flame) |
+| Lay To Rest The Haunting Spirit | PeMe | General | [355](#lay-to-rest-the-haunting-spirit) |
+| Leap Of Homecoming, The | ReCo | 35 | [338](#the-leap-of-homecoming) |
+| Leap Of The Fire | ReIg | 10 | [347](#leap-of-the-fire) |
+| Lifting The Dangling Puppet | ReCo | 15 | [338](#lifting-the-dangling-puppet) |
+| Light Shaft Of The Night | ReIg | 20 | [347](#light-shaft-of-the-night) |
+| Lord Of The Trees | ReHe | 25 | [343](#lord-of-the-trees) |
+| Loss Of But A Moment's Memory | PeMe | 15 | [356](#loss-of-but-a-moments-memory) |
+| Lungs Of The Fish | MuAq | 20 | [323](#lungs-of-the-fish) |
+| Maintaining The Demanding Spell | ReVim | General | [372](#maintaining-the-demanding-spell) |
+| Many-Hued Conflagration, The | MuIg | 5 | [345](#the-many-hued-conflagration) |
+| Masking The Odor Of Magic | PeVim | General | [369](#masking-the-odor-of-magic) |
+| Mastering The Unruly Beast | ReAn | 25 | [320](#mastering-the-unruly-beast) |
+| Memory Of The Distant Dream | CrMe | 20 | [353](#memory-of-the-distant-dream) |
+| Mighty Torrent Of Water | CrAq | 20 | [321](#mighty-torrent-of-water) |
+| Mind Of The Beast | MuMe | 30 | [355](#mind-of-the-beast) |
+| Miner's Keen Eye, The | InTe | 20 | [359](#the-miners-keen-eye) |
+| Mirror Of Opposition (Form) | MuVim | General | [368](#mirror-of-opposition-form) |
+| Mists Of Change | MuCo | 60 | [335](#mists-of-change) |
+| Moonbeam | CrIg | 3 | [343](#moonbeam) |
+| Neptune's Wrath | ReAq | 40 | [325](#neptunes-wrath) |
+| Notes Of A Delightful Sound | MuIm | 10 | [350](#notes-of-a-delightful-sound) |
+| Object Of Increased Size | MuTe | 20 | [361](#object-of-increased-size) |
+| Obliteration Of The Metallic Barrier | PeTe | 20 | [361](#obliteration-of-the-metallic-barrier) |
+| Opening The Intangible Tunnel | ReVim | General | [372](#opening-the-intangible-tunnel) |
+| Opening The Tome Of The Animal's Mind | InAn | 25 | [317](#opening-the-tome-of-the-animals-mind) |
+| Pains Of The Perpetual Worry | CrMe | 20 | [353](#pains-of-the-perpetual-worry) |
+| Palm Of Flame | CrIg | 5 | [343](#palm-of-flame) |
+| Panic Of The Elephant's Mouse | ReAn | 15 | [319](#panic-of-the-elephants-mouse) |
+| Panic Of The Trembling Heart | CrMe | 15 | [353](#panic-of-the-trembling-heart) |
+| Parching Wind | PeAq | 20 | [323](#parching-wind) |
+| Parting The Waves | ReAq | 30 | [324](#parting-the-waves) |
+| Pass The Unyielding Portal | MuHe | 5 | [340](#pass-the-unyielding-portal) |
+| Passion's Lost Feeling | PeMe | 25 | [356](#passions-lost-feeling) |
+| Past Of Another | MuMe | 35 | [355](#past-of-another) |
+| Peering Into The Mortal Mind | InMe | 30 | [354](#peering-into-the-mortal-mind) |
+| Perception Of The Conflicting Motives | InMe | 15 | [354](#perception-of-the-conflicting-motives) |
+| Phantasm Of The Human Form | CrIm | 25 | [348](#phantasm-of-the-human-form) |
+| Phantasm Of The Talking Head | CrIm | 10 | [348](#phantasm-of-the-talking-head) |
+| Phantasmal Animal | CrIm | 20 | [348](#phantasmal-animal) |
+| Phantasmal Fire | CrIm | 20 | [348](#phantasmal-fire) |
+| Phantom Gift, The | CrVim | 15 | [365](#the-phantom-gift) |
+| Physician's Eye | InCo | 5 | [333](#physicians-eye) |
+| Piercing Shaft Of Wood | MuHe | 10 | [341](#piercing-shaft-of-wood) |
+| Piercing The Faerie Veil | InVim | 20 | [367](#piercing-the-faerie-veil) |
+| Pilum Of Fire | CrIg | 20 | [344](#pilum-of-fire) |
+| Pit Of The Gaping Earth | PeTe | 15 | [361](#pit-of-the-gaping-earth) |
+| Plant's Withering Bane | PeHe | 20 | [341](#plants-withering-bane) |
+| Poisoning The Will | PeMe | 65 | [356](#poisoning-the-will) |
+| Posing The Silent Question | InMe | 20 | [354](#posing-the-silent-question) |
+| Preternatural Growth And Shrinking | MuCo | 15 | [333](#preternatural-growth-and-shrinking) |
+| Prison Of Flames | MuIg | 20 | [345](#prison-of-flames) |
+| Probe For Pure Silver | InTe | 4 | [359](#probe-for-pure-silver) |
+| Probe Nature's Hidden Lore | InHe | 4 | [340](#probe-natures-hidden-lore) |
+| Prying Eyes | InIm | 5 | [349](#prying-eyes) |
+| Pull Of The Skybound Winds | CrAu | 30 | [326](#pull-of-the-skybound-winds) |
+| Pull Of The Watery Grave | ReAq | 35 | [325](#pull-of-the-watery-grave) |
+| Purification Of The Festering Wounds | CrCo | 20 | [332](#purification-of-the-festering-wounds) |
+| Push Of The Gentle Wave | ReAq | 15 | [324](#push-of-the-gentle-wave) |
+| Quiet The Raging Winds | PeAu | 20 | [329](#quiet-the-raging-winds) |
+| Rain Of Oil | MuAu | 50 | [329](#rain-of-oil) |
+| Rain Of Stones | MuAu | 20 | [328](#rain-of-stones) |
+| Recollection Of Memories Never Quite Lived | MuMe | 4 | [355](#recollection-of-memories-never-quite-lived) |
+| Removal Of The Conspicuous Sigil | PeIm | 20 | [351](#removal-of-the-conspicuous-sigil) |
+| Repel The Wooden Shafts | ReHe | 10 | [342](#repel-the-wooden-shafts) |
+| Restoration Of The Defiled Body | CrCo | 25 | [332](#restoration-of-the-defiled-body) |
+| Restore The Faded Threads | CrVim | General | [365](#restore-the-faded-threads) |
+| Restore The Moved Image | ReIm | General | [352](#restore-the-moved-image) |
+| Revealed Flaws Of Mortal Flesh | InCo | 10 | [333](#revealed-flaws-of-mortal-flesh) |
+| Ring Of Warding Against Spirits | ReMe | General | [357](#ring-of-warding-against-spirits) |
+| Rise Of The Feathery Body | ReCo | 10 | [337](#rise-of-the-feathery-body) |
+| Rising Ire | CrMe | 15 | [353](#rising-ire) |
+| Rock Of Viscid Clay | MuTe | 15 | [361](#rock-of-viscid-clay) |
+| Room Of Stale Air | PeAu | 15 | [329](#room-of-stale-air) |
+| Rope Of Bronze | MuHe | 15 | [341](#rope-of-bronze) |
+| Rusted Decay Of Ten-Score Years | PeTe | 10 | [361](#rusted-decay-of-ten-score-years) |
+| Sailor's Foretaste Of The Morrow | InAu | 15 | [327](#sailors-foretaste-of-the-morrow) |
+| Scales Of The Magical Weight | InVim | 5 | [366](#scales-of-the-magical-weight) |
+| Scent Of Peaceful Slumber | ReMe | 20 | [357](#scent-of-peaceful-slumber) |
+| Seal The Earth | CrTe | 15 | [359](#seal-the-earth) |
+| Sense Of Magical Power | InVim | 2 | [366](#sense-of-magical-power) |
+| Sense Of The Lingering Magic | InVim | 30 | [367](#sense-of-the-lingering-magic) |
+| Sense The Feet That Tread The Earth | InTe | 30 | [360](#sense-the-feet-that-tread-the-earth) |
+| Sense The Nature Of Vis | InVim | 5 | [367](#sense-the-nature-of-vis) |
+| Seven-League Stride | ReCo | 30 | [338](#seven-league-stride) |
+| Severed Limb Made Whole, The | CrCo | 25 | [332](#the-severed-limb-made-whole) |
+| Shadow Of Human Life, The | CrIm | 40 | [349](#the-shadow-of-human-life) |
+| Shadow Of Life Renewed, The | CrCo | 75 | [332](#the-shadow-of-life-renewed) |
+| Shadows Of The Fires Past | InIg | 15 | [345](#shadows-of-the-fires-past) |
+| Shape Of The Woodland Prowler | MuCo | 25 | [334](#shape-of-the-woodland-prowler) |
+| Shell Of False Determinations | CrVim | General | [365](#shell-of-false-determinations) |
+| Shell Of Opaque Mysteries | CrVim | General | [365](#shell-of-opaque-mysteries) |
+| Shiver Of The Lycanthrope | InAn | 10 | [317](#shiver-of-the-lycanthrope) |
+| Show Of The Flames And Smoke | MuIg | 10 | [345](#show-of-the-flames-and-smoke) |
+| Shriek Of The Impending Shafts | InHe | 15 | [340](#shriek-of-the-impending-shafts) |
+| Shroud Magic | MuVim | General | [368](#shroud-magic) |
+| Shrouded Glen, The | ReMe | 40 | [358](#the-shrouded-glen) |
+| Sight Of The Active Magics | InVim | 40 | [367](#sight-of-the-active-magics) |
+| Sight Of The Transparent Motive | InMe | 10 | [354](#sight-of-the-transparent-motive) |
+| Sight Of The True Form | InCo | General | [333](#sight-of-the-true-form) |
+| Silence Of The Smothered Sound | PeIm | 20 | [351](#silence-of-the-smothered-sound) |
+| Silent Vigil, The | MuCo | 45 | [335](#the-silent-vigil) |
+| Snap Of Awakening | ReMe | 10 | [357](#snap-of-awakening) |
+| Soothe Pains Of The Beast | CrAn | 20 | [316](#soothe-pains-of-the-beast) |
+| Soothe The Ferocious Bear | ReAn | 10 | [319](#soothe-the-ferocious-bear) |
+| Soothe The Raging Flames | PeIg | 20 | [346](#soothe-the-raging-flames) |
+| Sorcerer's Fork, The | MuVim | General | [368](#the-sorcerers-fork) |
+| Spasms Of The Uncontrolled Hand | ReCo | 5 | [337](#spasms-of-the-uncontrolled-hand) |
+| Stance Of The Patient Tree | MuCo | 35 | [335](#stance-of-the-patient-tree) |
+| Steed Of Vengeance | MuAn | 35 | [318](#steed-of-vengeance) |
+| Stench Of The Twenty Corpses | CrAu | 10 | [326](#stench-of-the-twenty-corpses) |
+| Stir The Slumbering Tree | MuHe | 25 | [341](#stir-the-slumbering-tree) |
+| Stone Tell Of The Mind That Sits | InTe | 30 | [360](#stone-tell-of-the-mind-that-sits) |
+| Stone To Falling Dust | PeTe | 20 | [362](#stone-to-falling-dust) |
+| Strike Of The Angered Branch | ReHe | 15 | [342](#strike-of-the-angered-branch) |
+| Strings Of The Unwilling Marionette | ReCo | 25 | [338](#strings-of-the-unwilling-marionette) |
+| Subtle Taste Of Poison And Purity | InAq | 5 | [321](#subtle-taste-of-poison-and-purity) |
+| Summoning The Distant Image | InIm | 25 | [350](#summoning-the-distant-image) |
+| Supple Iron And Rigid Rope | MuTe | 10 | [361](#supple-iron-and-rigid-rope) |
+| Suppressing The Wizard's Handiwork | ReVim | General | [372](#suppressing-the-wizards-handiwork) |
+| Tales Of The Ashes | InIg | 5 | [345](#tales-of-the-ashes) |
+| Talons Of The Winds | MuAu | 20 | [328](#talons-of-the-winds) |
+| Tangle Of Wood And Thorns | ReHe | 15 | [342](#tangle-of-wood-and-thorns) |
+| Taste Of The Dulled Tongue | PeIm | 5 | [351](#taste-of-the-dulled-tongue) |
+| Taste Of The Spices And Herbs | MuIm | 5 | [350](#taste-of-the-spices-and-herbs) |
+| Teeth Of The Earth Mother | MuTe | 35 | [361](#teeth-of-the-earth-mother) |
+| Thaumaturgical Transformation Of Plants To Iron | MuHe | 20 | [341](#thaumaturgical-transformation-of-plants-to-iron) |
+| Thoughts Within Babble | InMe | 25 | [354](#thoughts-within-babble) |
+| Tip Of The Tongue | PeMe | 5 | [355](#tip-of-the-tongue) |
+| Touch Of Midas | CrTe | 20 | [359](#touch-of-midas) |
+| Touch Of The Goose Feather | PeCo | 5 | [335](#touch-of-the-goose-feather) |
+| Touch Of The Pearls | InAq | 5 | [322](#touch-of-the-pearls) |
+| Tower Of Whirling Water | ReAq | 35 | [325](#tower-of-whirling-water) |
+| Trackless Step | ReTe | 10 | [363](#trackless-step) |
+| Tracks Of The Faerie Glow | InTe | 25 | [359](#tracks-of-the-faerie-glow) |
+| Transform To Water | MuCo | 40 | [335](#transform-to-water) |
+| Transformation Of The Ravenous Beast To The Torpid Toad | MuAn | 25 | [318](#transformation-of-the-ravenous-beast-to-the-torpid-toad) |
+| Transformation Of The Thorny Staff | MuHe | 10 | [341](#transformation-of-the-thorny-staff) |
+| Trap Of The Entwining Vines | CrHe | 15 | [339](#trap-of-the-entwining-vines) |
+| Trapping The Fire | MuIg | 25 | [346](#trapping-the-fire) |
+| Treacherous Spear, The | ReHe | 25 | [343](#the-treacherous-spear) |
+| Treading The Ashen Path | PeHe | 30 | [342](#treading-the-ashen-path) |
+| Tremulous Vault Of The Torch's Flame | ReIg | 5 | [347](#tremulous-vault-of-the-torchs-flame) |
+| True Rest Of The Injured Brute | CrAn | 20 | [316](#true-rest-of-the-injured-brute) |
+| True Sight Of The Air | InAu | 15 | [327](#true-sight-of-the-air) |
+| Trust Of Childlike Faith | PeMe | 10 | [356](#trust-of-childlike-faith) |
+| Twist Of The Tongue | PeCo | 30 | [336](#twist-of-the-tongue) |
+| Twist The Living Tree | ReHe | 25 | [343](#twist-the-living-tree) |
+| Unraveling The Fabric Of (Form) | PeVim | General | [370](#unraveling-the-fabric-of-form) |
+| Unseen Arm | ReTe | 5 | [362](#unseen-arm) |
+| Unseen Porter, The | ReTe | 10 | [363](#the-unseen-porter) |
+| Unyielding Earth | ReTe | 10 | [363](#unyielding-earth) |
+| Veil Of Invisibility | PeIm | 20 | [351](#veil-of-invisibility) |
+| Vile Water Of Sterility | MuAq | 45 | [323](#vile-water-of-sterility) |
+| Viper's Gaze | ReAn | 15 | [320](#vipers-gaze) |
+| Vision Of Heat's Light | InIg | 20 | [345](#vision-of-heats-light) |
+| Vision Of The Haunting Spirits | MuMe | 40 | [355](#vision-of-the-haunting-spirits) |
+| Visions Of The Infernal Terrors | ReMe | 30 | [357](#visions-of-the-infernal-terrors) |
+| Voice Of The Lake | InAq | 25 | [322](#voice-of-the-lake) |
+| Walking Corpse, The | ReCo | 35 | [339](#the-walking-corpse) |
+| Wall Of Living Wood | CrHe | 25 | [339](#wall-of-living-wood) |
+| Wall Of Protecting Stone | CrTe | 25 | [359](#wall-of-protecting-stone) |
+| Wall Of Thorns | CrHe | 20 | [339](#wall-of-thorns) |
+| Ward Against Faeries Of The Air | ReAu | General | [329](#ward-against-faeries-of-the-air) |
+| Ward Against Faeries Of The Mountain | ReTe | General | [362](#ward-against-faeries-of-the-mountain) |
+| Ward Against Faeries Of The Waters | ReAq | General | [323](#ward-against-faeries-of-the-waters) |
+| Ward Against Faeries Of The Wood | ReHe | General | [342](#ward-against-faeries-of-the-wood) |
+| Ward Against Heat And Flames | ReIg | 25 | [347](#ward-against-heat-and-flames) |
+| Ward Against Rain | ReAu | 10 | [330](#ward-against-rain) |
+| Ward Against The Beasts Of Legend | ReAn | General | [319](#ward-against-the-beasts-of-legend) |
+| Ward Against Wood | ReHe | 25 | [343](#ward-against-wood) |
+| Watching Ward | ReVim | General | [372](#watching-ward) |
+| Waves Of Drowning And Smashing | ReAq | 30 | [324](#waves-of-drowning-and-smashing) |
+| Weaver's Trap Of Webs | CrAn | 35 | [316](#weavers-trap-of-webs) |
+| Weight Of A Thousand Hells | CrMe | 25 | [353](#weight-of-a-thousand-hells) |
+| Well Without Light | PeIg | 25 | [346](#well-without-light) |
+| Whispering Winds | InAu | 15 | [327](#whispering-winds) |
+| Whispers Through The Black Gate | InCo | 15 | [333](#whispers-through-the-black-gate) |
+| Wielding The Invisible Sling | ReTe | 10 | [363](#wielding-the-invisible-sling) |
+| Wind At The Back | ReAu | 5 | [329](#wind-at-the-back) |
+| Wind Of Mundane Silence | PeVim | General | [370](#wind-of-mundane-silence) |
+| Wings Of The Soaring Wind | CrAu | 30 | [326](#wings-of-the-soaring-wind) |
+| Winter's Icy Touch | PeIg | 10 | [346](#winters-icy-touch) |
+| Wizard's Autumn | PeHe | 15 | [341](#wizards-autumn) |
+| Wizard's Boost (Form) | MuVim | General | [368](#wizards-boost-form) |
+| Wizard's Communion | MuVim | General | [369](#wizards-communion) |
+| Wizard's Eclipse | PeIg | 35 | [346](#wizards-eclipse) |
+| Wizard's Icy Grip | PeIg | 30 | [346](#wizards-icy-grip) |
+| Wizard's Mount, The | CrAn | 35 | [316](#the-wizards-mount) |
+| Wizard's Reach (Form) | MuVim | General | [369](#wizards-reach-form) |
+| Wizard's Sidestep | ReIm | 10 | [352](#wizards-sidestep) |
+| Wizard's Vigil | MuVim | General | [370](#wizards-vigil) |
+| Words Of The Flickering Flame | InIg | 35 | [345](#words-of-the-flickering-flame) |
+| Words Of The Unbroken Silence | CrMe | 10 | [353](#words-of-the-unbroken-silence) |
+| Wound That Weeps, The | PeCo | 15 | [335](#the-wound-that-weeps) |
+| Wrath Of Whirling Winds And Water | CrAu | 65 | [327](#wrath-of-whirling-winds-and-water) |
+| Wreaths Of Foul Smoke | CrAu | 10 | [326](#wreaths-of-foul-smoke) |
+
+### Spell Guidelines Index
+
+| Form | Technique | Page |
+|------|-----------|------|
+| Animal | Creo | [315](#creo-animal-guidelines) |
+| Animal | Intellego | [316](#intellego-animal-guidelines) |
+| Animal | Muto | [317](#muto-animal-guidelines) |
+| Animal | Perdo | [318](#perdo-animal-guidelines) |
+| Animal | Rego | [319](#rego-animal-guidelines) |
+| Aquam | Creo | [320](#creo-aquam-guidelines) |
+| Aquam | Intellego | [321](#intellego-aquam-guidelines) |
+| Aquam | Muto | [322](#muto-aquam-guidelines) |
+| Aquam | Perdo | [323](#perdo-aquam-guidelines) |
+| Aquam | Rego | [324](#rego-aquam-guidelines) |
+| Auram | Creo | [325](#creo-auram-guidelines) |
+| Auram | Intellego | [327](#intellego-auram-guidelines) |
+| Auram | Muto | [328](#muto-auram-guidelines) |
+| Auram | Perdo | [329](#perdo-auram-guidelines) |
+| Auram | Rego | [329](#rego-auram-guidelines) |
+| Corpus | Creo | [331](#creo-corpus-guidelines) |
+| Corpus | Intellego | [333](#intellego-corpus-guidelines) |
+| Corpus | Muto | [334](#muto-corpus-guidelines) |
+| Corpus | Perdo | [336](#perdo-corpus-guidelines) |
+| Corpus | Rego | [337](#rego-corpus-guidelines) |
+| Herbam | Creo | [339](#creo-herbam-guidelines) |
+| Herbam | Intellego | [340](#intellego-herbam-guidelines) |
+| Herbam | Muto | [340](#muto-herbam-guidelines) |
+| Herbam | Perdo | [341](#perdo-herbam-guidelines) |
+| Herbam | Rego | [342](#rego-herbam-guidelines) |
+| Ignem | Creo | [344](#creo-ignem-guidelines) |
+| Ignem | Intellego | [345](#intellego-ignem-guidelines) |
+| Ignem | Muto | [345](#muto-ignem-guidelines) |
+| Ignem | Perdo | [346](#perdo-ignem-guidelines) |
+| Ignem | Rego | [347](#rego-ignem-guidelines) |
+| Imaginem | Creo | [348](#creo-imaginem-guidelines) |
+| Imaginem | Intellego | [349](#intellego-imaginem-guidelines) |
+| Imaginem | Muto | [350](#muto-imaginem-guidelines) |
+| Imaginem | Perdo | [351](#perdo-imaginem-guidelines) |
+| Imaginem | Rego | [352](#rego-imaginem-guidelines) |
+| Mentem | Creo | [353](#creo-mentem-guidelines) |
+| Mentem | Intellego | [354](#intellego-mentem-guidelines) |
+| Mentem | Muto | [355](#muto-mentem-guidelines) |
+| Mentem | Perdo | [356](#perdo-mentem-guidelines) |
+| Mentem | Rego | [357](#rego-mentem-guidelines) |
+| Terram | Creo | [359](#creo-terram-guidelines) |
+| Terram | Intellego | [359](#intellego-terram-guidelines) |
+| Terram | Muto | [360](#muto-terram-guidelines) |
+| Terram | Perdo | [361](#perdo-terram-guidelines) |
+| Terram | Rego | [362](#rego-terram-guidelines) |
+| Vim | Creo | [365](#creo-vim-guidelines) |
+| Vim | Intellego | [366](#intellego-vim-guidelines) |
+| Vim | Muto | [368](#muto-vim-guidelines) |
+| Vim | Perdo | [370](#perdo-vim-guidelines) |
+| Vim | Rego | [370](#rego-vim-guidelines) |
+
+## Beastiary Index
+
+| Name | Realm | Form | Might | Page |
+|------|-------|-------|-------|------|
+| Adder (Viperis) | Beast | — | — | [429](#adder-viperis) |
+| Adranus, the Spirit of Mount Etna | Magic | Ignem | 50 | [460](#adranus-the-spirit-of-mount-etna) |
+| Air Elemental, An | Magic | Auram | 15 | [455](#an-air-elemental) |
+| Aneirin the Bard | Magic | Imaginem | 15 | [445](#aneirin-the-bard) |
+| Baal-Peor, Lord of Filth | Infernal | Corpus | 30 | [479](#baal-peor-lord-of-filth) |
+| Baghl, an Earth Jinni | Magic | Terram | 15 | [442](#baghl-an-earth-jinni) |
+| Bartholomew | Infernal | Mentem | 50 | [480](#bartholomew) |
+| Bear (Ursus) | Beast | — | — | [429](#bear-ursus) |
+| Boar, Wild (Aper) | Beast | — | — | [430](#boar-wild-aper) |
+| Bomburkhan | Infernal | Vim | 5 | [481](#bomburkhan) |
+| Bordelon, a Personal Tormentor | Infernal | Corpus | 15 | [482](#bordelon-a-personal-tormentor) |
+| Bull (Taurus) | Beast | — | — | [431](#bull-taurus) |
+| Buran of Yenghissar, The | Infernal | Auram | 25 | [483](#buran-of-yenghissar-the) |
+| Caladrius | Magic | Animal | 14 | [443](#caladrius) |
+| Cat (Felis) | Beast | — | — | [431](#cat-felis) |
+| Chnoubis the Serpent | Magic | Mentem | 30 | [446](#chnoubis-the-serpent) |
+| Demonic Steed | Infernal | Animal | 7 | [487](#demonic-steed) |
+| Dietrich von Bern | Magic | Corpus | 35 | [446](#dietrich-von-bern) |
+| Earth Elemental, An | Magic | Terram | 15 | [452](#an-earth-elemental) |
+| Faerie Hounds | Faerie | Animal | 5 | [467](#faerie-hounds) |
+| Faerie Knight | Faerie | Corpus | 10 | [468](#faerie-knight) |
+| Falcon (Falco) | Beast | — | — | [432](#falcon-falco) |
+| Fimus, Warrior Demon | Infernal | Terram | 10 | [484](#fimus-warrior-demon) |
+| Fire Elemental, A | Magic | Ignem | 15 | [456](#a-fire-elemental) |
+| Gabriel, the Archangel of Prophecy | Divine | Mentem | 100 | [455](#gabriel-the-archangel-of-prophecy) |
+| Ghostly Warder | Magic | Mentem | 10 | [489](#ghostly-warder) |
+| Great Lezi | Faerie | Herbam | 40 | [473](#great-lezi) |
+| Gydryty-kom the Giant | Magic | Auram | 40 | [447](#gydryty-kom-the-giant) |
+| Hipta the Nurse | Magic | Animal | 15 | [447](#hipta-the-nurse) |
+| Honos | Magic | Corpus | 30 | [448](#honos) |
+| Horse, Courser (Equus) | Beast | — | — | [432](#horse-courser-equus) |
+| Horse, Destrier (Equus) | Beast | — | — | [433](#horse-destrier-equus) |
+| Hound (Canis) | Beast | — | — | [433](#hound-canis) |
+| Jumayl, A Jinni Guide | Faerie | Vim | 15 | [470](#jumayl-a-jinni-guide) |
+| Kolazonta, the Chastiser | Divine | Ignem | 30 | [490](#kolazonta-the-chastiser) |
+| Lion (Leo) | Beast | — | — | [434](#lion-leo) |
+| Lord Marsyne | Faerie | Aquam | 50 | [474](#lord-marsyne) |
+| Lupersus | Divine | Animal | 20 | [491](#lupersus) |
+| Magical Wolf, A | Magic | Animal | 20 | [459](#a-magical-wolf) |
+| Mateos, the Faerie Butler | Faerie | Herbam | 10 | [469](#mateos-the-faerie-butler) |
+| Michael | Infernal | Corpus | 10 | [485](#michael) |
+| Nasir, the Helper | Divine | Corpus | 25 | [491](#nasir-the-helper) |
+| Polandrus | Infernal | Animal | 20 | [485](#polandrus) |
+| Południca | Faerie | Auram | 10 | [469](#południca) |
+| Portunes, Spirit of Safe Harbor | Magic | Auram | 25 | [448](#portunes-spirit-of-safe-harbor) |
+| Pukis, Dragon of the Hearth | Magic | Ignem | 10 | [449](#pukis-dragon-of-the-hearth) |
+| Revenant, Corpse-Like Form | Magic | Corpus | 9 | [462](#revenant-corpse-like-form) |
+| Revenant, Skeletal Form | Magic | Corpus | 6 | [463](#revenant-skeletal-form) |
+| Scitalis | Magic | Animal | 5 | [463](#scitalis) |
+| Seferiel | Divine | Corpus | 50 | [492](#seferiel) |
+| Sir Giles, a Ghostly Knight | Magic | Mentem | 16 | [458](#sir-giles-a-ghostly-knight) |
+| Stag (Cervus) | Beast | — | — | [435](#stag-cervus) |
+| Stag of Virtue | Magic | Animal | 17 | [464](#stag-of-virtue) |
+| Stellatus, the Dragon | Magic | Ignem | 50 | [465](#stellatus-the-dragon) |
+| Tarlan the Wolf | Faerie | Animal | 20 | [471](#tarlan-the-wolf) |
+| Two-Headed Hound | Infernal | Animal | 10 | [488](#two-headed-hound) |
+| Typical Giant, A | Magic | Corpus | 12 | [457](#a-typical-giant) |
+| Valkyrie | Faerie | Corpus | 20 | [472](#valkyrie) |
+| Water Elemental, A | Magic | Aquam | 15 | [453](#a-water-elemental) |
+| Wolf (Lupus) | Beast | — | — | [435](#wolf-lupus) |
+| Wolf Mount | Faerie | — | — | [472](#wolf-mount) |
+| Zwergenstimme | Magic | Imaginem | 15 | [466](#zwergenstimme) |
