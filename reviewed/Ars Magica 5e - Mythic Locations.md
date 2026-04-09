@@ -1,7 +1,7 @@
 # Mythic Locations
 A sourcebook supplement with ten unique locations for Ars Magica 5th Edition.
 
-> *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+> Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License
 > 
 > *[Completion state: Text manually fixed (including Errata, TOC, and a second review).]*
 > 
