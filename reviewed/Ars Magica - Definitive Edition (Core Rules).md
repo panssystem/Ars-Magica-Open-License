@@ -6,7 +6,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
-*Some identified issues from source PDF: "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
+*Some identified issues from source PDF (more than these were fixed): "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Corrupt Beasts misplaced in Index (fixed)*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -4496,19 +4496,9 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 
 > #### Kassalan Dust
 >
-> Made by the Mortuary
-> Society of Kassala, this dust has
-> powdered gold as its main
-> component, with myrrh and other
-> spices making up the rest. Twenty
-> handfuls contain about a Mythic
-> Pound's worth of gold dust.
-> Kassalan Dust is necessary for
-> Kassalan Exorcism, but grants no
-> bonus. A handful also adds +3 to uses of the Corpse Magic
-> Supernatural Ability to command
->
-> a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
+> Made by the Mortuary Society of Kassala, this dust has powdered gold as its main component, with myrrh and other spices making up the rest. Twenty handfuls contain about a Mythic Pound's worth of gold dust.
+> 
+> Kassalan Dust is necessary for Kassalan Exorcism, but grants no bonus. A handful also adds +3 to uses of the Corpse Magic Supernatural Ability to command a corpse to return to its grave or prevent it from being affected by Corpse Magic. Multiple handfuls provide no additional effect. Kassalan Dust has a Shape & Material bonus of +3 against the dead. The recipe is known to anyone with Organization Lore: Mortuary Society.
 >
 > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88.
 
@@ -18404,13 +18394,13 @@ Each Fatigue level above Winded has a penalty associated with it (except for Unc
 
 Characters are normally Fresh until they perform some strenuous action, such as engaging in combat, casting Spontaneous spells, or sprinting. Brief strenuous actions require a Fatigue roll: roll Stamina — Encumbrance on a stress die against an Ease Factor of 6. Failure means the loss of one Short-Term Fatigue level. A botch costs two. Combat and magic use have different rules for Fatigue loss that replace those given here. See pages 213, 231, and 397.
 
-#### Recovery From Short-Term Patigue
+#### Recovery From Short-Term Fatigue
 
 A character recovers from Fatigue one level at a time, starting with the most exhausted level. The table below is a guideline to help you determine how long it will take a character to recover. Recovery from Fatigue requires quiet rest, if the character remains active, recovery time is doubled. At the storyguide's option, fatigued characters may make a Stamina roll against an Ease Factor of 9 when they are recovering. Success allows recovery in half the normal time.
 
 If characters take Fatigue levels above Unconscious, each additional Fatigue level adds one hour to the time required to recover to Dazed.
 
-### Long-Term Patigue
+### Long-Term Fatigue
 
 Long-Term Fatigue levels are lost from extended tiring activities, such as hiking all day under a hot sun, or running to carry a message between cities. The levels are lost automatically, and the number of levels lost is at the storyguide's discretion. These levels are only regained after a good night's rest. One night's rest removes one Long-Term Fatigue level.
 
@@ -25324,6 +25314,7 @@ p168-170 p391
 | Adaptive Casting | [225](#adaptive-casting) |
 | Adept Laboratory Student (Virtue) | [69](#adept-laboratory-student) |
 | Advancement | [375-379](#advancement) |
+| &nbsp;&nbsp;*see also [Experience](#experience-and-advancement)* |  |
 | Advancement Table | [49](#advancement-table), [375](#advancement-tables) |
 | Adventure Experience | [376](#adventure) |
 | Aegis of the Hearth | [173](#aegis-of-the-hearth) |
@@ -25339,6 +25330,7 @@ p168-170 p391
 | &nbsp;&nbsp;Limit of | [211](#the-limit-of-aging) |
 | &nbsp;&nbsp;Points | [391](#aging) |
 | &nbsp;&nbsp;Rolls | [392](#aging) |
+| &nbsp;&nbsp;*see also [Longevity Ritual](#longevity-rituals)* |  |
 | Aiming Spells | [223](#aiming) |
 | Air Deprivation | [407](#deprivation) |
 | Alim (Virtue) | [69](#alim) |
@@ -25353,6 +25345,7 @@ p168-170 p391
 | Anachronisms | [514](#errors-and-anachronisms) |
 | Anchored to the (Land) (Flaw) | [119](#anchored-to-the-land) |
 | Angels | [489-492](#creatures-of-the-divine) |
+| &nbsp;&nbsp;*see also [Creatures of the Divine](#creatures-of-the-divine)* |  |
 | Animating Corpses | [462](#animating-corpses-with-magic) |
 | Animals | [428-436](#mundane-beasts) |
 | Animal (Art) | [208](#animal-an-animal), [314](#animal-spells) |
@@ -25419,6 +25412,7 @@ p168-170 p391
 | &nbsp;&nbsp;Mental Characteristics | [436](#2-characteristics) |
 | &nbsp;&nbsp;Natural Weapons Table | [440](#natural-weapons-table) |
 | &nbsp;&nbsp;Physical Characteristics | [437](#2-characteristics) |
+| &nbsp;&nbsp;*see also [Animals](#mundane-beasts)* |  |
 | Beasts of Virtue | [413](#magical-creatures) |
 | Bee King (Virtue) | [72](#bee-king) |
 | Beholden (Hook) | [182](#major-hooks) |
@@ -25454,6 +25448,7 @@ p168-170 p391
 | Boons | [183–184](#boons) |
 | Boosted Magic (Virtue) | [72](#boosted-magic) |
 | Botch | [7](#stress-die) |
+| &nbsp;&nbsp;*see also [Combat Botches](#combat-botches)* |  |
 | Botch Dice | [7–8](#botch-dice) |
 | Bound Casting Tools (Flaw) | [120](#bound-casting-tools) |
 | Bound Magic (Flaw) | [120](#bound-magic) |
@@ -25511,6 +25506,7 @@ p168-170 p391
 | Church Militant | [501](#saints) |
 | Church Triumphant | [501](#saints) |
 | Church, The | [6](#glossary), [23](#the-church), [497–506](#the-church-1), [525](#the-church-2) |
+| &nbsp;&nbsp;*see also Divine, The* |  |
 | Church Upbringing (Flaw) | [122](#church-upbringing) |
 | Circle (Target) | [305](#target) |
 | Cities | [24](#cities) |
@@ -25531,6 +25527,7 @@ p168-170 p391
 | &nbsp;&nbsp;Moving | [395](#moving-in-combat) |
 | &nbsp;&nbsp;Options | [397–398](#combat-options) |
 | &nbsp;&nbsp;Sequence | [394](#combat-sequence) |
+| &nbsp;&nbsp;*see also [Wizard's War](#wizards-war)* |  |
 | Combat Botches | [393](#combat-botches) |
 | Command Animals (Virtue) | [74](#command-animals) |
 | Commanding Aura (Virtue) | [74](#commanding-aura) |
@@ -25561,6 +25558,7 @@ p168-170 p391
 | Corpse Magic (Virtue) | [74](#corpse-magic) |
 | Corpus (Art) | [209](#corpus-co-body), [332–339](#corpus-spells) |
 | Corrosion | [407](#heat-and-corrosion) |
+| Corrupt Beasts | [486](#corrupt-beasts) |
 | Corrupted Abilities (Flaw) | [123](#corrupted-abilities) |
 | Corrupted Arts (Flaw) | [123](#corrupted-arts) |
 | Corrupted Copies | [380](#corrupted-copies) |
@@ -25608,6 +25606,7 @@ p168-170 p391
 | Criamon, House | [13](#house-criamon) |
 | Crippled (Flaw) | [124](#crippled) |
 | Crises | [521](#crises-at-home) |
+| &nbsp;&nbsp;*see also [Aging Crises](#aging)* |  |
 | Crucifixion | [498](#doctrine) |
 | Cudgel | [402](#great-weapons) |
 | Cult of Mercury | [9–10](#the-history-of-the-order) |
@@ -25641,6 +25640,7 @@ p168-170 p391
 | Deleterious Circumstances (Flaw) | [125](#deleterious-circumstances) |
 | Delusion (Flaw) | [125](#delusion) |
 | Demons | [21](#dealing-with-demons) |
+| &nbsp;&nbsp;*see also Creatures of the Infernal* |  |
 | Demonic Blood (Virtue) | [75](#demonic-blood) |
 | Demonic Familiar (Flaw) | [125](#demonic-familiar) |
 | Demonic Might (Virtue) | [76](#demonic-might) |
@@ -25674,16 +25674,19 @@ p168-170 p391
 | Distractions | [379](#distractions) |
 | &nbsp;&nbsp;From Lab Work | [265](#distractions-from-lab-work) |
 | Divine Aura | [418](#divine-auras) |
+| &nbsp;&nbsp;*see also Auras* |  |
 | Divine Creatures | [488–492](#creatures-of-the-divine) |
 | &nbsp;&nbsp;Powers | [489](#angelic-powers) |
 | Divine Might | [425](#creature-might) |
 | Divine, Limit of the | [210](#the-limit-of-the-divine) |
 | Divine, The | [6](#glossary), [418–420](#the-divine-realm) |
+| &nbsp;&nbsp;*see also Church, The* |  |
 | Doctor in (Faculty) (Virtue) | [76](#doctor-in-faculty) |
 | Doctrine | [498](#doctrine) |
 | Dodge | [401](#brawling-weapons) |
 | Domestic Animal (Virtue) | [77](#domestic-animal) |
 | Dominion | [418](#the-divine-realm) |
+| &nbsp;&nbsp;*see also Auras* |  |
 | Dominion Lore (Ability) | [164](#dominion-lore) |
 | Doorkeeper | [500](#sacraments) |
 | Dowsing (Ability) | [164](#dowsing) |
@@ -25757,7 +25760,8 @@ p168-170 p391
 | Expenditure | [189](#expenditure), [195–196](#yearly-expenditure-summary) |
 | Experience | [375–376](#experience-and-advancement) |
 | &nbsp;&nbsp;Adventure | [376](#adventure) |
-| &nbsp;&nbsp;Exposure | [376](#exposure) |
+| Exposure | [376](#exposure) |
+| &nbsp;&nbsp;*see also Advancement* |  |
 | Experimentation | [274–276](#experimentation) |
 | Exploration | [520](#exploration) |
 | Exploring Childhood | [48](#sample-childhoods) |
@@ -25770,6 +25774,7 @@ p168-170 p391
 | Factor (Virtue) | [79](#factor) |
 | Faerie | [6](#glossary), [416–418](#the-faerie-realm) |
 | Faerie Aura | [416](#faerie-auras) |
+| &nbsp;&nbsp;*see also Auras* |  |
 | Faerie Blood (Virtue) | [79](#faerie-blood) |
 | Faerie Creatures | [466–475](#creatures-of-faerie) |
 | &nbsp;&nbsp;Virtues & Flaws | [466](#new-virtues-and-flaws) |
@@ -25789,6 +25794,7 @@ p168-170 p391
 | Failed Student (Flaw) | [128](#failed-student) |
 | Fairs | [509](#markets-and-fairs) |
 | Faith | [499](#doctrine) |
+| &nbsp;&nbsp;*see also True Faith* |  |
 | Falconer (Virtue) | [80](#falconer) |
 | Falling | [407](#impact) |
 | Falling Evil (Flaw) | [128](#the-falling-evil) |
@@ -25836,6 +25842,7 @@ p168-170 p391
 | Flawed Powers (Flaw) | [130](#flawed-powers) |
 | Flawless Magic (Virtue) | [81](#flawless-magic) |
 | Flaws | [26](#virtues-and-flaws), [45](#virtues-and-flaws-1), [47](#quick-and-easy-virtues-and-flaws), [61–154](#chapter-4-virtues-and-flaws) |
+| &nbsp;&nbsp;*see also Virtues and Flaws* |  |
 | Flexible Formulaic Magic (Virtue) | [81](#flexible-formulaic-magic) |
 | Fluctuating Fortune (Flaw) | [130](#fluctuating-fortune) |
 | Focus Power (Virtue) | [81](#focus-power) |
@@ -25906,6 +25913,7 @@ p168-170 p391
 | Guardian Angel (Virtue) | [84](#guardian-angel) |
 | Guernicus (Template) | [40](#guernicus) |
 | Guernicus, House | [14](#house-guernicus) |
+| &nbsp;&nbsp;*see also Quaesitor* |  |
 | Guest of House Criamon (Virtue) | [84](#guest-of-house-criamon) |
 | Guest Storyguiding | [529](#guest-storyguiding) |
 | Guild Apprentice (Virtue) | [84](#guild-apprentice) |
@@ -25942,6 +25950,7 @@ p168-170 p391
 | Hermetic Houses | [10–17](#the-houses-of-hermes), [46](#hermetic-houses-summary) |
 | Hermetic Life | [533](#hermetic-life) |
 | Hermetic Magi | [6](#glossary), [25](#magi) |
+| &nbsp;&nbsp;*see also Order of Hermes* |  |
 | Hermetic Magic | [6](#glossary), [203–246](#chapter-7-hermetic-magic) |
 | Hermetic Magus (Virtue) | [85](#hermetic-magus) |
 | Hermetic Oath | [6](#glossary), [18–19](#the-code-of-hermes) |
@@ -26006,22 +26015,21 @@ p168-170 p391
 | Infamous (Flaw) | [134](#infamous) |
 | Infamous Master (Flaw) | [134](#infamous-master) |
 | Infernal Aura | [415](#infernal-auras) |
-| &nbsp;&nbsp;Corrupt Beasts | [486](#corrupt-beasts) |
+| &nbsp;&nbsp;*see also Auras* |  |
 | Infernal Creatures | [475–488](#infernal-creatures) |
 | &nbsp;&nbsp;Auras & Regiones | [479](#demons-auras-and-regiones) |
+| &nbsp;&nbsp;Corrupt Beasts | [486](#corrupt-beasts) |
 | &nbsp;&nbsp;Free Will | [478](#demons-and-free-will) |
 | &nbsp;&nbsp;Horrifying Appearance | [487](#horrifying-appearance) |
 | &nbsp;&nbsp;and Magic | [477](#demons-and-magic) |
 | &nbsp;&nbsp;Powers | [475](#demonic-powers) |
 | &nbsp;&nbsp;Religious Limitations | [478](#religious-limitations-on-demons) |
 | &nbsp;&nbsp;Weaknesses | [477](#demonic-weaknesses) |
-
-| **Entry** | **Page** |
-|-----------|----------|
 | Infernal Heirloom (Virtue) | [86](#infernal-heirloom) |
 | Infernal Lore (Ability) | [167](#infernal-lore) |
 | Infernal, Limit of The | [211](#the-limit-of-the-infernal) |
 | Infernal, The | [6](#glossary), [414–416](#the-infernal-realm) |
+| &nbsp;&nbsp;*see also Demons* |  |
 | Inheritance | [508](#inheritance) |
 | Initiative Ties | [394](#initiative-ties) |
 | Initiative Total | [393](#combat-scores) |
@@ -26044,6 +26052,7 @@ p168-170 p391
 | Iron, Molten | [407](#heat-and-corrosion) |
 | Islam | [77](#educated-islamic), [110–111](#sufi), [172](#theology-islam) |
 | Islamic Law (Ability) | [167](#islamic-law) |
+| &nbsp;&nbsp;*see also Muslims* |  |
 | Jack-of-All-Trades (Virtue) | [87](#jack-of-all-trades) |
 | Javelin | [402](#missile-weapons) |
 | Jerbiton (Template) | [40](#jerbiton) |
@@ -26061,67 +26070,108 @@ p168-170 p391
 | Jurist (Virtue) | [87](#jurist) |
 | Just an Instant (Virtue) | [87](#just-an-instant) |
 | Justinian | [161](#civil-and-canon-law) |
-
+| Kassalan Dust | [87](#kassalan-dust) |
+| Kassalan Exorcism (Virtue) | [87](#kassalan-exorcism) |
+| Keen Sense of Smell (Virtue) | [88](#keen-sense-of-smell) |
+| Keen Vision (Virtue) | [88](#keen-vision) |
+| Kick | [401](#brawling-weapons) |
+| Kinesis | [457](#ghostly-warder) |
+| Knife | [401](#brawling-weapons) |
+| Knight (Template) | [34](#the-knight) |
+| Knight (Virtue) | [88](#knight) |
+| Knights Templar | [111](#the-knights-templar) |
+| Knows People (Virtue) | [88](#knows-people) |
+| Lab Total | [249](#basic-laboratory-activities) |
+| Laboratory | [249–298](#chapter-8-laboratory) |
+| &nbsp;&nbsp;Characteristics | [286–291](#laboratory-characteristics) |
+| &nbsp;&nbsp;Features | [296–297](#laboratory-features) |
+| &nbsp;&nbsp;Personalization | [286–298](#laboratory-personalization-rules) |
+| &nbsp;&nbsp;Texts | [180](#lab-texts), [262](#laboratory-texts) |
+| &nbsp;&nbsp;Virtues and Flaws | [292–296](#laboratory-virtues-and-flaws) |
+| &nbsp;&nbsp;Work | [249](#basic-laboratory-activities) |
+| Laborer (Virtue) | [88](#laborer) |
+| Lame (Flaw) | [135](#lame) |
+| Lance | [401](#single-weapons) |
+| (Land) Regio Network (Virtue) | [88](#land-regio-network) |
+| Landed Noble (Virtue) | [89](#landed-noble) |
+| Large (Virtue) | [89](#large) |
+| Lasiq (Virtue) | [89](#lasiq) |
+| Latent Magic Ability (Virtue) | [89](#latent-magical-ability) |
+| Later Life | [49](#later-life) |
+| Latin | [164](#dead-language) |
+| Law | [161](#civil-and-canon-law), [504](#canon-law) |
+| &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
+| Leadership (Ability) | [167](#leadership) |
+| Learn (Ability) From Mistakes (Virtue) | [89](#learn-ability-from-mistakes) |
+| Learning Supernatural Abilities | [383](#learning-supernatural-abilities) |
+| Leather Ripper (Virtue) | [90](#leather-ripper) |
+| Leather Scale Armor | [399](#materials) |
+| Lecherous (Flaw) | [135](#lecherous) |
+| Lector | [500](#sacraments) |
+| Legerdemain (Ability) | [167](#legerdemain) |
+| Leper Magus (Virtue) | [90](#leper-magus) |
+| Leprosy (Flaw) | [135](#leprosy) |
+| Lesser Benediction (Virtue) | [90](#lesser-benediction) |
+| Lesser Enchantments | [253](#lesser-enchantments) |
+| Lesser Immunity (Virtue) | [90](#lesser-immunity) |
+| Lesser Limits | [211](#the-lesser-limits) |
+| Lesser Malediction (Flaw) | [135](#lesser-malediction) |
+| Lesser Power (Virtue) | [90](#lesser-power) |
+| Lesser Purifying Touch (Virtue) | [91](#lesser-purifying-touch) |
+| Levels, Spell | [301](#levels) |
+| Levels of Regiones | [420](#regiones) |
+| Lex Hermae | [20](#lex-hermae) |
+| Library | [179](#library) |
+| License of Absence (Virtue) | [91](#license-of-absence) |
+| Life Boost (Virtue) | [91](#life-boost) |
+| Life-Linked Spontaneous Magic (Virtue) | [91](#life-linked-spontaneous-magic) |
+| Light Touch (Virtue) | [91](#light-touch) |
+| Lightning Reflexes (Virtue) | [91](#lightning-reflexes) |
+| Limited Magic Resistance (Flaw) | [135](#limited-magic-resistance) |
+| Limits of Magic | [210–212](#limits-of-magic) |
+| Lingering Injury (Flaw) | [135](#lingering-injury) |
+| Linguist (Virtue) | [91](#linguist) |
+| Linked Trigger | [258](#effect-modifications) |
+| (Living Language) (Ability) | [167](#living-language) |
+| Load | [403](#encumbrance) |
+| Local Reputation | [28](#reputations) |
+| Logic (Artes Liberales) | [160](#artes-liberales) |
+| Lone Redcap (Virtue) | [91](#lone-redcap) |
+| Long Spear | [402](#great-weapons) |
+| Long Sword | [401](#single-weapons) |
+| Long-Term Fatigue | [404](#long-term-fatigue) |
+| Long-Winded (Virtue) | [92](#long-winded) |
+| Longbow | [402](#missile-weapons) |
+| Longevity Rituals | [261](#longevity-rituals) |
+| Loose Magic (Flaw) | [135](#loose-magic) |
+| Lord | [506](#the-nobility) |
+| Lost Love (Flaw) | [135](#lost-love) |
+| Love | [499](#doctrine) |
+| Low Self-Esteem (Flaw) | [135](#low-self-esteem) |
+| Low Tolerance (Flaw) | [135](#low-tolerance) |
+| Low Vis | [526](#resources-2) |
+| Low-Research Saga | [532](#the-low-research-saga) |
+| Loyal (Personality Trait) | [28](#personality-traits) |
+| Luck (Virtue) | [92](#luck) |
+| Lunar Sphere, Limit of the | [211](#the-limit-of-the-lunar-sphere), [497](#medieval-physics) |
+| Lupus (the Wolf) (Virtue) | [92](#lupus-the-wolf) |
+| Lycanthrope (Flaw) | [135](#lycanthrope) |
+| Lye | [407](#heat-and-corrosion-table) |
+| Mace | [401](#single-weapons) |
+| Mace and Chain | [401](#single-weapons) |
+| Maga | [6](#glossary), [25](#magi) |
+| &nbsp;&nbsp;*see also Order of Hermes* |  |
+| Magi | [6](#glossary), [25](#magi) |
+| &nbsp;&nbsp;*see also Order of Hermes* |  |
+| Magian Lineage (Virtue) | [92](#magian-lineage) |
+| Magic | [6](#glossary) |
+| Magic Addiction (Flaw) | [135](#magic-addiction) |
+| Magic and Sin | [499](#magic-and-sin) |
+| Magic Aura | [413–414](#magical-auras) |
+| &nbsp;&nbsp;*see also [Auras](#realm-auras)* |  |
 
 ## Traditional Index (remained legacy not linked yet)
 
-
-
-
-Kassalan Dust ........................... 87
-Kassalan Exorcism (Virtue) ...... 87
-Keen Sense of Smell (Virtue) ... 88
-Keen Vision (Virtue) ................ 88
-Kick ........................................ 401
-Kinesis .................................... 457
-Knife ....................................... 401
-Knight (Template) ................... 34
-Knight (Virtue) ........................ 88
-Knights Templar .................... 111
-Knows People (Virtue) ............. 88
-Lab Total ................................ 249
-Laboratory .......................249-298
-Characteristics ..............286-291
-Features ........................296-297
-Personalization .............286-298
-Texts ............................ 180, 262
-Virtues and Flaws .........292-296
-Work ................................... 249
-Laborer (Virtue) ....................... 88
-Lame (Flaw) ............................ 135
-Lance ...................................... 401
-(Land) Regio Network (Virtue) ...88
-Landed Noble (Virtue) ............. 89
-Large (Virtue) ........................... 89
-Lasiq (Virtue) ........................... 89
-Latent Magic Ability (Virtue) ... 89
-Later Life .................................. 49
-Latin ....................................... 164
-Law ................................. 161, 504
-see also Canon Law, 
-and Civil and Canon Law (Ability)
-Leadership (Ability) ............... 167
-Learn (Ability) From Mistakes 
-(Virtue) ..................................... 89
-Learning Supernatural 
-Abilities .................................. 383
-Leather Ripper (Virtue) ............ 90
-Leather Scale Armor ............... 399
-Lecherous (Flaw) .................... 135
-Lector ..................................... 500
-Legerdemain (Ability) ............ 167
-Leper Magus (Virtue) ............... 90
-Leprosy (Flaw) ........................ 135
-Lesser Benediction (Virtue) ...... 90
-Lesser Enchantments .............. 253
-Lesser Immunity (Virtue) ......... 90
-Lesser Limits ........................... 211
-Lesser Malediction (Flaw) ...... 135
-Lesser Power (Virtue) ............... 90
-Lesser Purifying Touch 
-(Virtue) ..................................... 91
-Levels, Spell ............................ 301
-Levels of Regiones .................. 420
 
 Lex Hermae ............................... 20
 Liberal Arts .......see Artes Liberales
