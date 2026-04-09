@@ -10,7 +10,7 @@ This is a work-in-progress repository for machine-extracted, manually fixed mark
 * In the **/wip** folder, is manual fixing work-in-progress. Whatever is here can be expected to be in much better shape than the raw markdowns. All extraneous image links and html is gone from all files (the br's are required for multiline tables), and so's plenty of junk. Use these files until **reviewed** is populated. If you want to help fix something, checkout these.
 * In the [**/reviewed**](/reviewed/) folder, you'll find Markdown files that has had at least one full manual pass & review and the official errata added. All books here should be in excellent condition. There may still be minor things that need correction and additional review passes (please submit corrections). The completion state is indicated at the beginning of the document. **USE THESE!**
 
-The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements are most in need.*
+The public is welcome to commit fixes, new and better versions of any of these files (I mainly expect this to be by manual edit while referencing the original works). Please make sure to provide information on what's been corrected, as well as any remaining issues. I'll try to quickly accept improvements to the repository after review (make my life easier, and it will be faster). *As of now, the 3rd edition supplements and Houses of Hermes are most in need.*
 <br/>
 <br/>
 
