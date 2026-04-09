@@ -17,7 +17,7 @@ The public is welcome to commit fixes, new and better versions of any of these f
 
 #### New to Ars Magica?
 
-The game is about incredibly powerful - but politically limited - Wizards in the rich setting of 13th century Mythic Europe, where the superstitions and myths are all true. Faeries drink milk left on doorsteps, demons roam the countryside, and wizards wield magic beyond the ken of mortals. Ars Magica is generally lauded for having the best magic system of any RPG, bar none.
+The game is about incredibly powerful - but politically limited - Wizards in the rich setting of 13th century Mythic Europe, where the superstitions and myths are true. Faeries drink milk left on doorsteps, demons roam the countryside, and wizards wield magic beyond the ken of mortals. Ars Magica is generally lauded for having the best magic system of any RPG, bar none.
 
 You'll want to start with the the *Ars Magica - Definitive Edition \(Core Rules\).md* file in the [/reviewed](/reviewed/) folder to explore one of the best RPG ever made. **Headsup: Definitive Edition is too large for GitHub to render it - you have to download the file!** 
 
