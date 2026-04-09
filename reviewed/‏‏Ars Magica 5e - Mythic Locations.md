@@ -3,7 +3,7 @@ A sourcebook supplement with ten unique locations for Ars Magica 5th Edition.
 
 > *Open License Markdown version by YR7 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 > 
-> *[Completion state: Text manually fixed (Note: The minor Errata is included). Remaining: TOC, Tables + Another pass + Review]*
+> *[Completion state: Text manually fixed (including Errata, TOC, and a second review).]*
 > 
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
