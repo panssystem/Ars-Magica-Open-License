@@ -6,7 +6,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
-*Some identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
+*Some identified issues from source PDF: "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -10621,9 +10621,9 @@ Forceless casting requires no particular skill or effort. It is useful in magica
 | ---------------------------------------- | --------------------|
 | Caster is blood relative of target       | +1                  |
 | Signature of target                      | +1                  |
-| Target's nickname or<br>birth name*      | +1                  |
+| Target's nickname or birth name*         | +1                  |
 | Name target uses in secret magic rituals | +1                  |
-| Target's horoscope<br>for today**        | +1                  |
+| Target's horoscope for today**           | +1                  |
 | Target's nativity horoscope***           | +2                  |
 | Symbolic representation of target****    | +2                  |
 
@@ -11754,7 +11754,7 @@ An item that has been prepared for enchantment is useless for any magical purpos
 > 
 > A wooden wand is a small wooden object, and thus can only contain four pawns of vis. As Mari is making a Lesser Enchantment she doesn't need to open the item, but she can still only invest four pawns worth of effects. This isn't a problem; with a Lab Total of 41 the highest level effect she can invest is 20, which takes just two pawns.
 
-### Instilling Affects
+### Instilling Effects
 
 The effects instilled in enchanted items are designed like spells, but they are not spells. In particular, a magus may instill an effect in a device even if he does not know a spell with the same effect. Designing an effect takes no time above and beyond the time spent to instill the effect in the item.
 
@@ -12301,20 +12301,6 @@ When referring to the "Extraordinary Results Chart," roll a stress die, adding y
 
 If your creation comes out flawed or difficult to use because of your roll on the "Extraordinary Results Chart," you have two choices: live with the anomaly, or recreate the effect. If you recreate it, use the normal laboratory rules. However, you gain your Magic Theory score (your score at the time of your experiment) as a bonus to your Lab Total to accomplish the invention, having learned something from your nearly successful experiment. Thus, your Magic Theory score is applied twice to your Lab Total. The recreation process must occur in another season, and you need not experiment then. While this may often be a good option for spells, the additional costs for enchanted items make it less appealing there, and magi are more likely to choose to live with flaws, even quite serious ones.
 
-#### Extraordinary Results Chart
-
-| ROLL  | RESULT |
-| ----- | ------ |
-| Botch | Disaster |
-| 0-4   | No extraordinary effects |
-| 5-6   | Side effect |
-| 7     | No benefit |
-| 8     | Complete failure |
-| 9     | Special or story event | 
-| 10    | Discovery | 
-| 11    | Modified effect |
-| 12    | +Roll twice more on this chart. |
-
 ### Inventing a Spell by Experimentation
 
 Points from the simple die, added to your Lab Total, might let you finish a spell sooner, or even invent a spell that is otherwise beyond your capacity. If even with the added simple die your Lab Total is still lower than the spell's level, you cannot invent the spell, and must still make a roll on the "Extraordinary Results Chart." Even though your experiment fails, it can still blow up in your face. Having failed to invent the spell, you may try again next season, and may experiment again. You do not gain your Magic Theory score as a bonus, however, as you did not nearly succeed.
@@ -12338,6 +12324,20 @@ You may experiment on Longevity Rituals, adding the simple die to your Lab Total
 The simple die is added to every roll made to discover an item's invested powers. If you cannot bring your Lab Total high enough to discover an item's powers, you still have to roll on the "Extraordinary Results Chart," though.
 
 When investigating an enchanted item by experimenting on it, you take risks not normally taken, and may damage or destroy the magic item in the process. Any results from the chart indicating damage or changes to the project you are working on are applied to the magic item or one of its powers. It's possible, though, that a magic item's own protections can preserve it from the dangers of your experiments. If the level of an item's protecting power (like Magic Resistance or an appropriate spell) exceeds your Lab Total (including any bonus for experimentation), the item resists any damaging effects rolled on the chart.
+
+### Extraordinary Results Chart
+
+| ROLL  | RESULT |
+| ----- | ------ |
+| Botch | Disaster |
+| 0-4   | No extraordinary effects |
+| 5-6   | Side effect |
+| 7     | No benefit |
+| 8     | Complete failure |
+| 9     | Special or story event | 
+| 10    | Discovery | 
+| 11    | Modified effect |
+| 12    | +Roll twice more on this chart. |
 
 **Disaster:** You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
 
@@ -12389,7 +12389,6 @@ When investigating an enchanted item by experimenting on it, you take risks not 
 | 10+  | Roll twice, and reroll this result if it is generated again.                                                                                            |
 
 **Modified Effect:** Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
-
 
 | Roll | Result                                                                                                                                                  |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25921,159 +25920,153 @@ p168-170 p391
 | Hatred (Flaw) | [132](#hatred) |
 | Hauberk | [399](#outfittings) |
 | Healing Miracle | [505–506](#miracles-1) |
+| Healing Spells | [406](#healing-spells) |
+| Heartbeast | [233](#bjornaer--the-heartbeast) |
+| Heartbeast (Ability) | [165](#heartbeast-1) |
+| Heartbeast (Virtue) | [85](#heartbeast) |
+| Heat | [407](#heat-and-corrosion) |
+| Heater Shield | [401](#single-weapons) |
+| Heaven | [498–500](#doctrine) |
+| Heavy Leather Armor | [399](#materials) |
+| Hebrew | [158](#academic-abilities) |
+| Hedge Magic | [6](#glossary) |
+| Hedge Wizard (Flaw) | [132](#hedge-wizard) |
+| Heir (Flaw) | [132](#heir) |
+| Hell | [415](#the-infernal-realm), [499](#doctrine) |
+| Help in the Laboratory | [264](#help-in-the-laboratory) |
+| Herbam (Art) | [209](#herbam-he-plant), [339–343](#herbam-spells) |
+| Heresy | [171](#theology-christian), [504](#canon-law) |
+| Hermetic Arts | [206–209](#the-hermetic-arts) |
+| Hermetic Breakthrough | [277](#the-breakthrough) |
+| Hermetic Experience (Virtue) | [85](#hermetic-experience) |
+| Hermetic Houses | [10–17](#the-houses-of-hermes), [46](#hermetic-houses-summary) |
+| Hermetic Life | [533](#hermetic-life) |
+| Hermetic Magi | [6](#glossary), [25](#magi) |
+| Hermetic Magic | [6](#glossary), [203–246](#chapter-7-hermetic-magic) |
+| Hermetic Magus (Virtue) | [85](#hermetic-magus) |
+| Hermetic Oath | [6](#glossary), [18–19](#the-code-of-hermes) |
+| Hermetic Patron (Flaw) | [132](#hermetic-patron) |
+| Hermetic Prestige (Virtue) | [85](#hermetic-prestige) |
+| Hermetic Reputation | [28](#reputations) |
+| Hermetic Virtues and Flaws | [45](#virtues-and-flaws-1) |
+| Hex (Ability) | [165–166](#hex-1) |
+| Hex (Virtue) | [85](#hex) |
+| Hiems | [176](#hiems) |
+| High Fantasy | [532](#high-fantasy) |
+| High Vis | [526](#resources-2) |
+| High-Research Saga | [532](#the-high-research-saga) |
+| Higher Purpose (Flaw) | [133](#higher-purpose) |
+| Hippocrates | [168](#medicine) |
+| Historical Accuracy | [495](#chapter-14-mythic-europe) |
+| History | [523–524](#history) |
+| Hobbled (Flaw) | [133](#hobbled) |
+| Holy Grail | [522](#objects-of-quests) |
+| Holy Orders | [74](#clerk), [500](#sacraments) |
+| Homing Instinct (Virtue) | [85](#homing-instinct) |
+| Hooks | [181–182](#hooks), [516](#hooks-1) |
+| Hope | [499](#doctrine) |
+| Horoscope | [220](#sympathetic-connections) |
+| Horrifying Appearance – Snake Legs (Flaw) | [133](#horrifying-appearance-snake-legs) |
+| Hospitallers | [73](#brother-knight) |
+| Host, The | [500](#sacraments) |
+| House Rules | [524](#rules-questions) |
+| Houses of Hermes | [10–17](#the-houses-of-hermes), [46](#hermetic-houses-summary) |
+| Hubris | [241](#hubris) |
+| Humble (Flaw) | [133](#humble) |
+| Humors | [168](#medicine), [497](#medieval-physics) |
+| Hunchback (Flaw) | [133](#hunchback) |
+| Hunger for (Form) Magic (Flaw) | [133](#hunger-for-form-magic) |
+| Hunt (Ability) | [166](#hunt) |
+| Hunter (Template) | [32](#the-hunter) |
+| Ice | [407](#heat-and-corrosion) |
+| Ignem (Art) | [209](#ignem-ig-fire), [343–347](#ignem-spells) |
+| Imagined Folk Tradition Vulnerability (Flaw) | [133](#imagined-folk-tradition-vulnerability) |
+| Imaginem (Art) | [209](#imaginem-im-image), [347–352](#imaginem-spells) |
+| Imbued with the Spirit of (Form) (Virtue) | [85](#imbued-with-the-spirit-of-form) |
+| Immune to Disease (Virtue) | [86](#immune-to-disease) |
+| Immunity to Cold (Virtue) | [86](#immunity-to-cold) |
+| Impact | [407](#impact) |
+| Imperturbable Casting | [225](#imperturbable-casting) |
+| Impious Friend (Flaw) | [133](#impious-friend) |
+| Improved Characteristics (Virtue) | [86](#improved-characteristics) |
+| Incapacitation | [404](#wounds) |
+| Incarnation | [498](#doctrine) |
+| Income | [188](#income) |
+| Incompatible Arts (Flaw) | [134](#incompatible-arts) |
+| Incomprehensible (Flaw) | [134](#incomprehensible) |
+| Inconstant Magic (Flaw) | [134](#inconstant-magic) |
+| Indescribable Face (Virtue) | [86](#indescribable-face) |
+| Independent Craftsman (Flaw) | [134](#independent-craftsman) |
+| Independent Study (Virtue) | [86](#independent-study) |
+| Indiscreet (Flaw) | [134](#indiscreet) |
+| Individual (Target) | [305](#target) |
+| Induction (Ability) | [166–167](#induction) |
+| Induction (Virtue) | [86](#induction) |
+| Ineslemen (Virtue) | [86](#ineslemen) |
+| Infamous (Flaw) | [134](#infamous) |
+| Infamous Master (Flaw) | [134](#infamous-master) |
+| Infernal Aura | [415](#infernal-auras) |
+| &nbsp;&nbsp;Corrupt Beasts | [486](#corrupt-beasts) |
+| Infernal Creatures | [475–488](#infernal-creatures) |
+| &nbsp;&nbsp;Auras & Regiones | [479](#demons-auras-and-regiones) |
+| &nbsp;&nbsp;Free Will | [478](#demons-and-free-will) |
+| &nbsp;&nbsp;Horrifying Appearance | [487](#horrifying-appearance) |
+| &nbsp;&nbsp;and Magic | [477](#demons-and-magic) |
+| &nbsp;&nbsp;Powers | [475](#demonic-powers) |
+| &nbsp;&nbsp;Religious Limitations | [478](#religious-limitations-on-demons) |
+| &nbsp;&nbsp;Weaknesses | [477](#demonic-weaknesses) |
+
+| **Entry** | **Page** |
+|-----------|----------|
+| Infernal Heirloom (Virtue) | [86](#infernal-heirloom) |
+| Infernal Lore (Ability) | [167](#infernal-lore) |
+| Infernal, Limit of The | [211](#the-limit-of-the-infernal) |
+| Infernal, The | [6](#glossary), [414–416](#the-infernal-realm) |
+| Inheritance | [508](#inheritance) |
+| Initiative Ties | [394](#initiative-ties) |
+| Initiative Total | [393](#combat-scores) |
+| Injuries | [407](#injuries) |
+| Ink of Hermes | [281](#ink-of-hermes) |
+| Inoffensive to (Beings) (Virtue) | [86](#inoffensive-to-beings) |
+| Inscribed Shadow (Flaw) | [134](#inscribed-shadow) |
+| Inspirational (Virtue) | [87](#inspirational) |
+| Instilling Effects | [256–258](#instilling-effects) |
+| Intellego (Art) | [207](#intellego-in-i-perceive) |
+| Intelligence | [27](#intelligence-int) |
+| Interfering with Mundanes | [21](#interfering-with-mundanes) |
+| Intrigue (Ability) | [167](#intrigue) |
+| Intuition (Virtue) | [87](#intuition) |
+| Inventing Spells | [251](#inventing-spells) |
+| Inventive Genius (Virtue) | [87](#inventive-genius) |
+| Invested Items | [253](#invested-items) |
+| Investigating Enchantments | [260](#investigating-enchantments) |
+| Investigation Saga | [533](#investigation) |
+| Iron, Molten | [407](#heat-and-corrosion) |
+| Islam | [77](#educated-islamic), [110–111](#sufi), [172](#theology-islam) |
+| Islamic Law (Ability) | [167](#islamic-law) |
+| Jack-of-All-Trades (Virtue) | [87](#jack-of-all-trades) |
+| Javelin | [402](#missile-weapons) |
+| Jerbiton (Template) | [40](#jerbiton) |
+| Jerbiton, House | [15](#house-jerbiton) |
+| Jerusalem | [419](#sources-of-divine-auras) |
+| Jesus Christ | [498](#doctrine) |
+| Jews | [499](#sacraments), [504](#canon-law) |
+| Jinn | [442](#jinn) |
+| Jinxed (Flaw) | [134](#jinxed) |
+| Journeyman (Virtue) | [87](#journeyman) |
+| Judaic Lore (Ability) | [167](#judaic-lore) |
+| Judged Unfairly (Flaw) | [134](#judged-unfairly) |
+| Judges | [14](#house-guernicus), [504](#canon-law) |
+| Jumping | [161](#athletics) |
+| Jurist (Virtue) | [87](#jurist) |
+| Just an Instant (Virtue) | [87](#just-an-instant) |
+| Justinian | [161](#civil-and-canon-law) |
 
 
 ## Traditional Index (remained legacy not linked yet)
 
-Healing Spells ........................ 406
-Heartbeast .............................. 233
-Heartbeast (Ability) ............... 165
-Heartbeast (Virtue) .................. 85
-Heat ....................................... 407
-Heater Shield ......................... 401
-Heaven ............................498-500
-Heavy Leather Armor ............ 399
-Hebrew ................................... 158
-Hedge Magic .............................. 6
-Hedge Wizard (Flaw) ............. 132
-Heir (Flaw) ............................. 132
-Hell ................................ 415, 499
-Help in the Laboratory .......... 264
-Herbam (Art) ..........209, 339-343
-Heresy ............................ 171, 504
-Hermetic Arts ..................206-209
-Hermetic Breakthrough .......... 277
-Hermetic Experience (Virtue) ... 85
-Hermetic Houses ..........10-17, 46
-Hermetic Life ......................... 533
-Hermetic Magi ..................... 6, 25
-see also Order of Hermes
-Hermetic Magic ..........6, 203-246
-Hermetic Magus (Virtue) ......... 85
-Hermetic Oath ................6, 18-19
-Hermetic Patron (Flaw) .......... 132
-Hermetic Prestige (Virtue) ....... 85
-Hermetic Reputation ................ 28
-Hermetic Virtues and Flaws ..... 45
-Hex (Ability) ...................165-166
-Hex (Virtue) ............................. 85
-Hiems ..................................... 176
-High Fantasy .......................... 532
-High Vis ................................. 526
-High-Research Saga ............... 532
-Higher Purpose (Flaw) ........... 133
-Hippocrates ............................ 168
-Historical Accuracy ................ 495
-History ............................523-524
-Hobbled (Flaw) ..................... 133
-Holy Grail .............................. 522
-Holy Orders ..................... 74, 500
-Homing Instinct (Virtue) ......... 85
-Hooks ......................181-182, 516
-Hope ...................................... 499
-Horoscope .............................. 220
-Horrifying Appearance - 
-Snake Legs (Flaw) ................... 133
-Hospitallers .............................. 73
-Host, The ............................... 500
-House Rules ............................ 524
-Houses of Hermes .........10-17, 46
-Hubris .................................... 241
-Humble (Flaw) ....................... 133
 
-Humors ........................... 168, 497
-Hunchback (Flaw) ................... 133
-Hunger for (Form) Magic 
-(Flaw) ....................................... 133
-Hunt (Ability) ......................... 166
-Hunter (Template) .................... 32
-Ice ............................................ 407
-Ignem (Art) ............... 209, 343-347
-Imagined Folk Tradition 
-Vulnerability (Flaw) ................ 133
-Imaginem (Art) ......... 209, 347-352
-Imbued with the Spirit of (Form) 
-(Virtue) ...................................... 85
-Immune to Disease (Virtue) ...... 86
-Immunity to Cold (Virtue) ........ 86
-Impact ..................................... 407
-Imperturbable Casting ............. 225
-Impious Friend (Flaw) .............. 133
-Improved Characteristics 
-(Virtue) ...................................... 86
-Incapacitation .......................... 404
-Incarnation .............................. 498
-Income ..................................... 188
-Incompatible Arts (Flaw) ......... 134
-Incomprehensible (Flaw) ......... 134
-Inconstant Magic (Flaw) .......... 134
-Indescribable Face (Virtue) ....... 86
-Independent Craftsman (Flaw) ... 134
-Independent Study (Virtue) ...... 86
-Indiscreet (Flaw) ...................... 134
-Individual (Target) .................. 305
-Induction (Ability) ........... 166-167
-Induction (Virtue) ..................... 86
-Ineslemen (Virtue) ..................... 86
-Infamous (Flaw) ....................... 134
-Infamous Master (Flaw) ........... 134
-Infernal Aura ............................ 415
-see also Auras
-Corrupt Beasts ......................... 486
-Infernal Creatures ............. 475-488
-Auras & Regiones .................. 479
-Free Will ............................... 478
-Horrifying Appearance ........ 487
-and Magic ............................. 477
-Powers .................................. 475
-Religious Limitations ............ 478
-Weaknesses .......................... 477
 
-Infernal Heirloom (Virtue) ........86
-Infernal Lore (Ability) .............167
-Infernal, Limit of The ..............211
-Infernal, The ................ 6, 414-416
-see also Demons
-Inheritance ..............................508
-Initiative Ties ..........................394
-Initiative Total .........................393
-Injuries .....................................407
-Ink of Hermes .........................281
-Inoffensive to (Beings) (Virtue) ...86
-Inscribed Shadow (Flaw) .........134
-Inspirational (Virtue) .................87
-Instilling Effects ............... 256-258
-Intellego (Art) .........................207
-Intelligence ................................27
-Interfering with Mundanes ........21
-Intrigue (Ability) .....................167
-Intuition (Virtue) .......................87
-Inventing Spells .......................251
-Inventive Genius (Virtue) ..........87
-Invested Items .........................253
-Investigating Enchantments ....260
-Investigation Saga ...................533
-Iron, Molten ............................407
-Islam .................. 77, 110-111, 172
-Islamic Law (Ability) ...............167
-see also Muslims
-Jack-of-All-Trades (Virtue) .......87
-Javelin ......................................402
-Jerbiton (Template) ...................40
-Jerbiton, House .........................15
-Jerusalem .................................419
-Jesus Christ ..............................498
-Jews .................................499, 504
-Jinn ..........................................442
-Jinxed (Flaw) ...........................134
-Journeyman (Virtue) .................87
-Judaic Lore (Ability) ................167
-Judged Unfairly (Flaw) ............134
-Judges ................................14, 504
-Jumping ...................................161
-Jurist (Virtue) ............................87
-Just an Instant (Virtue) ..............87
-Justinian ...................................161
 
 Kassalan Dust ........................... 87
 Kassalan Exorcism (Virtue) ...... 87
