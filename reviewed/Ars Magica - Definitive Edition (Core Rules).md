@@ -2,7 +2,7 @@
 
 The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
-*Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
@@ -23668,7 +23668,7 @@ Twilight: Divide the number of Twilight Points by three, and use this as the War
 
 ### Ease Factors
 
-*Fifth Edition p7, Definitive Edition p8*
+*Fifth Edition p7, Definitive Edition [p8](#ease-factor)*
 
 | Ease Factor | Difficulty | Description |
 |-------------|------------|-------------|
@@ -23700,7 +23700,7 @@ Twilight: Divide the number of Twilight Points by three, and use this as the War
 
 ### Travel Distance
 
-*City and Guild p80, Definitive Edition p408*
+*City and Guild p80, Definitive Edition [p408](#travel)*
 
 | Mode | Speed |
 |------|-------|
@@ -23714,7 +23714,7 @@ Twilight: Divide the number of Twilight Points by three, and use this as the War
 
 ### Encumbrance
 
-*p20, p403*
+*p20, [p403](#encumbrance)*
 
 **ENCUMBRANCE FOR CHARACTER STRENGTH 0 OR NEGATIVE = Burden**
 
@@ -23740,7 +23740,7 @@ Twilight: Divide the number of Twilight Points by three, and use this as the War
 
 ### Confidence
 
-*p19, p29*
+*p19, [p29](#confidence)*
 
 #### Spending Confidence
 
@@ -23761,7 +23761,7 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Reputation
 
-*p19, p28-29, p386*
+*p19, [p28-29](#reputations), [p386](#changing-reputations)*
 
 #### Changing Reputations
 
@@ -23782,7 +23782,7 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Magic Sensitivity
 
-*p45, p168*
+*p45, [p168](#magic-sensitivity-1)*
 
 | Sensing | Ease Factor |
 |---------|-------------|
@@ -23793,7 +23793,7 @@ Award one point at the end of a session for each of the following that a charact
 
 ### Second Sight
 
-*p67, p170*
+*p67, [p170](#second-sight-1)*
 
 **REGIO SIGHT ROLL: Perception + Appropriate Ability + Stress Die**
 
