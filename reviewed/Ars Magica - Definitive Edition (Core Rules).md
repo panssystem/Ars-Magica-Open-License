@@ -6,7 +6,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 *[Completion state: As good as all text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including TOC and Index links - and it's likely content complete. Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol); The Ability links do not work - until we rewrite all of the Abilities to use headings; The Traditional Index with direct links is not yet completely done - working on it!]*
 
-*Some identified issues from source PDF (more than these were fixed): "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Corrupt Beasts misplaced in Index (fixed)*
+*Some identified issues from source PDF (more than these were fixed): "Casting Tablets" section is weird have the table within the text (fixed); Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed); Creo Auram Guidelines unclear notes under Level 25 (fixed); Arcane Lore listed as Ability instead of Virtue in Index (fixed); Corrupt Beasts misplaced in Index (fixed); Enchanting (Ability) (Ability) missing from Index (fixed)*
 
 *For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
@@ -4994,7 +4994,7 @@ A magus may only have one Magical Focus, whether major or minor, regardless of t
 > - Healing: Applies to people, animals, and plants.
 > - Self-transformation: Applies to both Corpus and Mentem.
 
-#### Mugta' (Mug-Ta')
+#### Muqta' (Muq-Ta')
 
 Major, Social Status
 
@@ -8496,131 +8496,136 @@ The Gift allows characters to learn Supernatural Abilities in play (see page 383
 
 #### General Abilities
 
-Animal Handling<br>
-(Area) Lore\*<br>
-Athletics<br>
-Awareness<br>
-Bargain<br>
-Brawl<br>
-Carouse<br>
-Charm<br>
-Chirurgy\*<br>
-Concentration<br>
-Craft (Type)<br>
-Etiquette<br>
-Folk Ken<br>
-Guile<br>
-Hunt<br>
-Intrigue<br>
-Judaic Lore\*<br>
-Leadership<br>
-Legerdemain\*<br>
-(Living Language)\*<br>
-(Mystery Cult) Lore\*<br>
-(Organization) Lore\*<br>
-Profession (Type)<br>
-Ride<br>
-Stealth<br>
-Survival<br>
-Swim<br>
-Teaching
+[Animal Handling](#animal-handling)<br>
+[(Area) Lore\*](#area-lore)<br>
+[Athletics](#athletics)<br>
+[Awareness](#awareness)<br>
+[Bargain](#bargain)<br>
+[Brawl](#brawl)<br>
+[Carouse](#carouse)<br>
+[Charm](#charm)<br>
+[Chirurgy\*](#chirurgy-kie-ruhr-gee)<br>
+[Concentration](#concentration)<br>
+[Craft (Type)](#craft-type)<br>
+[Etiquette](#etiquette)<br>
+[Folk Ken](#folk-ken)<br>
+[Guile](#guile)<br>
+[Hunt](#hunt)<br>
+[Intrigue](#intrigue)<br>
+[Judaic Lore\*](#judaic-lore)<br>
+[Leadership](#leadership)<br>
+[Legerdemain\*](#legerdemain)<br>
+[(Living Language)\*](#living-language)<br>
+[(Mystery Cult) Lore\*](#mystery-cult-lore)<br>
+[(Organization) Lore\*](#organization-lore)<br>
+[Profession (Type)](#profession-type)<br>
+[Ride](#ride)<br>
+[Stealth](#stealth)<br>
+[Survival](#survival)<br>
+[Swim](#swim)<br>
+[Teaching](#teaching)<br>
 
 #### Academic Abilities
 
-Art of Memory\*<br>
-Artes Liberales\*<br>
-Civil and Canon Law\*<br>
-Common Law\*<br>
-(Dead Language)\*<br>
-Islamic Law\*<br>
-Medicine\*<br>
-Philosophiae\*<br>
-Rabbinic Law\*<br>
-Theology: Christian\*<br>
-Theology: Islam\*<br>
-Theology: Judaism\*
+[Art of Memory\*](#art-of-memory)<br>
+[Artes Liberales\*](#artes-liberales)<br>
+[Civil and Canon Law\*](#civil-and-canon-law)<br>
+[Common Law\*](#common-law)<br>
+[(Dead Language)\*](#dead-language)<br>
+[Islamic Law\*](#islamic-law)<br>
+[Medicine\*](#medicine)<br>
+[Philosophiae\*](#philosophiae)<br>
+[Rabbinic Law\*](#rabbinic-law)<br>
+[Theology: Christian\*](#theology-christian)<br>
+[Theology: Islam\*](#theology-islam)<br>
+[Theology: Judaism\*](#theology-judaism)<br>
 
 #### Arcane Abilities
 
-Code of Hermes\*<br>
-Dominion Lore\*<br>
-Enigmatic Wisdom\*<br>
-Faerie Lore\*<br>
-Faerie Magic\*<br>
-Finesse<br>
-Heartbeast\*<br>
-Infernal Lore\*<br>
-Magic Lore\*<br>
-Magic Theory\*<br>
-Parma Magica\*<br>
-Penetration
+[Code of Hermes\*](#code-of-hermes)<br>
+[Dominion Lore\*](#dominion-lore)<br>
+[Enigmatic Wisdom\*](#enigmatic-wisdom)<br>
+[Faerie Lore\*](#faerie-lore)<br>
+[Faerie Magic\*](#faerie-magic-1)<br>
+[Finesse](#finesse)<br>
+[Heartbeast\*](#heartbeast-1)<br>
+[Infernal Lore\*](#infernal-lore)<br>
+[Magic Lore\*](#magic-lore)<br>
+[Magic Theory\*](#magic-theory)<br>
+[Parma Magica\*](#parma-magica)<br>
+[Penetration](#penetration)<br>
 
 #### Martial Abilities
 
-Bows<br>
-Great Weapon<br>
-Single Weapon<br>
-Thrown Weapon
+[Bows](#bows)<br>
+[Great Weapon](#great-weapon)<br>
+[Single Weapon](#single-weapon)<br>
+[Thrown Weapon](#thrown-weapon)<br>
 
 #### Supernatural Abilities
 
-Animal Ken\*<br>
-Corpse Magic\*<br>
-Crafter's Healing\*<br>
-Curse-Throwing\*<br>
-Dowsing\*<br>
-Embitterment\*<br>
-Enchanting (Ability)\*<br>
-Entrancement\*<br>
-Font of Knowledge\*<br>
-Hex\*<br>
-Induction\*<br>
-Magic Sensitivity\*<br>
-Persona\*<br>
-Premonitions\*<br>
-Second Sight\*<br>
-Sense Holiness and Unholiness\*<br>
-Sense Passions\*<br>
-Shapeshifter\*<br>
-Summon Animals\*<br>
-Whistle Up The Wind\*<br>
-Wilderness Sense\*
+[Animal Ken\*](#animal-ken-1)<br>
+[Corpse Magic\*](#corpse-magic-1)<br>
+[Crafter's Healing\*](#crafters-healing-1)<br>
+[Curse-Throwing\*](#curse-throwing-1)<br>
+[Dowsing\*](#dowsing-1)<br>
+[Embitterment\*](#embitterment-1)<br>
+[Enchanting (Ability)\*](#enchanting-ability-1)<br>
+[Entrancement\*](#entrancement-1)<br>
+[Font of Knowledge\*](#font-of-knowledge-1)<br>
+[Hex\*](#hex-1)<br>
+[Induction\*](#induction-1)<br>
+[Magic Sensitivity\*](#magic-sensitivity-1)<br>
+[Persona\*](#persona-1)<br>
+[Premonitions\*](#premonitions-1)<br>
+[Second Sight\*](#second-sight-1)<br>
+[Sense Holiness and Unholiness\*](#sense-holiness-and-unholiness-1)<br>
+[Sense Passions\*](#sense-passions-1)<br>
+[Shapeshifter\*](#shapeshifter-1)<br>
+[Summon Animals\*](#summon-animals-1)<br>
+[Whistle Up The Wind\*](#whistle-up-the-wind-1)<br>
+[Wilderness Sense\*](#wilderness-sense-1)<br>
 
 ## Ability List
 
 This list contains all Abilities, in alphabetical order. The type of the Ability is given in parentheses at the end of its description.
 
-**Animal Handling:** Care and use of animals, including raising, tending, grooming, and healing them.<br>
+#### Animal Handling
+Care and use of animals, including raising, tending, grooming, and healing them.<br>
 *Specialties:* falconry, specific animals. (General)
 
-**Animal Ken\*:** You can communicate with animals as if they were human beings. Treat your score in Animal Ken as your score in a language that the animal speaks fluently in order to determine how well you can communicate, and you can use Animal Handling as a substitute for any social abilities affecting humans. Beyond this, this Ability has no effect on the attitude of animals to you, or you to animals. Other people cannot understand your communication with the animals.<br>
+#### Animal Ken\*
+You can communicate with animals as if they were human beings. Treat your score in Animal Ken as your score in a language that the animal speaks fluently in order to determine how well you can communicate, and you can use Animal Handling as a substitute for any social abilities affecting humans. Beyond this, this Ability has no effect on the attitude of animals to you, or you to animals. Other people cannot understand your communication with the animals.<br>
 *Specialties*: a particular type of animal, a particular type of communication. (Supernatural)
 
-**(Area) Lore\*:** Knowledge of one particular region, covenant, or even a village. It includes knowing where things are in the immediate area, local history and legends, and the centers of power in the region. The smaller the region, the more detailed your knowledge.<br>
+#### (Area) Lore\*
+Knowledge of one particular region, covenant, or even a village. It includes knowing where things are in the immediate area, local history and legends, and the centers of power in the region. The smaller the region, the more detailed your knowledge.<br>
 *Specialties:* geography, history, legends, politics, personalities. (General)
 
-**Art of Memory\*:** The Art of Memory deals with the creation of memory palaces, a form of mnemonic, in which one visualizes a number of loci (singular locus), where the scholar commits to memory a symbolic representation of a fact to be remembered. The character has a number of loci equal to five times their score in Art of Memory.
+#### Art of Memory\*
+The Art of Memory deals with the creation of memory palaces, a form of mnemonic, in which one visualizes a number of loci (singular locus), where the scholar commits to memory a symbolic representation of a fact to be remembered. The character has a number of loci equal to five times their score in Art of Memory.
 
 To memorize a complex scene, image, or piece of writing (such as a long letter, but not as long as an entire text), the character must succeed in a roll of:
 
-**COMPLEX MEMORIZATION ROLL: Stress Die + Intelligence + Art of Memory vs. Ease Factor of 9 (or higher)**
+**COMPLEX MEMORIZATION ROLL:** Stress Die + Intelligence + Art of Memory vs. Ease Factor of 9 (or higher)
 
 The Ease Factor may be higher depending on the length or complexity of the item to be memorized. If the character succeeds, they remember the item in exact detail, and may recall it at will although it may take time to explore a locus.
 
 Characters without the Art of Memory may memorize similar items with a Stress Die + Intelligence roll (with 3 extra botch dice) against the same Ease Factors, but must also repeat the roll to recall the memory perfectly. Each roll failed introduces errors in the memory which are repeated each time it is recalled. Those without the Art of Memory also lack the well-defined location system of loci.<br>
 *Specialties:* an area of knowledge (Academic)
 
-> ### Memorization Ease Factors
+> #### Memorization Ease Factors
 >
-> | Ease Factor      | Description |
+> | Ease Factor      | Description |
 > | ---------------- | ---------- |
-> | 9 (Average)      | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
-> | 12 (Hard)        | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle.  |
-> | 18 (Impressive)  | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle.  |
+> | 9 (Average)      | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
+> | 12 (Hard)        | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle.  |
+> | 18 (Impressive)  | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle.  |
 >
 > Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize): for example a Lawyer using Civil & Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert's lecture.
 
-**Artes Liberales\*:** The seven artes liberales, or liberal arts, are the basis of medieval higher education. Everyone learns them at the universities before passing on to study other subjects. It would be very rare for a character to have a score in any other Academic Knowledge without a score of at least one in this one.
+#### Artes Liberales\*
+The seven artes liberales, or liberal arts, are the basis of medieval higher education. Everyone learns them at the universities before passing on to study other subjects. It would be very rare for a character to have a score in any other Academic Knowledge without a score of at least one in this one.
 
 The artes liberales are divided into two groups: the Trivium (grammar, logic, and rhetoric) and the Quadrivium (arithmetic, geometry, astronomy, and music). The emphasis at this period is on the Trivium, but both are taught. (Note that Artes Liberales as a whole is one Skill, not seven separate ones.)
 
@@ -8633,52 +8638,65 @@ Artes Liberales also covers the ability to read and write. For every point in th
 A character who does not speak the normal languages of scholarship may learn Artes Liberales to be literate in other languages. It is rare for such a character to have a score over 1, and they must still be able to learn Academic Abilities to do so at character creation.<br>
 *Specialties:* grammar, logic, rhetoric, arithmetic, geometry, astronomy, music, Ritual magic, Ceremonial magic. (Academic)
 
-**Athletics:** General physical prowess. It includes moving smoothly, confidently, and with grace. Use of Athletics improves most largemuscle coordination.<br>
+#### Athletics
+General physical prowess. It includes moving smoothly, confidently, and with grace. Use of Athletics improves most largemuscle coordination.<br>
 *Specialties:* acrobatics, contortions, grace, jumping, running. (General)
 
-**Awareness:** Noticing things, be they things you are looking for or things that you are not expecting. It is also used to see how alert you are in circumstances that require watchfulness.<br>
+#### Awareness
+Noticing things, be they things you are looking for or things that you are not expecting. It is also used to see how alert you are in circumstances that require watchfulness.<br>
 *Specialties:* bodyguarding, keeping watch, alertness, searching. (General)
 
-**Bargain:** The know-how to get the greatest return for a service or product, while paying the least. It involves reading the person with whom you haggle, a general knowledge of the value of goods, and presenting yourself in certain ways. A good haggler can easily overcome resistance in an inexperienced customer and see through attempts to over-value most merchandise.<br>
+#### Bargain
+The know-how to get the greatest return for a service or product, while paying the least. It involves reading the person with whom you haggle, a general knowledge of the value of goods, and presenting yourself in certain ways. A good haggler can easily overcome resistance in an inexperienced customer and see through attempts to over-value most merchandise.<br>
 *Specialties:* specific types of products, hard sell. (General)
 
-**Bows:** Using bows and arrows.<br>
+#### Bows
+Using bows and arrows.<br>
 *Specialties:* any one weapon. (Martial)
 
-**Brawl**: Fighting hand-to-hand without weapons, or with the sorts of improvised weapons you just pick up, including knives. Brawl is also the Ability used to dodge attacks if you have no Martial Abilities.<br>
+#### Brawl
+Fighting hand-to-hand without weapons, or with the sorts of improvised weapons you just pick up, including knives. Brawl is also the Ability used to dodge attacks if you have no Martial Abilities.<br>
 *Specialties:* punches, grapples, knives, dodging.(General)
 
-**Carouse:** The ability to enjoy oneself without suffering adverse effects. A person with this skill can, for example, consume prodigious amounts of alcohol without passing out. The skill also covers a familiarity with acceptable behavior, balancing enjoyment and moderation. With this Ability, a person is able to have fun and gain friends among the lower classes nearly anywhere, even among those of a different culture.<br>
+#### Carouse
+The ability to enjoy oneself without suffering adverse effects. A person with this skill can, for example, consume prodigious amounts of alcohol without passing out. The skill also covers a familiarity with acceptable behavior, balancing enjoyment and moderation. With this Ability, a person is able to have fun and gain friends among the lower classes nearly anywhere, even among those of a different culture.<br>
 *Specialties*: power drinking, drinking songs, games of chance, staying sober. (General)
 
-**Charm:** Enticing, fascinating, and endearing others to you, but only on a personal basis. It can be used to win someone over emotionally, especially romantically.<br>
+#### Charm
+Enticing, fascinating, and endearing others to you, but only on a personal basis. It can be used to win someone over emotionally, especially romantically.<br>
 *Specialties*: courtly love, first impressions, being witty. (General)
 
-**Chirurgy (kie-RUHR-gee)\*:** This is Middle Ages-style surgery, used to help others recover from physical damage. It encompasses tending and binding wounds of all varieties, and the necessary but brutal skill of cauterization. See page 405 for rules.<br>
+#### Chirurgy (kie-RUHR-gee)\*
+This is Middle Ages-style surgery, used to help others recover from physical damage. It encompasses tending and binding wounds of all varieties, and the necessary but brutal skill of cauterization. See page 405 for rules.<br>
 *Specialties:* cauterization, diagnosis, binding wounds, setting bones. (General)
 
-**Civil and Canon Law\*:** Civil Law is the law of the Roman Empire. Most local legal systems are based upon it (England being the notable exception), and when a law is needed to govern international relations, Civil Law is appealed to. The authority is Justinian's Digest. Canon Law is the law of the Church. It is important to Mythic Europe as it applies in all nations, governing the working of the church and some other areas, such as marriage. It is important to note that members of the clergy are only subject to Canon Law, not customary or Civil Law. Most high churchmen are skilled canonists, not theologians. Canon Law is made by Papal bulls (pronouncements), but the auctor is Gratian, in his Decretum. This skill covers the knowledge of both types of law. Other religions, particularly Judaism and Islam, have their own versions of this Ability, which must be learned separately.<br>
+#### Civil and Canon Law\*
+Civil Law is the law of the Roman Empire. Most local legal systems are based upon it (England being the notable exception), and when a law is needed to govern international relations, Civil Law is appealed to. The authority is Justinian's Digest. Canon Law is the law of the Church. It is important to Mythic Europe as it applies in all nations, governing the working of the church and some other areas, such as marriage. It is important to note that members of the clergy are only subject to Canon Law, not customary or Civil Law. Most high churchmen are skilled canonists, not theologians. Canon Law is made by Papal bulls (pronouncements), but the auctor is Gratian, in his Decretum. This skill covers the knowledge of both types of law. Other religions, particularly Judaism and Islam, have their own versions of this Ability, which must be learned separately.<br>
 *Specialties:* laws and customs of a specific area, papal laws. (Academic)
 
-**Code of Hermes\*:** Judging events according to the Code of Hermes and the Peripheral Code. In addition to memorizing important precedents, this knowledge includes the practical side of enforcing Hermetic law — for example, knowing when to push for a vote or how to present an argument.<br>
+#### Code of Hermes\*
+Judging events according to the Code of Hermes and the Peripheral Code. In addition to memorizing important precedents, this knowledge includes the practical side of enforcing Hermetic law — for example, knowing when to push for a vote or how to present an argument.<br>
 *Specialties:* Wizards' Marches, apprentices, mundane relations, Tribunal procedures, political intrigue. (Arcane)
 
-**Common Law\*:** Knowledge of the laws of England. There is no authority for this Ability, and it is only taught in England.<br>
+#### Common Law\*
+Knowledge of the laws of England. There is no authority for this Ability, and it is only taught in England.<br>
 *Specialties:* local laws, exchequer laws. (Academic)
 
-**Concentration:** Focusing your mental faculties on one task, particularly for extended periods of time. If you are attempting a feat that demands your extra attention, or if you have just failed an action and are trying again, the storyguide can call for a Concentration roll before you can make the attempt. This Ability is especially important for magi because it helps them maintain concentration on spells despite distractions.<br>
+#### Concentration
+Focusing your mental faculties on one task, particularly for extended periods of time. If you are attempting a feat that demands your extra attention, or if you have just failed an action and are trying again, the storyguide can call for a Concentration roll before you can make the attempt. This Ability is especially important for magi because it helps them maintain concentration on spells despite distractions.<br>
 *Specialties:* spell concentration, reading, lab work. (General)
 
-**Corpse Magic\*:** The character can use Corpse Magic to temporarily revive a corpse. The target of this Supernatural Ability cannot have received any burial rites from a Divinely-sanctioned religion, and the corpse must be relatively intact, having as a minimum a spine, a skull, and more than half of its long bones. There need not be any flesh remaining. It takes fifteen minutes to chant the spells sufficiently to awaken the dead.
+#### Corpse Magic\*
+The character can use Corpse Magic to temporarily revive a corpse. The target of this Supernatural Ability cannot have received any burial rites from a Divinely-sanctioned religion, and the corpse must be relatively intact, having as a minimum a spine, a skull, and more than half of its long bones. There need not be any flesh remaining. It takes fifteen minutes to chant the spells sufficiently to awaken the dead.
 
-**CASTING TOTAL: Communication + Corpse Magic + Aura modifier + stress die**
+**CASTING TOTAL:** Communication + Corpse Magic + Aura modifier + stress die
 
-**COMMANDING ROLL: Communication + Leadership + stress die; Leadership may be limited by Language Ability**
+**COMMANDING ROLL:** Communication + Leadership + stress die; Leadership may be limited by Language Ability
 
 Compare the result to the Ease Factors at right to determine success.<br>
 *Specialities:* kings, soldiers, compelling truth, animating the dead. (Supernatural)
 
-> ### Corpse Magic Ease Factor Outcome
+> #### Corpse Magic Ease Factor Outcome
 >
 > |     |            |
 > | --- | ---------- |
@@ -8687,20 +8705,22 @@ Compare the result to the Ease Factors at right to determine success.<br>
 > | 15  | **Animate a corpse.** Orders are followed to the best of the corpse's abilities, but the character must remain in sight of the corpse else it will cease all movement until he returns. **Take control of an animated corpse.** The Commanding roll must be greater than the original animator's (if any), else the corpse continues to follow its previous orders. |
 > | 18  | **Animate a corpse and place it under the direct mental control of the character; if he can see the corpse he can issue it orders. He can leave the presence of the corpse and it will continue to obey its orders, but once they are complete it remains motionless until given another order by its creator.** The corpse animates and sits up, allowing the character converses with it directly. A character who is particularly skilled can cause the corpse to rise out of the grave and walk abroad. The character asks questions or issues commands by making a Communication + Leadership roll; the corpse does nothing unless commanded to do so using a roll of this type. Single word commands have an Ease Factor of 6, simple questions or commands require a 9, and more complex instructions or questions need a 12 or more. The character must know the language that the corpse spoke in life to ask it questions or issue commands. If the character is not fluent in this language (that is, a score of 5 or higher), then the character's Leadership is limited by his Language Ability. Once the character has failed three commanding rolls. the corpse sinks back into its grave or ceases movement, and cannot be subject to Corpse Magic again until the moon has risen. All corpses are also laid to rest if their heads are removed from their body. Walking corpses typically have a Magic Might of 9 (see *Realms of Power: Magic,* Chapter 6 for more details). The Penetration Total of the Corpse Magic must exceed this Might to cause it to leave its grave, otherwise it is confined to the earth. |
 
-**Craft (Type):** A general term for countless Abilities, all dealing with handiwork of some type. In general, Craft Abilities are distinguished by the material they work with, although you may also take a Craft Ability that allows the character to work with several materials in one specific way. You may purchase Craft more than once, choosing a different one each time. Skill in one Craft does not imply skill in any others. City and Guild contains more detailed information about Craft Abilities and their use, in Chapter 4.<br>
+#### Craft (Type)
+A general term for countless Abilities, all dealing with handiwork of some type. In general, Craft Abilities are distinguished by the material they work with, although you may also take a Craft Ability that allows the character to work with several materials in one specific way. You may purchase Craft more than once, choosing a different one each time. Skill in one Craft does not imply skill in any others. City and Guild contains more detailed information about Craft Abilities and their use, in Chapter 4.<br>
 *Specialties:* as appropriate to the craft. (General)
 
-**Crafter's Healing\*:** When using this Ability, each wound can only be treated once, regardless of its severity. Make a Presence + Crafter's Healing + stress die roll against an Ease Factor equal to the Improvement Ease Factor determined by the Wound Recovery Table (page 405). Healing a wound costs a Long-Term Fatigue level. If successful, the wound is healed one level: heavy wounds become medium, medium wounds light, and light wounds heal totally. If the roll fails, nothing happens besides fatigue loss. If the roll botches, the healer suffers a similar wound immediately. The wounded recipient gains a Warping Point each time this Ability is used on her, regardless of its success. <br>
+#### Crafter's Healing\*
+When using this Ability, each wound can only be treated once, regardless of its severity. Make a Presence + Crafter's Healing + stress die roll against an Ease Factor equal to the Improvement Ease Factor determined by the Wound Recovery Table (page 405). Healing a wound costs a Long-Term Fatigue level. If successful, the wound is healed one level: heavy wounds become medium, medium wounds light, and light wounds heal totally. If the roll fails, nothing happens besides fatigue loss. If the roll botches, the healer suffers a similar wound immediately. The wounded recipient gains a Warping Point each time this Ability is used on her, regardless of its success. <br>
 *Specialties:* particular kinds of wounds. (Supernatural)
 
-**Curse-Throwing\*:** This Supernatural Ability is usually aligned to the Faerie Realm, but could be aligned to any supernatural realm. It enables the character to heal diseases, remove curses, and dispel detrimental magical effects, but only by transferring (or 'throwing') their effects to another person. Curse-Throwing cannot affect Flaws; specifically, someone with the Lesser or Greater Malediction Flaw is beyond the power of Curse-Throwing, unless it is a Flaw imposed by a faerie or magician with a limited duration. However, any other curse laid by a supernatural power is potentially within the remit of this Ability; note that curses laid directly by God (such as leprosy) are normally represented by permanent Flaws, and thus exempt. Only harmful effects can be transferred with this Ability, and the storyguide is the arbiter in cases where spells are not directly detrimental. Barrenness is a common affliction treated by this power, if transferred to a man or male animal then impotence is inflicted instead. Other curses transferred to inappropriate targets are changed in a similar manner.
+#### Curse-Throwing\*
+This Supernatural Ability is usually aligned to the Faerie Realm, but could be aligned to any supernatural realm. It enables the character to heal diseases, remove curses, and dispel detrimental magical effects, but only by transferring (or 'throwing') their effects to another person. Curse-Throwing cannot affect Flaws; specifically, someone with the Lesser or Greater Malediction Flaw is beyond the power of Curse-Throwing, unless it is a Flaw imposed by a faerie or magician with a limited duration. However, any other curse laid by a supernatural power is potentially within the remit of this Ability; note that curses laid directly by God (such as leprosy) are normally represented by permanent Flaws, and thus exempt. Only harmful effects can be transferred with this Ability, and the storyguide is the arbiter in cases where spells are not directly detrimental. Barrenness is a common affliction treated by this power, if transferred to a man or male animal then impotence is inflicted instead. Other curses transferred to inappropriate targets are changed in a similar manner.
 
 To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. Curse-Throwers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual which involves the crafting of a charm which transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the Arcane Connection), whilst the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.
 
 **CURSE-THROWING CASTING TOTAL: Presence + Curse-Throwing + Aura + stress die**
 
-Penetration Total:
-Casting Total – Ease Factor + Penetration Bonus
+**PENETRATION TOTAL: Casting Total – Ease Factor + Penetration Bonus**
 
 | Curse                           | Ease Factor             | 
 | ------------------------------- | ----------------------- | 
@@ -8724,75 +8744,90 @@ Casting Total – Ease Factor + Penetration Bonus
 
 *Specialties:* diseases, faerie curses, livestock. (Supernatural)
 
-> ### Example of Curse-Throwing
+> #### Example of Curse-Throwing
 > 
 > A young woman has failed to conceive despite four years of marriage, and she and her mother visit Aelfred, the local faerie doctor. He explains that her barrenness needs to be transferred to another, and the mother volunteers, since she has already had three children. The Ease Factor for this operation is 12, since barrenness is equivalent to a Minor Flaw. The ritual takes three hours, at the end of which, Aelfred generates a Casting Total: 2 (Presence) + 5 (Curse-Throwing) + 5 (stress die) + 2 (Faerie aura of Aelfred's home), for a total of 14. However, unbeknownst to the characters the barrenness was caused by the curse of a local witch. Her Hex Ability score was 5, thus the Ease Factor was actually 17 (12 + Hex 5). Since Aelfred's player succeeds in an Intelligence + Faerie Lore roll, the storyguide informs him that Aelfred suspects that his Curse-Throwing should have worked if the barrenness was natural. Aelfred counsels the mother and daughter to investigate whether they have any enemies with supernatural powers.
 
-**(Dead Language)\*:** This skill is similar to all other (Language) Abilities, but it is only available to educated characters. It grants the ability to speak a language which is no longer used as a native language in the areas the character has lived in. The most important example is Latin, the language of formal education in the West. It is also the common language of the Church and Order of Hermes. In other areas of the world, Arabic, Greek and Hebrew fill similar functions, although of these only Hebrew is a dead language.<br>
+#### (Dead Language)\*
+This skill is similar to all other (Language) Abilities, but it is only available to educated characters. It grants the ability to speak a language which is no longer used as a native language in the areas the character has lived in. The most important example is Latin, the language of formal education in the West. It is also the common language of the Church and Order of Hermes. In other areas of the world, Arabic, Greek and Hebrew fill similar functions, although of these only Hebrew is a dead language.<br>
 *Specialties:* academic usage, Church ceremonies, Hermetic usage. (Academic)
 
-**Dominion Lore\***: Knowledge of the manifestations of the power of the Divine. Different from Church Lore (a kind of (Organization) Lore)) because it covers miracles rather than politics, and different from Theology because it is concerned with power rather than doctrine.<br>
+#### Dominion Lore\*
+Knowledge of the manifestations of the power of the Divine. Different from Church Lore (a kind of (Organization) Lore)) because it covers miracles rather than politics, and different from Theology because it is concerned with power rather than doctrine.<br>
 *Specialties:* angels, saints, Divine creatures. (Arcane)
 
-**Dowsing\*:** You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. You concentrate on the thing to be found, hold your dowsing rod out in front of you, and follow its subtle motions to the target. If you're looking for something specific, you must have an appropriate sympathetic connection to the thing sought (such as bottled water from a stream when searching for running water). Before you roll, designate the area in which you are searching — if the item sought is not present in that area, you automatically fail. The time required to search depends on the size of the area, and must be invested whether you succeed or not. It takes about one Diameter (two minutes, or twenty combat rounds) to search for something within 25 paces, and doubling the distance quadruples the time. To find something common, like water, within 25 paces requires a Perception + Dowsing of 9+. Increased distances or dowsing for less common things increases the target number, so that, for example, finding gold within 100 paces would have an Ease Factor of 15.<br>
+#### Dowsing\*
+You have the ability to find things nearby through the use of a dowsing rod (usually a forked stick) and your own intuitive sense. You concentrate on the thing to be found, hold your dowsing rod out in front of you, and follow its subtle motions to the target. If you're looking for something specific, you must have an appropriate sympathetic connection to the thing sought (such as bottled water from a stream when searching for running water). Before you roll, designate the area in which you are searching — if the item sought is not present in that area, you automatically fail. The time required to search depends on the size of the area, and must be invested whether you succeed or not. It takes about one Diameter (two minutes, or twenty combat rounds) to search for something within 25 paces, and doubling the distance quadruples the time. To find something common, like water, within 25 paces requires a Perception + Dowsing of 9+. Increased distances or dowsing for less common things increases the target number, so that, for example, finding gold within 100 paces would have an Ease Factor of 15.<br>
 *Specialties:* searching for a particular kind of thing (water, gold, etc.), searching in a particular kind of place. (Supernatural)
 
-**Embitterment\***: You can cause one person to hate another. This Ability is described in the Hermetic Magic chapter, page 245.
+#### Embitterment\*
+You can cause one person to hate another. This Ability is described in the Hermetic Magic chapter, page [245](#embitterment-2).
 
-**Enchanting (Ability)\*:** When you set your mind to it, you can influence others with a particular performance ability. For a specific effect, you must use words that people can understand. You can calm the grieving with tunes alone, but you need lyrics to convince peasants to rise up against the local lord. General effects work on animals, but specific effects only work on creatures that can understand words. When you use Enchanting Ability, roll a die (stress or simple, depending on the situation) and add Communication and Enchanting Ability. An Ease Factor of 9 will calm the upset, 12 will win someone's love, 15 will incite a riot, and a 24 might win back a soul from the Prince of Darkness. If you botch, you inspire an unwanted emotion.
+#### Enchanting (Ability)\*
+When you set your mind to it, you can influence others with a particular performance ability. For a specific effect, you must use words that people can understand. You can calm the grieving with tunes alone, but you need lyrics to convince peasants to rise up against the local lord. General effects work on animals, but specific effects only work on creatures that can understand words. When you use Enchanting Ability, roll a die (stress or simple, depending on the situation) and add Communication and Enchanting Ability. An Ease Factor of 9 will calm the upset, 12 will win someone's love, 15 will incite a riot, and a 24 might win back a soul from the Prince of Darkness. If you botch, you inspire an unwanted emotion.
 
-If the target has Magic Resistance, you must penetrate their resistance; see page 412 for rules.
+If the target has Magic Resistance, you must penetrate their resistance; see page [412](#magic-resistance-and-penetration) for rules.
 
 You should also roll for the quality of the performance, but the magical effect is independent of this, unless you botch. If you do botch the Ability roll, you have failed to produce any performance for some reason, and so the Supernatural Ability automatically fails.<br>
 *Specialties:* a particular emotion, a particular sort of person. (Supernatural)
 
-**Enigmatic Wisdom\*:** The understanding that Criamon magi have of the Enigma. It is described in the Hermetic Magic chapter, on page 236. (Arcane)
+#### Enigmatic Wisdom\*
+The understanding that Criamon magi have of the Enigma. It is described in the Hermetic Magic chapter, on page [236](#enigmatic-wisdom-1). (Arcane)
 
-**Entrancement\*:** You have the power to control another's will. By staring deeply into someone's eyes for several seconds — generally impossible in combat — you can verbally command the person to perform a certain task. Roll Presence + Entrancement against the target's Stamina roll. The person being controlled may get a bonus to resist at the option of the storyguide, according to the table below. Hermetic magi get their normal Mentem Magic Resistance, and get the normal Stamina roll if the effect penetrates Calculate Penetration using an Ease Factor of 6 + the victim's bonus. The blind, and people with their eyes closed, are immune; see page 303 for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll.
-
+#### Entrancement\*
+You have the power to control another's will. By staring deeply into someone's eyes for several seconds — generally impossible in combat — you can verbally command the person to perform a certain task. Roll Presence + Entrancement against the target's Stamina roll. The person being controlled may get a bonus to resist at the option of the storyguide, according to the table below. Hermetic magi get their normal Mentem Magic Resistance, and get the normal Stamina roll if the effect penetrates Calculate Penetration using an Ease Factor of 6 + the victim's bonus. The blind, and people with their eyes closed, are immune; see page 303 for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll.
 
 | Command      | Example                | Victim's Bonus |
 | ------------ | ---------------------- | -------------- |
-| Innocuous    | Talk to me             | +3                |
-| Questionable | Meet me alone at night | +6                |
-| Dangerous    | Put your weapons away  | +9                |
-| Heinous      | Kill your fellows      | +12               |
-| Suicidal     | Jump off a cliff       | +15               |
+| Innocuous    | Talk to me             | +3             |
+| Questionable | Meet me alone at night | +6             |
+| Dangerous    | Put your weapons away  | +9             |
+| Heinous      | Kill your fellows      | +12            |
+| Suicidal     | Jump off a cliff       | +15            |
 
 *Specialties:* A specific sort of command, a specific sort of person. (Supernatural)
 
-**Etiquette:** You know the social graces and how to behave in different situations. Etiquette differs from Charm in that Etiquette covers proper behavior, rather than charming behavior. You cannot seduce someone with Etiquette, but neither can you get through an audience with the bishop on Charm alone.<br>
+#### Etiquette
+You know the social graces and how to behave in different situations. Etiquette differs from Charm in that Etiquette covers proper behavior, rather than charming behavior. You cannot seduce someone with Etiquette, but neither can you get through an audience with the bishop on Charm alone.<br>
 *Specialties:* nobility, court, peasants, faeries, the Church. (General)
 
-**Faerie Lore\*:** Familiarity with faerie powers, weaknesses, motivations, and areas.<br> 
+#### Faerie Lore\*
+Familiarity with faerie powers, weaknesses, motivations, and areas.<br>
 *Specialties:* faerie forests, faerie mounds, specific types of faeries. (Arcane)
 
-**Faerie Magic\*:** The connection to the power of the Faerie realm possessed by Merinita magi. It cannot be learned by other characters, even if they have access to Arcane Abilities. It is described in the Hermetic Magic chapter, on page 236. (Arcane)
+#### Faerie Magic\*
+The connection to the power of the Faerie realm possessed by Merinita magi. It cannot be learned by other characters, even if they have access to Arcane Abilities. It is described in the Hermetic Magic chapter, on page [236](#merinita--faerie-magic). (Arcane)
 
-**Finesse:** Manipulating your spells and performing special feats with them. You would use this Ability to position objects delicately or to target spells.<br>
+#### Finesse
+Manipulating your spells and performing special feats with them. You would use this Ability to position objects delicately or to target spells.<br>
 *Specialties:* grace, precision, any one Form. (Arcane)
 
-**Folk Ken:** Understanding the background, personality, and motives of another person. Often the storyguide secretly rolls a die when this Ability is used. Thus, you do not know if your character guessed correctly, or even botched.<br>
+#### Folk Ken
+Understanding the background, personality, and motives of another person. Often the storyguide secretly rolls a die when this Ability is used. Thus, you do not know if your character guessed correctly, or even botched.<br>
 *Specialties:* peasants, townsfolk, nobles, clergy, magi, the opposite sex. (General)
 
-**Font of Knowledge\*:** By succeeding in an Ability check (Intelligence + Font of Knowledge + stress die) against an Ease Factor of (6 plus (3 times number of uses of Font of Knowledge that day)) a creature with this Ability may attempt a task with any untrained ability as if they possessed a score of 2. Failed attempts count towards the number of uses in a given day.<br>
+#### Font of Knowledge\*
+By succeeding in an Ability check (Intelligence + Font of Knowledge + stress die) against an Ease Factor of (6 plus (3 times number of uses of Font of Knowledge that day)) a creature with this Ability may attempt a task with any untrained ability as if they possessed a score of 2. Failed attempts count towards the number of uses in a given day.<br>
 *Specialties:* a particular topic. (Supernatural)
 
-**Great Weapon**: Fighting with a weapon which requires two hands to use.<br>
+#### Great Weapon
+Fighting with a weapon which requires two hands to use.<br>
 *Specialties:* any one weapon. (Martial)
 
-**Guile:** Telling convincing lies, as well as feigning emotion, belief, or frame of mind. If you understand the person you are attempting to deceive (roll 9+ on Perception + Folk Ken), you gain a bonus of +1 to your Guile roll. This Ability also covers disguising yourself, and pretending to be something you are not. It is often an opposed roll, against the victim's Perception + Folk Ken or, for disguise, Perception + Awareness.<br>
+#### Guile
+Telling convincing lies, as well as feigning emotion, belief, or frame of mind. If you understand the person you are attempting to deceive (roll 9+ on Perception + Folk Ken), you gain a bonus of +1 to your Guile roll. This Ability also covers disguising yourself, and pretending to be something you are not. It is often an opposed roll, against the victim's Perception + Folk Ken or, for disguise, Perception + Awareness.<br>
 *Specialties:* particular sorts of deception, lying to authority, fast talk, elaborate lies. (General)
 
-**Heartbeast\*:** The ability shared by all Bjornaer magi to take the form of their heartbeast. It is described in the Hermetic Magic chapter, on page 233. This Ability cannot be learned by non-Bjornaer characters, even if they have access to Arcane Abilities. (Arcane)
+#### Heartbeast\*
+The ability shared by all Bjornaer magi to take the form of their heartbeast. It is described in the Hermetic Magic chapter, on page [233](#bjornaer--the-heartbeast). This Ability cannot be learned by non-Bjornaer characters, even if they have access to Arcane Abilities. (Arcane)
 
-**Hex\*:** The character has the power to bring about injury or ruin upon her enemies. There are three ways for her to activate this power: by making eye contact with her victim and proclaiming her purpose loud enough for him to hear, by tracing temporary occult signs and symbols on her target that indicate the dark fate she intends, or by acquiring an Arcane Connection to her target and fashioning a recognizable representation that can channel the effect through sympathetic magic.
-
+#### Hex\*
+The character has the power to bring about injury or ruin upon her enemies. There are three ways for her to activate this power: by making eye contact with her victim and proclaiming her purpose loud enough for him to hear, by tracing temporary occult signs and symbols on her target that indicate the dark fate she intends, or by acquiring an Arcane Connection to her target and fashioning a recognizable representation that can channel the effect through sympathetic magic.
 To hex a target, the character must make clear her will for it: she must declare her wishes to the victim aloud, or indicate the specifics of the hex in writing on or very near the target, or do something to the representation that is similar to what she intends to happen to the target. There is always a physical component to the hex (common practices include tying knots in a line, spitting, or giving the target the "evil eye").
 
 You must also state a time frame for the hex, anywhere from an effect that occurs immediately to a hex that will affect the third generation of the victim's descendants. Generally speaking, the sooner the effect manifests, the less potent it will be; and the longer the hex delays, the more powerful it will eventually become. For this reason you must always apply the delay modifier (see the sidebar) to the Hex total.
 
-### Hex Delay Modifiers
+#### Hex Delay Modifiers
 
 | Delay      | Modifier |
 | ---------- | -------- |
@@ -8814,7 +8849,7 @@ A potential victim can avoid the effects of a hex by seeking out supernatural pr
 
 Hex is often a false power (as the False Power Flaw) associated with the Magical or Faerie realms. That is, it often uses the Magical or Faerie column of the realm interaction chart, but appears as an unholy power when subjected to divine or infernal powers of investigation. Purely Infernal versions of the power also exist, as do Magical or Faerie versions that are not touched by the Infernal. Such "pure" versions of Hex are rare, however, as demons love to taint this power. Specialties: A specific duration, one method of hexing, a particular effect. (Supernatural)
 
-### Hex Effects
+#### Hex Effects
 
 | Ease Factor | Severity             | Example                                |
 | ----------- | -------------------- | -------------------------------------- |
@@ -8824,14 +8859,17 @@ Hex is often a false power (as the False Power Flaw) associated with the Magical
 | 24+         | Critical (4 botches) | All                                    |
 | 30+         | Terminal (5 botches) | Sudden Death                           |
 
-**Hunt:** Setting snares, choosing appropriate hunting spots, and following and identifying the spoor of creatures of all varieties. This Ability also lets you cover your tracks or not leave any in the first place.<br>
+#### Hunt
+Setting snares, choosing appropriate hunting spots, and following and identifying the spoor of creatures of all varieties. This Ability also lets you cover your tracks or not leave any in the first place.<br>
 *Specialties:* tracking, covering tracks, hunting a specific animal. (General)
 
-**Induction\*:** This is the supernatural ability to create illusions in a person's mind. Only the target can see those illusions. Each attempt at induction requires the inducer to talk with the victim for at least one minute. Characters who cannot hear the inducer are immune to his powers.
+#### Induction\*
+This is the supernatural ability to create illusions in a person's mind. Only the target can see those illusions. Each attempt at induction requires the inducer to talk with the victim for at least one minute. Characters who cannot hear the inducer are immune to his powers.
 
 Attempts at induction require a die roll of Communication + Induction. Induction is not made more difficult by the complexity of the illusion: it is made more difficult as the risk the victim takes by believing the illusion increases. On some level the victim is aware of the real world, and can snap out of the induced state if threatened.
 
 The Ease Factors for Induction are:
+
 |  |  |
 | ------------------------------- | --- |
 | Innocuous                       | 3  |
@@ -8860,29 +8898,36 @@ This value can be reduced by 1 by each of the following factors: choose no more 
 
 *Specialties:* particular kinds of illusion. (Supernatural)
 
-> ### Entrancement and Induction 
+> #### Entrancement and Induction 
 > 
 > Entrancement and Induction appear similar, because they have a similar scale of Ease Factors, but they differ in practice. Entrancement takes control of a character's will, and dictates their actions, but does not affect what they believe or experience. Induction causes a character to sense things which are not real, and may convince them of things which are not true, but does not force them to act. It is possible for characters to have both Entrancement and Induction, and to use each to bolster the other. For example, "Speak to me" is an innocuous Entrancement, which allows Induction to begin. Inductions that convince a character that something is less risky, or more necessary, than it truly is alter the Ease Factors for Entrancement.
 
-**Infernal Lore\*:** An understanding and familiarity with the Infernal and its agents. Includes knowledge of demons and their habits and weaknesses, undead and their habits and weaknesses, and the power of curses.<br>
+#### Infernal Lore\*
+An understanding and familiarity with the Infernal and its agents. Includes knowledge of demons and their habits and weaknesses, undead and their habits and weaknesses, and the power of curses.<br>
 *Specialties:* demons, undead, curses. (Arcane)
 
-**Intrigue:** Dealing and plotting, including subtle use of power in non-confrontational ways to achieve your own ends. Intrigue need not be underhanded or manipulative — it also covers negotiations and knowledge of formal and informal rules of conduct and politeness. In addition, Intrigue also allows a character to pick up important information about those in power, separating fact from useless gossip. Intrigue is a vital talent for those who frequent court or a Hermetic Tribunal.<br>
+#### Intrigue
+Dealing and plotting, including subtle use of power in non-confrontational ways to achieve your own ends. Intrigue need not be underhanded or manipulative — it also covers negotiations and knowledge of formal and informal rules of conduct and politeness. In addition, Intrigue also allows a character to pick up important information about those in power, separating fact from useless gossip. Intrigue is a vital talent for those who frequent court or a Hermetic Tribunal.<br>
 *Specialties:* gossip, plotting, rumormongering, alliances. (General)
 
-**Islamic Law\*:** This is the Muslim version of Civil & Canon Law. The major sources of Islamic Law are the Qur'an and the Sunna.<br>
+#### Islamic Law\*
+This is the Muslim version of Civil & Canon Law. The major sources of Islamic Law are the Qur'an and the Sunna.<br>
 *Specialties:* any one of the sources of Islamic Law, particular topics, customs of a particular area. (Academic)
 
-**Judaic Lore\*:** Judaic Lore is the knowledge of Jewish cultural practice as opposed to strictly religious details. This includes poetry, folklore, songs, and so on. All Jewish characters are versed in Judaic Lore to some degree and experience points in this Ability at character creation can be part of their childhood abilities.<br>
+#### Judaic Lore\*
+Judaic Lore is the knowledge of Jewish cultural practice as opposed to strictly religious details. This includes poetry, folklore, songs, and so on. All Jewish characters are versed in Judaic Lore to some degree and experience points in this Ability at character creation can be part of their childhood abilities.<br>
 *Specialties:* folklore, music, poetry, songs (General)
 
-**Leadership:** Getting people to obey your orders and to follow you. Can also be used to inspire fear in others, cowing them into submission.<br>
+#### Leadership
+Getting people to obey your orders and to follow you. Can also be used to inspire fear in others, cowing them into submission.<br>
 *Specialties:* intimidation, in combat, inspiration. (General)
 
-**Legerdemain\*:** Sleight of hand and knowledge of confidence games requiring sleight of hand. It requires a delicate touch and great hand-eye coordination. Legerdemain includes filching things from market stalls, cutting purses, and picking such locks as there are, as well as the "magical" trickery often used to raise money from credulous folk. The target of an attempt rolls Perception + Awareness to detect your actions. If the perceiver has Legerdemain skill, he may substitute that for Awareness if he wishes. On particularly delicate moves such as picking pockets, someone trying to spot the character using Legerdemain receives a +3 bonus.<br>
+#### Legerdemain\*
+Sleight of hand and knowledge of confidence games requiring sleight of hand. It requires a delicate touch and great hand-eye coordination. Legerdemain includes filching things from market stalls, cutting purses, and picking such locks as there are, as well as the "magical" trickery often used to raise money from credulous folk. The target of an attempt rolls Perception + Awareness to detect your actions. If the perceiver has Legerdemain skill, he may substitute that for Awareness if he wishes. On particularly delicate moves such as picking pockets, someone trying to spot the character using Legerdemain receives a +3 bonus.<br>
 *Specialties:* filching, picking pockets, "magic" tricks. (General)
 
-**(Living Language)\*:** Fluency in a particular living language. Rather than a die roll modifier, your score in this Knowledge measures your ability to communicate.
+#### (Living Language)\*
+Fluency in a particular living language. Rather than a die roll modifier, your score in this Knowledge measures your ability to communicate.
 
 When two people speak to each other, the lower Ability score determines how well they communicate. Characters who speak related languages can communicate at a penalty to their scores (assigned by the storyguide) depending on how closely related the two languages are. Two dialects of the same language generally have a –1 penalty. If your character is not specialized in a dialect, you should specify a dialect without specializing in it, and take the penalty when conversing with people who speak a different dialect. If you speak a "standard" version of the language, that is a dialect that differs from all other dialects.
 
@@ -8902,10 +8947,12 @@ This Ability also covers artistic compositions in the language, and telling exis
 | 5   | **Fluent.** You still have an accent if this is not your native language, but it is weak. You speak as well as most natives. This is the minimum level required to write a book | 
 | 6   | **Elegant.** You choose your words well, and have no accent if this is not your native language. |
 
-**Magic Lore\*:** Knowledge of magical creatures, areas, and traditions.<br>
+#### Magic Lore\*
+Knowledge of magical creatures, areas, and traditions.<br>
 *Specialties:* creatures, magical traditions, regiones. (Arcane)
 
-**Magic Sensitivity\*:** You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from your Magic Resistance. When attempting to sense the magic nature of a place or object, the storyguide will assign an Ease Factor—simply roll a simple die + Perception + Magic Sensitivity.
+#### Magic Sensitivity\*
+You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from your Magic Resistance. When attempting to sense the magic nature of a place or object, the storyguide will assign an Ease Factor—simply roll a simple die + Perception + Magic Sensitivity.
 
 Detecting a Magic aura would normally have an Ease Factor equal to 12 – aura level, so 9 for a level 3 aura and 6 for a level 6 aura.
 
@@ -8915,16 +8962,20 @@ For magical creatures, 15 – one fifth of the creature's Magic Might is appropr
 
 *Specialties:* auras, magical creatures, enchanted items, active spells. (Supernatural)
 
-**Magic Theory\*:** Knowledge of what magic is and how it works, used primarily in the laboratory. Magic Theory deals with the technical details of Hermetic magic, Magic Lore covers knowledge of magical things in general. Anyone can learn Magic Theory, if they have access to a teacher or book (normally represented by a Virtue), but it is little use to those without The Gift.<br>
+#### Magic Theory\*
+Knowledge of what magic is and how it works, used primarily in the laboratory. Magic Theory deals with the technical details of Hermetic magic, Magic Lore covers knowledge of magical things in general. Anyone can learn Magic Theory, if they have access to a teacher or book (normally represented by a Virtue), but it is little use to those without The Gift.<br>
 *Specialties:* inventing spells, enchanting items, a single Art. (Arcane)
 
-**Medicine\*:** Medicine is the formal study of the body and its diseases. Medical practice is based on the theory of the four humors: blood, phlegm, yellow bile, and black bile. Diseases are often caused by imbalances among them, hence such practices as bloodletting, to restore the balance. Medicine also deals with treating poisons and the results of starvation and the like, but not with treating wounds (see Chirurgy, above). The auctores are Galen and Hippocrates, in many works. It is important to note that medieval medical theory is basically true in Mythic Europe.<br>
+#### Medicine\*
+Medicine is the formal study of the body and its diseases. Medical practice is based on the theory of the four humors: blood, phlegm, yellow bile, and black bile. Diseases are often caused by imbalances among them, hence such practices as bloodletting, to restore the balance. Medicine also deals with treating poisons and the results of starvation and the like, but not with treating wounds (see Chirurgy, above). The auctores are Galen and Hippocrates, in many works. It is important to note that medieval medical theory is basically true in Mythic Europe.<br>
 *Specialties*: anatomy, apothecary, physician. (Academic)
 
-**Music:** The ability to sing, play musical instruments, and compose new music.<br>
+#### Music
+The ability to sing, play musical instruments, and compose new music.<br>
 *Specialties:* sing, compose, any one instrument. (General)
 
-**(Mystery Cult) Lore\*:** This is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation and goals of the Mystery Cult in question.
+#### (Mystery Cult) Lore\*
+This is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation and goals of the Mystery Cult in question.
 
 It includes knowledge of the magics, rites and secret passwords and symbolism of the cult, how to covertly signal membership, and how to assess another magus's membership or non-membership in your cult. Two magi with a score in this ability for the same Mystery Cult may well be able to hold a seemingly innocuous conversation without outsiders understanding the true significance or meaning of their words. Many Mystery Cult specialty books also require a score in this ability to decode their heavy symbolism, this method is used to prevent un-Initiated outsiders learning secrets of the Mystery.
 
@@ -8938,10 +8989,12 @@ A magus may build the knowledge from 0, even without instruction — but this me
 
 *Specialties:* personalities, history, politics, one specific Initiation. (General)
 
-**(Organization) Lore\*:** Knowledge of the legends, history, structure, operation, and goals of the specified organization. Organizations can be as large as the Church, or as small as a local craft guild. The smaller the organization, the more detailed your knowledge. Order of Hermes Lore is particularly important to most magi.<br>
+#### (Organization) Lore\*
+Knowledge of the legends, history, structure, operation, and goals of the specified organization. Organizations can be as large as the Church, or as small as a local craft guild. The smaller the organization, the more detailed your knowledge. Order of Hermes Lore is particularly important to most magi.<br>
 *Specialties:* personalities, history, politics. (General)
 
-**Parma Magica\*:** Protection from magic. This is a special ritual (not a Ritual spell) that takes about two minutes to perform. It lets you add 5 times your Parma Magica score to your Magic Resistance until the next sunrise or sunset, whichever comes first. You may suppress your Parma Magica temporarily by concentrating, this is equivalent to sustaining a Concentration duration spell. (See page 215). Parma Magica does not require concentration while it is active.
+#### Parma Magica\*
+Protection from magic. This is a special ritual (not a Ritual spell) that takes about two minutes to perform. It lets you add 5 times your Parma Magica score to your Magic Resistance until the next sunrise or sunset, whichever comes first. You may suppress your Parma Magica temporarily by concentrating, this is equivalent to sustaining a Concentration duration spell. (See page 215). Parma Magica does not require concentration while it is active.
 
 You may also protect one other person for each point in Parma Magica, with their consent. You must touch each person to start the protection, and it lasts as long as at least one character can see the other. The magus may cancel the protection at will, at any distance. While a magus is protecting others, his effective Parma Magica score is reduced by 3 points, both for himself and for the other people he is protecting. If the magus has a Parma Magica score of 3 or lower, his Parma Magica provides each character, including himself, with a Magic Resistance of 0. In the magus's case, this is added to his Form resistance, and a magus protected by another magus's Parma Magica may also add his Form resistance.
 
@@ -8951,34 +9004,44 @@ Parma Magica can only be learned by Gifted characters, although they learn it as
 
 *Specialties:* protection from any specific Form. (Arcane)
 
-**Penetration:** Getting your spell through the target's Magic Resistance. See page 215 for full Penetration rules.<br>
+#### Penetration
+Getting your spell through the target's Magic Resistance. See page [215](#penetration-total) for full Penetration rules.<br>
 *Specialties:* any one Art. (Arcane)
 
-**Persona\*:** The character with this Ability can alter his appearance to adopt a different identity. He can alter any aspect of his appearance: hair and eve color, complexion, shape of nose, build and height (within the limits of his Size), apparent age, and even gender. These changes are total, proof even to the most intimate mundane scrutiny, but do not change the character's essential nature. Consequently, all Characteristic scores remain unchanged, Virtues and Flaws are transferred to all new forms, and a character who does not normally have a womb cannot become pregnant when adopting the persona of someone Adopting a different identity requires one round of concentration and a roll of Stamina + Persona against an Ease Factor of 9. Changing back to the character's natural form requires the same concentration and the same roll. Each identity has its own Personality Traits and behavioral quirks, and no Disguise roll is necessary to convince others of the role; this is not a disguise but a whole different person. The character gains one identity for every point he has in the Persona Ability. Every time the Ability increases by one point, the character must design a new identity.<br>
+#### Persona\*
+The character with this Ability can alter his appearance to adopt a different identity. He can alter any aspect of his appearance: hair and eve color, complexion, shape of nose, build and height (within the limits of his Size), apparent age, and even gender. These changes are total, proof even to the most intimate mundane scrutiny, but do not change the character's essential nature. Consequently, all Characteristic scores remain unchanged, Virtues and Flaws are transferred to all new forms, and a character who does not normally have a womb cannot become pregnant when adopting the persona of someone Adopting a different identity requires one round of concentration and a roll of Stamina + Persona against an Ease Factor of 9. Changing back to the character's natural form requires the same concentration and the same roll. Each identity has its own Personality Traits and behavioral quirks, and no Disguise roll is necessary to convince others of the role; this is not a disguise but a whole different person. The character gains one identity for every point he has in the Persona Ability. Every time the Ability increases by one point, the character must design a new identity.<br>
 *Specialties:* priests, peasants, magi (Supernatural)
 
-**Philosophiae\*:** There are three philosophies natural philosophy, moral philosophy, and metaphysics. Aristotle is the auctor for all of them, in different books. Most scholars study the philosophies after the Arts but before going on to Law, Theology or Medicine. Natural philosophy is the study of the sub-lunar world. It roughly corresponds to today's science. The main texts are the Physica, De Meteorologia, and De historia animalium. Moral philosophy is the study of the proper way of human life. It covers ethics, politics, and economics - the texts are the Ethica, Politica, and Economica. Metaphysics is the philosophy of the fundamental nature of the world. The main text is Aristotle's Metaphysica. The theories of the Philosophiae are all basically correct in Mythic Europe.<br>
+#### Philosophiae\*
+There are three philosophies natural philosophy, moral philosophy, and metaphysics. Aristotle is the auctor for all of them, in different books. Most scholars study the philosophies after the Arts but before going on to Law, Theology or Medicine. Natural philosophy is the study of the sub-lunar world. It roughly corresponds to today's science. The main texts are the Physica, De Meteorologia, and De historia animalium. Moral philosophy is the study of the proper way of human life. It covers ethics, politics, and economics - the texts are the Ethica, Politica, and Economica. Metaphysics is the philosophy of the fundamental nature of the world. The main text is Aristotle's Metaphysica. The theories of the Philosophiae are all basically correct in Mythic Europe.<br>
 *Specialties:* natural philosophy, moral philosophy, metaphysics, Ritual magic, Ceremonial magic. (Academic)
 
-**Premonitions\*:** You intuitively sense whenever something is wrong, or is likely to go wrong soon. This Ability can be called upon by you or the storyguide, as appropriate, whenever there is a chance to avoid danger. Roll Perception + Premonitions against an Ease Factor depending on the situation. The Ease Factor starts at 3 for imminent, mortal peril, and increases as the distance in time increases and the level of danger decreases. Mortal peril a week in the future would have an Ease Factor of 9, while an imminent minor inconvenience would have an Ease Factor of about 15. If you beat the Ease Factor by 3 or more, you also get some sense of the nature of the danger, with more detail if you roll more highly.<br>
+#### Premonitions\*
+You intuitively sense whenever something is wrong, or is likely to go wrong soon. This Ability can be called upon by you or the storyguide, as appropriate, whenever there is a chance to avoid danger. Roll Perception + Premonitions against an Ease Factor depending on the situation. The Ease Factor starts at 3 for imminent, mortal peril, and increases as the distance in time increases and the level of danger decreases. Mortal peril a week in the future would have an Ease Factor of 9, while an imminent minor inconvenience would have an Ease Factor of about 15. If you beat the Ease Factor by 3 or more, you also get some sense of the nature of the danger, with more detail if you roll more highly.<br>
 *Specialties:* threats to a particular person or group of people, particular kinds of threats. (Supernatural)
 
-**Profession (Type):** The ability to do a job which does not involve making something. Examples include jongleur, marshal, reeve, sailor, steward, teamster, and washerwoman.<br>
+#### Profession (Type)
+The ability to do a job which does not involve making something. Examples include jongleur, marshal, reeve, sailor, steward, teamster, and washerwoman.<br>
 *Specialties* depend on the profession. (General)
 
-**Rabbinic Law\*:** This is the Jewish version of Civil & Canon Law. The major sources of Rabbinic Law are the Talmud, the Oral Torah, and the Responsa of the Geonim.<br>
+#### Rabbinic Law\*
+This is the Jewish version of Civil & Canon Law. The major sources of Rabbinic Law are the Talmud, the Oral Torah, and the Responsa of the Geonim.<br>
 *Specialties:* any one of the sources of Rabbinic Law, dietary laws, particular topics, precedents of a given area (Academic)
 
-**Ride:** Riding and controlling a riding animal, especially under stress.<br>
+#### Ride
+Riding and controlling a riding animal, especially under stress.<br>
 *Specialties:* battle, speed, tricks. (General)
 
-**Second Sight\*:** You are able to see through illusionary concealment and disguise, including invisibility, and can also see naturally invisible things such as spirits and the boundaries between regio levels (see page 420). The Ease Factor to see through illusionary concealment is normally equal to 6 + the magnitude of the might of the creature responsible for the effect, or 6 + the magnitude of a Hermetic spell. In general, this Virtue allows you to see through Hermetic concealment effected with Imaginem, but not other Forms. The Magic Resistance, if any, of the concealed creature does not interfere with your Second Sight. If something is actually transformed, for example by a MuCo spell, you cannot determine the genuine form. The Ease Factor to see a naturally invisible thing is normally 9, and the Ease Factor for seeing regio levels is specified on page 421. All Second Sight rolls are Perception + Second Sight, and they are almost always simple rolls.<br>
+#### Second Sight\*
+You are able to see through illusionary concealment and disguise, including invisibility, and can also see naturally invisible things such as spirits and the boundaries between regio levels (see page 420). The Ease Factor to see through illusionary concealment is normally equal to 6 + the magnitude of the might of the creature responsible for the effect, or 6 + the magnitude of a Hermetic spell. In general, this Virtue allows you to see through Hermetic concealment effected with Imaginem, but not other Forms. The Magic Resistance, if any, of the concealed creature does not interfere with your Second Sight. If something is actually transformed, for example by a MuCo spell, you cannot determine the genuine form. The Ease Factor to see a naturally invisible thing is normally 9, and the Ease Factor for seeing regio levels is specified on page 421. All Second Sight rolls are Perception + Second Sight, and they are almost always simple rolls.<br>
 *Specialties:* regiones, invisible things, illusory disguises, faeries, ghosts. (Supernatural)
 
-**Sense Holiness and Unholiness\*:** You are able to feel the presence of good and evil. A Perception + Sense Holiness and Unholiness roll against an Ease Factor of 9 lets you sense holiness or unholiness in a general area; against an Ease Factor of 15, in a person or object. The Ease Factor to detect a demon is 0, but the character must still Penetrate its Magic Resistance. If an angel is hiding its divine nature, which is unusual, the Ease Factor is 15, and the character must Penetrate. If the angel is not hiding its divine nature, the roll automatically succeeds. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. This Ability is granted by the Divine realm, not the Magic or Faerie realms, and thus uses the Divine column of the realm interaction chart (page 410).<br>
+#### Sense Holiness and Unholiness\*
+You are able to feel the presence of good and evil. A Perception + Sense Holiness and Unholiness roll against an Ease Factor of 9 lets you sense holiness or unholiness in a general area; against an Ease Factor of 15, in a person or object. The Ease Factor to detect a demon is 0, but the character must still Penetrate its Magic Resistance. If an angel is hiding its divine nature, which is unusual, the Ease Factor is 15, and the character must Penetrate. If the angel is not hiding its divine nature, the roll automatically succeeds. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. This Ability is granted by the Divine realm, not the Magic or Faerie realms, and thus uses the Divine column of the realm interaction chart (page 410).<br>
 *Specialties:* good or evil. (Supernatural)
 
-**Sense Passions\*:** The character can sense the personality and desires of an intelligent being by recognizing and identifying the different shades of tarnish on its soul. A Perception + Sense Passions roll against an Ease Factor of 9 lets her sense the most powerful emotion currently being experienced by the person, and a roll against an Ease Factor of 15 allows her to identify the character's most dominant Personality Trait. The effect must penetrate the target's Magic Resistance if it has any kind of supernatural protection, and since this is a Supernatural Ability, it is affected by auras.
+#### Sense Passions\*
+The character can sense the personality and desires of an intelligent being by recognizing and identifying the different shades of tarnish on its soul. A Perception + Sense Passions roll against an Ease Factor of 9 lets her sense the most powerful emotion currently being experienced by the person, and a roll against an Ease Factor of 15 allows her to identify the character's most dominant Personality Trait. The effect must penetrate the target's Magic Resistance if it has any kind of supernatural protection, and since this is a Supernatural Ability, it is affected by auras.
 
 **SENSE PASSIONS: Stress Die + Perception + Sense Passions + Aura**
 
@@ -8994,41 +9057,54 @@ Sense Passions is either a false power (see the False Power Flaw), or is associa
 
 Unholiness aspect to work. If the troupe allows Divine powers to be false, this may be the false version of Sense Holiness and Unholiness. *Specialties*: auras, emotions, Personality Traits, in a general area. (Supernatural)
 
-**Shapeshifter\*:** You may change your shape into that of a mundane animal from the size of a robin (-10) to that of a bear (+2). This requires a few seconds' (one round's) concentration, and a roll of Stamina + Shapeshifter against an Ease Factor of 9. Changing back to human form requires the same concentration, and the same roll. You have a limited repertoire of shapes, one for every point you have in the Shapeshift ability. Every time you raise the Ability by one point, you may choose a new shape.<br>
+#### Shapeshifter\*
+You may change your shape into that of a mundane animal from the size of a robin (-10) to that of a bear (+2). This requires a few seconds' (one round's) concentration, and a roll of Stamina + Shapeshifter against an Ease Factor of 9. Changing back to human form requires the same concentration, and the same roll. You have a limited repertoire of shapes, one for every point you have in the Shapeshift ability. Every time you raise the Ability by one point, you may choose a new shape.<br>
 *Specialties:* One of your shapes, particular conditions for the change. (Supernatural)
 
-**Single Weapon:** Fighting with a weapon used in one hand, possibly using a shield with the other. This includes lances used as intended from horseback.<br>
+#### Single Weapon
+Fighting with a weapon used in one hand, possibly using a shield with the other. This includes lances used as intended from horseback.<br>
 *Specialties:* any one weapon or shield, which covers using that weapon with any shield or none, and that shield with any weapon. (Martial)
 
-**Stealth:** Sneaking about without being seen or heard, also hiding in one place. This includes following people without their noticing, which is rolled against the other person's Perception.<br>
+#### Stealth
+Sneaking about without being seen or heard, also hiding in one place. This includes following people without their noticing, which is rolled against the other person's Perception.<br>
 *Specialties:* hide, sneak, shadowing, urban areas, natural areas. (General)
 
-**Summon Animals\*:** You can summon animals. This Ability is described in the Hermetic Magic chapter, on page 243.
+#### Summon Animals\*
+You can summon animals. This Ability is described in the Hermetic Magic chapter, on page [243](#summon-animals-2).
 
-**Survival:** Finding food, water, shelter, a direct route, and relative safety in the wilderness (a very dangerous place in Mythic Europe). This Ability covers such mundane tasks as building a fire and cooking food without implements.<br>
+#### Survival
+Finding food, water, shelter, a direct route, and relative safety in the wilderness (a very dangerous place in Mythic Europe). This Ability covers such mundane tasks as building a fire and cooking food without implements.<br>
 *Specialties:* specific locales. (General)
 
-**Swim:** The ability to propel yourself through water quickly and efficiently.<br>
+#### Swim
+The ability to propel yourself through water quickly and efficiently.<br>
 *Specialties:* long distances, diving, underwater maneuvering. (General)
 
-**Teaching**: The ability to teach an Ability to someone else.<br>
+#### Teaching
+The ability to teach an Ability to someone else.<br>
 *Specialties:* a particular Ability, particular kinds of student. (General)
 
-**Theology: Christian\*:** Theology is the study of God and his work in the world. The auctores are the Bible and Peter the Lombard's *Sententiae*, the Bible having theoretical primacy, being infallible, and the Sentences being most studied. The speculations of theology are very abstruse, and many theologians are accused of heresy. Sometimes those accused recant, and sometimes they convince the Church that they were right after all.<br>
+#### Theology: Christian\*
+Theology is the study of God and his work in the world. The auctores are the Bible and Peter the Lombard's *Sententiae*, the Bible having theoretical primacy, being infallible, and the Sentences being most studied. The speculations of theology are very abstruse, and many theologians are accused of heresy. Sometimes those accused recant, and sometimes they convince the Church that they were right after all.<br>
 *Specialties:* biblical knowledge, heresy, history. (Academic)
 
-**Theology: Islam\*:** This is the Islamic equivalent of Theology: Christian. The major sources for Islamic theology are the Qur'an and the Sunna.<br>
+#### Theology: Islam\*
+This is the Islamic equivalent of Theology: Christian. The major sources for Islamic theology are the Qur'an and the Sunna.<br>
 *Specialties:* the Qur'an, debates, history, prophets. (Academic)
 
-**Theology: Judaism\*:** This is the Jewish equivalent of Theology: Christian. The major sources for Jewish theology are the Torah, the Nevi'im, and the Kutuvim.<br>
+#### Theology: Judaism\*
+This is the Jewish equivalent of Theology: Christian. The major sources for Jewish theology are the Torah, the Nevi'im, and the Kutuvim.<br>
 *Specialties:* the Torah, creation, history, prophecies (Academic)
 
-**Thrown Weapon:** Fighting at range using weapons which are thrown.<br>
+#### Thrown Weapon
+Fighting at range using weapons which are thrown.<br>
 *Specialties:* any one weapon. (Martial)
 
-**Whistle Up The Wind\*:** You can create wind by whistling. This Ability is described in the Hermetic Magic chapter, on page 246.
+#### Whistle Up The Wind\*
+You can create wind by whistling. This Ability is described in the Hermetic Magic chapter, on page 246.
 
-**Wilderness Sense\*:** You are mystically attuned to the ways of the wilderness. A Perception + Wilderness Sense roll against an Ease Factor of 9 lets you determine the direction of north, the upcoming weather, or the presence of natural hazards or resources. One roll will only reveal one piece of information.<br>
+#### Wilderness Sense\*
+You are mystically attuned to the ways of the wilderness. A Perception + Wilderness Sense roll against an Ease Factor of 9 lets you determine the direction of north, the upcoming weather, or the presence of natural hazards or resources. One roll will only reveal one piece of information.<br>
 *Specialties:* direction, weather, hazards, resources. (Supernatural)
 
 ---
@@ -25295,10 +25371,6 @@ p168-170 p391
 
 ## Traditional Index
 
->
-> Markdown version note: The Ability links do not work - until we rewrite all of the Abilities to use headings
->
-
 | **Entry** | **Page** |
 |-----------|----------|
 | Abandoned Apprentice (Flaw) | [119](#abandoned-apprentice) |
@@ -25352,7 +25424,7 @@ p168-170 p391
 | Animal Characters | [77](#animal-characters) |
 | Animal Companion (Flaw) | [119](#animal-companion) |
 | Animal Handling (Ability) | [159](#animal-handling) |
-| Animal Ken (Ability) | [159](#animal-ken) |
+| Animal Ken (Ability) | [159](#animal-ken-1) |
 | Animal Ken (Virtue) | [70](#animal-ken), [386](#animal-ken) |
 | Apostate (Flaw) | [119](#apostate) |
 | Apostles | [501](#saints) |
@@ -25370,7 +25442,7 @@ p168-170 p391
 | &nbsp;&nbsp;Limit of | [211](#the-limit-of-arcane-connections) |
 | &nbsp;&nbsp;Fixing | [250](#fixing-arcane-connections) |
 | Arcane Experimentation | [274](#arcane-experimentation) |
-| Arcane Lore (Ability) | [70](#arcane-lore) |
+| Arcane Lore (Virtue) | [70](#arcane-lore) |
 | Arcane Studies | [250](#arcane-studies) |
 | Archangels | [*see Angels*](#creatures-of-the-divine) |
 | Archieunuch (Virtue) | [70](#archieunuch) |
@@ -25421,7 +25493,7 @@ p168-170 p391
 | Berserker (Template) | [31](#the-berserker) |
 | Beta Storyguides | [530](#alpha-and-beta-storyguides) |
 | Bigamist (Flaw) | [120](#bigamist) |
-| Binding Wounds (Chirurgy) | [161](#chirurgy) |
+| Binding Wounds (Chirurgy) | [161](#chirurgy-kie-ruhr-gee) |
 | Bishop | [502-504](#structures) |
 | Bjornaer — The Heartbeast | [233-234](#bjornaer--the-heartbeast) |
 | Bjornaer (Template) | [37](#bjornaer) |
@@ -25501,7 +25573,7 @@ p168-170 p391
 | Charm (Ability) | [161](#charm) |
 | Charms | [238](#charms) |
 | Child Characters | [44](#child-characters) |
-| Chirurgy (Ability) | [161](#chirurgy) |
+| Chirurgy (Ability) | [161](#chirurgy-kie-ruhr-gee) |
 | Christ | [498](#doctrine) |
 | Church Militant | [501](#saints) |
 | Church Triumphant | [501](#saints) |
@@ -25541,7 +25613,7 @@ p168-170 p391
 | Compulsion (Flaw) | [122](#compulsion) |
 | Compulsive Lying (Flaw) | [122](#compulsive-lying) |
 | Concentration (Ability) | [162](#concentration) |
-| Concentration (Duration) | [215](#concentration), [304](#durations) |
+| Concentration (Duration) | [215](#concentration-1), [304](#durations) |
 | Confidence | [29](#confidence), [52](#confidence-1) |
 | Confirmation | [500](#sacraments) |
 | Constant Effect Devices | [258](#constant-effect-devices) |
@@ -25554,7 +25626,7 @@ p168-170 p391
 | Convents | [505](#monasteries) |
 | Convoluted Mind (Virtue) | [74](#convoluted-mind) |
 | Corpse, Animating | [462](#animating-corpses-with-magic) |
-| Corpse Magic (Ability) | [162](#corpse-magic) |
+| Corpse Magic (Ability) | [162](#corpse-magic-1) |
 | Corpse Magic (Virtue) | [74](#corpse-magic) |
 | Corpus (Art) | [209](#corpus-co-body), [332–339](#corpus-spells) |
 | Corrosion | [407](#heat-and-corrosion) |
@@ -25581,7 +25653,7 @@ p168-170 p391
 | Covenfolk (Virtue) | [74](#covenfolk) |
 | Craft (Type) (Ability) | [162](#craft-type) |
 | Craft Guild Training (Virtue) | [75](#craft-guild-training) |
-| Crafter's Healing (Ability) | [162](#crafters-healing) |
+| Crafter's Healing (Ability) | [162](#crafters-healing-1) |
 | Crafter's Healing (Virtue) | [75](#crafters-healing) |
 | Crafting Magical Objects | [306–308](#magical-craft) |
 | Craftsman (Virtue) | [75](#craftsman) |
@@ -25600,7 +25672,7 @@ p168-170 p391
 | &nbsp;&nbsp;of Magic | [442–466](#creatures-of-magic) |
 | &nbsp;&nbsp;Powers | [426](#creature-powers) |
 | &nbsp;&nbsp;Size Examples | [427](#size-examples) |
-| Creo (Art) | [207](#creo-cr-create) |
+| Creo (Art) | [207](#creo-cr-i-create) |
 | Criamon – The Enigma | [235–236](#criamon--the-enigma) |
 | Criamon (Template) | [38](#criamon) |
 | Criamon, House | [13](#house-criamon) |
@@ -25613,7 +25685,7 @@ p168-170 p391
 | Curate | [504](#structures) |
 | Curse of Slander (Flaw) | [124](#curse-of-slander) |
 | Curse of Venus (Flaw) | [124](#curse-of-venus) |
-| Curse-Throwing (Ability) | [163–164](#curse-throwing) |
+| Curse-Throwing (Ability) | [163–164](#curse-throwing-1) |
 | Curse-Throwing (Virtue) | [75](#curse-throwing) |
 | Cursed Guile (Flaw) | [124](#cursed-guile) |
 | Custos (Virtue) | [75](#custos) |
@@ -25689,7 +25761,7 @@ p168-170 p391
 | &nbsp;&nbsp;*see also Auras* |  |
 | Dominion Lore (Ability) | [164](#dominion-lore) |
 | Doorkeeper | [500](#sacraments) |
-| Dowsing (Ability) | [164](#dowsing) |
+| Dowsing (Ability) | [164](#dowsing-1) |
 | Dowsing (Virtue) | [77](#dowsing) |
 | Driven (Flaw) | [126](#driven) |
 | Durations | [304](#durations) |
@@ -25715,11 +25787,12 @@ p168-170 p391
 | &nbsp;&nbsp;Size, Might, & Characteristics | [450](#size-might-and-characteristics-of-elementals) |
 | &nbsp;&nbsp;Water | [453](#water-elementals) |
 | Embitterment | [245](#embitterment-1) |
-| Embitterment (Ability) | [164](#embitterment) |
+| Embitterment (Ability) | [164](#embitterment-1) |
 | Embitterment (Virtue) | [78](#embitterment) |
 | Emir (Virtue) | [78](#emir) |
 | Employed by Company (Flaw) | [126](#employed-by-company) |
 | Enchanted Items | [180](#enchanted-items) |
+| Enchanting (Ability) (Ability) | [164](#enchanting-ability-1) |
 | Enchanting (Ability) (Virtue) | [78](#enchanting-ability) |
 | Encumbrance | [403](#encumbrance) |
 | Enduring Constitution (Virtue) | [78](#enduring-constitution) |
@@ -25732,7 +25805,7 @@ p168-170 p391
 | Enigmatic Wisdom (Ability) | [164](#enigmatic-wisdom), [236](#enigmatic-wisdom-1) |
 | Entertainments, Noble | [508](#noble-entertainments) |
 | Enticer of Multitudes (Virtue) | [78](#enticer-of-multitudes) |
-| Entrancement (Ability) | [164](#entrancement), [167](#entrancement) |
+| Entrancement (Ability) | [164](#entrancement-1), [167](#entrancement-and-induction) |
 | Entrancement (Virtue) | [78](#entrancement) |
 | Envied Beauty (Flaw) | [127](#envied-beauty) |
 | Envious (Flaw) | [127](#envious) |
@@ -25830,7 +25903,7 @@ p168-170 p391
 | Filius/Filia | [6](#glossary) |
 | Final Twilight | [228](#comprehending-twilight) |
 | Finding Hidden Loot (Virtue) | [81](#finding-hidden-loot) |
-| Finesse (Ability) | [165](#finesse) |
+| Finesse (Ability) | [165](#finesse), [208](#rego-re-i-control)  |
 | Fire | [407](#head-and-corrosion) |
 | Fish Out of Water (Terrain) (Flaw) | [130](#fish-out-of-water-terrain) |
 | Fist | [401](#brawling-weapons) |
@@ -25849,7 +25922,7 @@ p168-170 p391
 | Folk Ken (Ability) | [165](#folk-ken) |
 | Folk Magic (Virtue) | [81](#folk-magic) |
 | Follower (Flaw) | [131](#follower) |
-| Font of Knowledge (Ability) | [165](#font-of-knowledge) |
+| Font of Knowledge (Ability) | [165](#font-of-knowledge-1) |
 | Font of Knowledge (Virtue) | [82](#font-of-knowledge) |
 | Food Deprivation | [407](#deprivation) |
 | Forceless Casting | [220](#forceless-casting) |
@@ -26009,7 +26082,7 @@ p168-170 p391
 | Independent Study (Virtue) | [86](#independent-study) |
 | Indiscreet (Flaw) | [134](#indiscreet) |
 | Individual (Target) | [305](#target) |
-| Induction (Ability) | [166–167](#induction) |
+| Induction (Ability) | [166–167](#induction-1) |
 | Induction (Virtue) | [86](#induction) |
 | Ineslemen (Virtue) | [86](#ineslemen) |
 | Infamous (Flaw) | [134](#infamous) |
@@ -26096,7 +26169,7 @@ p168-170 p391
 | Landed Noble (Virtue) | [89](#landed-noble) |
 | Large (Virtue) | [89](#large) |
 | Lasiq (Virtue) | [89](#lasiq) |
-| Latent Magic Ability (Virtue) | [89](#latent-magical-ability) |
+| Latent Magic Ability (Virtue) | [89](#latent-magic-ability) |
 | Later Life | [49](#later-life) |
 | Latin | [164](#dead-language) |
 | Law | [161](#civil-and-canon-law), [504](#canon-law) |
@@ -26169,325 +26242,252 @@ p168-170 p391
 | Magic and Sin | [499](#magic-and-sin) |
 | Magic Aura | [413–414](#magical-auras) |
 | &nbsp;&nbsp;*see also [Auras](#realm-auras)* |  |
+| Magic Creatures | [442–466](#creatures-of-magic) |
+| &nbsp;&nbsp;Jinn | [442](#jinn) |
+| &nbsp;&nbsp;Daimons | [444](#daimons) |
+| &nbsp;&nbsp;Elementals | [449](#elementals) |
+| &nbsp;&nbsp;Animated Corpses | [462](#animating-corpses-with-magic) |
+| Magic Items (Virtue) | [92](#magic-items) |
+| Magic Lore (Ability) | [168](#magic-lore) |
+| Magic Might | [425](#creature-might) |
+| Magic Realm | [413–414](#the-magic-realm) |
+| Magic Resistance | [221–223](#magic-resistance), [225](#magic-resistance-1) |
+| &nbsp;&nbsp;Limit of | [212](#the-limit-of-magic-resistance) |
+| Magic Sensitivity (Ability) | [168](#magic-sensitivity-1) |
+| Magic Sensitivity (Virtue) | [92](#magic-sensitivity) |
+| Magic Theory (Ability) | [168](#magic-theory) |
+| Magical Air (Flaw) | [136](#magical-air) |
+| Magical (Being) Companion (Flaw) | [136](#magical-being-companion) |
+| Magical Blood (Virtue) | [93](#magical-blood) |
+| Magical Craft | [306](#magical-craft) |
+| Magical Creatures | [21](#magical-creatures), [413](#magical-creatures-1) |
+| Magical Enchantments | [252](#enchantments) |
+| Magical Fascination (Flaw) | [136](#magical-fascination) |
+| Magical Foci | [94](#sample-major-magical-foci), [98](#sample-minor-magical-foci) |
+| Magical Items | [24](#magical-items) |
+| Magical Memory (Virtue) | [92](#magical-memory) |
+| Magical Mount (Virtue) | [93](#magical-mount) |
+| Magical Senses | [305](#magical-senses) |
+| Magical Wards | [306](#magical-wards) |
+| Magical Warder (Virtue) | [93](#magical-warder) |
+| Magister in Artibus (Virtue) | [93](#magister-in-artibus) |
+| Magister in Medicina (Virtue) | [94](#magister-in-medicina) |
+| Magnitudes | [301](#magnitudes) |
+| Magus | [6](#glossary), [25](#magi) |
+| &nbsp;&nbsp;*see also Order of Hermes* |  |
+| Magus Templates | [37–43](#magus-templates) |
+| Major Breakthrough | [277](#the-breakthrough) |
+| Major Magical Focus (Virtue) | [94](#major-magical-focus) |
+| Major Personality Flaws | [64](#personality-1), [66](#personality--story-flaws) |
+| Major Story Flaws | [66](#story) |
+| Maker of Textured Vessels (Virtue) | [94](#maker-of-textured-vessels) |
+| Maker of Water Vessels (Virtue) | [94](#maker-of-water-vessels) |
+| Male Guild Sponsor (Virtue) | [95](#male-guild-sponsor) |
+| Mamluk (Virtue) | [95](#mamluk) |
+| Manifest Sin (Flaw) | [136](#manifest-sin) |
+| Manufactured Ignorance (Flaw) | [136](#manufactured-ignorance) |
+| Many Marriageable Daughters (Flaw) | [136](#many-marriageable-daughters) |
+| Markets | [509](#markets-and-fairs) |
+| Marriage | [500](#sacraments) |
+| Marshal (Virtue) | [95](#marshal) |
+| Martial Abilities | [158](#martial-abilities) |
+| Martyrdom | [419](#sources-of-divine-auras) |
+| Mass | [500](#sacraments) |
+| Master Bard (Virtue) | [96](#master-bard) |
+| Master of (Form) Creatures (Virtue) | [96](#master-of-form-creatures) |
+| Master of Kennels (Virtue) | [96](#master-of-kennels) |
+| Master of None (Flaw) | [136](#master-of-none) |
+| Mastered Spells (Virtue) | [96](#mastered-spells) |
+| Masterpiece (Virtue) | [97](#masterpiece) |
+| Mastery | [27](#abilities), [225–226](#spell-mastery) |
+| Mazdean Priest (Virtue) | [97](#mazdean-priest) |
+| Meddler (Flaw) | [137](#meddler) |
+| Medical Attention | [405](#medical-attention) |
+| Medicine | [163](#curse-throwing-1) |
+| Medicine (Ability) | [168](#medicine) |
+| Medieval Paradigm | [251](#inventing-spells) |
+| Medieval Physics | [497](#medieval-physics) |
+| Medium Covenant | [178](#medium-covenant) |
+| Medium Saga | [527](#medium-saga) |
+| Medium-Research Saga | [532](#the-medium-research-saga) |
+| Melee Weapon Statistics | [400](#melee-weapon-statistics) |
+| Mendicant Friar (Virtue) | [97](#mendicant-friar) |
+| Mendicant Friars | [505](#monasteries) |
+| Mentem (Art) | [209](#mentem-me-mind), [353–358](#mentem-spells) |
+| Mentor (Flaw) | [137](#mentor) |
+| Mentored by Demons (Virtue) | [98](#mentored-by-demons) |
+| Mercenary Captain (Virtue) | [98](#mercenary-captain) |
+| Mercere (Template) | [41](#mercere) |
+| Mercere, House | [15](#house-mercere) |
+| &nbsp;&nbsp;*see also Redcaps* |  |
+| Merchant (Virtue) | [98](#merchant) |
+| Merchant Adventurer (Virtue) | [98](#merchant-adventurer) |
+| Mercurian Magic (Virtue) | [98](#mercurian-magic) |
+| Mercury | [9](#the-history-of-the-order) |
+| Merinita – Faerie Magic | [236–238](#merinita--faerie-magic) |
+| Merinita (Template) | [41](#merinita) |
+| Merinita, House | [16](#house-merinita) |
+| Metal Reinforced Leather Armor | [399](#materials) |
+| Metal Scale Armor | [399](#materials) |
+| Method Caster (Virtue) | [98](#method-caster) |
+| Might | [425](#creature-might) |
+| Mild Aging (Virtue) | [98](#mild-aging) |
+| Minor Breakthrough | [277](#the-breakthrough) |
+| Minor Enchantments (Virtue) | [98](#minor-enchantments) |
+| Minor Magical Focus (Virtue) | [98](#minor-magical-focus) |
+| Minor Orders | [500](#sacraments) |
+| Minor Personality Flaws | [66](#personality-1) |
+| Minor Story Flaws | [66](#story) |
+| Miracles | [420](#miracles), [505–506](#miracles-1) |
+| Mischievous Childhood | [48](#sample-childhoods) |
+| Missile Combat | [395](#missile-combat) |
+| Missile Weapons | [402](#missile-weapons) |
+| Missile Weapon Statistics | [401](#missile-weapon-statistics) |
+| Missing Ear (Flaw) | [136](#missing-ear) |
+| Missing Eye (Flaw) | [136](#missing-eye) |
+| Missing Hand (Flaw) | [136](#missing-hand) |
+| Mistaken Identity (Flaw) | [136](#mistaken-identity) |
+| Moderate Vis | [526](#resources-2) |
+| Momentary (Duration) | [304](#durations) |
+| Monasteries | [505](#monasteries) |
+| Monastic Offices | [505](#monasteries) |
+| Monastic Rule | [505](#monasteries) |
+| Monastic Vows (Flaw) | [138](#monastic-vows) |
+| Monster (Hook) | [181–182](#minor-hooks) |
+| Monstrous Blood (Flaw) | [138](#monstrous-blood) |
+| Moon (Duration) | [304](#durations) |
+| Moses | [502](#saints) |
+| Motion Sickness (Flaw) | [138](#motion-sickness) |
+| Mounted Combat | [397](#mounted-combat) |
+| Multiple Casting | [225](#multiple-casting) |
+| Mundane, The | [420](#the-mundane) |
+| Mundane Interactions | [21](#interfering-with-mundanes), [518](#mundane-interactions) |
+| Mundane Lord (covenant situation) | [177](#mundane-lord) |
+| Mundanes | [21](#interfering-with-mundanes) |
+| Muqta' (Virtue) | [99](#muqta-muq-ta) |
+| Mundane Beasts | [428–442](#mundane-beasts) |
+| Muse (Virtue) | [99](#muse) |
+| Music (Ability) | [168](#music) |
+| Muslims | [99](#muqta-muq-ta), [111](#sufi) |
+| Mute (Flaw) | [138](#mute) |
+| Muto (Art) | [207](#muto-mu-i-transform) |
+| Mysteries | [233–243](#mysteries) |
+| Mystery Cults | [12](#the-houses-of-hermes) |
+| (Mystery Cult) Lore (Ability) | [168](#mystery-cult-lore) |
+| Mystery Initiation | [387–389](#mystery-initiation) |
+| Mystical Choreography (Virtue) | [99](#mystical-choreography) |
+| Mythic Blood (Virtue) | [99](#mythic-blood) |
+| Mythic Companions | [25](#mythic-companions), [55](#mythic-companions-1) |
+| Mythic Europe | [6](#glossary), [495–514](#chapter-14-mythic-europe) |
+| &nbsp;&nbsp;Map | 493–494 |
+| Mythic Pound | [187](#the-mythic-pound) |
+| Natural Leader (Virtue) | [99](#natural-leader) |
+| Necessary Condition (Flaw) | [138](#necessary-condition) |
+| Necessary (Realm) Aura for (Ability) (Flaw) | [138](#necessary-realm-aura-for-ability) |
+| Nemthengacha, The | [244](#the-nemthengacha) |
+| Nephilim | [57](#nephilim) |
+| Nephilim (Virtue) | [99](#nephilim-1) |
+| Night Terrors (Flaw) | [138](#night-terrors) |
+| No Hands (Flaw) | [139](#no-hands) |
+| No Sense of Direction (Flaw) | [139](#no-sense-of-direction) |
+| No-Research Saga | [532](#the-no-research-saga) |
+| Nobles | [24](#nobility), [506–509](#the-nobility) |
+| Nocturnal (Flaw) | [139](#nocturnal) |
+| Non-lethal Combat | [397](#non-lethal-combat) |
+| Noncombatant (Flaw) | [139](#noncombatant) |
+| Notary (Virtue) | [99](#notary) |
+| Nuntius (Virtue) | [100](#nuntius) |
+| Nuns | [513](#nuns) |
+| Oath of Fealty (Flaw) | [139](#oath-of-fealty) |
+| Obese (Flaw) | [139](#obese) |
+| Obfuscated Casting | [226](#obfuscated-casting) |
+| Obsessed (Flaw) | [139](#obsessed) |
+| Offensive to (Beings) (Flaw) | [139](#offensive-to-beings) |
+| Optimistic (Flaw) | [139](#optimistic) |
+| Order of Hermes | [6](#glossary), [9–24](#chapter-2-the-order-of-hermes), [497](#the-order-of-hermes) |
+| &nbsp;&nbsp;Crises | [11](#crises-in-the-order) |
+| &nbsp;&nbsp;Foundation | [9](#the-foundation-of-the-order) |
+| &nbsp;&nbsp;History | [9](#the-history-of-the-order) |
+| Ordination | [500](#sacraments) |
+| Ordo Miscellanea | [11](#damhan-allaidh-and-the-ordo-miscellanea) |
+| (Organization) Lore (Ability) | [169](#organization-lore) |
+| Original Sin | [498](#doctrine) |
+| Outcast (Flaw) | [139](#outcast) |
+| Outlaw (Flaw) | [140](#outlaw) |
+| Outlaw Leader (Flaw) | [140](#outlaw-leader) |
+| Outsider (Flaw) | [140](#outsider) |
+| Overconfident (Flaw) | [140](#overconfident) |
+| Oversensitive (Flaw) | [140](#oversensitive) |
+| Pace | [395](#length-of-a-pace) |
+| Pagan (Flaw) | [140](#pagan) |
+| Paid Rights (Virtue) | [100](#paid-rights) |
+| Painful Magic (Flaw) | [140](#painful-magic) |
+| Palsied Hands (Flaw) | [140](#palsied-hands) |
+| Parens | [6](#glossary) |
+| Parish | [504](#structures) |
+| Parma Magica | [6](#glossary), [221](#parma-magica-1) |
+| Parma Magica (Ability) | [169](#parma-magica) |
+| Part (Target) | [305](#target) |
+| Partner (Virtue) | [100](#partner) |
+| Peasant | [23](#peasants), [511](#peasants-1) |
+| Peasant (Virtue) | [100](#peasant) |
+| Penance | [500](#sacraments) |
+
+| **Entry** | **Page** |
+|-----------|----------|
+| Penetration | [215](#penetration-total), [219](#penetration-1), [226](#penetration-2) |
+| Penetration (Ability) | [169](#penetration) |
+| Perception | [27](#perception-per) |
+| Perdo (Art) | [208](#perdo-pe-i-destroy) |
+| Perfect Balance (Virtue) | [100](#perfect-balance) |
+| Perfect Eye for (Commodity) (Virtue) | [100](#perfect-eye-for-commodity) |
+| Perfectus (Virtue) | [100](#perfectus) |
+| Performance (Duration) | [101](#performance) |
+| Performance Magic (Virtue) | [101–102](#performance-magic) |
+| Peripheral Code | [18](#the-peripheral-code) |
+| Persona (Ability) | [169](#persona-1) |
+| Persona (Virtue) | [101](#persona) |
+| Personal (Range) | [303](#ranges) |
+| Personal Power (Virtue) | [102](#personal-power) |
+| Personal Vis Source (Virtue) | [103](#personal-vis-source) |
+| Personality | [52](#personality) |
+| Personality Flaws | [45](#virtues-and-flaws), [61](#chapter-4-virtues-and-flaws), [66](#personality-1) |
+| Personality Rolls | [28](#personality-rolls) |
+| Personality Traits | [28](#personality-traits) |
+| Pessimistic (Flaw) | [140](#pessimistic) |
+| Philosophiae (Ability) | [169](#philosophiae) |
+| Physician of Salerno (Virtue) | [103](#physician-of-salerno) |
+| Piercing Gaze (Virtue) | [103](#piercing-gaze) |
+| Pilgrimage | [496](#making-it-historical), [502](#saints) |
+| Pious (Flaw) | [140](#pious) |
+| Plagued by Supernatural Entity (Flaw) | [141](#plagued-by-supernatural-entity) |
+| Platonic Philosophy | [409](#the-nature-of-the-realms) |
+| Plots | [515](#plots) |
+| Poisons | [406](#poisons) |
+| Pole Arm | [402](#great-weapons) |
+| Pole Axe | [402](#great-weapons) |
+| Politics | [522](#politics) |
+| Politics Saga | [533](#politics-1) |
+| Pooled Characters | [529](#pooled-characters) |
+| Poor (Flaw) | [141](#poor) |
+| Poor (Characteristic) (Flaw) | [141](#poor-characteristic) |
+| Poor Concentration (Flaw) | [141](#poor-concentration) |
+| Poor Eyesight (Flaw) | [141](#poor-eyesight) |
+| Poor Formulaic Magic (Flaw) | [141](#poor-formulaic-magic) |
+| Poor Hearing (Flaw) | [141](#poor-hearing) |
+| Poor Living Conditions (Flaw) | [141](#poor-living-conditions) |
+| Poor Memory (Flaw) | [141](#poor-memory) |
+| Poor Student (Flaw) | [141](#poor-student) |
+| Pope | [502](#structures) |
+| Potent Magic (Virtue) | [103–104](#potent-magic) |
+| Powerful Covenant | [178](#powerful-covenant) |
+| Powerful Location (covenant situation) | [177](#powerful-location) |
+| Powerful Relic (Virtue) | [104](#powerful-relic) |
+| Practice Experience | [377](#practice) |
+| Praeco | [22](#tribunals) |
+| Pralix | [11](#damhan-allaidh-and-the-ordo-miscellanea) |
 
 ## Traditional Index (remained legacy not linked yet)
-
-
-Lex Hermae ............................... 20
-Liberal Arts .......see Artes Liberales
-Library ..................................... 179
-License of Absence (Virtue) ...... 91
-Life Boost (Virtue) ..................... 91
-Life-Linked Spontaneous Magic 
-(Virtue) ...................................... 91
-Light Touch (Virtue) ................. 91
-Lightning Reflexes (Virtue) ....... 91
-Limited Magic Resistance 
-(Flaw) ....................................... 135
-Limits of Magic ................ 210-212
-Lingering Injury (Flaw) ........... 135
-Linguist (Virtue) ........................ 91
-Linked trigger .......................... 258
-(Living Language) (Ability) ..... 167
-Load ........................................ 403
-Local Reputation ....................... 28
-Logic (Artes Liberales) ............ 160
-Lone Redcap (Virtue) ................ 91
-Long Spear .............................. 402
-Long Sword ............................. 401
-Long-Term Fatigue .................. 404
-Long-Winded (Virtue) .............. 92
-Longbow ................................. 402
-Longevity Rituals ..................... 261
-Loose Magic (Flaw) ................. 135
-Lord ......................................... 506
-Lost Love (Flaw) ...................... 135
-Love ......................................... 499
-Low Self-Esteem (Flaw) ........... 135
-Low Tolerance (Flaw) ............. 135
-Low Vis ................................... 526
-Low-Research Saga ................. 532
-Loyal (Personality Trait) ........... 28
-Luck (Virtue) ............................. 92
-Lunar Sphere, 
-Limit of the ...................... 211, 497
-Lupus (the Wolf) (Virtue) ......... 92
-Lycanthrope (Flaw) ................. 135
-Lye ........................................... 407
-Mace ........................................ 401
-Mace and Chain ...................... 401
-Maga ...................................... 6, 25
-see also Order of Hermes
-Magi ...................................... 6, 25
-see also Order of Hermes
-Magian Lineage (Virtue) ........... 92
-Magic .......................................... 6
-see also Magic Realm
-Magic Addiction (Flaw) .......... 135
-Magic and Sin ......................... 499
-Magic Aura ....................... 413-414
-see also Auras
-
-Magic Creatures .............. 442-466
-Jinn .......................................422
-Daimons ...............................444
-Elementals ............................449
-Animated Corpses ................462
-Magic Items (Virtue) .................92
-Magic Lore (Ability) ...............168
-Magic Might ...........................425
-Magic Realm .................... 413-414
-Magic Resistance ..... 221-223, 225
-Limit of .................................212
-Magic Sensitivity (Ability) ......168
-Magic Sensitivity (Virtue) .........92
-Magic Theory (Ability) ...........168
-Magical Air (Flaw) ...................136
-Magical (Being) 
-Companion (Flaw) ..................136
-Magical Blood (Virtue) ..............93
-Magical Craft ..........................306
-Magical Creatures .............21, 413
-Magical Enchantments ............252
-Magical Fascination (Flaw) ......136
-Magical Foci ........................94, 98
-Magical Items ............................24
-Magical Memory (Virtue) .........92
-Magical Mount (Virtue) ............93
-Magical Senses ........................305
-Magical Wards ........................306
-Magical Warder (Virtue) ...........93
-Magister in Artibus (Virtue) ......93
-Magister in Medicina (Virtue) ....94
-Magnitudes ..............................301
-Magus ....................................6, 25
-see also Order of Hermes
-Magus Templates ................ 37-43
-Major Breakthrough ................277
-Major Magical Focus (Virtue) ...94
-Major Personality Flaws ......64, 66
-Major Story Flaws .....................66
-Maker of Textured Vessels 
-(Virtue) ......................................94
-Maker of Water Vessels 
-(Virtue) ......................................94
-Male Guild Sponsor (Virtue) ....95
-Mamluk (Virtue) ........................95
-Manifest Sin (Flaw) .................136
-Manufactured Ignorance 
-(Flaw) .......................................136
-Many Marriageable Daughters 
-(Flaw) .......................................136
-Markets ....................................509
-Marriage ..................................500
-Marshal (Virtue) ........................95
-Martial Abilities .......................158
-Martyrdom ..............................419
-
-Mass ....................................... 500
-Master Bard (Virtue) ................ 96
-Master of (Form) Creatures 
-(Virtue) ..................................... 96
-Master of Kennels (Virtue) ...... 96
-Master of None (Flaw) ........... 136
-Mastered Spells (Virtue) .......... 96
-Masterpiece (Virtue) ................ 97
-Mastery .....................27, 225-226
-Mazdean Priest (Virtue) ........... 97
-Meddler (Flaw) ....................... 137
-Medical Attention .................. 405
-Medicine ................................ 163
-Medicine (Ability) .................. 168
-Medieval Paradigm ................. 251
-Medieval Physics .................... 497
-Medium Covenant ................. 178
-Medium Saga .......................... 527
-Medium-Research Saga .......... 532
-Melee Weapon Statistics ........ 400
-Mendicant Friar (Virtue) .......... 97
-Mendicant Friars .................... 505
-Mentem (Art) ..........209, 353-358
-Mentor (Flaw) ........................ 137
-Mentored by Demons (Virtue) ... 98
-Mercenary Captain (Virtue) ..... 98
-Mercere (Template) ................. 41
-Mercere, House ........................ 15
-see also Redcaps
-Merchant (Virtue) .................... 98
-Merchant Adventurer (Virtue) ... 98
-Mercurian Magic (Virtue) ........ 98
-Mercury ...................................... 9
-Merinita – Faerie Magic ...236-238
-Merinita (Template) ................. 41
-Merinita, House ....................... 16
-Metal Reinforced 
-Leather Armor ........................ 399
-Metal Scale Armor ................. 399
-Method Caster (Virtue) ........... 98
-Might ..................................... 425
-Mild Aging (Virtue) ................. 98
-Minor Breakthrough ............... 277
-Minor Enchantments (Virtue) ... 98
-Minor Magical Focus (Virtue) ... 98
-Minor Orders ......................... 500
-Minor Personality Flaws ........... 66
-Minor Story Flaws .................... 66
-Miracles ...................420, 505-506
-Mischievous Childhood ........... 48
-Missile Combat ...................... 395
-Missile Weapons .................... 402
-Missile Weapon Statistics ...... 401
-Missing Ear (Flaw) .................. 136
-Missing Eye (Flaw) ................. 136
-
-Missing Hand (Flaw) ............... 136
-Mistaken Identity (Flaw) ......... 136
-Moderate Vis ........................... 526
-Momentary (Duration) ............ 304
-Monasteries ............................. 505
-Monastic Offices ..................... 505
-Monastic Rule ......................... 505
-Monastic Vows (Flaw) ............. 138
-Monster (Hook) ............... 181-182
-Monstrous Blood (Flaw) .......... 138
-Moon (Duration) ..................... 304
-Moses ...................................... 502
-Motion Sickness (Flaw) ........... 138
-Mounted Combat .................... 397
-Multiple Casting ..................... 225
-Mundane, The ......................... 420
-Mundane Interactions ....... 21, 518
-Mundane Lord 
-(covenant situation) ................ 177
-Mundanes .................................. 21
-Muqta’ (Muq-Ta’) (Virtue) ........ 99
-Mundane Beasts ................ 428-442
-Muse (Virtue) ............................ 99
-Music (Ability) ........................ 168
-Muslims ............................. 99, 111
-Mute (Flaw) ............................. 138
-Muto (Art) ............................... 207
-Mysteries .......................... 233-243
-Mystery Cults ............................ 12
-(Mystery Cult) Lore (Ability) ... 168
-Mystery Initiation ............ 387-389
-Mystical Choreography 
-(Virtue) ...................................... 99
-Mythic Blood (Virtue) ............... 99
-Mythic Companions ........... 25, 55
-Mythic Europe ............. 6, 495-514
-Map .................................. 493-494
-Mythic Pound ......................... 187
-Natural Leader (Virtue) ............. 99
-Necessary Condition (Flaw) .... 138
-Necessary (Realm) 
-Aura for (Ability) (Flaw) .......... 138
-Nemthengacha, The ............... 244
-Nephilim ................................... 57
-Nephilim (Virtue) ..................... 99
-Night Terrors (Flaw) ............... 138
-No Hands (Flaw) ..................... 139
-
-No Sense of Direction (Flaw) ...139
-No-Research Saga ...................532
-Nobles ....................... 24, 506-509
-Nocturnal (Flaw) .....................139
-Non-lethal combat ..................397
-Noncombatant (Flaw) .............139
-Notary (Virtue) .........................99
-Nuntius (Virtue) ......................100
-Nuns ........................................513
-Oath of Fealty (Flaw) ..............139
-Obese (Flaw) ...........................139
-Obfuscated Casting .................226
-Obsessed (Flaw) ......................139
-Offensive to (Beings) (Flaw) ....139
-Optimistic (Flaw) ....................139
-Order of Hermes ....... 6, 9-24, 497
-Crises ......................................11
-Foundation ...............................9
-History .....................................9
-Ordination ..............................500
-Ordo Miscellanea ......................11
-(Organization) Lore (Ability) ...169
-Original Sin .............................498
-Outcast (Flaw) .........................139
-Outlaw (Flaw) ..........................140
-Outlaw Leader (Flaw) ..............140
-Outsider (Flaw) .......................140
-Overconfident (Flaw) ..............140
-Oversensitive (Flaw) ................140
-Pace .........................................395
-Pagan (Flaw) ............................140
-Paid Rights (Virtue) .................100
-Painful Magic (Flaw) ...............140
-Palsied Hands (Flaw) ...............140
-Parens ..........................................6
-Parish .......................................504
-Parma Magica ......................6, 221
-Parma Magica  (Ability) ..........169
-Part (Target) ............................305
-Partner (Virtue) .......................100
-Peasant ..............................23, 511
-Peasant (Virtue) .......................100
-Penance ...................................500
-
-Penetration ............. 215, 219, 226
-Penetration (Ability) .............. 169
-Perception ................................ 27
-Perdo (Art) ............................. 208
-Perfect Balance (Virtue) ......... 100
-Perfect Eye for (Commodity) 
-(Virtue) ................................... 100
-Perfectus (Virtue) ................... 100
-Performance (Duration) ......... 101
-Performance Magic 
-(Virtue) ............................101-102
-Peripheral Code ....................... 18
-Persona (Ability) ................... 169
-Persona (Virtue) ..................... 101
-Personal (Range) .................... 303
-Personal Power (Virtue) ......... 102
-Personal Vis Source (Virtue) ... 103
-Personality ................................ 52
-Personality Flaws .......... 45, 61, 66
-Personality Rolls ....................... 28
-Personality Traits ..................... 28
-Pessimistic (Flaw) ................... 140
-Philosophiae (Ability) ............ 169
-Physician of Salerno (Virtue) ... 103
-Piercing Gaze (Virtue) ........... 103
-Pilgrimage ...................... 496, 502
-Pious (Flaw) ............................ 140
-Plagued by Supernatural Entity 
-(Flaw) ...................................... 141
-Platonic Philosophy ............... 409
-Plots ........................................ 515
-Poisons ................................... 406
-Pole Arm ................................. 402
-Pole Axe ................................. 402
-Politics .................................... 522
-Politics Saga ........................... 533
-Pooled Characters .................. 529
-Poor (Flaw) ............................. 141
-Poor (Characteristic) (Flaw) ... 141
-Poor Concentration (Flaw) .... 141
-Poor Eyesight (Flaw) .............. 141
-Poor Formulaic Magic (Flaw) ... 141
-Poor Hearing (Flaw) ............... 141
-Poor Living Conditions 
-(Flaw) ...................................... 141
-Poor Memory (Flaw) .............. 141
-Poor Student (Flaw) ............... 141
-Pope ....................................... 502
-Potent Magic (Virtue) .....103-104
-Powerful Covenant ................. 178
-Powerful Location 
-(covenant situation) ............... 177
-Powerful Relic (Virtue) .......... 104
-Practice Experience ................ 377
-Praeco ....................................... 22
-Pralix ........................................ 11
 
 Precise Casting ........................ 226
 Premonitions (Ability) ............ 170
