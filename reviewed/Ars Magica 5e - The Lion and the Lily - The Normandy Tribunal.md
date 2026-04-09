@@ -3,7 +3,7 @@ A sourcebook to Mythic Northern France for Ars Magica 5th Edition.
 
 > *Open License Markdown version by YairRezek & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 >
-> *[Completion state: Whole book manually fixed (Note: Including official Errata). Remaining: Review]*
+> *[Completion state: Whole book manually fixed and reviewed again.]*
 >
 > *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -35,7 +35,7 @@ The Lion and the Lily provides full details for the Normandy Tribunal, where mag
 
 **Richard Love** lives beyond the bounds of Mythic Europe, and has never actually been to the Normandy Tribunal. However, he would like to visit one day. Hopefully the road signs haven't changed too much since the 13th century. Richard would like to thank his partner Paula for letting him out for Tuesday night geeking. He'd also like to thank Donna, Malcolm, and Aaron for being the other Tuesday night geeks, and especially for being geeks bearing chocolate.
 
-CJ Romer is a Dane who lives in the Stonehenge Tribunal. His last trip to the Normandy Tribunal ended in disaster after an unfortunate incident with a voracious hound, which resulted in his hospitalization. Despite that he still loves France. He would like to dedicate his efforts on this book to his parents, June and Gunnar.
+**CJ Romer** is a Dane who lives in the Stonehenge Tribunal. His last trip to the Normandy Tribunal ended in disaster after an unfortunate incident with a voracious hound, which resulted in his hospitalization. Despite that he still loves France. He would like to dedicate his efforts on this book to his parents, June and Gunnar.
 
 **Mark Shirley** grew up less than 40 miles from the Normandy Tribunal, and was a regular visitor in his childhood. Now all grown up, he is a zoologist, mathematician, ecologist, programmer, or epidemiologist, depending on the day of the week. When he has time to himself, he enjoys woodcarving and teaching himself dead languages. He dedicates this book to the usual suspects — you know who you are!
 
@@ -50,123 +50,301 @@ CJ Romer is a Dane who lives in the Stonehenge Tribunal. His last trip to the No
 
 Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproduction of this work by any means without written permission from the publisher, except short excerpts for the purpose of reviews, is expressly prohibited.
 
-**Ars Magica**, Mythic Europe, The Lion and the Lily, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Termere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
+**Ars Magica**, Mythic Europe, The Lion and the Lily, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
 
 Digital Version 1.0
 
 
 # Contents
+**I. Introduction**<br>
+France<br>
+The Normandy Tribunal<br>
+How to Use this Book
 
-| I. Introduction                  | 5  | Founding a<br>New Covenant 27      |    | The County of Bayeux 55            |    |
-|----------------------------------|----|------------------------------------|----|------------------------------------|----|
-|                                  |    | Liege and Vassal Covenants28       |    | The Town of Bayeux55               |    |
-| France 5                         |    | Independent Covenants30            |    | Caen55                             |    |
-| The Normandy Tribunal 6          |    | Eremites and Coenobites30          |    | Cotentin Peninsula 56              |    |
-| How to Use this Book 6           |    | Tribunal Meetings 30               |    | The Hague-Dicke57                  |    |
-|                                  |    | The Hermetic Tourney31             |    | Barfleur57                         |    |
-| II. History of Mythic France     | 7  |                                    |    | Avranches 57                       |    |
-|                                  |    |                                    |    | Mont St. Michael57                 |    |
-| Ancient Gaul 7                   |    | IV. Brittany                       | 34 | Montverte 58                       |    |
-| St. Denis8                       |    | County of Rennes 35                |    | History58                          |    |
-| The Merovingian Franks 8         |    | Emerald Coast35                    |    | Setting and Physical Description58 |    |
-| The Quinotaur8                   |    | Rennes and the Eastern Argoat36    |    | Culture and Traditions58           |    |
-| The Holy Oil of Consecration8    |    | Brocéliande37                      |    | Magi59                             |    |
-| Scrofula9                        |    | Lordship of Penthièvre 38          |    | Covenfolk61                        |    |
-| The Carolingian Dynasty 9        |    | Rose Coast38                       |    |                                    |    |
-| The Capetian Dynasty 9           |    | Central Argoat39                   |    |                                    |    |
-| Viking Invasion 10               |    | Lordship of Léon 39                |    | VI. Anjou and Aquitaine            | 62 |
-| Viking Raiders and               |    | Pay de Léon39                      |    | Anjou 62                           |    |
-| the Hermetic Order10             |    | Abers40                            |    | Angers62                           |    |
-| Romance and<br>Rebellion 11      |    | Brest and Crozon40                 |    | Chinon62                           |    |
-| The Lions and the Lily11         |    | Arrée Mountains40                  |    | Le Mans63                          |    |
-| King Philip Augustus11           |    | Fuda<br>rus 41                     |    | Tours64                            |    |
-| The Angevin Challenge12          |    | History41                          |    | Samur65                            |    |
-| Bad King John?12                 |    | Setting and Physical Description41 |    | Vendôme65                          |    |
-| The Albigensian Crusade13        |    | Culture and Traditions42           |    | Aquitaine 65                       |    |
-| Le Morte d'Arthur13              |    | Magi43                             |    | Vendée66                           |    |
-|                                  |    | Covenfolk44                        |    | La Rochelle66                      |    |
-| III. Hermetic History            |    | Exspectatio45                      |    | Poitiers66                         |    |
-|                                  |    | County of Cornouaille 46           |    | Lusignan67                         |    |
-| and Culture                      | 14 | Sein Island46                      |    | Bougon Tumuli67                    |    |
-| The Shaping of the Tribunal 14   |    | Noires Mountains and               |    | Angoulême68                        |    |
-| Drawn in Bloodshed16             |    | Western Argoat46                   |    | Limoges68                          |    |
-| Contemporary Hermetic Culture 17 |    | Broërec 47                         |    | Saintes68                          |    |
-| Heroes of Christendom17          |    | Morbihan47                         |    | St-Èmilion68                       |    |
-| Regionalism17                    |    | Carnac48                           |    | Le Cité69                          |    |
-| The Call to Adventure18          |    | Southern Argoat49                  |    | Bergerac69                         |    |
-| Blood, Sacred and Mystical18     |    | County of Nantes 50                |    | Vézère69                           |    |
-| The Hermetic Landscape 19        |    | Grande Brière50                    |    | Clermont70                         |    |
-| The Perthean Compact 19          |    |                                    |    | Auvergne Mountains70               |    |
-| Consequences of the              |    |                                    |    | Oleron 70                          |    |
-| Perthean Compact22               |    | V. Normandy                        | 51 | History71                          |    |
-| The Library of the               |    | The Duke of Normandy 52            |    | Setting and Physical Description71 |    |
-| Normandy Tribunal22              |    | Norman Bailliages52                |    | Culture and Traditions71           |    |
-| Mundane Resources23              |    | The Archdiocese of Rouen 53        |    | Magi72                             |    |
-| Urban Covenants                  |    | Seine River Basin 54               |    | Vassals73                          |    |
-| and the Town Senex24             |    | Rouen54                            |    | Nidi 74                            |    |
-| Mundane Interference25           |    | Jumieges54                         |    | History74                          |    |
-|                                  |    |                                    |    |                                    |    |
+**II. History of Mythic France**<br>
+Ancient Gaul<br>
+&emsp;St. Denis<br>
+The Merovingian Franks<br>
+&emsp;The Quinotaur<br>
+&emsp;The Holy Oil of Consecration<br>
+The Carolingian Dynasty<br>
+The Capetian Dynasty<br>
+Viking Invasion<br>
+&emsp;Viking Raiders and the Hermetic Order<br>
+Romance and Rebellion<br>
+&emsp;The Lions and the Lily<br>
+&emsp;King Philip Augustus<br>
+&emsp;The Angevin Challenge<br>
+&emsp;Bad King John?<br>
+&emsp;The Albigensian Crusade<br>
+&emsp;Le Morte d'Arthur
 
-| Setting and Physical Description74 | The Montagne de Reims100            | The Trad<br>ition of Kings 122                        |
-|------------------------------------|-------------------------------------|-------------------------------------------------------|
-| Culture and Traditions74           | Arras100                            | Saints123                                             |
-| Magi75                             | Boulogne100                         | The Noble Life 123                                    |
-| Atsingani 76                       | Amiens100                           | Duties of the Knight124                               |
-| History76                          | The Caves of Naours101              | Legal Issues125                                       |
-| Setting and Physical Description76 | Corbie101                           | Possible Homes for Magi126                            |
-| Culture and Traditions77           | Laon102                             | Magi and Landholders127                               |
-| Magi77                             | Compiègne102                        | The Advance of the Dominion 127                       |
-| Covenfolk78                        | The Forest of Cuise102              | The Growth of Towns127                                |
-|                                    | Prémontré102                        | Paris127                                              |
-| VII. Ile de France<br>79           | Requies Aeterna 102                 | The French Church128                                  |
-|                                    | History102                          | Hermetic Culture129                                   |
-| Paris 80                           | Setting and Physical Description103 | Tytalus Schemes 130                                   |
-| The History of Paris82             | Culture and Traditions103           | Cabal of the Laden Cart131                            |
-| Île de la Cité82                   | Magi103                             | Cabal of the Crushed Viper131                         |
-| The Left Bank83                    | Covenfolk103                        | The Primi Tytali131                                   |
-| The Right Bank83                   |                                     |                                                       |
-| Eboris 84                          | IX. Champagne                       | XI. Confluensis<br>133                                |
-| History84                          |                                     |                                                       |
-| Setting and Physical Description85 | and Burgundy<br>104                 | History 133                                           |
-| Culture and Traditions85           | Champagne 104                       | Setting and<br>Physical Description 133               |
-| Magi87                             | Châlons-en-Champagne104             | Buildings134                                          |
-| Lands Surrounding Paris 88         | Provins104                          | Magical Resources136                                  |
-| St. Denis88                        | Troyes105                           | Covenfolk136                                          |
-| St. Cloud88                        | Clairvaux106                        | Culture and Traditions136                             |
-| Chartres88                         | Cunfin 106                          | The Traitor136                                        |
-| The Forest of Fontainebleau89      | History107                          | Magi137                                               |
-| Lapis Crudus 89                    | Setting and Physical Description107 | Vassals138                                            |
-| History89                          | Culture and Traditions107           | Dragon's Rest138                                      |
-| Setting and Physical Description90 | Magi109                             | Confluensis Sagas 139                                 |
-| Culture and Traditions90           | Covenfolk111                        | The Praeco is Dead,                                   |
-| Magi90                             | Burgundy 111                        | Long Live The Praeco139                               |
-| Covenfolk91                        | Auxerre111                          | Riches and Vis139                                     |
-| Southern Ile de France 91          | Avallon112                          | The Haunted Woods                                     |
-| Sens91                             | Vézelay112                          | of Broceliande139                                     |
-| Orléans92                          | The Morvan112                       | The Specter of Rome139                                |
-| Fleury92                           | Mont Auxois113                      | City of God139                                        |
-| Bourges92                          | Autun113                            | The Strange Saint of Cotentin140                      |
-|                                    | Langres113                          | The Chapter of Cherbourg140<br>Young and In Charge140 |
-| VIII. Flanders and Picardy<br>93   | Dijon113                            |                                                       |
-| Flanders 93                        | Cîteaux113                          |                                                       |
-| Bruges93                           | Cluny114                            | Appendix A: Timeline<br>141                           |
-| Ghent94                            | Atramentum Renatus 114              | Past Events141                                        |
-| Antwerp95                          |                                     | Future Events143                                      |
-| Ypres96                            | X. Normandy Sagas<br>115            |                                                       |
-| Tournai96                          |                                     |                                                       |
-| Bavacum96                          | The Lotharingian Tribunal 115       | Appendix B:                                           |
-| Conventio Florum 96                | The Normandy Covenants116           | Languages and Names<br>143                            |
-| History96                          | The Rhine Covenants116              |                                                       |
-| Setting and Physical Description97 | The Cabal of Frankish Gold116       | Languages in France143                                |
-| Culture and Traditions97           | A Romantic Saga 116                 | Lists of Names143                                     |
-| Magi97                             | The Arthurian Cycle117              |                                                       |
-| Vassals98                          | The Matter of France118             | Appendix C: Bibliography<br>144                       |
-| Spider's Palace 98                 | The Romances and the Order118       | History144                                            |
-| Picardy 99                         | Romantic Saga Structure119          | Legend144                                             |
-| Soissons99                         | The Boar and<br>The Dragon 119      | Travel Guides144                                      |
-| Reims99                            | The Boar King119                    | Internet Sources144                                   |
-|                                    | The Children of Odin120             |                                                       |
+**III. Hermetic History and Culture**<br>
+The Shaping of the Tribunal<br>
+&emsp;Drawn in Bloodshed<br>
+Contemporary Hermetic Culture <br>
+&emsp;Heroes of Christendom<br>
+&emsp;Regionalism<br>
+&emsp;The Call to Adventure<br>
+&emsp;Blood, Sacred and Mystical<br>
+The Hermetic Landscape<br>
+The Perthean Compact<br>
+&emsp;Consequences of the Perthean Compact<br>
+&emsp;The Library of the Normandy Tribunal<br>
+&emsp;Mundane Resources<br>
+&emsp;Urban Covenants and the Town Senex<br>
+&emsp;Mundane Interference<br>
+Founding a New Covenant <br>
+&emsp;Liege and Vassal Covenants<br>
+&emsp;Independent Covenants<br>
+&emsp;Eremites and Coenobites<br>
+Tribunal Meetings<br>
+&emsp;The Hermetic Tourney
 
+**IV. Brittany**<br>
+County of Rennes<br>
+&emsp;Emerald Coast<br>
+&emsp;Rennes and the Eastern Argoat<br>
+&emsp;Brocéliande<br>
+Lordship of Penthièvre<br>
+&emsp;Rose Coast<br>
+&emsp;Central Argoat<br>
+Lordshio of Léon<br>
+&emsp;Pay de Léon<br>
+&emsp;Abers<br>
+&emsp;Brest and Crozon<br>
+&emsp;Arrée Mountains<br>
+Fudarus<br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfolk<br>
+&emsp;Exspectatio<br>
+County of Cornouaille<br>
+&emsp;Sein Island<br>
+&emsp;Noires Mountains and Western Argoat<br>
+Broërec<br>
+&emsp;Morbihan<br>
+&emsp;Carnac<br>
+&emsp;Southern Argoat<br>
+County of Nantes<br>
+&emsp;Grande Brière
+
+**V. Normandy**<br>
+The Duke of Normandy<br>
+&emsp;Norman Bailliages<br>
+The Archdiocese of Rouen<br>
+Seine River Basin<br>
+&emsp;Rouen<br>
+&emsp;Jumieges<br>
+The County of Bayeux<br>
+&emsp;The Town of Bayeux<br>
+&emsp;Caen<br>
+Cotentin Peninsula <br>
+&emsp;The Hague-Dicke<br>
+&emsp;Barfleur<br>
+Avranches<br>
+&emsp;Mont St. Michael<br>
+Montverte <br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfolk
+
+**VI. Anjou and Aquitaine**<br>
+Anjou <br>
+&emsp;Angers<br>
+&emsp;Chinon<br>
+&emsp;Le Mans<br>
+&emsp;Tours<br>
+&emsp;Samur<br>
+&emsp;Vendôme<br>
+Aquitaine<br>
+&emsp;Vendée<br>
+&emsp;La Rochelle<br>
+&emsp;Poitiers<br>
+&emsp;Lusignan<br>
+&emsp;Bougon Tumuli<br>
+&emsp;Angoulême<br>
+&emsp;Limoges<br>
+&emsp;Saintes<br>
+&emsp;St-Èmilion<br>
+&emsp;Le Cité<br>
+&emsp;Bergerac<br>
+&emsp;Vézère<br>
+&emsp;Clermont<br>
+&emsp;Auvergne Mountains<br>
+Oleron<br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Vassals<br>
+Nidi <br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+Atsingani <br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfolk
+
+**VII. Ile de France**<br>
+Paris <br>
+&emsp;The History of Paris<br>
+&emsp;Île de la Cité<br>
+&emsp;The Left Bank<br>
+&emsp;The Right Bank<br>
+Eboris <br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+Lands Surrounding Paris<br>
+&emsp;St. Denis<br>
+&emsp;St. Cloud<br>
+&emsp;Chartres<br>
+&emsp;The Forest of Fontainebleau<br>
+Lapis Crudus<br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfol<br>
+Southern Ile de France<br>
+&emsp;Sens<br>
+&emsp;Orléans<br>
+&emsp;Fleury<br>
+&emsp;Bourges
+
+**VIII. Flanders and Picardy**<br>
+Flanders<br>
+&emsp;Bruges<br>
+&emsp;Ghent<br>
+&emsp;Antwerp<br>
+&emsp;Ypres<br>
+&emsp;Tournai<br>
+&emsp;Bavacum<br>
+Conventio Florum<br>
+&emsp;History<br>
+&emsp;etting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Vassals<br>
+Spider's Palace<br>
+Picardy<br>
+&emsp;Soissons<br>
+&emsp;Reims<br>
+&emsp;The Montagne de Reims<br>
+&emsp;Arras<br>
+&emsp;Boulogne<br>
+&emsp;Amiens<br>
+&emsp;The Caves of Naours<br>
+&emsp;Corbie<br>
+&emsp;Laon<br>
+&emsp;The Advance of the Dominion<br>
+&emsp;The Forest of Cuise<br>
+&emsp;Prémontré<br>
+Requies Aeterna<br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfolk
+
+**IX. Champagne and Burgundy**<br>
+Champagne <br>
+&emsp;Châlons-en-Champagne<br>
+&emsp;Provins<br>
+&emsp;Troyes<br>
+&emsp;lairvaux<br>
+Cunfin<br>
+&emsp;History<br>
+&emsp;Setting and Physical Description<br>
+&emsp;Culture and Traditions<br>
+&emsp;Magi<br>
+&emsp;Covenfolk<br>
+Burgundy<br>
+&emsp;Auxerre<br>
+&emsp;Avallon<br>
+&emsp;Vézelay<br>
+&emsp;The Morvan<br>
+&emsp;Mont Auxois<br>
+&emsp;Autun<br>
+&emsp;Langres<br>
+&emsp;Dijon<br>
+&emsp;Cîteaux<br>
+&emsp;Cluny<br>
+Atramentum Renatus
+
+**X. Normandy Sagas**<br>
+The Lotharingian Tribunal<br>
+&emsp;The Normandy Covenants<br>
+&emsp;The Rhine Covenants<br>
+&emsp;The Cabal of Frankish Gold<br>
+A Romantic Saga<br>
+&emsp;The Arthurian Cycle<br>
+&emsp;The Matter of France<br>
+&emsp;The Romances and the Order<br>
+&emsp;Romantic Saga Structure<br>
+The Boar and hte Dragon<br>
+&emsp;The Boar King<br>
+&emsp;The Children of Odin<br>
+The Tradition of Kings <br>
+&emsp;Saints<br>
+The Noble Life <br>
+&emsp;Duties of the Knight<br>
+&emsp;Legal Issues<br>
+&emsp;Possible Homes for Magi<br>
+&emsp;Magi and Landholders<br>
+The Advance of the Dominion<br>
+&emsp;The Growth of Towns<br>
+&emsp;Paris<br>
+&emsp;The French Church<br>
+&emsp;Hermetic Culture<br>
+Tytalus Schemes <br>
+&emsp;Cabal of the Laden Cart<br>
+&emsp;Cabal of the Crushed Viper<br>
+&emsp;The Primi Tytali
+
+**XI. Confluensis**<br>
+History<br>
+Setting and Physical Description<br>
+&emsp;Buildings<br>
+&emsp;Magical Resources<br>
+&emsp;Covenfolk<br>
+&emsp;Culture and Traditions<br>
+&emsp;The Traitor<br>
+&emsp;Magi<br>
+&emsp;Vassals<br>
+&emsp;Dragon's Rest<br>
+Confluensis Sagas <br>
+&emsp;The Praeco is Dead, Long Live The Praeco<br>
+&emsp;Riches and Vis<br>
+&emsp;The Haunted Woods of Broceliande<br>
+&emsp;The Specter of Rome<br>
+&emsp;City of God<br>
+&emsp;The Chapter of Cherbourg<br>
+&emsp;Young and In Charge
+
+**Appendix A: Timeline**<br>
+&emsp;Past Events<br>
+&emsp;Future Events
+
+**Appendix B: Languages and Names**<br>
+&emsp;Languages in France<br>
+&emsp;Lists of Names
+
+**Appendix C: Bibliography**<br>
+&emsp;History<br>
+&emsp;Legend<br>
+&emsp;Travel Guides<br>
+&emsp;Internet Sources
 
 # Chapter One: Introduction
 
@@ -720,8 +898,7 @@ It is vital for magi using this legal separation that their masks never identify
 
 There have been no specific rulings, which sets the Tribunal's policy regarding the use of agencies and masks on unstable ground. Magi who are new to the Tribunal may witness events that would be considered violations of the Code of Hermes in other Tribunals, and even by a strict interpretation of Normandy's Peripheral Code. However, there are numerous precedents that give a defendant legal standing when testing whether ruin was actually caused by his actions, and the Tribunal rarely convicts in situations where damage to a Hermetic magus cannot be unequivocally demonstrated.
 
->#### An Ear for Distant Bells
->
+>##### An Ear for Distant Bells
 >InIm Level 15 R: Personal, D: Concentration, T: Hearing
 >
 >This spell allows the caster to precisely determine the distance and direction from their location to the source of a sound. This spell was invented in the Normandy Tribunal by the Quaesitor Fluvius.
@@ -960,7 +1137,7 @@ The 21st position, the Siege of Alms, is a consolation prize. Around 24 teams us
 Any covenant achieving one of the named ranks in the Tourney has an appropriate Hermetic Reputation of level 2 for the next seven years.
 
 
->##### Tourney Events
+>#### Tourney Events
 >
 >Tradition and the rules demand there must always be an even number of teams in the tournament. The Redcaps will go to some lengths to attract visiting teams to ensure that this is so, and all teams must have registered. The hosting covenant's choice must also be declared by the summer solstice of the year preceding the event, by a Redcap-delivered message to Confluensis.
 >
@@ -1436,8 +1613,7 @@ When playing the role of Lord Heusaff, Harpax uses his magic to change his appea
 >
 >The Circlet of the Primus commands the spiritual servants of the covenant. Although they can rarely be detected, every room has several invisible spirits within it that perform the simple, menial tasks of the covenant. The servants normally perform whatever task to which they were last set, and the wearer of the circlet is the only individual who can change the commands of a spirit. Prima Buliste currently wears the circlet.
 >
->#### Control Spirit
->
+>##### Control Spirit
 >Rego Vim 55 <br>
 >Pen: 20, unlimited uses per day <br>
 >R: Arc, D: Conc, T: Ind.
@@ -1489,13 +1665,14 @@ A leading member of the Titanoi, House Tytalus's cult of theurgists (see *Houses
 >**Age:** 26
 >
 >**Decrepitude:** 0 
+>
 >**Warping Score:** 0 (4) 
 >
 >**Confidence Score:** 2 (6)
 >
 >**Virtues and Flaws:** The Gift; Hermetic Magus; Flexible Formulaic Magic; Affinity with Rego, Clear Thinker, Harnessed Magic, Magical Focus (Turmoil), Puissant Concentration, Puissant Terram, Self Confident\*; Chaotic Magic, Meddler; Close Family Ties, Incomprehensible, Weird Magic.
 >
->\*House Virtue
+>\* House Virtue
 >
 >**Personality Traits:** Argumentative +2, Self-Disciplined +2, Brave +1
 >
@@ -2782,22 +2959,16 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 >
 >**Equipment:** A wooden trolley with rickety wheels. His talisman is a wand crudely carved from a human leg bone, and inlaid with three small bloodstones. It grants him the following bonuses: +4 destroy human body, +4 blood and wounds. The talisman currently has two enchantments:
 >
->**Agony of the Uncharitable Stranger**
->
->PeCo 30
->
->R: Voice, D: Conc, T: Ind
->
+>##### Agony of the Uncharitable Stranger
+>PeCo 30<br>
+>R: Voice, D: Conc, T: Ind<br>
 >Pen: 20, 24 uses/day
 >
 >The target is riddled with stabbing pains. (Base 4, +2 Voice, +1 Conc; +10 for Penetration Total of 20, +5 24 uses per day)
 >
->**Hobble the Foul-Mouthed Wretch**
->
->PeCo 40
->
->R: Voice, D: Sun, T: Ind
->
+>##### Hobble the Foul-Mouthed Wretch<br>
+>PeCo 40<br>
+>R: Voice, D: Sun, T: Ind<br>
 >Pen: 20, 24 uses/day
 >
 >The target is lamed for the duration of the spell.
@@ -2809,16 +2980,16 @@ Just over a mile to the north of the city walls is the Montmartre (martyr's moun
 >*Agony of the Beast* (PeAn 15/+19) *Arm of the Infant* (MuCo 20/+24) *Aura of Rightful Authority* (ReMe 20/+31) *Bane of the Decrepit Body* (PeCo 25/+40) *Circle of Beast Warding* (ReCo 5/+28) *Cripple the Howling Wolf* (PeAn 25/+23) *Disguise of the New Visage* (MuCo 15/+24) *Gift of Frog's Legs* (ReCo 15/+32) *Loss of But a Moment's Memory* (PeMe 15/+25) *Panic of the Trembling Heart* (CrMe 15/+28) *Posing the Silent Question* (InMe 20/+21) *Prison of Flames* (MuIg 20/+14) *Stench of Twenty Corpses* (CrAu 10/+19) *The Irresistible Pressgang* (CrMe 40/+28) *The Twisted Spine* (MuCo 25/+24) *The Wound that Weeps* (PeCo 15/+26) *Trust of Childlike Faith* (PeMe 10/+35)
 >
 >
->**New Spell: The Irresistible Pressgang** CrMe 35
->
+>##### New Spell: The Irresistible Pressgang** 
+>CrMe 35<br>
 >R: Touch, D: Year, T: Group, Ritual
 >
 >A group of men are granted a Loyal +4 Personality Trait, with the object of this fanatical loyalty being the caster. This spell is both a powerful and a continuing mystical effect, and the targets will accumulate a total of 5 Warping Points by its end.
 >
 >(Base 4, +1 Touch, +4 Year, +2 Group)
 >
->**New Spell: The Twisted Spine** Mu(Pe)Co 20
->
+>##### New Spell: The Twisted Spine 
+>Mu(Pe)Co 20<br>
 >R: Voice, D: Sun, T: Ind
 >
 >The target is crippled as his backbone warps and twists. He will be in agony every time he tries to move.
@@ -4027,8 +4198,7 @@ Cult Initiates must (as their first Quest) find their way, unaided, onto the dec
 >
 >A group of monasteries on the Normandy coast are raided by Vikings, and as the covenant is nearby the magi are asked to perform (or assist in) an investigation. There are also a number of merchant ships missing in the area. As it is more than two hundred years since the age of the Viking raids, it will be obvious to the characters that there must be some kind of trick or magical explanation behind such an anachronistic assault. Investigation might reveal that Hermetic magic has contributed to the raids, but any Hermetic sigils appear to be shrouded (see ArM5, page 159). In fact, the assault is the work of the Children of Odin, and the spell *Nordic Triumph* has been used to produce the effect. Mounting these attacks was a Mystery Initiation Quest, and the investigators may discover the responsible cult member. Alternatively, if a player character magus is a Child of Odin, he may in fact be the responsible cult member.
 >
->#### Nordic Triumph
->
+>##### Nordic Triumph
 >MuMe(He)(Te) Level 65<br> 
 >R: Touch, D: Moon, T: Structure, Ritual
 >
