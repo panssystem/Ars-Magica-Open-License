@@ -1643,7 +1643,7 @@ Encumbrance: 0 (0)
 
 Spells Known:
 
-Phantom of the Talking Head (Crlm 10/+8) Aura of Ennobled Presence (Mulm 10/+8) Piercing the Faerie Veil (InVi 20/+18) Piercing the Magical Veil (InVi 20/+18) (see Piercing the Faerie Veil)
+Phantom of the Talking Head (CrIm 10/+8) Aura of Ennobled Presence (MuIm 10/+8) Piercing the Faerie Veil (InVi 20/+18) Piercing the Magical Veil (InVi 20/+18) (see Piercing the Faerie Veil)
 
 Unraveling the Fabric of Imaginem (PeVi 20/+16) Wind of Mundane Silence (PeVi 20/+16)
 
@@ -1767,7 +1767,7 @@ Encumbrance: 0 (0) Spells Known:
 
 Physician's Eye (InCo 5/+20) Eyes of the Eagle (InIm 25/+21)
 
-Summoning the Distant Image (InIm 25/+21) Invisibility of the Standing Wizard (Pelm 15/+8)
+Summoning the Distant Image (InIm 25/+21) Invisibility of the Standing Wizard (PeIm 15/+8)
 
 Frosty Breath of the Stoken Lie (InMe 20/ +21)
 
@@ -1815,7 +1815,7 @@ Encumbrance: 0 (0)
 
 Spells Known:
 
-Phantasm of the Talking Head (CrIm 10/+16) Phantasm of the Human Form (Crlm 25/+16) Discern Own Illusions (InIm 15/+11) Taste of the Spices and Herbs (MuIm 5/+16) Aura of Ennobled Presence (MuIm 10/+16) Notes of a Delightful Sound (MuIm 10/+16) Disguise of the Transformed Image (Mulm 15/+16) Illusion of Cool Flames (PeIm 10/+6)
+Phantasm of the Talking Head (CrIm 10/+16) Phantasm of the Human Form (CrIm 25/+16) Discern Own Illusions (InIm 15/+11) Taste of the Spices and Herbs (MuIm 5/+16) Aura of Ennobled Presence (MuIm 10/+16) Notes of a Delightful Sound (MuIm 10/+16) Disguise of the Transformed Image (MuIm 15/+16) Illusion of Cool Flames (PeIm 10/+6)
 
 Illusion of the Shifted Image (ReIm 10/+16) Wizard's Sidestep (ReIm 10/+16)
 
@@ -1908,7 +1908,7 @@ Phantasm of the Human Form (CrIm 25/+17)
 
 Image Phantom (MuIm 20/+17)
 
-Veil of Invisibility (Pelm 20/+14)
+Veil of Invisibility (PeIm 20/+14)
 
 Wizard's Sidestep (ReIm 10/+17)
 
@@ -2357,7 +2357,7 @@ Magi must have the following minimum Abilities: Parma Magica 1, Magic Theory 1, 
 >
 > Then he looks at Hermetic Arts. He has 60 experience points left. He spends 37 points on Perdo, which his affinity turns into 56 points, so that he has Perdo 10 (1), and a bonus of +3 from Puissant. Then he puts almost all of the rest into Creo and Corpus: 15 exp on Creo 5, 3 exp on Corpus 2.
 >
-> Darius adds 11 to his Technique + Form to determine the highest level spell he can learn (his Magic Theory specialty in "inventing spells" applies). He chooses to take all Perdo spells, selecting The Wound that Weeps (PeCo 15), Dust to Dust (PeCo 15), Parching Wind (PeAq 20), Soothe the Raging Flames (Pelg 20), Veil of Invisibility (Pelm 20), Calm the Motion of the Heart (PeMe 15), and Loss of But a Moment's Memory (PeMe 15).
+> Darius adds 11 to his Technique + Form to determine the highest level spell he can learn (his Magic Theory specialty in "inventing spells" applies). He chooses to take all Perdo spells, selecting The Wound that Weeps (PeCo 15), Dust to Dust (PeCo 15), Parching Wind (PeAq 20), Soothe the Raging Flames (PeIg 20), Veil of Invisibility (PeIm 20), Calm the Motion of the Heart (PeMe 15), and Loss of But a Moment's Memory (PeMe 15).
 >
 > Because of his Flawless Magic Virtue, Darius has a Mastery Score of one in each spell, and thus Niall has to choose a special ability for each.
 >
@@ -2552,19 +2552,19 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > Mastery 1 (Fast Casting)
 >
-> Winter's Icy Touch (Pelg 10/+28),
+> Winter's Icy Touch (PeIg 10/+28),
 >
 > Mastery 1 (Penetration)
 >
-> Soothe the Raging Flames (Pelg 20/+28),
+> Soothe the Raging Flames (PeIg 20/+28),
 >
 > Mastery 1 (Fast Casting)
 >
-> Ward Against Heat and Flames (Relg 25/+16),
+> Ward Against Heat and Flames (ReIg 25/+16),
 >
 > Mastery 1 (Fast Casting)
 >
-> Veil of Invisibility (Pelm 20/+28),
+> Veil of Invisibility (PeIm 20/+28),
 >
 > Mastery 2 (Quiet Casting x 2)
 >
@@ -13287,7 +13287,7 @@ A spell that has a continuing effect remains in effect even if the caster moves 
 
 **Eye:** The magus may target any person or creature that he has established eye contact with. A human being who knows of no reason to avoid eye contact makes it automatically if dealing with the magus in a social setting. The Gift does not make people avoid eye contact. It is impossible to make eye contact with an unwilling human without getting at least two people to hold the victim down. It is effectively impossible to make eye contact with an enemy in combat, they aren't looking at your eyes. It typically takes a combat round to establish eye contact with a calm animal, before the magus can start casting the spell. This adds 1 magnitude to the guideline. (Touch and Eye are the same "level" of range.)
 
-**Voice:** Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while guiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of Pelm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (Crlm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
+**Voice:** Anything to which the magus's voice carries. Typically, firm words carry about 15 paces, while guiet words are audible within 5 paces and a shout carries about 50. Magical enhancement of the voice does not increase this range, and a spell cast silently at this range can affect only the caster. The range of Ritual and ceremonial spells with Voice Range is about 50 paces, because the process of casting involves a loud voice at some point. Non-human casters, including Bjornaer in Heartbeast form, may have different ranges for their voice. Magical shapeshifting falls under magical enhancement of the voice, however. The range is based on the distance that the caster's voice carries, not on whether the target can hear it. Deaf targets, stones, targets in a noisy environment, and targets under the influence of PeIm spells that stop sounds from reaching them can all be affected at the normal range. However, if the caster is silenced or quietened by magic, the range is reduced. Such a spell must penetrate the caster's Magic Resistance. Magic items use the wielder's voice; independent items need to be given a voice (CrIm) to use this range. The range is established when the spell is cast, and remains the same even if the magus changes the loudness of his voice. Thus, a Voice range spell can allow silent control, but only as long as the target is within the distance that the magus's voice carried when he cast the spell. This adds 2 magnitudes to the guideline.
 
 **Sight:** Anything that the magus can see. If the magus is standing on the highest point for miles, this range can be immense. A blind magus can only affect himself. A magic item uses the wielder's sight, independent items need to be able to see (InIm) to use this range. This adds 3 magnitudes to the guideline.
 
@@ -15851,7 +15851,7 @@ The human image created (as in Phantasm of the Human Form) has limited freedom a
 
 Generally, these spells have the least to do with illusions of all the Imaginem spells, because one detects an image without altering or controlling it. These spells improve upon your senses by bringing in images (usually sounds and sights) not normally available.
 
-Note that seeing or hearing into another room or a hundred miles away does you no good if there is no light or sound there. As in Crlm spells, each additional sense you wish to perceive increases the level of the spell by one magnitude.
+Note that seeing or hearing into another room or a hundred miles away does you no good if there is no light or sound there. As in CrIm spells, each additional sense you wish to perceive increases the level of the spell by one magnitude.
 
 As with most Intellego magic, Intellego Imaginem botches normally give false information.
 
@@ -15981,7 +15981,7 @@ Perdo Imaginem botches might make the image more intense, or destroy the wrong i
 
 ##### Dispel the Phantom Image
 R: Voice, D: Mom, T: Ind<br>
-Destroys the image from any one Crlm spell whose level you match or exceed on a stress die + the level of your spell.<br>
+Destroys the image from any one CrIm spell whose level you match or exceed on a stress die + the level of your spell.<br>
 (Base effect)
 
 #### LEVEL 5
@@ -16033,7 +16033,7 @@ Causes a Group of creatures to become invisible. Any affected character who move
 
 ### Rego Imaginem Guidelines
 
-These spells make things appear to be somewhere other than where they actually are. As with Crlm and Pelm, it is slightly harder to affect changing images. Add one level of magnitude to spells that do so. Add a further level of magnitude if the image is to change along with the object. Add one level of magnitude to the guidelines for each additional sense to be affected.
+These spells make things appear to be somewhere other than where they actually are. As with CrIm and PeIm, it is slightly harder to affect changing images. Add one level of magnitude to spells that do so. Add a further level of magnitude if the image is to change along with the object. Add one level of magnitude to the guidelines for each additional sense to be affected.
 
 Rego Imaginem botches might control the wrong image, or do something completely inappropriate to the targeted image.
 
@@ -16053,7 +16053,7 @@ Rego Imaginem botches might control the wrong image, or do something completely 
 
 ##### Restore the Moved Image
 R: Voice, D: Mom, T: Ind<br>
-Cancels a Relm spell that moves an image, putting the image back where it belongs, as long as you can match the spell's level on a stress die + the level of your spell. This spell targets the image.<br>
+Cancels a ReIm spell that moves an image, putting the image back where it belongs, as long as you can match the spell's level on a stress die + the level of your spell. This spell targets the image.<br>
 (Base effect)
 
 #### LEVEL 10
@@ -20420,7 +20420,7 @@ A water elemental's body is composed entirely of water. It can roll across the g
 > *Chill Touch*, 2 points, Init equal to (Qik + 4), Ignem<br>
 > R: Touch, D: Mom, T: Ind<br>
 > The lympha's touch extracts heat from a target, inflicting +10 damage. This damage is Soaked without the benefit of armor, as the watery body of the elemental seeps through all protection.<br>
-> Pelg 15 (Base 10, +1 Touch)
+> PeIg 15 (Base 10, +1 Touch)
 >
 > *Sight of the River*, 2 points, Init equal to (Qik – 1), Imaginem<br>
 > R: Arc, D: Conc, T: Room<br>
@@ -20555,7 +20555,7 @@ The body of a fire elemental is composed entirely of fire. The elemental can onl
 > *Heat of the Searing Forge*, 1 point, Init equal to (Qik + 6), Ignem<br>
 > R: Voice, D: Mom, T: Ind<br>
 > Like the Creo Ignem spell of the same name. Note that this power works at a distance, whereas the Burn power affects only items that touch the elemental.<br>
-> Crlg 10 (Base 4, +2 Voice)
+> CrIg 10 (Base 4, +2 Voice)
 
 #### A Fire Elemental
 
