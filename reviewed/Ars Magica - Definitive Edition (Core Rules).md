@@ -8,7 +8,7 @@ Open License Markdown version by OriginalMadman, https://github.com/OriginalMadm
 
 *Some identified issues from source PDF: "Casting Tablets" section is weird and seems to have wrong table; Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading); Creo Auram Guidelines unclear notes under Level 25 (fixed);*
 
-*For readability in Markdown, the Uppercase headings (originally in a font suitable for that) througout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
+*For readability in Markdown, the Uppercase headings (originally in a font suitable for that) throughout have been replaced with Chicago Manual of Style Title Case headings (except headings denoting spell LEVEL sections)*
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -58,7 +58,9 @@ Ars Magica Creators: Jonathan Tweet and Mark Rein•Hagen
 
 ## Definitive Edition Credits
 
-Producers: Michelle Nephew & Ben Hartfield Revision & Project Management: David Chart
+Producers: Michelle Nephew & Ben Hartfield 
+
+Revision & Project Management: David Chart
 
 Graphic Design & Layout: Ben Hartfield
 
@@ -88,15 +90,11 @@ Christian Rosenkjaer Andersen, Jason Brennan, Volker Bürkel, Evangeline Cheng, 
 
 ## Fifth Edition Playtesters
 
-First Round: John Bull, Lloyd Graney, Pete Hiley, Christian Jensen-Romer, Kevin Sides, David Woods,
+First Round: John Bull, Lloyd Graney, Pete Hiley, Christian Jensen-Romer, Kevin Sides, David Woods, Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Chris Blake, Joel Coldren, Mike Daumen, Mike Graves, Ann Harper, Jason Morningstar, Patrick M. Murphy, Steve Segedy, Tom Zito; Matt Ryan, Jessica Ryan, Roland Ryan, Sarah Ferguson-Wagstaffe, Jesse Koennecke, Asif Chaudhry, Robert Ahrens; Ian Radford, Mary Woodcock-Kroble, Derek Middlemiss, James Girdwood, Jerry Braverman, Kim Braverman, Erik Dahl, Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Ulrich Willmünder, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
-Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Chris Blake, Joel Coldren, Mike Daumen, Mike Graves, Ann Harper, Jason Morningstar, Patrick M. Murphy, Steve Segedy, Tom Zito; Matt Ryan, Jessica Ryan, Roland Ryan, Sarah Ferguson-Wagstaffe, Jesse Koennecke, Asif Chaudhry, Robert Ahrens; Ian Radford, Mary Woodcock-Kroble, Derek Middlemiss, James Girdwood, Jerry Braverman, Kim Braverman, Erik Dahl, Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Ulrich Willmünder, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
+Second Round: Niall Christie: Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott; Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Mike Longfritz, Andrew Mitchell, Vesna Gronosky, Arwen Warlock, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Angus MacDonald, Kevin Sours, Luke Miller, Sean Winslow, Stephanie Sours, Michael Bors, Brock Close, Gary N. Mengle, Sean Mitchell; Matt Ryan, Jesse Koennecke, Roland Ryan, Robert Ahrens, Sarah Ferguson-Wagstaffe, Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder; Jack Fairchild, Matthew Law, Paul "Polly" Stephenson, Alexander White, Erik Hendrickson, Scott Kieffer, Brian Malcolm, Jeffrey Miller, David Woods, Peter Clark, Lloyd Graney, Luke Price, CJ Romer, Kevin Sides, Ed Woods, Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Dale Beach, Joel Coldren, Mike Graves, Jason Morningstar, Scott Morningstar, Patrick M. Murphy, Steve Segedy, Enno Siemsen, Tom Zito
 
-Second Round: Niall Christie: Jerry Braverman. Kim Braverman, Erik Dahl, Thomas L. Scott; Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Mike Longfritz, Andrew Mitchell, Vesna Gronosky, Arwen Warlock, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Angus MacDonald, Kevin Sours, Luke Miller, Sean Winslow, Stephanie Sours, Michael Bors, Brock Close, Gary N. Mengle, Sean Mitchell; Matt Ryan, Jesse Koennecke, Roland Ryan, Robert Ahrens, Sarah Ferguson-Wagstaffe, Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder; Jack Fairchild, Matthew Law, Paul "Polly" Stephenson, Alexander White, Erik Hendrickson, Scott Kieffer, Brian Malcolm, Jeffrey Miller, David Woods, Peter Clark, Lloyd Graney, Luke Price, CJ Romer, Kevin Sides, Ed Woods, Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Dale Beach, Joel Coldren, Mike Graves, Jason Morningstar, Scott Morningstar, Patrick M. Murphy, Steve Segedy, Enno Siemsen, Tom Zito
-
-Third Round: Lloyd Graney, Pete Hiley, Chris Jensen-Romer, Paul Jenchowski, Luke Price, Kevin Sides, Ed Woods; Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Mike Longfritz, Andrew Mitchell, Arwen Warlock; Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville; Michael Bors, Richard Alan Brentar, John Burrell, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Curtis Mustain, Michael Simone; Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber,
-
-Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Matt Ryan, Roland Ryan, Robert Ahrens, Jesse Koennecke, Sarah Ferguson-Wagstaffe; Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, David Woods; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor; Sean Winslow; Dan Baseman, Robert Jankovich, Jeff Schmidt, Erik Tyrrell; Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
+Third Round: Lloyd Graney, Pete Hiley, Chris Jensen-Romer, Paul Jenchowski, Luke Price, Kevin Sides, Ed Woods; Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Mike Longfritz, Andrew Mitchell, Arwen Warlock; Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville; Michael Bors, Richard Alan Brentar, John Burrell, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Curtis Mustain, Michael Simone; Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Matt Ryan, Roland Ryan, Robert Ahrens, Jesse Koennecke, Sarah Ferguson-Wagstaffe; Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, David Woods; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor; Sean Winslow; Dan Baseman, Robert Jankovich, Jeff Schmidt, Erik Tyrrell; Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
 Fourth Round: Niall Christie: Chris Jensen-Romer, Peter Hiley, Paul Jenchowski, Luke Price, Lloyd Graney, Kevin Sides, Ed Woods, Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell; Michael Bors, Richard Alan Brentar, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Michael Simone, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle, Robert Ahrens, Sarah Ferguson-Wagstaffe, Daniel Ilut, Jesse Koennecke, Matt Ryan, Roland Ryan, Miriam Wallace, Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder, David Woods, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
@@ -130,9 +128,7 @@ Made of FSC®-certified paper that was responsibly sourced.
 
 ## Memorials
 
-Spanning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars
-
-Magica was a signifiant part of their lives. Here we pay tribute to the memory of those Ars Magica players we've lost. Vale sodales.
+Spanning nearly 40 years, Ars Magica is an intergenerational game that has sparked long-lasting communities across the globe. Our crowdfunding campaign comments were filled with memories of loved ones gone to Final Twilight, for whom Ars Magica was a significant part of their lives. Here we pay tribute to the memory of those Ars Magica players we've lost. Vale sodales.
 
 **FATHER JOHN ALEXIS**<br>
 **IVAN BALABUCK**<br>
@@ -1974,9 +1970,9 @@ Circling Winds of Protection (Cr(Re)Au 20/+16)
 
 Rain of Stones (MuAu(Te) 20/+16)
 
-Pilum of Fire (Crlg 20/+16)
+Pilum of Fire (CrIg 20/+16)
 
-Soothe the Raging Flames (Pelg 20/+16)
+Soothe the Raging Flames (PeIg 20/+16)
 
 Seal the Earth (CrTe 15/+16)
 
@@ -3418,7 +3414,7 @@ These characters are from the Iberian Peninsula, and if they are particularly fa
 
 Minor, Social Status
 
-The character is a member of a band of mercenaries and raiders. living a life of adventure according to a code of honor and discipline. He shares a bond of solidarity with his fellows, and they can depend on each other's loyalty. He has Standard Armaments, and may take Martial Abilities. He may choose to be the Adalil, the second-incommand, at no additional cost, getting an increase in both authority and responsibility. He is supported by his unit, and may not take the Poor Flaw or Wealthy Virtue.
+The character is a member of a band of mercenaries and raiders, living a life of adventure according to a code of honor and discipline. He shares a bond of solidarity with his fellows, and they can depend on each other's loyalty. He has Standard Armaments, and may take Martial Abilities. He may choose to be the Adalil, the second-in-command, at no additional cost, getting an increase in both authority and responsibility. He is supported by his unit, and may not take the Poor Flaw or Wealthy Virtue.
 
 These characters are from the Iberian Peninsula, and if they are particularly far from home the troupe may rule that this is not available as a social status.
 
@@ -13453,7 +13449,7 @@ If the target spirit is in Mythic Europe, a Formulaic (or Spontaneous) spell is 
 >
 > Spells with container Targets, including Circle, Room, Structure, and Boundary, can work in one of two ways.
 >
-> First, they can affect any valid target within the Target container at the time of casting, and continue to affect those targets even if they leave the original target area. The effects continue even if the target container ceases to exist, for as long as the spell lasts (Circles are an exception, and spells of this type with Circle Targets end if the circle is broken). It does not affect anything that enters the target container later, even if the spell is still in effect. This is the way that spells with object Targets work. and can be referred to as a static target, because the things targeted by the spell are fixed when the spell is cast, and do not change.
+> First, they can affect any valid target within the Target container at the time of casting, and continue to affect those targets even if they leave the original target area. The effects continue even if the target container ceases to exist, for as long as the spell lasts (Circles are an exception, and spells of this type with Circle Targets end if the circle is broken). It does not affect anything that enters the target container later, even if the spell is still in effect. This is the way that spells with object Targets work, and can be referred to as a static target, because the things targeted by the spell are fixed when the spell is cast, and do not change.
 > 
 > Second, they can affect any valid target within the Target container during the spell's period of effect. In this case, a valid target that leaves the container ceases to be affected by the spell, and a valid target that enters (or re-enters) the container is affected, until it leaves or the spell expires. In this case, the spell ends if the container ceases to exist, even if it has duration left. This can be referred to as a dynamic target, because the things that are targeted by the spell can change over the duration.
 >
@@ -17369,7 +17365,7 @@ A character may teach several students. The maximum number of students is equal 
 
 A teacher may gain exposure to Teaching or the language of instruction, but cannot do anything else in a season when she is teaching.
 
-Hermetic Arts can be taught, but only one-onone. The normal +6 bonus for having only a single student applies.
+Hermetic Arts can be taught, but only one-on-one. The normal +6 bonus for having only a single student applies.
 
 ### Books
 
@@ -23168,7 +23164,7 @@ One problem with this sort of story is that the magi might not want to help, so 
 - A village is being stalked by a monster which carries off and eats virgins.
 - The same village, nine months later, has a lot of strange babies who don't appear entirely human.
 - A village is threatened by famine after the river dried up.
-- The relics have been stolen from an abbey, and the monks fear that magic or devilworshippers were involved.
+- The relics have been stolen from an abbey, and the monks fear that magic or devil worshippers were involved.
 - Magi at the covenant made a bargain, almost a century ago, with a powerful monster, so that it would not destroy a city. The period of the bargain is almost up, and the city elders want the current magi to extend it. They have no idea what the details were.
 - A nobleman is involved in a dispute with his neighbor, which is heading towards war. He portrays himself as the innocent victim of an unscrupulous robber, and begs the assistance of the magi.
 - The other nobleman turns up a week later with a similar story of wronged innocence.
