@@ -1469,7 +1469,7 @@ When the Sultan died, Ibn Sina became embroiled in the struggles for the throne 
 
 #### Teachings of Ibn Sina
 
-Many students of medicine approached Ibn Sina during his travels to request training, but he only selected Muslims with The Gift or those who showed an aptitude for the Elementalist Arts. Ibn Sina did teach several students over his lifetime, and he instructed them in the importance of acquiring knowledge and transmitting it. Ibn Sina would often take students who were less-than-devout Muslims, and he would always instruct them in the importance of following the tenets of the Quran. He did not hesitate to dismiss students who failed to become more righteous or showed little promise. Tulab Ibn Sina follows the same principles today. The group is constantly searching for exceptional physicians and untrained healers who are suitable for being taught the Elementalist Arts. If the student is also a Muslim, then the Tulab [bn Sina accept the new student into the fold.
+Many students of medicine approached Ibn Sina during his travels to request training, but he only selected Muslims with The Gift or those who showed an aptitude for the Elementalist Arts. Ibn Sina did teach several students over his lifetime, and he instructed them in the importance of acquiring knowledge and transmitting it. Ibn Sina would often take students who were less-than-devout Muslims, and he would always instruct them in the importance of following the tenets of the Quran. He did not hesitate to dismiss students who failed to become more righteous or showed little promise. Tulab Ibn Sina follows the same principles today. The group is constantly searching for exceptional physicians and untrained healers who are suitable for being taught the Elementalist Arts. If the student is also a Muslim, then the Tulab Ibn Sina accept the new student into the fold.
 
 Gifted members of this tradition learn Medicinal Summoning, Medicinal Divining, and all the Elementalist Forms. UnGifted members, however, may only gain access to their Arts through Initiation. Because the Ritual of Refining the Physician's Character is not required for a member to utilize the traditions magic, only the very dedicated undergo it.
 
@@ -6720,7 +6720,7 @@ Gebo 30, Method II
 
 The vitki inscribes the runes on a piece of jewelry that is given to another as a gift. While wearing it, the target is compelled to do as the vitki says, generally deferring to his judgment in all things that are not obviously dangerous or against its own interests.
 
-### h, hagalaz, "hail"
+### H, Hagalaz, "Hail"
 
 (Pronounced "HAH-ghah-lahz")
 
@@ -6740,7 +6740,7 @@ When used as a target, Hagalaz is almost always part of Auram or specific aspect
 >
 >Level 25:Summon a very severe weather phenomenon, for example, a tornado or a blizzard.
 
-#### ample Hagalaz Rune Spells
+#### Sample Hagalaz Rune Spells
 
 **I, (THE RUNEMASTER), DEDICATE HELMET-DESTROYING HAIL.** <br>
 Hagalaz General, Method I
@@ -6959,7 +6959,7 @@ Naudiz (Ingwaz) 20, Method II
 
 All those who live in the target structure begin to feel deep despair and self-loathing, beset by strife. For as long as the runes last, their Confidence Scores are reduced by 1. For most characters, this means that they cannot spend Confidence Points to increase their totals.
 
-### ng, Ingwaz, "Lord"
+### Ng, Ingwaz, "Lord"
 
 (Pronounced "ING-vahz")
 
@@ -7505,7 +7505,7 @@ Ginzburg, Carlo. The Night Battles: Witchcraft and Agrarian Cults in the Sixteen
 
 Lecoteux, Claude. Witches, Werewolves and Fairies: Shapeshifters and Astral Doubles in the Middle Ages. Rochester: Inner Traditions, 2003.
 
-Summers, Montague. *The Werewolf in Lore and Leg- end*. New York: Dover Publications, 2003.
+Summers, Montague. *The Werewolf in Lore and Legend*. New York: Dover Publications, 2003.
 
 ## A NOTE ON NIGHTWALKER SOURCES AND APPROACHES
 
