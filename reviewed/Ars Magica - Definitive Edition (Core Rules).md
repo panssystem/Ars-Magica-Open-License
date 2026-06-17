@@ -52,7 +52,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 - Often inconsistent use of punctuation in lists (only occasionally fixed).
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
-- p31-43: Mixed use of both semicolon and comma under Virtues and Flaws throughout all Character Templates (not fixed)
+- p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
@@ -66,7 +66,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
-- p524: Extra "a" in "...enforce a myriad rules" (fixed)
+- p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
 - p546: Spelling error: "accomodate" (fixed)
@@ -22147,7 +22147,7 @@ The troupe must simply decide whether the magi can change history. The assumptio
 
 ### The Order of Hermes
 
-The Order of Hermes might seem to be very well defined in the books, but in fact a very important question is left vague, for individual troupes to determine. How organized is the Order in practice? In theory, Tribunals, Quaesitors, Redcaps, and the Peripheral Code tie everything together and enforce myriad rules. In your saga, that might be the case in practice as well, so that player characters who break the Code face punishment, unless they take careful steps to hide their infractions. Individual covenants might have to register with the Tribunal or be forcibly removed, and all new magi might be recorded in a central register.
+The Order of Hermes might seem to be very well defined in the books, but in fact a very important question is left vague, for individual troupes to determine. How organized is the Order in practice? In theory, Tribunals, Quaesitors, Redcaps, and the Peripheral Code tie everything together and enforce a myriad rules. In your saga, that might be the case in practice as well, so that player characters who break the Code face punishment, unless they take careful steps to hide their infractions. Individual covenants might have to register with the Tribunal or be forcibly removed, and all new magi might be recorded in a central register.
 
 At the other extreme, Tribunals might be primarily social events, where the Code is only actually enforced if someone has made enemies of virtually every other magus in the area. Magi a century old might frequently appear and announce that they have been members of the Order for decades, and Redcaps might be supported by individual covenants who need messengers, rather than by the Order.
 
