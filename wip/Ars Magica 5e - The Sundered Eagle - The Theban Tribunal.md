@@ -3572,7 +3572,7 @@ The Tribunal of Thebes has historically stayed in lands governed by the Byzantin
 
 Lying in northwestern Anatolia, Bithynia is a land of vast forests and rolling green hills, laced with fertile valleys and river basins. On the coast of the Sea of Marmara, it sits opposite Constantinople and the Thracian coast. A prosperous land, Bithynia is known for its wealth of fruit trees, especially oranges, and grain fields. Home to many old and important cities, Bithynia has been overrun by armies in the last twenty years, and many venerable cities have felt the brunt of these armed forces. Bithynia is the marcher lands between the Latin Empire of Constantinople and the Empire of Nicaea, and most coastal castles have changed hands many times. Peace has reigned for the last six years, since Theodore Lascaris signed a treaty with the Latin Empire, cementing it by marrying Emperor Henry's niece in 1219. Despite this peace, Lascaris is preparing an assault in 1220, and the obvious massing of troops along the border makes many Bithynians anxious.
 
-## The Empire of Nicaea
+### The Empire of Nicaea
 
 In 1204, Theodore Laskaris fled to Nicaea after fighting heroically in defense of Constantinople. A large contingent of prominent Byzantines had also fled there, allowing Theodore to establish a court that mirrors the splendor and customs of Constantinople. In 1205, Theodore appointed the new Orthodox Patriarch Michael Autorianus, and the line of patriarchs has continued in Nicaea. Crowned Emperor Theodore II Lascaris in 1208, he is a staunch supporter of the Orthodox Church, though quixotically open to the possibility of ultimate Church union. His court welcomes Latin friars and papal envoys, perhaps a reflection of its highly intellectual and scholastic culture, and theological debates are common here. From the first, Theodore has vowed to retake Constantinople and to continue the empire until that day in Nicaea.
 
@@ -3580,7 +3580,7 @@ Despite initial setbacks, the Empire of Nicaea has fared well. Theodore has the 
 
 In 1220, the latest alliance with the Latins of Constantinople has broken and hostilities have recommenced. The Latin Empire and Nicaea are once again locked in conflict.
 
-## Nicaea
+### Nicaea
 
 Always an important city in the Byzantine Empire. The summer home to emperors and the meeting place for several important religious councils, Nicaea is now the capitol of the new Empire of Nicaea. Organized like a grid, Nicaea's straight streets emanate from the city's cathedral, the Church of the Haghia Sophia, in the center of town. The imperial place is to the south, as is the Church of the Koimesis, the personal chapel of the emperor and his family. Massive, thirty-foot-high walls surround the city, studded with over one hundred towers, and three main gates lie in the center of the north, east, and south walls. The west wall abuts the Ascanian Lake, and smaller gates give access to the city's docks.
 
@@ -3594,7 +3594,7 @@ During the ministry of St. Andrew the apostle, who preached throughout Scythia a
 
 The seven demons still prowl the highways around the city, although they are forbidden from entering Nicaea itself. They prefer to attack at dusk or soon after, and usually target lone travelers. Some of the city's inhabitants remember the legends of St. Andrew, but most think that corpses found along the road are the result of bandits or mercenary skirmishers from one army or another. The demons are not incredibly active, killing perhaps once every month or so. Large traveling parties won't draw the demons' attention, but solitary journeyers like a Redcap, for example, could fall prey to these Infernal beasts.
 
-> ## Demon of Nicaea
+> ### Demon of Nicaea
 >
 > **Order:** Furies
 >
@@ -3644,13 +3644,11 @@ The seven demons still prowl the highways around the city, although they are for
 >
 > The demons of Nicaea are only interested in murder and slaughter, and while they can talk, they rarely do so. Their favorite tactic is to creep up on a lone victim and rend him to bits. They can fight as a trained group, making them a formidable opponent. While full of ferocity, they are not fearless, and will flee from a superior group or strong individual.
 >
-## Nicomedia
+### Nicomedia
 
 Located on the Gulf of Astacus in the Sea of Marmara, Nicomedia sits sixty miles east of Constantinople. Strong walls surround the town's central citadel, forums, an amphitheater, aqueducts and cisterns, and other trappings of Roman society. Nicomedia is one of the few cities in Asia Minor that hasn't been occupied by the Turks in the last hundred years. It has been occupied by crusaders, however. Soon after the fall of Constantinople, a band of one hundred knights sailed for Nicomedia. The population fled to Nicaea, a day's journey away, and the Latins easily took the city. The knights constructed a fortress around the city's church, and ruled in the city for almost a year before Theodore Lascaris moved to reclaim the city. Fierce fighting outside the city drove the crusaders back to the fortified church, and many knights died or were taken hostage. The defenders called for help, and Emperor Henry arrived with his troops. Henry and Theodore negotiated a truce — the city for the French knight hostages — and Nicomedia has been in Byzantine hands ever since.
 
 While earthquakes are not uncommon in Anatolia, Nicomedia has seen more than its fair share. Every hundred years or so the ground shakes and buildings fall, causing fires and calamity to the citizens. Some magi of the Theban Tribunal suspect that an ancient titan is imprisoned beneath Nicomedia, who rattles his or her bounds every century and causes the devastation. The citizens of Nicomedia would laugh if they heard this, for they know it is the dragon, wounded centuries ago by St. George the *Megalomartyras* (Greek for "magnificent martyr"), and writhing in pain in an underground warren beneath the city.
-
-
 
 The legend of St. George the Dragon Slayer is widespread in Mythic Europe, from Jerusalem to Ireland, and many places adapt it for themselves, perhaps even Nicomedia. St. George was a Roman tribune (commander) from Cappadocia, an area in central Anatolia, who happened upon the king of a city offering his daughter as sacrifice to the dragon. Wounding the beast, he returned to the city with her dragging the creature on a leash. Various legends place this event in different cities, but the fact remains that something does lie beneath Nicomedia.
 
@@ -3660,7 +3658,7 @@ A large peninsula in northwestern Anatolia, the Troad offers a mixture of Easter
 
 Like Bithynia, the north half of the Troad is held by Latin crusaders. Since the peace treaty of 1216, the situation has been fairly static. The Latin overlords are content to administer their lands and let the population prosper. Since recent military forays have been against the Bulgarians, many of the Latin knights and soldiers are elsewhere. Lascaris plans to capitalize on their absence by invading Troad and taking Holkos, a port on the Hellespont. As a canonical saga begins, he has marshaled his forces and his invasion is imminent.
 
-## Hellespont
+### Hellespont
 
 This 38-mile-long, narrow strait separates Greece from Anatolia as it connects the Aegean Sea to the Sea of Marmara. Also called "the straits of St. George" by the French crusaders, it has long been a protective barrier and effective border for the ancient Greeks and Persians. Despite its narrow width, averaging from one to four miles wide, the Hellespont is tricky to navigate. Currents run both ways along the strait, depending on the tides and time of day, and sailors pilot their courses cautiously.
 
@@ -3672,7 +3670,7 @@ Near the town of Abydos, west along the coast from Holkos, a small, round hill o
 
 The marble throne is gone, but the hill remains, as does the bound *druj*. Anyone standing on the hill can view the entire Hellespont and surrounding shores as if his vision was magically enhanced (much like the General Minor Virtue Keen Vision). However, the viewer is susceptible to the *druj's* power of Obsession (*Realms of Power: The Infernal*, page 31). The *druj* has an Obsession Trait of Doubt and an Infernal Might of 30. The hill has an Infernal aura of 3.
 
-## Pergamos
+### Pergamos
 
 Once terribly important to the Greeks and early Romans, Pergamos has slipped in stature over the centuries. The old acropolis, built as a series of terraces overlooking the Caicus River and the plains below, is a cluster of Greek and Roman ruins. Its relevance to 13th-century Greeks is purely religious; Pergamos was one of the seven churches mentioned St. John's *Book of Revelations*. The Church of St. John the Apostle, built over an older temple dedicated to the Egyptian gods Isis and Serapis, serves the Christian community still living at Pergamos.
 
@@ -3688,7 +3686,7 @@ The altar is shunned by Christians, and St. John refers to it as "the throne of 
 
 This site that allows "free" ritual spells has a drawback. Botched spells are tainted, as if the caster used faerie-tainted vis, and even correctly cast spells can have weird side effects. The locals consider it an evil thing, and have chased off magi in the past, believing them to be demon worshipers. The altar is not used much, because of this and since vis is so readily available in the Tribunal. Lucian and his Children of Olympus league are drawn to the site, however, and consider it important to their overall plan to initiate pacts with the Greek gods.
 
-> ## The Prison of Klymene
+> ### The Prison of Klymene
 >
 > While most of the male titans who directly opposed Zeus were bound in Tartarus, those titans who remained neutral in the Titanomachy were bound elsewhere. Many female titans were bound in various locations, and unknown to the Theban magi, the great altar at Pergamos is the lock on the prison that binds the titan Klymene, the Titan-goddess of fame. Unique features of the binding have inadvertently allowed magi to draw on Klymene's power to fuel ritual spells, rather than on vis. However, if they overtax this prerogative, Klymene will be released.
 >
@@ -3696,7 +3694,7 @@ This site that allows "free" ritual spells has a drawback. Botched spells are ta
 >
 > Klymene will not take her release well. Knowing that Zeus was going to bind all the titans, she viewed her imprisonment as benevolent — a sweeter cell than Tartarus and a fate she shared with her sisters. Now released, she has no place to go and no kin to visit. A storyguide should use freed Klymene as best suits her saga. Klymene could simply return to the Magic Realm, leaving a ruined altar in her wake. She could soar to the top of one of the Tribunal's mountains and set up residence, disrupting the environment and perhaps the current inhabitants. Or she could race about the Tribunal lands looking for other female titans to release, to recreate the comfort and revelry they enjoyed before Zeus imprisoned them. (See Chapter 9: Magical Landscape for more on the titans.)
 >
-## Ilion
+### Ilion
 
 Ilion, more commonly called Troy or "Ilium" by the Latins, was the great city of King Priam. It was razed by the Greeks at the climax of the Trojan War, around 1184 BC, according to the Greek historian Eratosthenes of Cyrene. Now, nothing stands on the sandy shores, and even the mighty Scamander River has run dry. Not a single stone remains; even the new city founded by the Roman Emperor Augustus has disappeared. The area holds no territorial significance for 13th-century Greeks, Byzantines, or Seljuk Turks. It does fuel political propaganda, though, with the many groups of Westerners claiming that they are descendants of the Trojans, and that the Latin occupation of Constantinople is Trojan vengeance against the Greeks.
 
@@ -3706,7 +3704,7 @@ Without human involvement, the faeries dwell in lazy reenactments. A visiting hu
 
 Every few Tribunals a magus suggests founding a covenant at Ilion and looks for supporters. In 1109, the Tribunal acquiesced to Droserius of House Merinita and allowed him and four others to found the covenant Wilusa at Ilion. Droserius claimed that the spirit of the River Scamander existed in one of the regiones, and had vowed to act as the covenant's patron spirit. However, the covenant and its occupants had disappeared by the next Tribunal, and searches for any lingering evidence of them were in vain. Since then, magi at the Tribunal easily resist any suggestion of founding a second covenant.
 
-> ## Story Seed: In Search of Wilusa
+> ### Story Seed: In Search of Wilusa
 >
 > The covenant of Wilusa at Ilion was quickly and efficiently built, its towers and buildings magically created in a Faerie regio with an aura of 4. This was not the regio that contained the spirit of Scamander, but a trick played on Droserius by a faerie calling himself Odysseus. The faerie has the power to close the regio's boundaries, and promptly did so. Odysseus continually subjects the covenant, now enchanted by him to look like Troy, to the final assault of the Trojan War. The magi respond, reflexively defending their covenant. Manipulating time, the faeries have continued the assault for over one hundred years, but the magi believe only a few months have passed. Odysseus is highly cognizant and hopes to gather enough vitality to eventually change his tale.
 >
@@ -3720,7 +3718,7 @@ Lydia is an ancient region, ruled by various tribes and empires throughout its h
 
 Lydia is home to the **cercopes** — small, blue-green monkeys that live in the forests. According to legend, the cercopes were originally two mischievous brothers who Zeus turned into monkeys after they continually plagued Herakles. The transformed brothers multiplied to produce the species. Cercopes are rare and always found alone. Each is a magical creature, and it is a mystery to the Order how these creatures reproduce. Difficult to find, they are prized familiars for the magi of the Tribunal.
 
-## Smyrna
+### Smyrna
 
 Once an important city of Anatolia, competing against Ephesus and Pergamos to be known as the "First City of Asia," Smyrna has declined since Constantine moved the capital of the Roman Empire to Constantinople. Since then it was seized by Turks, reclaimed by Byzantines, and then subjected to near-constant warfare between the two. Recent years have been better for Smyrna, owing to the strength of the Empire of Nicaea. This respite has done little to rebuild the city, even though it has quelled its fears of being conquered. More than half of the city is a broken maze of rubble, dilapidated buildings, and overgrown streets that lead nowhere.
 
@@ -3728,7 +3726,7 @@ Smyrna sits at the eastern end of the Bay of Smyrna, and is the royal port of th
 
 Ten miles south of the city is the Palace of Nymphaeum. Built forty years ago by Andronicus I Comnenus, it is a favorite and the most-used imperial residence of Theodore Lascaris. To reach the Nymphaeum, travelers must walk through the old agora — the oldest and most ruinous section of Smyrna. Lone travelers report being accosted by an old man who calls himself Homer, who doggedly follows the traveler asking how his poems have fared and if the traveler wants to hear a recitation or two. The old man flees if threatened or if larger groups of people approach. Some magi think he is a faerie mimicking the role of Homer, who used to visit Smyrna and enjoy the idyllic banks of the nearby Meles River. A few Jerbiton magi speculate that the old man is the real Homer, transformed into a magic human by becoming a legendary artist (*Art & Academe*, page 129).
 
-## Hagios Theologos (Ephesus)
+### Hagios Theologos (Ephesus)
 
 Ephesus' size belies its importance, for while it is not especially large or populated, it is a site famous for several religious events. It hosts one of seven churches mentioned in the Book of Revelations and has its own epistle (Ephesians), as well as being an early center of Christianity. St. Paul spent almost three years living in Ephesus, as did St. John, who was martyred and buried there. Ephesus housed the Third Ecumenical Council in 431, which banned Nestorius and his heretical practice.
 
@@ -3772,12 +3770,12 @@ Vineyards are plentiful along the slopes of Mt. Tmolus, and one in particular ha
 >
 > A rumor in the Tribunal claims that the knight was a magus in disguise. Magi are not supposed to interfere with mundane affairs, and if this rumor is true, it would be an egregious offense. Located at the distant border of the Tribunal, Philadelphia and the battleground are not easily accessible. A senior magus may ask the player characters to investigate. With the Tribunal of 1221 coming up, he would like to solve this mystery before the meeting. Perhaps he suspects someone and wants the player characters to gather proof. Or, he may himself be the culprit and wonder how easy it is for someone to uncover the truth of his involvement.
 >
-> **Mt Sipylus**
->
-> Near the headwaters of the Maeander River, Mt. Sipylus stands 5000 feet tall, visible from Smyrna and the Aegean coast. An extinct volcano, its peak is a crater lake. According to legends, Mt. Sipylus was the home of the Greek god Tantalus, a son of Zeus who lived in a regal city atop the mountain peak. His city was destroyed when he betrayed his father, but his treasury still exists, submerged below the murky floor of the crater's lake.
->
-> The legends vary concerning Tantalus' specific betrayal, but each carries a tantalizing hint at unknown lore. Diodorus wrote that Tantalus revealed secret information learned from Zeus, which excites Bonisagus magi investigating breaking the Hermetic limits of magic. Pindar said that Tantalus stole nectar and ambrosia, the Greek gods' food of immortality, and magi from Epidauros wonder if such items could improve Longevity Rituals. Verditius magi are interested in a third legend, which says that Tantalus refused to return a golden god automaton that protected the temple of Zeus at Crete. Regardless of their motivations, seekers have failed to uncover Tantalus' treasury or any of the magical artifacts so far.
->
+#### Mt Sipylus
+
+Near the headwaters of the Maeander River, Mt. Sipylus stands 5000 feet tall, visible from Smyrna and the Aegean coast. An extinct volcano, its peak is a crater lake. According to legends, Mt. Sipylus was the home of the Greek god Tantalus, a son of Zeus who lived in a regal city atop the mountain peak. His city was destroyed when he betrayed his father, but his treasury still exists, submerged below the murky floor of the crater's lake.
+
+The legends vary concerning Tantalus' specific betrayal, but each carries a tantalizing hint at unknown lore. Diodorus wrote that Tantalus revealed secret information learned from Zeus, which excites Bonisagus magi investigating breaking the Hermetic limits of magic. Pindar said that Tantalus stole nectar and ambrosia, the Greek gods' food of immortality, and magi from Epidauros wonder if such items could improve Longevity Rituals. Verditius magi are interested in a third legend, which says that Tantalus refused to return a golden god automaton that protected the temple of Zeus at Crete. Regardless of their motivations, seekers have failed to uncover Tantalus' treasury or any of the magical artifacts so far.
+
 ## Paphlagonia and Pontus
 
 East of Bithynia, the southern shore of the Black Sea is divided into two provinces, Paphlagonia to the west and Pontis in the east. Both provinces are mountainous, with only a thin coastal shore of arable, inhabited land. The coastal shelf houses a thick, deciduous forest and offers a temperate climate, mild in the winter and humid in the summer. The area is bordered on the south by the Pontic Mountains, and a few large rivers cut gorges and valleys on their way to the Black Sea, providing fertile valleys of fruit-bearing trees: hazelnuts, plums, cherries, and pears. The mountains are covered with dense forests, and their summits are snow-covered most of the year.
@@ -3787,7 +3785,7 @@ Soon after the conquest of Constantinople, the Komnenos brothers, Alexios and Da
 
 The area's three largest cities are Amastris, Sinope, and Trebizond. Amastris and Sinope appear very similar. Both are fortified ports with markets that lay outside the walls. Both are peopled with indigenous Greeks, whose families have lived in the city for generations. And both have a healthy mix of foreigners. Amastris has more people of Scandinavian descent because it was once the end point for mercenaries traveling from Russia, while Sinope has more people of Persian descent. In 1220, both cities pay tribute to their lieges and govern themselves as best they can. Because of its Muslim overlords, Sinope has a high degree of religious tolerance, allowing its citizens to practice Christianity, Islam, or Judaism as they wish.
 
-## The Empire of Trebizond
+### The Empire of Trebizond
 
 The Empire of Trebizond was not created as a result of the Fall of Constantinople, but was contemporary with that event. Alexios and David Komnenos, grandchildren of the Emperor Andronicus Komnenos, seized Trebizond in 1204. Planning to establish a kingdom, David pushed east taking Paphlagonia and Heraclea, provoking the Sultanate of Rum to war. David then battled the Empire of Nicaea, which fiercely resisted. In 1212, the Empire of Nicaea retook most of David's conquests. Two years later the Sultanate of Rum drove north between Nicaea and Trebizond, killing David Komnenos, but it was unable to approach Trebizond through the mountainous countryside.
 
@@ -3810,7 +3808,7 @@ Recently Trebizond has been harried by bardi, a type of shapeshifting spirit tha
 > Hidden in the bowels of the city of Sinope is a heretical Christian sect that has substitute the Babylonian god Serapis for God. Originating in Babylon, Serapis was brought to Anatolia by Alexander the Great. With his death, Ptolemy took the cult statue to Alexandria in Egypt, where he blended stories of Serapis with popular Egyptian gods, hoping to create a single deity. During the reign of Emperor Hadrian, Egyptian Christians started worshiping Serapis. The sect was thought destroyed in the fourth century, but the cult statue survived, and remnants of the sect smuggled it to Sinope where it has remained ever since.
 >
 > In Mythic Europe, Serapis is a False God (*Realms of Power: The Infernal*, page 37). Serapis' cult numbers approximately 200 followers, including a dozen priests who lead the congregation. Few of these followers know Serapis' true nature, and the demon uses his Shroud the Stench of the Pit ability to mask the Infernal nature of any Supernatural Abilities he bestows upon his servants. His priests do not actively antagonize or argue with clerics of the Eastern Church, preferring to copy their dress and function to covertly proselytize new followers. The Greek ruler of Sinope, Etoumes, has recently taken one of these priests as his confessor, to the thrill of Serapis. While a vassal of the Seljuk sultan, Etoumes is not a Muslim. This can only lead to woe in the years to come.
->
+
 > ## The Pearl of Peroz
 >
 > In the mid-fifth century, King Peroz of Persia led a large army into Eastern Anatolia against the Ephthalites, a tribe of nomadic Huns. He wore a beautiful pearl earring, the largest and most magnificent pearl ever seen, and one reputed to have magical properties. According to legend, the pearl was discovered when a fisherman noticed a shark of great size and ferocity. The shark was following an oyster, which swam near the shore and occasionally displayed its pearl for the shark to marvel over. Thinking his king would reward him, the fisherman jumped into the ocean, grabbed and flung the oyster to the shore, and was promptly devoured by the shark. The pearl was given to the king, who noticed that the shark still wanted it and circled viciously in the ocean by the shore. Whenever the king went near the ocean, the shark was sure to appear.
@@ -3823,7 +3821,7 @@ Recently Trebizond has been harried by bardi, a type of shapeshifting spirit tha
 
 Alexandria is a Mercere covenant, the bureaucratic center of the Theban Tribunal. Founded after the demise of the first Mercere covenant, Miphoria, it houses most of the Redcaps of the Tribunal. This autumn covenant also serves as a retirement house for Redcaps too old or too Warped by Twilight to effectively fulfill their duties. Despite certain difficulties created by the current machinations of the mundanes, Alexandria continues to be the hub of the information network of Thebes.
 
-## History
+### History
 
 Alexandria is the second all-Mercere covenant in the Tribunal's history, formed after the decline and fall of the first, Miphoria, in the early 11th century. Located on the coastal outskirts of Smyrna, Miphoria had relied on fantastical and overt magical means of transport, including riding a species of giant magical sea turtles. The Tribunal decided that its members were drawing undue mundane attention to the Order, and asked them to keep a lower profile. Deprived of the sea turtles, Miphoria floundered, and by 1063 most of her Redcaps had taken up residence in other covenants.
 
@@ -3835,7 +3833,7 @@ But all was not rosy within the covenant. The powerful Longevity Rituals the cov
 
 Alexandria continues to satisfy its purpose in the 13th century despite all this, although the covenant has experienced several negative consequences from the fall of Constantinople. At the Tribunal of 1207, Petronas, who had served as logothete for almost a hundred years, abdicated his post. His replacement, Leontius, is unsatisfactory. Seven years later, at the Tribunal of 1214, he narrowly escaped being ostracized. Also, the Emperor of Nicaea recently has stationed a small garrison of imperial soldiers in the castle, expelling the covenfolk and making entry into the regiones difficult. The garrison is there to protect Smyrna from invading Turks, and does not know that a regio resides inside the walls.
 
-## Setting and Physical Description
+### Setting and Physical Description
 
 The ruined citadel housing Alexandria sits atop Mt. Pagus, a small mountain to the south of Smyrna overlooking the city and the bay. Its stone walls and towers have deteriorated with time, leaving only a shell of a fortress. Alexandria has not rebuilt the wall, only cleaned up the interior and built several wooden houses to hold its staff. Lascaris' soldiers currently reside in these houses. The dilapidated citadel has a Magic aura of 1.
 
@@ -3853,7 +3851,7 @@ Fides is an eidolon, a spirit of emotions. She is the spirit of loyalty, created
 
 Methodius' binding of Fides included the promise that the new occupants would continue to pay tribute both to Alexander and his empire. Methodius was able to connect these requirements with the Theban Tribunal, so that rather than conquer the world, Fides is satisfied with the "Hermetic Empire of Thebes." She demands that the members of Alexandria stay loyal to this empire, the Order, and promises to stay there for as long as they do.
 
-## Culture and Traditions
+### Culture and Traditions
 
 Many of Alexandria's members are quite old. They still participate in Tribunal politics, but are not as enthusiastic as they were in their youth. While enjoying their riches, they are somewhat imprisoned inside their covenant. Food and supplies have to be sneaked in, and any member wishing to leave has to sneak out. The Redcaps have the vis to buy powerful Longevity Rituals, and often take them in their mid-thirties. Five of the 15 unGifted members are over 130 years old, and considerably twisted from accumulated the Warping of their Longevity Rituals. But they have little desire for life outside the covenant's walls, anyway. They spend their days retelling stories of their youths, recounting past exploits, taunting the ghosts, and generally annoying each other.
 
@@ -3863,7 +3861,8 @@ Alexandria has 15 Redcap members, none of them Gifted, and one Bonisagus maga na
 
 #### Leontius of House Mercere
 
-**Age:** 132 (Apparent Age: 82) **Personality Traits:** Worried +3
+**Age:** 132 (Apparent Age: 82)  
+**Personality Traits:** Worried +3
 
 Leontius is a tall, thin man with a receding hairline and long gray mustache. He has recently Warped enough to gain his first Major Flaw. Though unGifted, a prior Supernatural Virtue allows him to enjoy the same potency a Longevity Ritual would grant a magus. To his shame, he developed "The Curse of Lycaon," the colloquial term for lycanthropy. His transformation is not linked to the lunar cycle, but is dependent upon his mood. When he becomes excessively anxious he changes into a wolf.
 
@@ -3871,8 +3870,7 @@ Leontius is the current logothete of the Tribunal, a position he rues accepting.
 
 #### Proximios of House Mercere
 
-**Age:** 91 (Apparent Age: 42)
-
+**Age:** 91 (Apparent Age: 42)  
 **Personality Traits:** Intense +3, Eloquent +2, Humble +2
 
 Proximios is broad-shouldered, handsome man with dark, neatly combed hair. He is a blood descendant of Andreas, a mythic hero who performed admirably in Justinian's Persian Wars in the sixth century. While not a professional warrior, Andreas nevertheless defeated two Persian champions in hand-tohand combat, using his skills as a professional gymnast to beat the more heavily armed opponents. Proximios' mythic ancestry has given him astonishing abilities, including the performance of near-legendary feats of acrobatics. At the beginning of his career, he used his gymnastic skills to impress magi who received his delivered messages. Lucian, head of the covenant of Aegaea, especially enjoyed these performances.
@@ -3887,15 +3885,16 @@ Many Redcaps believe Proximios should be the next logothete, and plan to propose
 
 #### Catella of House Bonisagus
 
-**Age:** 41 (Apparent Age: 39) **Personality Traits:** Patient +3, Cheerful +1, Determined +1
+**Age:** 41 (Apparent Age: 39)  
+**Personality Traits:** Patient +3, Cheerful +1, Determined +1
 
 Catella is the only Gifted member of Alexandria. She joined the covenant directly out of apprenticeship, two years before Constantinople fell, when the reputation of Alexandria was still good. Drawn by the artifacts of Alexander, she has been investigating them, but in twenty years she has made little headway. Because of this interest, Catella has been given the responsibility of loaning them out, which both excites and frustrates her. She likes being in charge of the artifacts, but dislikes that they are not always available for her investigations. In the spirit of cooperation, Alexandria has made borrowing the artifacts easy, and Catella complies with this decision even if it interrupts her personal plans.
 
-## Covenfolk
+### Covenfolk
 
 A dozen mundane covenfolk live in Alexandria, residing in the inner regio and serving the needs of the Redcaps and the maga Catella. They are servants and cooks rather than warriors. Two dozen other mundanes live in Smyrna, working at the warehouses, docks, and ships as needed. They receive a healthy stipend for their labors and are fairly loyal to the covenant. Alexandria sponsors an annual feast and celebration for its staff, held in a private house in Smyrna. Most of the urban mundane workers have never visited Alexandria, nor have they met the elder, bizarre-looking senior Redcaps.
 
-## Enchanted Devices
+### Enchanted Devices
 
 Besides the two artifacts of Alexander, Alexandria has a handful of magical items aimed at making a Redcap's traveling life easier. Cloaks that shed water, items that measure vis, and flasks that keep wine from spoiling are common. Once given to a Redcap, these items become the property of the holder. The Alexandrian artifacts, described below, are public property of the covenant and may be used by any member. They may also be loaned out to any magus in the Tribunal who has a positive tally of tokens over shards. The borrower must provide a deposit — either a lump sum of vis or magical items valuable to the borrower — and must return the item in a specified amount of time. The longer the item will be borrowed, the larger the deposit. In addition, the borrower must pay 1 pawn of vis for each week that they he retains the item.
 
@@ -3954,8 +3953,8 @@ The glass submarine is chained to a ship owned by Alexandria and docked at Smyrn
 ## Moero's Garden
 
 Moero's Garden is a covenant of Jerbiton magi living in Nicaea, the new capital of the displaced Byzantine Empire. Aristocratic and effete, its members were expelled from their original site in Constantinople and eagerly seek to return. Until then, they make do as best they can, pursuing their artistic interests and dignified lifestyles.
->
-## History
+
+### History
 
 Moero's Garden was founded in 1163 during the glory years of Emperor Manuel Komnenos. Ionnia of House Jerbiton, a minor Byzantine noble and lover of women poets, carefully searched the older sections of the city for the home of Moero, a prolific poet living around 300 BC. Discovering that the site rested in one of the city's several lacunas, she summoned Moero's ghost and asked her to serve as the patron spirit for a new covenant. With this accomplished, Ionnia asked some of her sodales, all Jerbiton magi with aristocratic family ties, to join her. She dedicated her covenant to finding literature and art of the early Byzantine period, which House Jerbiton considers a very laudable venture. A condition of membership was that the magi could not work for a living, copying the conditions of Roman senators and Byzantine nobles, and that their income had to be derived from land toiled by others' hands. The covenant prospered, leaving its members time to indulge their literary and artistic proclivities.
 
@@ -3963,7 +3962,7 @@ During its time in Constantinople, Moero's Garden did not participate in the mun
 
 Things changed when the crusaders stormed the walls and seized the city. The beauty of the city was horribly scared, and while Moero's Garden escaped the initial destruction, its members were not confident that it would remain untouched. The crusaders' reputation for looting made them fear for their library and collected artifacts, and when the chance to leave the city came, they followed the majority of the affluent Greeks and fled. They carried what possessions they could, but the vast majority was left behind. They fled to a chapter house they had established in Nicaea, the ancestral home of Hipparchus of Nicaea, a famous Greek astronomer who lived around 190 BC. This former summer home has become the entirety of their covenant.
 
-## Setting and Physical Description
+### Setting and Physical Description
 
 The home of Hipparchus sits in a corner of Nicaea in a section devoted to merchants and their families. It is a large building three stories high, with both an outer and inner courtyard. Palatial by merchants' standards, the members find it squalid, cramped, and undignified, despite their best efforts to rehabilitate the place's aesthetics. The top floor of the building is divided into laboratories, the second floor is the magi's living quarters, and the covenfolk live on the ground floor. Their library and artifacts of art are stored in the basement, a condition which continues to horrify them.
 
@@ -3979,7 +3978,7 @@ Moero's Garden's patron spirit is the ghost of Hipparchus, summoned and reluctan
 
 When things get really bad, Ionnia placates the ghost by spending time with it, gazing at the stars and discussing astronomy. Hipparchus' ghost enjoys such evenings, which effectively sooths it for a week or so.
 
-## Culture and Traditions
+### Culture and Traditions
 
 The members are afflicted with the idea that, like aristocratic nobles, they should not have to work to earn their living. They do not wish to sully their hands or their magic with labor, and feel entitled to lives of ease. This becomes increasing difficult the longer they are removed from Constantinople. The covenant's finances are managed by Pastor, the autocrat, and they are dwindling. Money is not the only threatened resource. Displaced from Constantinople and the rich vis sites surrounding the city, Moero's Garden has only found one vis site to replace the many it lost. Most of its vis comes from the generosity of other magi around the Tribunal, whose gifts of vis are greatly appreciated.
 
@@ -3987,14 +3986,13 @@ To compensate for the covenant's failing fortunes, Pastor has become the financi
 
 Four of the seven Jerbiton magi are members of the League of Constantine and think that the covenant should support the Emperor of Nicaea in his attempts to regain Constantinople. The two youngest members, Trasaric and Helladius, claim that the city fell because covenant members idled away their days instead of protecting their homeland. Ionnia and Syagricus disagree, saying that Constantinople has suffered calamities before and always righted itself, and this current occupation will pass with time. The covenant is undecided, with equal members agreeing and disagreeing with the pair.
 
-## Magi
+### Magi
 
 Moero's Garden has eight magi: seven of House Jerbiton and one Tytalus maga with the Gentle Gift. Three of the Jerbiton magi have apprentices who will soon be gauntleted.
 
-**Ionnia of House Jerbiton**
+#### Ionnia of House Jerbiton
 
-**Age:** 107 (Apparent Age: 91)
-
+**Age:** 107 (Apparent Age: 91)  
 **Personality Traits:** Poetic +3, Blunt +2, Frivolous +2
 
 Ionnia is a tall woman, with thinning, white hair and dull blue eyes. She dresses in sumptuous robes and adorns herself with gold necklaces, jeweled rings, and gem-encrusted bracelets. In her early years, before founding Moero's Garden, Ionnia made a name for herself by collecting all the poetry of Kassia, a ninth-century nun and the most famous female poet of the Byzantine Empire. A master of Rego and Mentem magic, Ionnia's ability to summon and interrogate ghosts has been a great aid in her quest for ancient poetry. The collection is marvelous and collecting it earned Ionnia a famous reputation with House Jerbiton.
@@ -4003,7 +4001,8 @@ Because Longevity Rituals have never worked very well for her — she has the He
 
 #### Syagricus of House Jerbiton
 
-**Age:** 102 (Apparent Age: 43) **Personality Traits:** Outspoken +3, Opinionated +2, Kind +1
+**Age:** 102 (Apparent Age: 43)  
+**Personality Traits:** Outspoken +3, Opinionated +2, Kind +1
 
 Syagricus is the oddest Jerbiton member of the covenant, both in temperament and physically. He is a genuine hermaphrodite and seems quite proud of it. He dresses to accentuate both his male and female gender, wearing a full beard and a dress that accentuates his bust. His sexual nature is inexplicable but medically proven, and Syagricus sees his true nature as beautiful and refuses to hide it. His sodales are very accepting of his nature, but would prefer he didn't mention it as much as he does.
 
@@ -4013,13 +4012,14 @@ Syagricus' apprentice, Pancratius, is due to be gauntleted in 1221, and hopes to
 
 #### Ziper of House Tytalus
 
-**Age:** 129 (Apparent Age: 65) **Personality Traits:** Conniving +3, Obsequious +3, Busybody +2
+**Age:** 129 (Apparent Age: 65)  
+**Personality Traits:** Conniving +3, Obsequious +3, Busybody +2
 
 The oldest magus at Moero's Garden, Ziper joined after its relocation to Nicaea. He usually dresses in white robes and a red overlying toga. He is stooped and wrinkled and completely bald. His appearance is deceiving, for while he looks venerable, he has the energy and acumen of a youth.
 
 Ziper feels that the covenant needs new members, that its size is a detriment to its standing in the Tribunal. He has proposed that Nanno and Ampelius be accepted into the covenant as members of House Jerbiton. While not magi, they can effect minor enchantments within their creations. Proximios of House Mercere (see The Covenant of Alexandria, earlier) supports his position, citing how beneficial his House of unGifted people is to the Order, and theorizing that unGifted members in House Jerbiton would only contribute to its success. The other members, apart from Syagricus, are horrified at this proposal, not because Nanno and Ampelius are unGifted, but because they are craftsmen! Both artisans, Nanno more so than Ampelius, think the life of a magus must be wonderful, and threaten to travel to Delos and ask the Tribunal as a whole for membership.
 
-## Covenfolk
+### Covenfolk
 
 Of the forty or so craftsmen and servants that work for Moero's Garden, the most important is the autocrat Pastor. Besides managing the day-to-day business and finances, he has been put in charge of managing the covenant's vis stores, which are ever-decreasing. His wife, Viviana, is the covenant's main scribe, responsible for preserving and organizing Moero's Garden's library. Besides the vast collection of poetry, the library contains several summae and tractatus on Rego and Mentem magic, written by Ionnia, as well as tractatus of her personal poetry.
 # Chapter Nine: The Magical Landscape
@@ -4034,8 +4034,7 @@ The six male Titans are all responsible for governing time in the Magic Realm. H
 
 It is not difficult to understand the fascination that many magi of the Theban Tribunal have for these cosmic figures. Those individuals who pursue study of the titans are divided broadly into three factions, detailed below. These factions are not (yet) formal political leagues, but simply like-minded individuals who often collaborate due to similar goals. The names of the factions — Seekers of the Fallen, Legion of Atlas, and Kampe's Lovers — were coined four Tribunals ago by Lucian (see Chapter 4, Hermetic Leagues) in a cynical speech mocking their efforts. The labels have stuck, and younger members of the factions have begun to refer to themselves in these terms.
 
-
-## The Titans as Governors of the Universe
+### The Titans as Governors of the Universe
 
 The titans are creatures of the Magic Realm, leading some to theorize that they were among the first creations of God. When He separated the earth and the sky, He created Ge and Ouranos; when He ordered the light He created Nyx and Hemera, and so forth. The implication is that the Magic Realm is the primal state of the world before man. With the titans set over time, and the titanesses set over nature, their children became the inventors of all human sciences and arts, the progenitors of culture, and, some say, the creators of mankind.
 
@@ -4043,7 +4042,7 @@ The titans are creatures of the Magic Realm, leading some to theorize that they 
 
 This loose coalition of a handful of magi believe that the restoration of the titans will lead to a new age of magic. They believe the Garden of Eden was the Magic Realm, and when Adam and Eve were cast out beyond its bounds, they entered the mundane world, bringing with them fragments of the Magic Realm that manifested as auras. Most respected among the Seekers is Evantia of Moero's Garden. The members of this faction are fascinated with Magic auras, regiones, and portals into the Magic Realm itself.
 
-## The Titans as Enemies of the Gods
+### The Titans as Enemies of the Gods
 
 The rulership of the titans over the universe was not destined to last. Kronos ate every one of his children by Rhea, after a prophecy revealed he was destined to be overthrown by his son. Appalled at his behavior, Rhea fed Kronos a stone instead of her third son and youngest child, and had the baby Zeus raised in secret. When he came of age, Zeus fed his father an emetic, and he vomited forth the stone, then Zeus' elder siblings. Meeting as a council of war, the children of Kronos asked Zeus to lead them in war against the titans. The battle was enjoined and dragged on for many years. Initially neutral, Atlas joined the fight against the gods when they sunk Atlantis, his beloved island kingdom. He took over leadership from Kronos, and the titans started to win. The turning point for the gods, which won them the war, was obtaining three fabulous weapons from the Kyklopes: Hades stole the titans' weapons using the helmet of invisibility, Poseidon distracted them with his trident, and Zeus struck them down using the thunderbolt. All the titans were captured and imprisoned in Tartaros, save Atlas who was set to hold up the vault of heaven, and Prometheus who sided with the gods.
 
@@ -4053,7 +4052,7 @@ Perhaps the most radical faction of the Theban Tribunal, the Legion of Atlas see
 
 Kristophoros of Bonisagus is an evangelizing magus who takes the First Commandment very seriously. He believes that the remnants of pagan practices across the Tribunal are a form of insidious evil, and seeks to cleanse Hermetic procedure in Thebes from any hint of idolatry. Curiously enough, he has no issue with the titans, since they do not desire worship, unlike the faerie gods who live for it. Kristophoros has become a rallying point for all magi of the Legion of Atlas, since their goals coincide even if their philosophies do not. Kristophoros has used his considerable rhetorical powers in the past to prevent convictions against those magi who molest the fae, and characters may find in him an unexpected (and perhaps unwelcome) ally at Tribunal.
 
-> ## The Titans, in Brief
+> ### The Titans, in Brief
 >
 > The following is a very brief overview of the titans and their progeny, the Daimons and nymphs. Readers are directed to the bibliography for more information.
 >
@@ -4065,7 +4064,7 @@ Kristophoros of Bonisagus is an evangelizing magus who takes the First Commandme
 >
 > Hyperion and Theia gave birth to the sun (Helios), the moon (Selene), and the dawn (Eos). Okeanos and Tethys are the parents of all the world's rivers and seas. Koios represents the inquisitive mind, and is acclaimed as the creator of science; Phoibe stands for the intuitive mind. Their two daughters are Leto, titaness of heavenly prophecy and omens, and Asteria, titaness of the oracles and prophecies of the night (including dreams and necromancy).
 >
-## The Titans as a Government in Exile
+### The Titans as a Government in Exile
 
 Mother Earth was consumed with wrath at the treatment of her children by her grandchildren, and bore a race of giants to wreak her anger. The 24 giants attacked the gods, but they were incapable of being killed by the gods, requiring instead the hand of Herakles to land the death blow. During the fight the geography of the world was rearranged as both gods and giants used uprooted islands and mountains as missiles. Ultimately the giants were defeated and either imprisoned or slain. The final monster to be brought forth by Earth was Typhon, the mightiest giant of all; his ass' head brushed the heavens, his wings darkened the sky, and he spat burning rocks from his mouth. The gods were put to flight and they hid in Egypt in the shape of animals. Zeus was hamstrung by the hideous giant when he faced it; he was rescued by Hermes, and was subsequently successful in defeating Typhon with his thunderbolts and imprisoning him beneath the earth.
 
@@ -4075,22 +4074,21 @@ Having secured three victories over the progeny of Earth, the gods now reigned s
 
 Mortal magicians discovered long ago that despite being imprisoned, the titans were still capable of providing power for the exercise of magic. Some Seekers claim that all magic comes to man through the titans, and Hermes was the first to discover how to take this power without weakening their bonds. These magi do not seek the downfall of the gods, but do desire a greater bond with the primal spirits of the Magic Realm. Dubbed Kampe's Lovers after the jailer of the titans, this faction is attractive to House Tytalus, since its goals mirror those of a Tytalan Mystery Cult called the Titanoi (see *Houses of Hermes: Societates*, page 94). Tisiphon of Hedyosmos is the most prominent member of this faction (see more on Tisiphon in Chapter 5: Greece, Hedyosmos).
 
-
-> ## Mythic Blood – Gigantes
+> ### Mythic Blood – Gigantes
 >
 > Characters with the Mythic Blood Virtue can choose to have the blood of the Greek giants. These differ from giants in other parts of Mythic Europe, in that their immense size was accompanied by another distinct physical feature — they had serpent tails instead of feet. The Magical Focus that accompanies the Mythic Blood is usually connected with strength or the Form of Terram, and the Personality Flaw is Rebellious. Common Virtues and Flaws include: Giant Blood; Large; Horrifying Appearance — Snake Legs, Necessary Condition — must be touching the ground
 >
-#### New Flaw: Rebellious
-
-*Major or Minor, Personality*
-
-You react adversely to any attempt to impose authority over you, and work against those who are in command. You do not necessarily have any desire to be a leader yourself, but you don't like to be pushed around.
-
-#### New Flaw: Horrifying Appearance – Snake Legs
-
-*Major, Supernatural*
-
-You have no legs, instead your hips give rise to two or more snake-like tails; you should consider how you survived childhood with this horrific deformity. Your movement is not hindered under most circumstances. You can hide this deformity under clothing, but you cannot move without revealing it, leaving you feigning being crippled as well.
+> #### New Flaw: Rebellious
+>
+> *Major or Minor, Personality*
+>
+> You react adversely to any attempt to impose authority over you, and work against those who are in command. You do not necessarily have any desire to be a leader yourself, but you don't like to be pushed around.
+>
+> #### New Flaw: Horrifying Appearance – Snake Legs
+>
+> *Major, Supernatural*
+>
+> You have no legs, instead your hips give rise to two or more snake-like tails; you should consider how you survived childhood with this horrific deformity. Your movement is not hindered under most circumstances. You can hide this deformity under clothing, but you cannot move without revealing it, leaving you feigning being crippled as well.
 
 ## The Sibyls
 
@@ -4122,23 +4120,11 @@ This sibyl's name is Lamia, and she haunts Phrygia in the Anatolian Highlands. S
 
 While the sibyls themselves are incapable of leaving their shrines, they occasionally bear children to the visitors who seek their wisdom. A child of such a union is encouraged by her mother to leave the sanctuary of her magical home and experience the world. The children of sibyls — called sibyllides — are magic kin (*Realms of Power: Magic*, page 89). They may be magic characters or characters aligned with the Magic Realm. They always have powers associated with prophecy and extra-normal sight (like the Warders of Mystery from *Realms of Power: Magic,* page 95), and at least one has become a magus of the Order, naturally specialized in Intellego magic. They are obligated to return to their mother's home every decade to report to her what they have learned about the world, so that she can judge whether it is right for more of her prophecies to be released.
 
-## The Other Sibyls
+> ### The Other Sibyls
+>
+> The Persian Sibyl is named Sambenthe and lives in ancient Babylon. The Libyan Sibyl Phemonoe dwells in the Siwa Oasis in the Libyan desert. Sabbe the Hebrew Sibyl is purported to have been on the Ark, as one of Noah's daughters-in-law. She wanders between Magic auras throughout the Holy Land. The Cumean Sibyl and the Tiburtine Sibyl are both to be found in Italy; Carmentis dwells at Lake Cumae near Naples, and Albunea next to the Tibur river in Etruria. The Cumean Sibyl sold three books of prophecy to King Tarquinius of Rome; these books became the property of a Roman college of priests, and then part of the lore of the Cult of Mercury.
 
-The Persian Sibyl is named Sambenthe and lives in ancient Babylon. The Libyan Sibyl Phemonoe dwells in the Siwa Oasis in the Libyan desert. Sabbe the Hebrew Sibyl is purported to have been on the Ark, as one of Noah's daughters-in-law. She wanders between Magic auras throughout the Holy Land. The Cumean Sibyl and the Tiburtine Sibyl are both to be found in Italy; Carmentis dwells at Lake Cumae near Naples, and Albunea next to the Tibur river in Etruria. The Cumean Sibyl sold three books of prophecy to King Tarquinius of Rome; these books became the property of a Roman college of priests, and then part of the lore of the Cult of Mercury.
-
-## Magical Bindings
-
-One of the most significant magical traditions of Ancient Greece — although by no means unique to Ancient Greece — is the power of bonds, whether those restraints are taken unwillingly or voluntarily in the form of oaths. These traditions have not vanished along with antiquity, but only fragments of them survive into the 13th century. It is the choice of the storyguide as to whether any or all of the fragments presented in this section constitute a single or multiple magical traditions, and whether practitioners of that magic still exist in the wildernesses of the Tribunal, away from the eyes of the Order.
-
-## Epanankoi
-
-"*Epanankoi*" is a general term for spells that constrain, specifically for the purposes of coercing spirits and gods. The *epanankoi* are among the most powerful magics of the classical period, practiced by both gods and men, and are almost completely forgotten in the current day. Some fragments of this power remain, and magi eagerly seek them out for clues to this lost magic.
-
-The Gates of Tartaros that constrain the titans are one of the most significant bindings known. These mighty chains allowed the gods to direct the power of the titans while keeping them imprisoned. The jailer of Tartaros is a fearful she-dragon called Kampe; she is the embodiment of the chains of the gods ever since Zeus slew her. Some claim that Kampe's power was channeled by ancient sorcerers to work their binding magics.
-
-Some of the bindings wrought in ancient times still hold today, and members of the Order who are aware of them are nervous that they are incapable of repairing them should they be broken. Some example bindings known to the Order include:
-
-> ## Character Guide: A Sibyl
+> ### Character Guide: A Sibyl
 >
 > **Magic Might:** 25+ (Mentem)
 >
@@ -4177,13 +4163,25 @@ Some of the bindings wrought in ancient times still hold today, and members of t
 > **Appearance:** Each sibyl appears as a woman native to the area; some appear to be young maidens, whereas others appear as haggard crones. They wear flimsy veils across their faces, or else a blindfold.
 >
 > This character guide follows the rules for Magic Characters (see *Realms of Power: Magic*, pages 29–54), and describes the basic minimum game statistics of a sibyl. However, there is plenty of room for customization; the sibyl has only 5 points of Virtues and Flaws, and most sibyls have a Magic Might greater that 25, allowing room for some overtly magical powers rather than relying on Divination, Premonitions, and a vast knowledge of diverse subjects. The sibyl's Enigmatic Personality Trait is an Essential Trait; magical effects to make her speak clearly mysteriously fail. Some sibyls might be Transformed Humans rather than Magic Humans.
->
-> - The island of Delos was once bound to the ocean floor by spells wrought by a titan, but this binding as now been broken (see Chapter 6: The Islands);
-> - During the gods' war against the giants, each defeated foe was bound into the earth, crushed under mountains, or buried beneath islands. The locations of some of these giants are known;
-> - The Jar of Pandora is rumored to be an item of great binding magic capable of controlling the spirits of hardship and death;
-> - The monsters of the Persian Wars were bound by Greek sorcerers into inanimate objects (see Chapter 2: History);
-> - Oaths formed the foundation of the mundane leagues (see Chapter 2).
->
+
+## Magical Bindings
+
+One of the most significant magical traditions of Ancient Greece — although by no means unique to Ancient Greece — is the power of bonds, whether those restraints are taken unwillingly or voluntarily in the form of oaths. These traditions have not vanished along with antiquity, but only fragments of them survive into the 13th century. It is the choice of the storyguide as to whether any or all of the fragments presented in this section constitute a single or multiple magical traditions, and whether practitioners of that magic still exist in the wildernesses of the Tribunal, away from the eyes of the Order.
+
+### Epanankoi
+
+"*Epanankoi*" is a general term for spells that constrain, specifically for the purposes of coercing spirits and gods. The *epanankoi* are among the most powerful magics of the classical period, practiced by both gods and men, and are almost completely forgotten in the current day. Some fragments of this power remain, and magi eagerly seek them out for clues to this lost magic.
+
+The Gates of Tartaros that constrain the titans are one of the most significant bindings known. These mighty chains allowed the gods to direct the power of the titans while keeping them imprisoned. The jailer of Tartaros is a fearful she-dragon called Kampe; she is the embodiment of the chains of the gods ever since Zeus slew her. Some claim that Kampe's power was channeled by ancient sorcerers to work their binding magics.
+
+Some of the bindings wrought in ancient times still hold today, and members of the Order who are aware of them are nervous that they are incapable of repairing them should they be broken. Some example bindings known to the Order include:
+
+- The island of Delos was once bound to the ocean floor by spells wrought by a titan, but this binding as now been broken (see Chapter 6: The Islands);
+- During the gods' war against the giants, each defeated foe was bound into the earth, crushed under mountains, or buried beneath islands. The locations of some of these giants are known;
+- The Jar of Pandora is rumored to be an item of great binding magic capable of controlling the spirits of hardship and death;
+- The monsters of the Persian Wars were bound by Greek sorcerers into inanimate objects (see Chapter 2: History);
+- Oaths formed the foundation of the mundane leagues (see Chapter 2).
+
 #### Diabolai
 
 Much as Christians threaten saints into compliance with ritual humiliation (*Realms of Power: The Divine*, pages 87–88), so too can local spirits and mythological figures be coerced into acting on a character's behalf. Although by no means common in the empire, practice of *diabolai*, or "slander rites," is widespread. The most common use of diabolai is to evoke the wrath of a supernatural being and direct that wrath at the target of choice; but this process can direct the being to use any of its powers at the character's command. Not every supernatural creature is responsive to diabolai; it has to be a sentient being who has accepted patronage over a specific site or subject personal to the character invoking it. Thus a native of a village could invoke a nymph who guards a local grove; a local could visit the long-abandoned shrine to Helios the sun god; a physician could invoke Aesklepios, the god of medicine; and someone with Mythic Blood could call upon his magical ancestor. This deep and personal connection is vital: a person cannot simply perform a diabolai on a random magical spirit or faerie. The character also requires some intimate knowledge of the specific being he intends to invoke, represented by knowledge of the (Realm) Lore appropriate to the entity's Might. Characters without an appropriate (Realm) Lore cannot perform a slander rite, but no other specialist Ability or Virtue is required. Slander rites can be used to coerce creatures from any Realm, but they are most commonly used against Faerie and Magic beings. Attracting the attention of demons with these rites is opening yourself to future corruption.
@@ -4196,16 +4194,16 @@ It takes several hours to perform a slander rite. The most common method involve
 
 If the slander rite succeeds, the invoked supernatural being immediately uses its power to grant the character the effect he demanded. If the rite fails, the invoked being is annoyed and will not respond to any further petitions for a month. If the roll is 10 or more points beneath the Ease Factor, or the diabolai is botched, then the entity uses one of his powers on the invoking character. Furthermore, the supernatural being refuses to entertain more requests from anyone for the entire year.
 
-> ## Modifiers to Diabolai
+> ### Modifiers to Diabolai
 >
 > Diabolai performed in public:+2 Requested power is apt (e.g. target worthy of punishment): +1 to +5, as determined by the storyguide Synthemata of being known (see *The Mysteries Revised Edition*, pages 86–88): +3 True Name of being known (see *Realms of Power: The Infernal,* pages 34–35): +9 Performed a diabolai in the last month: –9 Threatening an unfamiliar being: –6
->
-> ## Stygian Magi
+
+> ### Stygian Magi
 >
 > An interest in binding magics is known as the "Stygian Art" in the Theban Tribunal, connecting these magics to the mythology of the Underworld. It is commonly held that binding magics are suspect, possibly even Infernally corrupted, probably due to the preeminence of the Goetic Arts in this field. Despite this reputation, some magi still pursue these studies. Most notable of these is Polydegmon of Hedyosmos (see Chapter 5: Greece), who practices a nonHermetic tradition of binding magic; until he trains an apprentice, his abilities remain unique in the Tribunal.
 >
 > The Witches of Thessaly (*Realms of Power: The Infernal*, pages 140–142) — possibly the native tradition of Trianoma — still practice their stygian magic across the Tribunal, but specifically on the mainland. Here they clash with the Covenant of Erebos (see Chapter 5) over territory and magical resources.
->
+
 #### Goetia
 
 A more direct way to summon and control spirits and gods is through the Goetic Arts (see *Realms of Power: The Infernal*, pages 114–119). The term *goes*, meaning "sorcerer," is one of the most ancient words used to describe magic in Greek, and some believe that this brand of Infernal sorcery began here. Because they deal with chthonic forces, the Goetic Arts inevitably bear the taint of the Infernal realm. Practitioners are treated with the utmost prejudice by Hermetic and Church authorities alike.
@@ -4224,8 +4222,7 @@ One consequence of the prevalence of Katadesmos Magic is the manifestation of th
 
 The Theban Tribunal is a fortunate place for practitioners of magic; not only is it magically rich in terms of auras, regiones, and vis, it also has many wild and uninhabited places that serve as retreats for the Gifted individual wishing to avoid the negative consequences of his Gift on other people. The Order of Hermes has estimated that one in every hundred people in the Theban Tribunal have some magical ability; although only one in every thousand has received any formal training. Furthermore, only one in 10,000 has The Gift, and is thus capable of learning the most powerful magic.
 
-
-## Magical Traditions
+### Magical Traditions
 
 *Hedge Magic*, **Ars Magica Fifth Edition**'s supplement for non-Hermetic magic, details a number of magical traditions that can be found across Mythic Europe. This section describes how these traditions might manifest in the Theban Tribunal.
 
@@ -4249,15 +4246,15 @@ Byzantium has no universities, which are the most likely home of the *mathematic
 
 Nightwalking traditions were a feature of Ancient Greece, and remnants of the cult remain in pockets across the empire. They often find themselves at odds with Folk Witch covens, particularly those who have teamed up with Infernal witches. Nightwalkers in Greece often have other magical abilities, such as being cunning folk (see Learned Magicians).
 
-> ## The Makhai
+> ### The Makhai
 >
 > In *Rival Magic* a tradition of wizards called the Muspelli is described, who derive their magic direct from the Norse equivalents of the titans. Advice is given for variant Muspelli in other lands, including the Makhai — Greek sorcerers who serve the monstrous Ekhidna and Typhon, who were brought forth by the Earth to avenge the imprisonment of the titans on the faerie gods. The Makhai might incorporate or replace the Gruagach variants mentioned in this chapter.
 >
-## Peasant Magic
+### Peasant Magic
 
 As well as the usual collection of minor magical powers represented by Supernatural Abilities like Dowsing, Premonitions, Second Sight, and so on, the common folk of Greece also have a very minor ceremonial magic. The origins of this magic — if indeed it has a single origin at all — is long lost. It is usually dismissed by Hermetic magi as beneath their notice.
 
-> ## New Virtue: Folk Magic
+> ### New Virtue: Folk Magic
 >
 > *Minor, Supernatural*
 >
