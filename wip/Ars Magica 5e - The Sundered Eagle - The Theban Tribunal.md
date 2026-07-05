@@ -4278,13 +4278,13 @@ Called *exotika* or *xotika* in Greek (singular *exotiko*), faeries abound on th
 
 The ancient Greeks worshiped a race of powerful faeries as gods. In their mythology, the gods overthrew the primal race of titans to claim the position at the head of the pantheon; theurgists see this myth of the titanomachy as a fundamental shift in the sublunar powers and perhaps the origin of the Faerie realm. The six principle gods of the Pantheon are named as the children of the elder titans Kronos and Rhea: Zeus, Hades, Poseidon, Demeter, Hera, Hestia. Furthermore, several were said to be born from a union between Zeus and younger titans (Artemis, Apollon, Athene, Aphrodite, and Hermes), or between Zeus and his sisters (Ares, Hephaistos, and Dionysos). The myths of the Greek Gods portray them with human flaws and foibles: Zeus is lecherous, Hera is vengeful and proud, Ares is argumentative and a coward, and so forth. This makes them very different from the depictions of the titans, who were seen as distant and uncaring.
 
-## The Twelve Olympians
+### The Twelve Olympians
 
 Twelve gods sat on Mount Olympos and received worship from the ancient Greeks. Zeus was the king of the gods, despite occasional attempts to dethrone him by his siblings and children; Zeus had earned his position at the head of the pantheon by defeating Kronos, and remained there by a mandate of Fate.
 
 The other Olympians consisted of Hera, Poseidon, Demeter, Apollon, Artemis, Athene, Ares, Aphrodite, Hephaistos, Hermes, and Dionysos. Zeus' sister Hestia had ceded her own seat to the youngest Olympian, Dionysos.
 
-## Other Gods
+### Other Gods
 
 In addition to the 12 Olympians, the Greek pantheon consisted of a whole host of other deities, of whom Hades was perhaps the most important. His home in the Underworld disbarred him from a life on Olympos, and he guarded the dead and ruled over them much as Zeus ruled over the living. Hestia was intended by the fates to be his wife, but the goddess of the sacred fire eschewed a life in the perpetual gloom of the Underworld and remained a virgin. She instead became the goddess of the family. Persephone, the daughter of Demeter, became Hades' queen instead.
 
@@ -4292,7 +4292,7 @@ Pan was the foster-brother of Zeus himself, and older than many of the Olympians
 
 Not all of the beings worshiped as gods were necessarily faeries; only those that encompass an ideal that is a facet of human nature or endeavor are generally considered to be fae. Some of the worshiped beings were younger titan — aspects of the magical world that performed their tasks according to nature whether man took notice of them or not. These "magical gods" included Helios the sun god, Selene the moon goddess, Hekate goddess of witchcraft, and Leto and Asteria, the goddesses of prophecy.
 
-## Heroes
+### Heroes
 
 Stories are still told in the 13th century about the deeds of the great heroes of mythic times: Herakles, Perseus, Bellerophon, Jason, Theseus, Daidalos, Kastor and Polydeukes, Odysseus, and so forth. Many of these heroes were demigods, having one of the Olympians or a nymph as a divine parent. Given the nature of faeries, it is a certainty that many if not all of these heroes can still be found in Greece, and some of them may even be the real thing. House Mercere has a particular interest in these stories, as they preserve a Cult of Heroes that contains many who claim descent from one of these champions among men. Some example heroes, and the Virtues and Flaws they may pass on to their descendants, are:
 
@@ -4312,11 +4312,11 @@ Stories are still told in the 13th century about the deeds of the great heroes o
 
 **Theseus**: Famous as a slayer of bandits, giants and, monsters (most famously the minotaur), this king of Athens successfully waged war against the Amazons and even visited the Underworld in fulfillment of an oath and was trapped there for four years. His descendants would be superb warriors who live by a Code of Honor.
 
-> ## The Olympian Houses of Hermes
+> ### The Olympian Houses of Hermes
 >
 > Seekers have long connected the 12 Houses of Hermes with the twelve Olympians. Different researchers make different attributions, but the most common identification is: Bjornaer as shapechanging Poseidon; Bonisagus as Zeus; Criamon as mysterious Hestia and/or ecstatic Dionysos; Ex Miscellanea as Demeter; Flambeau as Apollon; Guernicus as Hera; Jerbiton as beautiful Aphrodite; Mercere as Hermes; Merinita as Artemis; Tremere as Athena; Tytalus as belligerent Ares; and finally Verditius as crafty Hephaistos. Even Diedne was represented, originally as Demeter and then as ill-omened Hades. It is rumored that Trianoma was the deliberate inventor of this pattern, and she passed over some wizards as potential Founders purely because they did not meet her mythological criteria. Some say that the fall of a House was inevitable ever since the Order accepted Ex Miscellanea as the 13th House, disrupting the Olympian symmetry.
 
-> ## The Problem of Hermes
+> ### The Problem of Hermes
 >
 > Seeker magi are most interested in Hermes. His two most intriguing characteristics are as a god of invention and as a god of transition.
 >
@@ -4326,7 +4326,7 @@ Stories are still told in the 13th century about the deeds of the great heroes o
 >
 > The most satisfactory answer to many is that there were two or more beings who went by the name of Hermes, and so all of these options — and more — are potentially true. Until a magus meets with a being calling itself Hermes no-one will ever be sure; and perhaps not even then.
 
-## The Children of Olympos
+### The Children of Olympos
 
 The aim of this Hermetic league (see Chapter 3: The Order of Hermes, The Leagues of Thebes) is to forge a close connection between the Order of Hermes and the faerie gods. Its leader Lucian believes that the Order has been ill-used by the Infernal and the Divine, and that the uncaring Magic Realm is not a suitable path for magi due to the lack of interest of its denizens in the works of man.
 
@@ -4334,7 +4334,7 @@ Lucian hopes to forge pacts with the old Greek gods that create longer, more sta
 
 The league has several sympathizers but few actual members, most of whom are from House Merinita. Its existence is not a secret, although Lucian's scheming and the specifics of his new Mystery Initiation are. Lucian hints at his innovation, but only tells willing initiates the whole story. To achieve the league's goals, Lucian has invented two Mysteries for his followers: Elysian Ecstasy and Olympian Pact. By use of these Mysteries, a person channels a specified Greek god, whose spirit possesses the person. So possessed, the person gains some of the god's powers and personality. The better the recipient is at channeling the god, the more power he receives. At some point, depending on the strength of his existing personality, the god overcomes the recipient, who becomes the god incarnated in physical form. Thus far, Lucian has acted as mystagogue for each member of the league who knows Elysian Ecstasy.
 
-> ## New Minor Supernatural Virtue: Elysian Ecstasy and Olympian Pact
+> ### New Minor Supernatural Virtue: Elysian Ecstasy and Olympian Pact
 >
 > Elysian Ecstasy is a new Minor Supernatural Virtue, the consequence of Lucian's investigations into the Faerie realm combined with the ecstatic rites he invented for this new Inner Merinita Mystery. It is gained through a Mystery Initiation of his devising. There is no prerequisite for gaining the Virtue, which violates the nature of the Merinita Mystery Cult; initiates do not need to be opened to the Outer Merinita Mysteries, nor do they need a score in Merinita Cult Lore. Having invented the Mystery Initiation, Lucian has an Initiation Script that will work for anybody, providing that he serves as the mystagogue.
 >
@@ -4342,26 +4342,21 @@ The league has several sympathizers but few actual members, most of whom are fro
 >
 > Lucian has also discovered a stronger, but more dangerous, version of this Mystery — a Major Supernatural Virtue called Olympian Pact. Initiation into this Mystery involves the gain of a Major Personality Flaw appropriate to the god whose powers are sought. It is invoked in the same way as Elysian Ecstasy and provides the same benefits. However, it may also grant limited access to the powers of the god being channeled; each usage grants the character a Warping Point.
 >
-> > **Channeling a Greek God: (Characteristic) + Faerie Lore + stress die + aura**
+> **Channeling a Greek God: (Characteristic) + Faerie Lore + stress die + aura**
 >
-> **Ease Factor:** 9
->
+> **Ease Factor:** 9  
 > **Result:** (God's) Personality Trait +2, 1 point of Sympathy Traits chosen from those appropriate to the god
 >
-> **Ease Factor:** 12
->
+> **Ease Factor:** 12  
 > **Result:** (God's) Personality Trait +3, 3 points of Sympathy Traits, (Olympian Pact: use of one of the god's minor powers)
 >
-> **Ease Factor:** 15
->
+> **Ease Factor:** 15  
 > **Result:** (God's) Personality Trait +4, 6 points of Sympathy Traits, (Olympian Pact: use of two of the god's minor powers)
 >
-> **Ease Factor:** 18
->
+> **Ease Factor:** 18  
 > **Result:** (God's) Personality Trait +5, 10 points of Sympathy Traits, (Olympian Pact: use of one of the god's major powers or three of its minor powers)
 >
-> **Ease Factor:** 21+
->
+> **Ease Factor:** 21+  
 > **Result:** (God's) Personality Trait +6, 15 points of Sympathy Traits, (Olympian Pact: use of two of the god's major powers, six of its minor powers, or one major and three minor powers)
 >
 > Points of Sympathy Traits are used to buy those traits as if they were Arts. Thus a character channeling Zeus who has 6 points to spend could choose Thunder & Lightning +3; or Kings +2 and Sky +2. The score in a Sympathy Trait replaces the specialty for any Ability where it applies, but makes the use of that Ability into a stress roll; for more information see *Realms of Power: Faerie*, pages 102–105. A character gains Sympathy Traits, Personality Traits, and powers (for Olympian Pact) for a number of hours equal to the total rolled.
@@ -4418,61 +4413,75 @@ Sea nymphs are usually mute. They dance in the surf and on the beaches on nights
 >
 > Characters taking the Faerie God variant of Faerie Blood (*Realms of Power: Faerie*, page 107–108) may choose appropriate Sympathy Traits for an Olympian god, as listed below.
 >
-#### God's Name
-
-Positive Sympathy Traits Negative Sympathy Traits
-
-#### Zeus
-
-Thunder & Lightning, Kings, Sky Fidelity
-
-#### Hera
-
-Women, Children, Vengeance Men
-
-#### Poseidon
-
-Sea, Earthquakes, Horses Calm
-
-#### Demeter
-
-Fertility, Plants, Domesticated Animals Winter
-
-#### Apollon
-
-Light, Prophecy, Healing Passion
-
-#### Artemis
-
-Wild Animals, Pursuit, Diseases Men
-
-#### Athene
-
-Wisdom, Tactics, Culture Direct Action
-
-#### Ares
-
-Violence, Weapons, Fear Bravery
-
-#### Aphrodite
-
-Attraction, Desire, Beauty Avoiding Attention
-
-#### Hephaistos
-
-Iron, Volcanoes, Precious Metals Beauty
-
-#### Hermes
-
-Money, Trickery, News Avoiding Trouble
-
-#### Dionysos
-
-Wine, Madness, Initiation Rational Action
-
-#### Hestia
-
-Family, Hearth, Virginity Self Promotion
+> #### God's Name
+>
+> Positive Sympathy Traits  
+> Negative Sympathy Traits
+> 
+> #### Zeus
+>
+> Thunder & Lightning, Kings, Sky  
+> Fidelity
+>
+> #### Hera
+>
+> Women, Children, Vengeance  
+> Men
+>
+> #### Poseidon
+>
+> Sea, Earthquakes, Horses  
+> Calm
+>
+> #### Demeter
+>
+> Fertility, Plants, Domesticated Animals  
+> Winter
+>
+> #### Apollon
+>
+> Light, Prophecy, Healing  
+> Passion
+>
+> #### Artemis
+>
+> Wild Animals, Pursuit, Diseases  
+> Men
+>
+> #### Athene
+>
+> Wisdom, Tactics, Culture  
+> Direct Action
+>
+> #### Ares
+>
+> Violence, Weapons, Fear  
+> Bravery
+>
+> #### Aphrodite
+>
+> Attraction, Desire, Beauty  
+> Avoiding Attention
+>
+> #### Hephaistos
+>
+> Iron, Volcanoes, Precious Metals  
+> Beauty
+>
+> #### Hermes
+>
+> Money, Trickery, News  
+> Avoiding Trouble
+>
+> #### Dionysos
+>
+> Wine, Madness, Initiation  
+> Rational Action
+>
+> #### Hestia
+>
+> Family, Hearth, Virginity  
+> Self Promotion
 
 #### Drakoi
 
@@ -4482,7 +4491,7 @@ Drakoi often build stone dwellings named "dragonhouses" for themselves; they are
 
 Many drakoi can take the form of a large serpent, sometimes with a human head. They occasionally grow to immense size, such as the one that crawled out of the sea and took up residence in the Karakalou Monastery on Mount Athos, where the monks treated it as a house snake. Another variety of drakos has a single eye, burning with fire, and a special talent for hurling rocks; these are especially common on the island of Zakynthos. Such drakoi are likely the descendants of the ancient *kyklopes* (cyclopes) described in Greek legends, which emerged from the Underworld Tartaros and dwelled by volcanoes.
 
-## Nereides
+### Nereides
 
 In classical times a *nereid* was specifically a water nymph, but in the middle ages the term is applied to all nymphs and female courtly faeries of all types (there is a distinct lack of male courtly faeries in the Theban Tribunal). Nereides are perhaps the most common faeries in the region, and typically appear as beautiful women bedecked with flowers. Their white dresses occasionally hide the fact that they have the hind legs of a goat or donkey.
 
@@ -4490,7 +4499,7 @@ Nereides are keen to interact with young men, as they gain vitality through such
 
 For more information on nereides, see the entries under Courtly Faeries, Entrapping Lovers, and Faerie Spouses Trapped by a Trinket in *Realms of Power: Faerie*, pages 82–86, page 73, and page 75. Greek nereides can steal the wits of a man with a single kiss, inflicting the Flaws of Simple Minded or Short Attention Span through the Grant (Minor Flaw) power. Other nereides can induce weakness or muteness. Saint Artemidos is particularly prayed to by the parents of nymph-struck infants, and can undo the curse.
 
-## Stoicheia
+### Stoicheia
 
 The *stoicheia* (singular *stoicheion*) are the spirits of places. Every significant landmark has its guardian, which commonly takes the form of a spirit-animal such as a calf, donkey, cat, or white hound. In the deep wilds where no-one sees them, each unusually shaped boulder, hilltop tree, river, and mountain possesses a stoicheion, which in these cases are genii loci (see *Realms of Power: Magic*, page 106). However, closer to human habitations, faeries fill the role of the spirits of places, extending their guardianship over the land to guardianship of the local community in return for proprietary offerings of eggs, figs, milk, and honey. The village is very respectful of its stoicheion, greeting it politely should they come across it, for a faerie spirit who is treated rudely can abandon or attack the community it once protected.
 
@@ -4502,53 +4511,34 @@ The *pergalio* is a spirit that ties itself to a particular structure, rather th
 
 The *kalotyches* are the stoicheia of trees that, when their tree is felled, become murderous creatures of vengeance. The name kalotyche means "good fortune," a classic Greek trick of giving a euphemistic name to an unpleasant entity as a propitiatory measure. Some trees — planes, poplars, and figs — are considered to have inimical spirits even when still alive, and no-one will even take rest in their shade. Particularly dangerous trees are distinguished by the speed of their growth; they must be cut down by the person who planted it else it will try to kill him. The vengeance of a kalotyche can be halted by placing a stone in the wedge of the trunk after the tree is felled (a Traditional Ward); these stones inevitably work their way free.
 
-> ## Character Guide: Stoicheion
+> ### Character Guide: Stoicheion
 >
-> **Faerie Might:** 10 (Animal); 20 in its village **Characteristics:** Int 0, Per +1, Pre +2, Com –1, Str +1/+2\*, Sta +2/+3\*, Dex 0/+3\*, Qik 0/+2\*
->
-> \* in physical form
->
-> **Size:** +2
->
-> **Virtues and Flaws:** Faerie Beast; Focus Power (Guardian of the Bounds), Ritual Power (Strike Dumb); Faerie Sight, Feast of the Fae, Improved Powers, Increased Faerie Might, Lesser Power (Loosely Material), Personal Power (Extended Glamour), Reputation as Confidence, Time or Place of Power; Narrowly Cognizant; Overconfident, Intangible Flesh; Traditional Ward (varies)
->
-> **Personality Traits:** Fiercely Protective +6, Brave +3, Loyal +3.
->
-> **Reputation**: Defender 4 (Local)
->
-> **Combat:** (pick one weapon appropriate to animal shape)
->
-> *Teeth:* Init +2, Attack +14, Defense +10, Damage +5
->
-> *Claws:* Init +2, Attack +15, Defense +12, Damage +6
->
-> *Horns:* Init +4, Attack +13, Defense +11, Damage +5
->
-> **Soak:** +8
->
-> **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
->
-> **Wound Penalties**: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)
->
-> **Abilities:** Area Lore 4 (local spirits), Awareness 3 (faeries), Brawl 6 (varies by animal), Romaic Greek 4 (those whom it protects), Faerie Lore 2 (weaknesses of enemies), Hunt 3 (enemies), Penetration 4 (*Guardian of the Bounds* power)
->
-> **Powers:**
->
-> *Extended Glamour*, 0 points, constant, Mentem: Grants awareness of everything that happens within the bounds of a specific domain chosen by the faerie. In essence, the faerie is coterminous with its associated landscape feature, so it is present simultaneously everywhere within its boundaries. A stoicheion with a Might of 10 can extend its glamour to the size of a room, while more powerful faeries can affect a greater area. The area controlled by the faerie can produce a yearly harvest of (Might/10) pawns of Animal vis, which manifests as physical objects within the controlled region. Removing this vis does not harm the faerie if it is bargained for.
->
-> *Guardian of the Bounds*, 1 – 5 points, Init –5, varies: The spirit protects its chosen community by using this power. By completing a circuit around the village and inscribing a circle, the faerie creates a ward designed to exclude a particular type of supernatural threat. This operates exactly like a *Ward against Faeries of the Water*, but the stoicheion can choose which Realm and which Form is affected each time it uses the power. The power costs 1 Might point per 5 levels (or fraction) of the equivalent spell. Common wards include a Ward against Faeries of the Wood, to prevent crop-damaging faeries; and Ward against Demons of the Mind, to exclude the evil eye. These wards typically are of low level to ensure that they have sufficient Penetration against their foe; a stoicheion with a Might of 20 (in its village, for example) can create a Level 10 ward with a Penetration of 15, at the cost of 2 Might points.
->
-> *Loosely Material*, 3 points, Init –10, Animal: The stoicheion can take on glamoured flesh and a material form. It takes one round to take this form. The creature is Size +2, and has the physical statistics marked with an asterisk. It is only in this form that it can physically attack. The faerie may maintain the material body indefinitely. If slain, the body contains the vis listed below. When the faerie returns to immateriality, which takes an uninterrupted combat round, it regains the Might points spent to activate this power. If it then takes on matter again, it does not carry over the wounds caused to its previous body.
->
-> *Strike Dumb*, 5 points, Init – 20, Vim: Imposes the Mute Flaw upon a victim. The faerie can decide to bestow the Flaw permanently or temporarily. If permanent, the power costs points from the creature's Might score as well as Might pool. If temporary, the Might points spent on this power are only recovered when its effects are withdrawn. This power has been affected by the Improved Powers Virtue
->
-> **Vis:** 3 pawns of Animal vis, in bones
->
+> **Faerie Might:** 10 (Animal); 20 in its village  
+> **Characteristics:** Int 0, Per +1, Pre +2, Com –1, Str +1/+2\*, Sta +2/+3\*, Dex 0/+3\*, Qik 0/+2\*  
+> \* in physical form  
+> **Size:** +2  
+> **Virtues and Flaws:** Faerie Beast; Focus Power (Guardian of the Bounds), Ritual Power (Strike Dumb); Faerie Sight, Feast of the Fae, Improved Powers, Increased Faerie Might, Lesser Power (Loosely Material), Personal Power (Extended Glamour), Reputation as Confidence, Time or Place of Power; Narrowly Cognizant; Overconfident, Intangible Flesh; Traditional Ward (varies)  
+> **Personality Traits:** Fiercely Protective +6, Brave +3, Loyal +3.  
+> **Reputation**: Defender 4 (Local)  
+> **Combat:** (pick one weapon appropriate to animal shape)  
+> *Teeth:* Init +2, Attack +14, Defense +10, Damage +5  
+> *Claws:* Init +2, Attack +15, Defense +12, Damage +6  
+> *Horns:* Init +4, Attack +13, Defense +11, Damage +5  
+> **Soak:** +8  
+> **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
+> **Wound Penalties**: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+)  
+> **Abilities:** Area Lore 4 (local spirits), Awareness 3 (faeries), Brawl 6 (varies by animal), Romaic Greek 4 (those whom it protects), Faerie Lore 2 (weaknesses of enemies), Hunt 3 (enemies), Penetration 4 (*Guardian of the Bounds* power)  
+> **Powers:**  
+> *Extended Glamour*, 0 points, constant, Mentem: Grants awareness of everything that happens within the bounds of a specific domain chosen by the faerie. In essence, the faerie is coterminous with its associated landscape feature, so it is present simultaneously everywhere within its boundaries. A stoicheion with a Might of 10 can extend its glamour to the size of a room, while more powerful faeries can affect a greater area. The area controlled by the faerie can produce a yearly harvest of (Might/10) pawns of Animal vis, which manifests as physical objects within the controlled region. Removing this vis does not harm the faerie if it is bargained for.  
+> *Guardian of the Bounds*, 1 – 5 points, Init –5, varies: The spirit protects its chosen community by using this power. By completing a circuit around the village and inscribing a circle, the faerie creates a ward designed to exclude a particular type of supernatural threat. This operates exactly like a *Ward against Faeries of the Water*, but the stoicheion can choose which Realm and which Form is affected each time it uses the power. The power costs 1 Might point per 5 levels (or fraction) of the equivalent spell. Common wards include a Ward against Faeries of the Wood, to prevent crop-damaging faeries; and Ward against Demons of the Mind, to exclude the evil eye. These wards typically are of low level to ensure that they have sufficient Penetration against their foe; a stoicheion with a Might of 20 (in its village, for example) can create a Level 10 ward with a Penetration of 15, at the cost of 2 Might points.  
+> *Loosely Material*, 3 points, Init –10, Animal: The stoicheion can take on glamoured flesh and a material form. It takes one round to take this form. The creature is Size +2, and has the physical statistics marked with an asterisk. It is only in this form that it can physically attack. The faerie may maintain the material body indefinitely. If slain, the body contains the vis listed below. When the faerie returns to immateriality, which takes an uninterrupted combat round, it regains the Might points spent to activate this power. If it then takes on matter again, it does not carry over the wounds caused to its previous body.  
+> *Strike Dumb*, 5 points, Init – 20, Vim: Imposes the Mute Flaw upon a victim. The faerie can decide to bestow the Flaw permanently or temporarily. If permanent, the power costs points from the creature's Might score as well as Might pool. If temporary, the Might points spent on this power are only recovered when its effects are withdrawn. This power has been affected by the Improved Powers Virtue  
+> **Vis:** 3 pawns of Animal vis, in bones  
 > **Appearance:** Usually immaterial, those with Second Sight might see the stoicheion as an oversized animal of its chosen form.
 >
 > This stoicheion is not intended to be a player character unless taken as a maguslevel character, since it has 15 points of Virtues and 7 points of Flaws. However, it suitable as an ally of a covenant, perhaps even its guardian (bought as a covenant Boon). It can take up to 3 more points of Flaws, each point granting 2 more Virtue points. In the faerie's chosen locality, its Faerie Might is increased to 20 and its protective power is enhanced. The most common taboo (i.e. Traditional Ward) of stoicheia is that they are bound to the land or people they are sworn to protect, and perish if they leave. If a stoicheion is slain it will eventually be reborn in a modified form, in the manner of faeries.
->
-> ## Story Seeds
+
+> ### Story Seeds
 >
 > #### The Thalassomachos
 >
