@@ -51,6 +51,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - Style inconsistency with hyphenation: Long-Term/Long Term/longterm (partly fixed); as well as Brother-Knight, Long-Winded, Simple-Minded and likely some more (none fixed).
 - Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 - Often inconsistent use of punctuation in lists (only occasionally fixed).
+- p5: "Structure of the Book" section dropped "over months or years, including character" from the Chapter 10 description, leaving "covers things that happen to the characters improvement, aging and death" (fixed)
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
 - p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
@@ -392,7 +393,7 @@ This is a big book, as it needs to be to explain all the rules and background fo
 
 Chapter 2, Order of Hermes, describes the order of wizards that is central to the game.
 
-Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
+Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters over months or years, including character improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
 
 Chapter 12, Realms, explains the four different sorts of supernatural power in Mythic Europe, the Divine, Faerie, Infernal, and Magical Realms. Chapter 13, Bestiary, provides a sample of creatures from each of these Realms. Chapter 14, Mythic Europe, provides hints on making your game feel like it happens in the mythic world.
 
