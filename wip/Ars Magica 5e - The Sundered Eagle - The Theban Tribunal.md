@@ -4805,7 +4805,7 @@ Unfortunately, the league has not accurately determined who was under the influe
 
 The Theban Tribunal has suffered greatly from the machinations of the Infernal realm. The situation is not black and white; no single enemy or army is entirely composed of demonic forces ravaging the lands of the good. But Infernal agents have seeped into every faction, including the Order of Hermes, and spread moral rot and earthly corruption.
 
-## The Corruption of the Byzantine Empire
+### The Corruption of the Byzantine Empire
 
 At the beginning of the 12th century the Byzantine Empire was slipping into decadence and decay. By the end of the century, it was beset by familial infighting, greed, and wars, and had made powerful enemies in the West. Inundated by selfishness and the personal depravity of some of the emperors, demonic agents finally gained a firm foothold when Emperor Andronikos Komnenos fully embraced an Infernal patron.
 
@@ -4813,7 +4813,7 @@ Exiled after plotting against his cousin Manuel, Andronikos Komnenos faced the p
 
 Immediately upon assuming the throne, Andronikos had his rivals brutally murdered. One victim, Renier of Montferrat, was the younger brother of Boniface, who would later become the leader of the Fourth Crusade. Andronikos set loose a great orgy of violence in Constantinople, staring with the Venetian merchants and spreading to include all Westerners; tens of thousands of Latins were slaughtered. The Republic of Venice was naturally horrified and outraged. Thus Andronikos both thoroughly corrupted his empire and sowed the seeds of conflict with Venice and Montferrat. Once Andronikos had achieved these malefic goals, he was betrayed by his Infernal patron and his subjects alike, and his long life and short reign ended in an agonizing torture.
 
-## The Corruption of the Fourth Crusade
+### The Corruption of the Fourth Crusade
 
 The Fourth Crusade was established with the noble aim of recovering the Holy Land. Yet it would totally fail to achieve its goal and instead end in tragedy and infamy. Certainly it was not God's hand that directed this fate, but rather the Infernal, which subtly manipulated a small number of key events to devastating effect. All parties involved — be they Latins, Venetians, or Greeks — had Infernal saboteurs within their ranks, making it impossible to label anyone entirely good or evil.
 
@@ -4825,13 +4825,13 @@ With the knights removed from Divine protection, the Infernal could now operate 
 
 The final piece in the puzzle was the rebellious Byzantine prince Alexios Angelos, who had allied himself with the crusade in the hopes of gaining the imperial throne. Was he a diabolist or merely the unwitting pawn and beneficiary of Infernal aid? He had long pleaded with Western rulers for aid in taking back the throne, but his pleas had been met with scorn. Now, however, he suddenly had the ear of the leaders of the crusade and was in possession of the money that they needed to repay their debts. Reduced in numbers, indebted, excommunicated, tired, and impatient for a proper fight, the crusaders ultimately agreed to his offer. The city of Constantinople was fabulously wealthy; if they took it Alexios would repay their debts to the doge, they would restore a rightful prince to his throne, and they would avenge the murders of Boniface's brother and the slaughter of the Venetians and other Westerners twenty years ago.
 
-## The Fall of Constantinople
+### The Fall of Constantinople
 
 The crusading army reached the city in 1203. It looked as if a peaceful conquest was possible when the Byzantine emperor, Alexios III, fled his city. Just as in Zara, however, a squabble between allies — this time between Alexios and his blind father, Isaac II — ensured that war was wrested from the jaws of peace. The citizens of Constantinople revolted and a tremendous fire tore through the city.
 
 Next spring, the crusaders resolved to take the city by force. The violence and outrages that followed were unprecedented. Hordes of demons accompanied the invading army through and over the walls, as the city's Dominion aura had diminished due to Alexios III's slaughter of worshipers. The crusaders engaged in rape and pillage, old women were violated, infants were slaughtered, and magnificent works of art were defaced and destroyed. The city's great library was ransacked and burned. The knights knew no shame, for they even smashed their way into the great Hagia Sophia, defacing its icons and holy books, where they installed a drunken whore on the patriarchal throne. This harlot proceeded to sing lewd songs and issue senseless edicts over her new "realm," and the attendant demons ensured that her orders were carried out to the letter, willingly or not. Greedy priests and nobles stole priceless relics from churches, while the more crazed and drunken of the knights simply dumped the relics in a heap and urinated over them. In the drunken debauchery, knights played dice and gambled away their wives with each other. The watching demons ensured that those who "lost" their wives never saw them again; back home, either the wife would suffer a tragic death or commit adultery. The Fourth Crusade had thus culminated in a bloody orgy of greed, sacrilege, and destruction against a great Christian city — the very antithesis of a righteous crusade.
 
-## The Destruction of Thermakopolis
+#### The Destruction of Thermakopolis
 
 One of the great prides of House Jerbiton was Thermakopolis, an urban covenant of five Jerbiton magi lead by the Archmagus Mathieus. Settled within Constantinople, Thermakopolis pledged itself to the preservation and protection of the city. Despite the atrocities and threats of the 12th century, and the foul machinations of the royal family, the magi of Thermakopolis promised that the city would continue and that any noted evils were merely ripples in an otherwise tranquil sea. They told the magi of the Theban Tribunal to set their anxieties aside, and that they would protect the city no matter what the threat. They vowed that all was well even as the Latins assembled outside the city walls.
 
@@ -4839,7 +4839,7 @@ Masters of Mentem magic, the magi felt assured that they could orchestrate a pea
 
 In 1220, Thermakopolis is the greatest shame of House Jerbiton. For all their promises and bravado, the magi failed to repel the invaders, and this dark smudge still haunts every Jerbiton magus in the Tribunal. Many Jerbiton magi, especially the apprentices who will soon be gauntleted, desperately want to reclaim the city and replant a covenant within its walls. The Tribunal as a whole is undecided. Should this act be encouraged or discouraged? Many prefer to wait and see what happens before committing to this action.
 
-> ## Akgah, the Demon of the Fourth Crusade
+> ### Akgah, the Demon of the Fourth Crusade
 >
 > The events described in the main text were orchestrated by a prince of Hell known as Akgah, and proceeded according to its grand malefic design. Akgah is the counterpart and enemy of the Hagka (see Chapter 11: Divine Landscape, The Hagka). Its physical form is that of a double-headed winged leopard as large as an elephant, a perversion of the winged lion that symbolizes the Republic of Venice. Its splendid sweet-smelling fur is mottled gold and black, and it has great golden wings. Those who accompany it are overcome with greed, lust, and a frenzy for battle. As the crusaders swept into Constantinople in the spring of 1204, the great leopard did battle with the Hagka in the legendary Hippodrome, surrounded by the statues of ancient gods and beasts. The struggle was cataclysmic, resulting in the partial destruction of the arena and its ornaments. But the Infernal combatant ultimately won the day, and the wounded Hagka fled. Deluded Crusaders nearby thought they were witnessing a Divine vision of the triumph of the lion of Venice, and were emboldened. Now, Akgah aims to maintain a state of war and chaos in the lands of the former empire, and sows the seeds of mistrust and avarice among the rival successor states.
 >
@@ -4848,7 +4848,6 @@ In 1220, Thermakopolis is the greatest shame of House Jerbiton. For all their pr
 #### The Fate of the Crusaders
 
 Just like Andronikos Komnenos before them, most of the victorious leaders of the crusade were not rewarded with a long rule, but instead quickly met their doom after they had served Hell's purpose (either wittingly or not). Enrico Dandalo, the Doge of Venice, died the next year, as did Baldwin of Flanders and Louis of Blois, at the Battle of Adrianople. Louis was killed by a Cuman force and Baldwin was captured and later executed, his skull being turned into a drinking cup. Boniface of Montferrat was slain in an ambush two years later and his head was sent to the Bulgarian tsar as a trophy.
-
 
 ## An Enemy Within
 
@@ -4864,10 +4863,11 @@ These plans are merely formulating in Proximios' head in 1220. Politically, he w
 
 Proximios can easily be the main enemy in a saga set in the Thebes Tribunal. He has the potential to raise high in the political system of the Order and could spread dissension and deceit throughout the entire Tribunal. He is very good at not getting caught, and all of his plots will look like someone else engineered them. Caution should be exercised with the speed and success of his schemes, since they could easily overwhelm beginning magi player characters. The threat of his machinations should build as the years pass, and careful consideration must be exercised so that he does not completely unhinge a budding saga. As he gains the upper hand, he will be more overt with the League of the Vigilant, using them as his shock troops as he rebuilds the Thebes Tribunal in his image.
 
+## Theban Demons
 
 The following Infernal creatures are unique to the Theban Tribunal.
 
-## The Vrykolakas
+### The Vrykolakas
 
 One of the most feared of the supernatural denizens of Greece is the *vrykolakas* (plural *vrykolakes*), or vampire. It is a common tradition for families to exhume their deceased relatives after three years and place the bones in a small box or *coemeterion* ("house of sleep"). However, sometimes the flesh doesn't dissipate in this time, and the family releases a vrykolakas from its sleep. The demon, who has eaten the corpse and taken its form, adopts its Form of Wickedness (see insert description) to spread panic while it makes its escape.
 
@@ -4875,144 +4875,102 @@ Those who are most prone to becoming host to a vrykolakas after death are those 
 
 With its ability to blend into society without fear of detection, the vrykolakas often sets up trade in a nearby village where it will not be recognized. They are fearful predators, first eating the flesh and drinking the blood of the relatives of the corpse, then ranging further abroad. An area with a vrykolakas suffers a general decline in health and vitality as it feeds at night on both livestock and on men. Like all demons, they can be repelled with symbols of faith, but their particular enemies are the alaphroiskiotoi (see Chapter 4: Culture & Customs). A vrykolakas is unable to harm anyone who was born on a Saturday, and those of this group with Second Sight can always spot a vampire in human or spiritual form. In different regions, the vrykolakas also goes by the name of timpanios (after the drum-like skin of a bloated corpse), alitos (indissoluble), and katakhanas (destroyer).
 
-## Vrykolakas
+> ### Vrykolakas
+>
+> **Order:** Vessel of Iniquity **Infernal Might:** 20 (Corpus)  
+> **Characteristics:** Int 0, Per 0, Pre 0, Com 0, Str +4, Sta +4, Dex 0, Qik +2  
+> **Size:** 0  
+> **Confidence Score:** 1 (3)  
+> **Virtues and Flaws:** Shapeshifter; Improved Characteristics, Lightning Reflexes  
+> **Personality Traits:** Hateful +6, Depraved +6  
+> **Combat:**  
+> *Grapple:* Init +2, Attack +6, Defense +7, Damage +4  
+> *Teeth:* Init +2, Attack +10, Defense +8, Damage +7  
+> *Spittle:* Init +2, Attack +6, Defense n/a, Damage +10  
+> **Soak:** +14  
+> **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
+> **Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)  
+> **Abilities:** Athletics 10 (leaping), Brawl 5 (grapple), Folk Ken 3 (passing for human), Shapeshifter 3 (at night), Thrown Weapons 5 (spittle)  
+> **Powers:**  
+> *Form of Wickedness*, 2 points, Init 0, Mentem: See *Realms of Power: The Infernal*, page 39  
+> *Form of Man*, 0 points, Init 0, Corpus: See *Realms of Power: The Infernal*, page 39  
+> *Contagious Obsession*, 1 point per victim, Init 0, Mentem: See *Realms of Power: The Infernal*, page 39  
+> *Obsession*, 1 to 3 points, Init –5, Vim: Fear. See *Realms of Power: The Infernal*, page 31. *Burning Spittle*, 0 points, Init +2, Ignem: the spittle of a vrykolakas is liquid fire, and it can expel it up to 5 paces. If it hits, the spittle inflicts +10 damage; if it is parried it eats through any object it touches rendering it useless. This is considered a natural attack and cannot be resisted by Magic Resistance.  
+> **Weakness:** Protected Group (those born on a Saturday).  
+> **Vis:** 4 pawns of Corpus in its teeth  
+> **Appearance:** The vrykolakas is indistinguishable from ordinary people in appearance, until it reveals its powers, at which point it takes on its true form. Some have shiny black skin, others glow in the dark. They are hunchbacked, with black hands and long nails. Their faces are blood-red and peeling, their teeth are like those of a cat or wolf, and they have wild hair and beards. In Thrace they are even more monstrous, with the skin of a goat, the trunk of an elephant, and a single colossal eye. With their Shapeshifter Ability they usually take the form of cats, goats, and owls.
+>
+> Vrykolakes usually take victims who are on their own, locking them in a grapple before biting them. They occasionally keep their victims alive and feed from them night after night by inflicting scuffle damage rather than normal damage.
 
-**Order:** Vessel of Iniquity **Infernal Might:** 20 (Corpus)
-
-**Characteristics:** Int 0, Per 0, Pre 0, Com 0, Str +4, Sta +4, Dex 0, Qik +2
-
-**Size:** 0
-
-**Confidence Score:** 1 (3)
-
-**Virtues and Flaws:** Shapeshifter; Improved Characteristics, Lightning Reflexes
-
-**Personality Traits:** Hateful +6, Depraved +6 **Combat:**
-
-*Grapple:* Init +2, Attack +6, Defense +7, Damage +4
-
-*Teeth:* Init +2, Attack +10, Defense +8, Damage +7
-
-*Spittle:* Init +2, Attack +6, Defense n/a, Damage +10
-
-**Soak:** +14
-
-**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
-
-**Wound Penalties**: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)
-
-**Abilities:** Athletics 10 (leaping), Brawl 5 (grapple), Folk Ken 3 (passing for human), Shapeshifter 3 (at night), Thrown Weapons 5 (spittle)
-
-**Powers:**
-
-*Form of Wickedness*, 2 points, Init 0, Mentem: See *Realms of Power: The Infernal*, page 39
-
-*Form of Man*, 0 points, Init 0, Corpus: See *Realms of Power: The Infernal*, page 39
-
-*Contagious Obsession*, 1 point per victim, Init 0, Mentem: See *Realms of Power: The Infernal*, page 39
-
-*Obsession*, 1 to 3 points, Init –5, Vim: Fear. See *Realms of Power: The Infernal*, page 31. *Burning Spittle*, 0 points, Init +2, Ignem: the spittle of a vrykolakas is liquid fire, and it can expel it up to 5 paces. If it hits, the spittle inflicts +10 damage; if it is parried it eats through any object it touches rendering it useless. This is considered a natural attack and cannot be resisted by Magic Resistance.
-
-**Weakness:** Protected Group (those born on a Saturday).
-
-**Vis:** 4 pawns of Corpus in its teeth
-
-**Appearance:** The vrykolakas is indistinguishable from ordinary people in appearance, until it reveals its powers, at which point it takes on its true form. Some have shiny black skin, others glow in the dark. They are hunchbacked, with black hands and long nails. Their faces are blood-red and peeling, their teeth are like those of a cat or wolf, and they have wild hair and beards. In Thrace they are even more monstrous, with the skin of a goat, the trunk of an elephant, and a single colossal eye. With their Shapeshifter Ability they usually take the form of cats, goats, and owls.
-
-Vrykolakes usually take victims who are on their own, locking them in a grapple before biting them. They occasionally keep their victims alive and feed from them night after night by inflicting scuffle damage rather than normal damage.
-
-## The Smerdaki
+### The Smerdaki
 
 Anything which is unacceptable, foul, or unclean is referred to as *smerdos*. The term is used for adulterated wine, rotten fruit, and decaying meat; but it also refers to unbaptized infants, the offspring of two different races, and a child born out of wedlock. Individuals polluted by smerdos may develop the power of the evil eye or become powerful masters of the maleficia (see *Realms of Power: The Infernal*, pages 102–113).
 
 There is a class of demons called the smerdaki, which are of particular nuisance to shepherds. These demons frequent enclosures, hedges, ruins of houses, and spots where livestock rest. They can appear as men covered head-to-toe in hair, or as rams with black patches on their foreheads. Others take the form of a child with red skin and eyes like those of a cat. The smerdaki terrorize livestock, dispersing the flock. They cause abortions and traumatize the genitals of valuable stud animals. Shepherds claim that smerdaki cannot be killed, wounded, or injured in any manner. Since they haunt specific places, smerdaki are avoided by changing pastures and removing the tongues of the bells on the livestock so that the demon is unaware of the ruse. It is believed that those bearing the taint of smerdos become smerdaki, but this is simply peasant superstition.
 
-## Smerdaki
-
-**Order:** Tempters / Evil Spirits **Infernal Might:** 10 (Animal)
-
-**Characteristics:** Int 0, Per 0, Pre 0, Com +2, Str +1, Sta 0, Dex +3, Qik +2
-
-**Size:** –2
-
-**Virtues and Flaws:** Hex; Weak-Willed **Personality Traits:** Selfish +5
-
-**Combat:**
-
-*Dodge:* Init +2, Attack n/a, Defense +5, Damage n/a
-
-**Soak:** +5
-
-**Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious
-
-**Wound Penalties**: –1 (1–3), –3 (4–6), –5 (7– 9), Incapacitated (10–12), Dead (13+)
-
-**Abilities:** Animal Handling 5 (inducing stampede), Athletics 3 (giving chase), Brawl 3 (evasion), Folk Ken 3 (shepherds), Hex 2 (abortions)
-
-**Powers:**
-
-*Coagulation*, 1 point, Init –1, Corpus: See *Realms of Power: The Infernal*, page 31.
-
-*Obsession*, 1 to 3 points, Init –5, Vim: Terror. See *Realms of Power: The Infernal*, page 31. *Illusionary Form*, 1 point, Init +1, Imaginem: Creates an image of the demon's physical form, which can move at the demon's direction. The demon must appear in this form or in physical form to use its Coagulation power.
-
-*Shout of Pan*, 1 point, Init +1, Animal: Animals flee in terror from the demon. Up to 10 animals are directly affected, but herd animals tend to spread the panic to the rest of the herd. Even goats or sheep can form a lethal stampede if in sufficient numbers.
-
-**Weakness:** Compulsiveness **Vis:** 2 pawns of Animal, in eyes **Appearance:** See main text
-
-The apparent invulnerability of the smerdaki is provided by their illusionary form; they only rarely take corporeal form.
-
-> ## Infernal Tradition: Stringla
+> ### Smerdaki
 >
-> **Favored Abilities**: Ceremony, Debauchery, Effusion, Phantasm
+> **Order:** Tempters / Evil Spirits  
+> **Infernal Might:** 10 (Animal)  
+> **Characteristics:** Int 0, Per 0, Pre 0, Com +2, Str +1, Sta 0, Dex +3, Qik +2  
+> **Size:** –2  
+> **Virtues and Flaws:** Hex; Weak-Willed  
+> **Personality Traits:** Selfish +5  
+> **Combat:**  
+> *Dodge:* Init +2, Attack n/a, Defense +5, Damage n/a  
+> **Soak:** +5  
+> **Fatigue Levels:** OK, 0, –1, –3, –5, Unconscious  
+> **Wound Penalties**: –1 (1–3), –3 (4–6), –5 (7– 9), Incapacitated (10–12), Dead (13+)  
+> **Abilities:** Animal Handling 5 (inducing stampede), Athletics 3 (giving chase), Brawl 3 (evasion), Folk Ken 3 (shepherds), Hex 2 (abortions)  
+> **Powers:**  
+> *Coagulation*, 1 point, Init –1, Corpus: See *Realms of Power: The Infernal*, page 31.  
+> *Obsession*, 1 to 3 points, Init –5, Vim: Terror. See *Realms of Power: The Infernal*, page 31.  
+> *Illusionary Form*, 1 point, Init +1, Imaginem: Creates an image of the demon's physical form, which can move at the demon's direction. The demon must appear in this form or in physical form to use its Coagulation power.  
+> *Shout of Pan*, 1 point, Init +1, Animal: Animals flee in terror from the demon. Up to 10 animals are directly affected, but herd animals tend to spread the panic to the rest of the herd. Even goats or sheep can form a lethal stampede if in sufficient numbers.  
+> **Weakness:** Compulsiveness  
+> **Vis:** 2 pawns of Animal, in eyes  
+> **Appearance:** See main text
 >
-> A *stringla* (plural *stringles*) is a variety of witch found in the Byzantine Empire; some areas (such as Mykonos) are reputed to be positively infested. These depraved women seek specifically to undermine the power of the Church and the dominance of man over woman; to achieve this aim they have made a deal with a demon who has granted them numerous horrible powers. Outwardly, a stringla appears no different to any other woman, although over time her ankles and wrists become deformed and twisted, so older stringles take pains to keep these joints hidden. It is not uncommon to hear of a man who has been married for years before discovering his wife (and usually his mother-in-law) is a stringla.
+> The apparent invulnerability of the smerdaki is provided by their illusionary form; they only rarely take corporeal form.
+
+### Infernal Tradition: Stringla
+
+**Favored Abilities**: Ceremony, Debauchery, Effusion, Phantasm
+
+A *stringla* (plural *stringles*) is a variety of witch found in the Byzantine Empire; some areas (such as Mykonos) are reputed to be positively infested. These depraved women seek specifically to undermine the power of the Church and the dominance of man over woman; to achieve this aim they have made a deal with a demon who has granted them numerous horrible powers. Outwardly, a stringla appears no different to any other woman, although over time her ankles and wrists become deformed and twisted, so older stringles take pains to keep these joints hidden. It is not uncommon to hear of a man who has been married for years before discovering his wife (and usually his mother-in-law) is a stringla.
+
+Local stringles gather into covens of 13 members, and they meet in rocky crevasses and echoing ravines to plot their mischief with each other and their stringles demon. This demon apparently has no physical form; it communicates to them as a disembodied voice. The stringles demon is a member of the Order of Deluders, specifically a Watcher (see *Realms of Power: The Infernal*, pages 41 and 64), and will provide teaching in maleficia in addition to acting as a mentor and protector.
+
+A stringla should be created as a companion or Mythic Companion. As a tradition they are similar to the Strigae (*Realms of Power: The Infernal*, page 129), and have the same favored abilities. They are the especial enemy of Greece's nightwalkers (see Chapter 9: Magical Landscape and *Hedge Magic*, pages 103–119), and may have similar powers.
+
+**Common Virtues:** Ceremony, Debauchery, Effusion, Nightwalker, Phantasm; Infernal Blessing (see below), Skinchanger (Crow)  
+**Common Flaws:** Depraved, Envious, False Power (Nightwalker); Arthritis (twisted ankles and wrists), Corrupted Abilities, Witch Marks
+
+When a stringla joins the coven, she undergoes a rite that grants her the Infernal Blessing Virtue (*Realms of Power: The Infernal*, pages 85–86), usually as a Minor Virtue. In addition to those powers listed in *Realms of Power: The Infernal*, a stringla can also take one of the following powers. These are granted by a Debauchery/Phantasm maleficium cast by the leader of the coven under the guidance of its demon. This maleficium is level 25 (base 4, +1 Touch, +4 Forsaken), granting the stringla a supernatural ability. Consequently, each of these powers has a minimum cost of 25. Each power can be used once per day unless otherwise noted, has a Penetration of 10 plus the stringla's Penetration bonus, and may not be used in the Dominion.
+
+*Wings of the Tempest* (Debauchery/Effusion 20): The witch can gather winds to herself strong enough to allow her to fly, or else lift others aloft and dash them to the ground. She must concentrate on the winds in order to control them. (Base 4, +3 Sight, +1 Conc)  
+*The Sanguine Feast* (Incantation/Consumption 35): The stringla can heal herself by draining the blood of another. She can restore a Light, Medium, or Heavy Wound by touching another; that touch inflicts the same wound on her victim as she has healed. (Base 25, +1 Touch, +1 affect Medium and Light Wounds)  
+*Mephitic Exhalation* (Debauchery/Malediction 25): The breath of the stringla can wither crops and destroy fruit. She can affect up to 10 bushes, five small trees, or a four-pace-diameter circle of field crops with a single exhalation. (Base 5, +2 Voice, +2 Group)
+
+### Infernal Tradition: The Paulicians
+
+**Favored Abilities:** Ceremony, Debauchery, Diablerie, Malediction
+
+The Paulicians are a religious heretical sect living in the great cities of the Tribunal, most notably Constantinople, Philippolis, and Thessaloniki. Granted freedom of religion in 990, they are not persecuted by the Orthodox Church. Practicing a derivative form of Manichaeism, the Paulicians hold that an eternal war exists between Satan and God, and that they and only they are the unconditionally chosen people. Outwardly ascetic and pious, they are not perceived as a threat despite their curious beliefs. The situation is much more dire inside their secret conclaves, however.
+
+Holding that the material world is the province of Satan, they despise both the Orthodox Church and the Jewish faith. Only the inner circle of the group's leaders knows the truth, that the creed of the Paulicians is more than merely heretical, it is outright Infernal. They yearn for the day when they can raise rebel armies, as their forefathers did in the ninth century. While Paulician communities grow, they are not yet at the point of leading armies. Instead they conspire against both Jews and Christians, denouncing and defaming them in general, and striking against them with Infernal powers when possible.
+
+> ### Bibliography
 >
-> Local stringles gather into covens of 13 members, and they meet in rocky crevasses and echoing ravines to plot their mischief with each other and their stringles demon. This demon apparently has no physical form; it communicates to them as a disembodied voice. The stringles demon is a member of the Order of Deluders, specifically a Watcher (see *Realms of Power: The Infernal*, pages 41 and 64), and will provide teaching in maleficia in addition to acting as a mentor and protector.
->
-> A stringla should be created as a companion or Mythic Companion. As a tradition they are similar to the Strigae (*Realms of Power: The Infernal*, page 129), and have the same favored abilities. They are the especial enemy of Greece's nightwalkers (see Chapter 9: Magical Landscape and *Hedge Magic*, pages 103–119), and may have similar powers.
->
-> **Common Virtues:** Ceremony, Debauchery, Effusion, Nightwalker, Phantasm; Infernal Blessing (see below), Skinchanger (Crow)
->
-> **Common Flaws:** Depraved, Envious, False Power (Nightwalker); Arthritis (twisted ankles and wrists), Corrupted Abilities, Witch Marks
->
-> When a stringla joins the coven, she undergoes a rite that grants her the Infernal Blessing Virtue (*Realms of Power: The Infernal*, pages 85–86), usually as a Minor Virtue. In addition to those powers listed in *Realms of Power: The Infernal*, a stringla can also take one of the following powers. These are granted by a Debauchery/Phantasm maleficium cast by the leader of the coven under the guidance of its demon. This maleficium is level 25 (base 4, +1 Touch, +4 Forsaken), granting the stringla a supernatural ability. Consequently, each of these powers has a minimum cost of 25. Each power can be used once per day unless otherwise noted, has a Penetration of 10 plus the stringla's Penetration bonus, and may not be used in the Dominion.
->
-> *Wings of the Tempest* (Debauchery/Effusion 20): The witch can gather winds to herself strong enough to allow her to fly, or else lift others aloft and dash them to the ground. She must concentrate on the winds in order to control them. (Base 4, +3 Sight, +1 Conc)
->
-> *The Sanguine Feast* (Incantation/Consumption 35): The stringla can heal herself by draining the blood of another. She can restore a Light, Medium, or Heavy Wound by touching another; that touch inflicts the same wound on her victim as she has healed. (Base 25, +1 Touch, +1 affect Medium and Light Wounds)
->
-> *Mephitic Exhalation* (Debauchery/Malediction 25): The breath of the stringla can wither crops and destroy fruit. She can affect up to 10 bushes, five small trees, or a four-pace-diameter circle of field crops with a single exhalation. (Base 5, +2 Voice, +2 Group)
-
-> ## Infernal Tradition: The Paulicians
->
-> **Favored Abilities:** Ceremony, Debauchery, Diablerie, Malediction
->
-> The Paulicians are a religious heretical sect living in the great cities of the Tribunal, most notably Constantinople, Philippolis, and Thessaloniki. Granted freedom of religion in 990, they are not persecuted by the Orthodox Church. Practicing a derivative form of Manichaeism, the Paulicians hold that an eternal war exists between Satan and God, and that they and only they are the unconditionally chosen people. Outwardly ascetic and pious, they are not perceived as a threat despite their curious beliefs. The situation is much more dire inside their secret conclaves, however.
->
-> Holding that the material world is the province of Satan, they despise both the Orthodox Church and the Jewish faith. Only the inner circle of the group's leaders knows the truth, that the creed of the Paulicians is more than merely heretical, it is outright Infernal. They yearn for the day when they can raise rebel armies, as their forefathers did in the ninth century. While Paulician communities grow, they are not yet at the point of leading armies. Instead they conspire against both Jews and Christians, denouncing and defaming them in general, and striking against them with Infernal powers when possible.
-
-## Bibliography
-
-Beaton, Roderick. *The Medieval Greek Romance.* Routledge, London, 1996.
-
-Emerson, Mary. *Greek Sanctuaries: An Introduction*. Bristol Classical Press, London, 2007.
-
-Freely, John. *The Cyclades*. I.B. Tauris & Co., London, 2006.
-
-Grant, Michael. *A Short History of Classical Civilization*. Weidenfeld and Nicholson, London, 1991.
-
-Graves, Robert. *The Greek Myths*. Penguin, London, 1992.
-
-Hansen, Mogens Herman. *The Athenian Democracy in the Age of Demosthenes*. Blackwells, Oxford, 1991.
-
-Herrin, Judith. *Byzantium: The Surprising Life of a Medieval Empire*. Penguin, London, 2007.
-
-Lock, Peter. *The Franks in the Aegean 1204-1500*. Longman, London, 1995.
-
-Norwich, John Julius. *Byzantium: The Decline and Fall*. Penguin, London, 1996.
-
-Phillips, Jonathan. *The Fourth Crusade and the Sack of Constantinople*. Random House, London, 2005.
-
-Rautman, Marcus. *Daily Life in the Byzantine Empire*. Greenwood Press, Connecticut, 2006.
-
-Tomkinson, John L. *Haunted Greece*. Anagnosis, Athens, 2004.
+> Beaton, Roderick. *The Medieval Greek Romance.* Routledge, London, 1996.  
+> Emerson, Mary. *Greek Sanctuaries: An Introduction*. Bristol Classical Press, London, 2007.  
+> Freely, John. *The Cyclades*. I.B. Tauris & Co., London, 2006.  
+> Grant, Michael. *A Short History of Classical Civilization*. Weidenfeld and Nicholson, London, 1991.  
+> Graves, Robert. *The Greek Myths*. Penguin, London, 1992.  
+> Hansen, Mogens Herman. *The Athenian Democracy in the Age of Demosthenes*. Blackwells, Oxford, 1991.  
+> Herrin, Judith. *Byzantium: The Surprising Life of a Medieval Empire*. Penguin, London, 2007.  
+> Lock, Peter. *The Franks in the Aegean 1204-1500*. Longman, London, 1995.  
+> Norwich, John Julius. *Byzantium: The Decline and Fall*. Penguin, London, 1996.  
+> Phillips, Jonathan. *The Fourth Crusade and the Sack of Constantinople*. Random House, London, 2005.  
+> Rautman, Marcus. *Daily Life in the Byzantine Empire*. Greenwood Press, Connecticut, 2006.  
+> Tomkinson, John L. *Haunted Greece*. Anagnosis, Athens, 2004.
