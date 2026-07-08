@@ -1523,6 +1523,7 @@ The new archon asks the archai to nominate magi as candidates to serve as polema
 #### Rite of Dismissal
 
 The last official order of business of the Tribunal is to dismiss the Assembly. The new archon usually says a few words, and the Tribunal's business is concluded. The magi proceed directly from the agora to the lake on Delos for the Ceremony of Propitiation (see earlier).
+
 # Chapter Four: Culture & Customs
 
 Byzantine lands differ from the Western realms of Mythic Europe in many ways. Local customs, which may seem bizarre or alien to foreigners, are important in defining the atmosphere of the region and acting as a backdrop for stories. In the last 15 years, the political landscape has undergone major upheavals with the arrival of the crusaders and the fall of Constantinople and, with it, the Byzantine Empire. However, this has had remarkably little effect on the vast majority of the populace of the region, and only a modest impact upon their culture and practices.
@@ -1959,6 +1960,7 @@ If the invocation equals or exceeds the Ease Factor, the complaint has been hear
 > Wounds spontaneously open when the character exerts himself — when he gains a Fatigue Level, he takes a Light Wound;
 > 
 > When the character uses a tool or weapon, roll a simple die; on a 1 or 2 it breaks.
+
 # Chapter Five: Greece
 
 The west mainland of the Theban Tribunal is the famed land of Greece, home to the titans and gods of old, and liberally dotted with ancient sanctuaries and ruins. Many of the former gods, faeries, and ghosts still haunt the temples, the forests, and the mountains of this richly mythical land. The folk here — pious and superstitious in equal measure — are rightly wary of the various kinds of nymphs, guardian spirits, and restless dead that stalk the land at night. Most common among them are the enchanting nereids (see Chapter 10: Faerie Landscape, Nereids), who may be found in Greece in great numbers.
@@ -2586,6 +2588,7 @@ Nonna has just returned after several years of service in Constantinople at the 
 ### Covenfolk
 
 The covenant does not have any covenfolk as such, or grogs, instead relying upon the magae themselves and their personal staffs for any services necessary. The convent is run by Anna as mother superior, and her six novices are mainly widows of the recent wars. One, the obstreperous and surly Gemma, has been here since 1185. Gemma is well aware that the sisters are much older than they appear, but puts it down to God's grace — not that she doesn't whine loudly about the injustice of it at every opportunity. Surviving from their personal wealth, the nuns perform their own domestic duties with only one hired helper, John the gardener.
+
 # Chapter Six: The Islands
 
 The legendary sea at the center of the Theban Tribunal — the backdrop to the epic voyages of the Greek heroes — is strewn with hundreds of islands, among them the birthplaces and sanctuaries of gods and the refuges of saints. The sea goes by several names, but is most commonly called the Aegean Sea, after an ancient king of Athens, Aegeus. His son Theseus, returning home from his battle with the minotaur on Creta, had forgotten to raise a white flag on his ship to indicate victory. In despair, Aegeus cast himself into the waters. It also takes its name from the underwater palace of Poseidon, Aegaea. The Bulgarians call it the White Sea, reckoning it to be more hospitable than the stormy Black Sea beyond the Sea of Marmara. It was also known in antiquity, and still is today, as the Archipelago, due to the great abundance of islands found in its waters.
@@ -3205,6 +3208,7 @@ Caterina, a Venetian maga apprenticed in the Roman Tribunal, has recently arrive
 ### Covenfolk
 
 Polyaigos has a large number of covenfolk, and a formidable turb that is exceptionally well trained and outfitted, and renowned for their strength and fitness. Three or four of the soldiers are huge, undoubtedly also having drakos blood. A crew also serves aboard the covenant's warship, which is stationed at the island's small harbor. Given the martial and scholarly bent of the covenant and its servants, the covenfolk are predominantly male. Several have wives and families on Melos.
+
 # Chapter Seven: Constantinople
 
 Forever Roman at heart, Constantinople is a city of forums and colonnades, public baths, palaces, churches, and monasteries. She has a hippodrome, an aqueduct, a senate house, and a slave-market. Like Rome, the city is built around seven hills, occupying a triangular piece of land bordered by the Golden Horn, an inlet of the Bosporus Strait and the Sea of Marmara. Originally called Byzantium, the city was rebuilt in 330, and Constantine the Great christened it Nova Roma Constantinopolitana, "New Rome, the City of Constantine," the capitol of his renovated Roman Empire. Constantine extended the city's walls and commissioned many of the buildings and monuments that still stand as important features in daily Constantinople life. Successive emperors added to the urban landscape, often building monasteries and churches, but none matched the building programs of Justinian (527-65), who refurbished the major churches, palaces, government buildings, and public works. In her heyday, Constantinople shone like a jewel, with clean streets, orderly forums, running water, and gleaming defensive walls.
@@ -3562,6 +3566,7 @@ Trasaricus is the only member of Xylinites born within the Tribunal; he is a nep
 A small staff of grogs conducts the mundane business of the covenant. They wear elaborate Byzantine robes denoting their rank and office. Tutors wear grey, orphans blue, and domestic staff black.
 
 Four eunuch priests who are companions of the covenant are particularly important. They reside in the priests' house nearby the master's house, and officiate at eucharist at nunneries throughout the city. Because of this, they have the ear of many former noblewomen, and at least one empress, who have retired to a monastic life.
+
 # Chapter Eight: Anatolia
 
 Geographically diverse, with a range of climates and terrain, Anatolia is the meeting of East and West. Two long, nearly unbroken mountain chains separate the coastal areas from the interior's heartland — a large plateau that composes most of the area. At the height of the Byzantine Empire, the entire land mass was controlled by the emperor, who partitioned it into several provinces. Since the decline of the Byzantine Empire in the 12th century, several of these provinces have been lost to enemies, most notably the Seljuk Turks. In 1220, the Byzantine Greeks only occupy the coastal areas, both west of the Taurus Mountains and north of the Pontic Mountains.
@@ -4022,6 +4027,7 @@ Ziper feels that the covenant needs new members, that its size is a detriment to
 ### Covenfolk
 
 Of the forty or so craftsmen and servants that work for Moero's Garden, the most important is the autocrat Pastor. Besides managing the day-to-day business and finances, he has been put in charge of managing the covenant's vis stores, which are ever-decreasing. His wife, Viviana, is the covenant's main scribe, responsible for preserving and organizing Moero's Garden's library. Besides the vast collection of poetry, the library contains several summae and tractatus on Rego and Mentem magic, written by Ionnia, as well as tractatus of her personal poetry.
+
 # Chapter Nine: The Magical Landscape
 
 The Theban Tribunal has a rich history of magic. This section discusses the magical powers that some think once ruled the world, and the magic that is thought to derive from their captivity. It also considers some of the non-Hermetic magics that are practiced across the four seas.
@@ -4801,6 +4807,7 @@ Unfortunately, the league has not accurately determined who was under the influe
 > - **St. Leontios**, patron saint of the monastery of St. John the Evangelist on the island of Patmos. Leontios was a "holy fool," meaning that he was not a monk or part of any institutional framework, and was made a saint based solely on his asceticism.
 > - **St. Prokopios**, the first martyr of Diocletian's persecutions, and popular in Caesarea.
 > - **Saints Cosmas and Damian**, twins known as Unmercenary Physicians (they healed the sick for no pay), they are saints of physicians and suburban Constantinople.
+
 # Chapter Twelve: The Infernal Landscape
 
 The Theban Tribunal has suffered greatly from the machinations of the Infernal realm. The situation is not black and white; no single enemy or army is entirely composed of demonic forces ravaging the lands of the good. But Infernal agents have seeped into every faction, including the Order of Hermes, and spread moral rot and earthly corruption.
