@@ -7,7 +7,7 @@
 > *Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 # Credits
 
-**AUTHORS:** Mark Shirley (Chapters 1–5, Corpse-Thief, Jack-ofall-Trades, Misguided Mystic, Horses & Hounds); Christian Rosenkjaer Andersen (Bodyguard Maidservant, Bull, Farrier), Evangeline Cheng (Parent of a Gifted Child), Camo Coffey (Animal Trainer), Mark Faulkner (Almogavars), Timothy Ferguson (Ex-Prostitutes, Time-Lost Witnesses), Mark Lawford (Advisor, Confessor, Craftsman, Failed Apprentice, Murderer, Refugee Librarian, Role-Bound Ferryman, Street Thug)
+**AUTHORS:** Mark Shirley (Chapters 1–5, Corpse-Thief, Jack-of-all-Trades, Misguided Mystic, Horses & Hounds); Christian Rosenkjaer Andersen (Bodyguard Maidservant, Bull, Farrier), Evangeline Cheng (Parent of a Gifted Child), Camo Coffey (Animal Trainer), Mark Faulkner (Almogavars), Timothy Ferguson (Ex-Prostitutes, Time-Lost Witnesses), Mark Lawford (Advisor, Confessor, Craftsman, Failed Apprentice, Murderer, Refugee Librarian, Role-Bound Ferryman, Street Thug)
 
 **DEVELOPMENT, EDITING, & PROJECT MANAGEMENT:** David Chart **LAYOUT & ART DIRECTION:** Michelle Nephew
 
@@ -512,11 +512,9 @@ Digital Version 1.0
 - Horses & Hounds Story Seeds
 - Animal Aging
 
-# Chapter 1: Introduction
+# Chapter One: Introduction
 
-Welcome to *Grogs*! In this book you will find a wealth of information and character ideas to bring life to that most overlooked and underused of characters — the grog. The first half of the book is devoted to telling stories about grogs, whether they are at the covenant, adventuring alone, or involved in stories with magi and companion characters. There is also a chapter devoted to the quick creation and maintenance of grog characters so that a troupe can support a fair number without being burdened with their upkeep. The second half of the book consists of a large number of character concepts to bring life to your turb. Each is presented with a number of character options, including at least one new General or Supernatural Flaw to make grog characters more interesting. Every character concept has
-
-a handful of story ideas, including at least one explaining why such a grog might join up with a covenant.
+Welcome to *Grogs*! In this book you will find a wealth of information and character ideas to bring life to that most overlooked and underused of characters — the grog. The first half of the book is devoted to telling stories about grogs, whether they are at the covenant, adventuring alone, or involved in stories with magi and companion characters. There is also a chapter devoted to the quick creation and maintenance of grog characters so that a troupe can support a fair number without being burdened with their upkeep. The second half of the book consists of a large number of character concepts to bring life to your turb. Each is presented with a number of character options, including at least one new General or Supernatural Flaw to make grog characters more interesting. Every character concept has a handful of story ideas, including at least one explaining why such a grog might join up with a covenant.
 
 ## What is a Grog?
 
