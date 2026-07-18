@@ -75,11 +75,17 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p240: Spell Timing heading had "Mustery" instead of "Mystery" (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
+- p256: "Designing the Offect" should be "Designing the Effect" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
+- p276: Side Effect table first result row was missing its closing table pipe (fixed)
+- p279: Stabilizing the Unknown heading had title-case inconsistency (fixed)
 - p279: "Having deciding" should be "Having decided" (fixed)
 - p279: "your must add" should be "you must add" (fixed)
+- p295: Elementary lab Flaw has a missing page reference in the source PDF: "(see the list of possible activity Specializations earlier on page )" (not fixed)
 - p296: Extra "an" in 2nd paragraph Regio: "...there is an another regio level" (fixed)
+- p296: Haunted lab Flaw statistics had punctuation/spacing errors (fixed)
+- p296: Astronomical Device says "and example" in the source PDF, likely "an example" (not fixed)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
@@ -10517,7 +10523,7 @@ An item that has been prepared for enchantment is useless for any magical purpos
 
 The effects instilled in enchanted items are designed like spells, but they are not spells. In particular, a magus may instill an effect in a device even if he does not know a spell with the same effect. Designing an effect takes no time above and beyond the time spent to instill the effect in the item.
 
-#### Designing the Offect
+#### Designing the Effect
 
 First, choose an effect to be invested in your device and determine its level. An effect is like a spell, and must be fully defined, as a spell is. You may base the effect on a spell from the Spells chapter, or may invent your own effect. If inventing a new effect, you must design the effect carefully, as if inventing a new spell. The level of the effect is the equivalent of its spell level. You should confirm your effect level with the troupe. Note the starting level of the effect, for future reference. This is the effect level, and is used when assessing the effects produced by the enchanted device — for example, whether they cause Warping, or whether a maga succeeds in dispelling one. Choices made in the rest of this process may change this level, determining the modified effect level. This is used when dealing with the enchanted device itself, for example when investing the effects in the laboratory, or trying to disenchant a device.
 
@@ -11114,7 +11120,7 @@ When investigating an enchanted item by experimenting on it, you take risks not 
 
 | ROLL | RESULT                    |
 | ---- | ------------------------- |
-| 1    | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect.
+| 1    | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect. |
 | 2-3  | The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends. |
 | 4-5  | The spell has a minor side effect. For example, a spell that controls an animal causes grass to grow under its feet. |
 | 6    | The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable. |
@@ -11195,7 +11201,7 @@ If you do achieve a Discovery during your experimentation then the original rese
 
 Each spell or magical enchantment can only lead to one discovery. You may repeatedly invent the same spell or enchantment experiment until a discovery is rolled, even if the experiment was a success. Thus, you may accumulate many usable versions of the same spell in process of your research. However, once a specific experiment yields a Discovery, you may no longer explore that spell or magical enchantment for further discoveries.
 
-#### Stabilizing The Unknown
+#### Stabilizing the Unknown
 
 After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll you must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
 
@@ -11862,7 +11868,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Abyss:** The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). –2 Safety; +2 Pe.
 
-**Haunted:** The lab is home to a haunting spirit, who occasionally disturbs the current owner. + 1 Warping. -1 Aesthetics: +2 Me.
+**Haunted:** The lab is home to a haunting spirit, who occasionally disturbs the current owner. +1 Warping, -1 Aesthetics; +2 Me.
 
 **Impregnable:** The lab is completely inaccessible, except through reasonably powerful magic. For example, it is blocked off by a stone wall and requires a Muto Terram spell to access. While the owner is much less likely to be disturbed, fewer people will ever get to see the lab, or they may assume that the owner is rather paranoid. —2 Aesthetics.
 
