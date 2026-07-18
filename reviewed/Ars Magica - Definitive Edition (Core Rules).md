@@ -111,6 +111,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p448: Portunes heading said "Safe Narbor" instead of "Safe Harbor" (fixed)
 - p465: Stellatus's human-form description had "eves" instead of "eyes" (fixed)
 - p491: Nasir heading said "the Delper" instead of "the Helper" (fixed)
+- p509: Game Use heading said "Markets and Pairs" instead of "Markets and Fairs" (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
@@ -21830,7 +21831,7 @@ Fairs are, essentially, temporary towns. They normally happen once per year, and
 
 By the early thirteenth century the greatest days of the fairs are over, as towns begin to take over their role, but they still have a great deal of life left in them.
 
-#### Game Use: Markets and Pairs
+#### Game Use: Markets and Fairs
 
 Sending the grogs to market makes an excellent story that need not involve any magi.
 
