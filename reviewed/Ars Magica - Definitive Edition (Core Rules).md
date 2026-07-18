@@ -99,6 +99,9 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p385: Training creature loyalty rules say "at least equal to level of the Lab Text" in the source PDF, likely missing "the" before "level" (not fixed)
 - p386: Training creature example had "and be then commands" instead of "and he then commands" (fixed)
 - p388: Mystery Initiation has an extra closing parenthesis after "previous Initiation" in the source PDF (not fixed)
+- p395: Combat example says "Polandrus fighting with his teeth" in the source PDF, likely missing "is" (not fixed)
+- p403: Recovery from Short-Term Fatigue heading had title-case inconsistency (fixed)
+- p407: Deprivation Table heading had trailing whitespace (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
@@ -17171,7 +17174,7 @@ Each Fatigue level above Winded has a penalty associated with it (except for Unc
 
 Characters are normally Fresh until they perform some strenuous action, such as engaging in combat, casting Spontaneous spells, or sprinting. Brief strenuous actions require a Fatigue roll: roll Stamina — Encumbrance on a stress die against an Ease Factor of 6. Failure means the loss of one Short-Term Fatigue level. A botch costs two. Combat and magic use have different rules for Fatigue loss that replace those given here. See pages 213, 231, and 397.
 
-#### Recovery From Short-Term Fatigue
+#### Recovery from Short-Term Fatigue
 
 A character recovers from Fatigue one level at a time, starting with the most exhausted level. The table below is a guideline to help you determine how long it will take a character to recover. Recovery from Fatigue requires quiet rest, if the character remains active, recovery time is doubled. At the storyguide's option, fatigued characters may make a Stamina roll against an Ease Factor of 9 when they are recovering. Success allows recovery in half the normal time.
 
@@ -17328,7 +17331,7 @@ Characters deprived of food, water, or air suffer quite seriously. Each kind of 
 
 Fatigue levels lost due to food or water deprivation are Long-Term Fatigue levels, and can only be regained once the character has eaten or drunk. Fatigue levels lost due to air deprivation are Short-Term.
 
-#### Deprivation Table 
+#### Deprivation Table
 
 | Type of Deprivation | Time       |
 | ------------------- | ---------- |
