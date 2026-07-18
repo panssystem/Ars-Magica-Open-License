@@ -58,7 +58,12 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
 - p48 and p52: Two "Example: Darius of Flambeau" insert headings were one Markdown heading level higher than the matching Darius example inserts in the same sequence (fixed)
+- p71: The Bard Virtue heading was extracted as "Rard" (fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
+- p87-88: Minor punctuation fixes in Kassalan Exorcism, Keen Vision, Knows People, and Laborer entries (fixed)
+- p99: Minor Magical Focus had a comma instead of a full stop before "You cannot..." and "Birds of prey" was extracted as "Birds of prev" (fixed)
+- p112: Templar Administrator/Commander/Office Holder had collapsed compound words: "brothersergeant" and "wellknown" (fixed)
+- p128: Failed Monk type line was missing the comma in "Minor, Social Status" (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
@@ -3479,7 +3484,7 @@ The character has completed a three-year program at a university to receive a ba
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues, and can be taken by a female character, but only if she is (or was) studying to be a physician at Salerno.
 
-#### Rard
+#### Bard
 *Free, Social Status*<br>
 The character has attended a bardic school and has passed the examination after four years, earning him the title of fili at the rank of Dos. This accords him some respect among the native Irish, amounting to a Local Reputation of 1. He should be no younger than 20. You should take the Educated (Bardic) Virtue to represent the learning he has received. This Social Status only applies in Ireland.
 
@@ -4178,7 +4183,7 @@ A character with this Virtue, who has had a few seconds to look about a room, do
 
 #### Kassalan Exorcism
 *Minor, Supernatural*<br>
-You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular. but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations.
+You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular, but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations.
 
 To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm.
 
@@ -4191,7 +4196,7 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88.
 
 #### Keen Vision
-*Minor General*<br>
+*Minor, General*<br>
 You can see farther and more clearly than most. You get a +3 bonus to all rolls involving sight, not including attacks with missile weapons.
 
 #### Keen Sense of Smell
@@ -4203,7 +4208,7 @@ The character's nose is more sensitive than normal for a human. He gets a +3 bon
 You are a knight, a member of the noble classes and one of the elite warriors of Europe. Unless you are Poor, you may have high quality weapons and armor, and a horse. Typical armaments for a mid-13th century knight are lance, sword, heater shield, a complete mail suit, and a warhorse. You may take Martial Abilities during character generation. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is only available to male characters, and is compatible with the Landed Noble Virtue.
 
 #### Knows People
-*Minor General*<br>
+*Minor, General*<br>
 Your social contacts are not important for what they give you directly: they are important because they allow you to match up the desires of your various friends. A skilled socialite is a middleman, who is owed gratitude for bringing opportunities to his friends, not someone who demands favors based on friendship.
 
 Once per story or session, a character with this Virtue may ask for a bait for a non-player character. A bait is the beginning of a scene or short, secondary story, outside the main story being told, which if completed allows the character to gain aid from the nominated target. For example, if the player characters are unable to gain the assistance of a nobleman, a player may demand a bait. In the game, this means the character uses his social skills to determine the needs of the nobleman, and to hint that he may know a third person with a solution. If the troupe then plays out a brief scene in which the nobleman's problem is sorted out, he becomes more biddable.
@@ -4211,7 +4216,7 @@ Once per story or session, a character with this Virtue may ask for a bait for a
 Troupes may veto any use of these connections which spoils the tension and pace of the game.
 
 #### Laborer
-*Free Social Status*<br>
+*Free, Social Status*<br>
 The character is a trained worker who practices a trade that is a valuable service to his community, but by which no finished good is produced. Unlike a peasant, who is an agrarian worker who works at a variety of jobs, a laborer concentrates on one specific endeavor to earn his livelihood, be it hauling wood, washing clothes, cleaning latrines, carrying luggage, or serving food.
 
 #### (Land) Regio Network
@@ -4541,7 +4546,7 @@ The character has one or more items in his possession that have magical powers. 
 
 #### Minor Magical Focus
 *Minor, Hermetic*<br>
-Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam, You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities.
+Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam. You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities.
 
 When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice, as for a Major Magical Focus (page 94).
 
@@ -4551,7 +4556,7 @@ A magus may only have one Magical Focus, whether major or minor, regardless of t
 >
 > This list is merely exemplary; other foci are possible.
 >
-> - Animal: Birds of prev, canines, mustelidae.
+> - Animal: Birds of prey, canines, mustelidae.
 > - Aquam: Stagnant water, small streams.
 > - Auram: Wind, rain, lightning.
 > - Corpus: Aging, disease.
@@ -5114,11 +5119,11 @@ The wealth may be used to purchase the services of people, who, because they hav
 
 #### Templar Administrator
 *Minor, Social Status*<br>
-The character is technically a brother-knight or brothersergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties mean he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
+The character is technically a brother-knight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties mean he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
 #### Templar Commander
 *Major, Social Status*<br>
-The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
+The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a well-known figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
 #### Templar Confrere or Consoeur
 *Free, Social Status*<br>
@@ -5126,7 +5131,7 @@ The character is an associate member of the Poor Knights of the Temple of Solomo
 
 #### Templar Office Holder
 *Minor, Social Status*<br>
-The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brothersergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Templar Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
+The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brother-sergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Templar Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
 
 #### Templar Prestige
 *Minor, General*<br>
@@ -6072,7 +6077,7 @@ The character has been expelled from a guild due to past illegal or questionable
 Either through faulty management or illegal business practices, the character has run his workshop into the ground. He must work as a journeyman if he wants to practice his trade legally in town. The character has a bad Reputation of 4 in town, and it will be difficult for him to regain his legal status as a master.
 
 #### Failed Monk
-*Minor Social Status*<br>
+*Minor, Social Status*<br>
 You were once a member of a cloistered order, but were cast out for some great sin or gross incompetence, or perhaps you ran away and your abbot might allow you to come back after a suitable punishment. Because of this, you have a poor Reputation at level 2 in the local area and within the Church. You no longer need to observe your monastic vows of poverty, chastity, and obedience, though you may still practice them as they might be ingrained in your nature. You may take Academic Abilities during character creation. Female characters may take this Flaw as Failed Nun.
 
 #### Failed Student
