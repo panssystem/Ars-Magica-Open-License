@@ -96,6 +96,9 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p340, p348, p353: Muto Herbam Guidelines, Creo Imaginem Guidelines, and Creo Mentem Spells headings were one Markdown heading level too high (fixed)
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
+- p385: Training creature loyalty rules say "at least equal to level of the Lab Text" in the source PDF, likely missing "the" before "level" (not fixed)
+- p386: Training creature example had "and be then commands" instead of "and he then commands" (fixed)
+- p388: Mystery Initiation has an extra closing parenthesis after "previous Initiation" in the source PDF (not fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
@@ -16402,7 +16405,7 @@ A character may lead tamed animals in combat, as a trained group. The character 
 
 In general, when the character commands a tamed creature make a Presence + Animal Handling roll against an Ease Factor set from the following table. The Ride Ability may be substituted for Animal Handling when the character is using the animal as a mount, and for exotic creatures another Ability might be more appropriate; the Magic Lore Ability might be used for commanding tamed elementals, for example. A botch may cause the animal to flee, mistakenly perform some other command, or attack its master — depending on the nature of both the command and the beast.
 
-If several characters issue an animal with contradictory commands, it will preferentially obey commands issued by a character it is loyal to. Otherwise, it will obey the command of the character with the highest Presence + Animal Handling Total. *For example, a magus tames a magical wolf (the wolf is now loyal to the magus) and be then commands the wolf to guard his sanctum door, the wolf will not normally obey contradictory commands to leave his post.*
+If several characters issue an animal with contradictory commands, it will preferentially obey commands issued by a character it is loyal to. Otherwise, it will obey the command of the character with the highest Presence + Animal Handling Total. *For example, a magus tames a magical wolf (the wolf is now loyal to the magus) and he then commands the wolf to guard his sanctum door; the wolf will not normally obey contradictory commands to leave his post.*
 
 **COMMAND BEAST: Presence + Animal Handling (or Ride or Magic Lore) + stress die vs Ease Factor**
 
