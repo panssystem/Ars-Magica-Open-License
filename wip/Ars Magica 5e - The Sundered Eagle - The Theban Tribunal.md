@@ -40,6 +40,13 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 
 DIGITAL VERSION 1.0
 
+## Conversion Notes
+
+- Page 27: corrected an extraction artifact where the source line break in "bad-mannered" had been collapsed to "badmannered."
+- Page 93: noted but did not correct the printed text "The Walls of Theodosius runs behind a defensive ditch."
+- Page 114: noted but did not correct the printed text "they he retains the item."
+- Page 114: corrected an extraction artifact where "chariot-shaped" had been collapsed to "chariotshaped."
+
 
 # Contents
 
@@ -1265,7 +1272,7 @@ The **Legislative Board** is responsible for reviewing and revising the Peripher
 
 The **Conciliatory Board** has as its purview all personal conflicts between magi, including conflicts over lands and resources, and between masters and apprentices (including investigation should an apprentice die). It can also issue decrees of contrition (see later) and solemnize agreements, such as the distribution of vis sources, the founding of a new covenant, and the taking of the Oath of Hermes by new members. Magi are not required to bring every argument to the Conciliatory Board, but where the outcome of a disagreement is required to be legally binding, the resolution must take place before the Conciliatory Board. Occasionally, the board is convened to witness a certamen, or act as arbiter in a debate (see *Houses of Hermes: Societates*, pages 90–93). The conclusion must be supported by the unanimous decision of the Conciliatory Board that the conflict was resolved fairly and without trickery. An appointed spokesman of the board announces the ensuing agreement as a decree during the People's Assembly phase of the Tribunal meeting (see later).
 
-Certamen in the Theban Tribunal is generally restricted to cases of legitimate and substantive dispute. The use of certamen as a means to establish dominance or precedence over another magus is frowned upon in this Tribunal, since it violates the principle of equality. The use of certamen to determine the claimant to a vis find is especially badmannered. In such a case, it is more usual to divide the vis equally, or for one party — usually the richer one — to graciously concede.
+Certamen in the Theban Tribunal is generally restricted to cases of legitimate and substantive dispute. The use of certamen as a means to establish dominance or precedence over another magus is frowned upon in this Tribunal, since it violates the principle of equality. The use of certamen to determine the claimant to a vis find is especially bad-mannered. In such a case, it is more usual to divide the vis equally, or for one party — usually the richer one — to graciously concede.
 
 > ### A Selection of Redcaps
 >
@@ -3905,7 +3912,7 @@ Besides the two artifacts of Alexander, Alexandria has a handful of magical item
 
 #### The Flying Device
 
-The flying device is a large, chariotshaped transport with two wheels, waist-high railings, and a long hitch. Like the glass submarine, the flying device is also a mechanica invented by an ancient mechanician. It is not a simulacrum, however, and only has a single instilled power. When activated, the flying device can float into the air as effortlessly as a puff of smoke. Other than this vertical ascent, its direction cannot be controlled, making it submissive to breezes and winds. The hitch must be yoked to a team of flying beasts, which then pulls the device and theoretically can be controlled by reins, much as a team of horses.
+The flying device is a large, chariot-shaped transport with two wheels, waist-high railings, and a long hitch. Like the glass submarine, the flying device is also a mechanica invented by an ancient mechanician. It is not a simulacrum, however, and only has a single instilled power. When activated, the flying device can float into the air as effortlessly as a puff of smoke. Other than this vertical ascent, its direction cannot be controlled, making it submissive to breezes and winds. The hitch must be yoked to a team of flying beasts, which then pulls the device and theoretically can be controlled by reins, much as a team of horses.
 
 The tale that Alexander hitched gryphons to the device cannot be substantiated, but rather points to the megalomania inherent in many of his legends. The Redcaps of Alexandria have found that almost any team of flying beasts can pull the device, provided that their combined Size is +8. The hitch is long enough to hold four beasts, and the chariot large enough to hold six Size 0 passengers. In the past, Alexandria used flying horses to pull the device, each horse having a magic horseshoe nailed to its hoof that allowed it to fly. Unfortunately, the horses escaped two years ago, while wearing the magic horseshoes. The device has sat idle since. The flying device is a level 39 effect (ReTe base 3, +2 metal, +4 Size adjustment, +2 Sun, +1 level for two uses per day, +3 for environmental trigger sunrise/sunset).
 
