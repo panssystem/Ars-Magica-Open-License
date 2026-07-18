@@ -64,6 +64,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p99: Minor Magical Focus had a comma instead of a full stop before "You cannot..." and "Birds of prey" was extracted as "Birds of prev" (fixed)
 - p112: Templar Administrator/Commander/Office Holder had collapsed compound words: "brothersergeant" and "wellknown" (fixed)
 - p128: Failed Monk type line was missing the comma in "Minor, Social Status" (fixed)
+- p160: Memorization Ease Factors table used non-breaking spaces for padding (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
@@ -7308,11 +7309,11 @@ Characters without the Art of Memory may memorize similar items with a Stress Di
 
 > #### Memorization Ease Factors
 >
-> | Ease Factor      | Description |
+> | Ease Factor | Description |
 > | ---------------- | ---------- |
-> | 9 (Average)      | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
-> | 12 (Hard)        | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle.  |
-> | 18 (Impressive)  | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle.  |
+> | 9 (Average) | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
+> | 12 (Hard) | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle. |
+> | 18 (Impressive) | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle. |
 >
 > Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize): for example a Lawyer using Civil & Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert's lecture.
 
