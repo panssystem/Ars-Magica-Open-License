@@ -57,6 +57,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
 - p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
+- p48 and p52: Two "Example: Darius of Flambeau" insert headings were one Markdown heading level higher than the matching Darius example inserts in the same sequence (fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
@@ -75,6 +76,7 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p546: Spelling error: "accomodate" (fixed)
 
 Found Index Issues (p558-568):
+- Markdown quick link for Appendix B pointed to the wrong generated anchor for "The Ars Magica Open License" (fixed)
 - Arcane Lore listed as Ability instead of Virtue in Index (fixed)
 - Casting Tablet entry in index pointing to p180 which only covers covenant resource, the rules are on p263 (fixed)
 - Corrupt Beasts misplaced in Index (fixed)
@@ -329,7 +331,7 @@ Map of Mythic Europe<br>
 [**Chapter 15: Stories**](#chapter-15-stories)<br>
 [**Chapter 16: Sagas**](#chapter-16-sagas)<br>
 [**Appendix A: Editor's Note**](#editors-note)<br>
-[**Appendix B: Ars Magica Open License**](#ars-magica-open-license)<br>
+[**Appendix B: Ars Magica Open License**](#the-ars-magica-open-license)<br>
 [**Appendix C: Fourth Edition Conversion**](#fourth-edition-conversion)<br>
 [**Appendix D: Reference Guide**](#reference-guide)<br>
 [**Appendix E: Spells Index**](#spells-index)<br>
@@ -2357,7 +2359,7 @@ For Hermetic magi, you should note that Intelligence is central to Hermetic labo
 | -2    | Gain 3 |
 | -3    | Gain 6 |
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Niall starts by giving Darius an Intelligence of +3, spending six of his points right away. Following on with the idea that Darius is hard to surprise and good at hunting, he spends the seventh point on a Perception of +1. However, he doesn't want everything else to be zero. Fortunately, the concept practically demands a negative score in Presence, so Niall drops that to -3, and Communication to -1, giving him seven more points to play with.
 >
@@ -2533,7 +2535,7 @@ Confidence Points can be spent to gain a one-off +3 bonus to any die roll, and a
 
 Your character may start with any equipment or possessions she might reasonably have acquired and retained over her career. You need not list all her possessions.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Darius starts with the normal Confidence Score of 1 and 3 Confidence Points. His only noteworthy piece of equipment is his talisman-spear; Niall can assume that Darius has any mundane material he needs.
 >
