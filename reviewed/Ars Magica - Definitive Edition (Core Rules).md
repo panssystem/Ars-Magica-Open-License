@@ -58,12 +58,15 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
 - p48 and p52: Two "Example: Darius of Flambeau" insert headings were one Markdown heading level higher than the matching Darius example inserts in the same sequence (fixed)
+- p54: Darius's appearance said "no eves" instead of "no eyes" (fixed)
 - p71: The Bard Virtue heading was extracted as "Rard" (fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
+- p86: Distracting Prop said "whose eves also follow the prop" instead of "whose eyes" (fixed)
 - p87-88: Minor punctuation fixes in Kassalan Exorcism, Keen Vision, Knows People, and Laborer entries (fixed)
 - p99: Minor Magical Focus had a comma instead of a full stop before "You cannot..." and "Birds of prey" was extracted as "Birds of prev" (fixed)
 - p112: Templar Administrator/Commander/Office Holder had collapsed compound words: "brothersergeant" and "wellknown" (fixed)
 - p128: Failed Monk type line was missing the comma in "Minor, Social Status" (fixed)
+- p143: Repellent example said "demonic eves" instead of "demonic eyes" (fixed)
 - p160: Memorization Ease Factors table used non-breaking spaces for padding (fixed)
 - p175: "the older magican give orders" should be "the older magi can give orders" (fixed)
 - p179: "a group of buildings in a clearing in forest" appears in the source PDF; likely missing "a" before "forest" (not fixed)
@@ -113,9 +116,18 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p491: Nasir heading said "the Delper" instead of "the Helper" (fixed)
 - p509: Game Use heading said "Markets and Pairs" instead of "Markets and Fairs" (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
+- p527: Fixed blockquote formatting and "noone" to "no-one" in the Resources sidebar.
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
+- p536: Open License appendix headings had OCR/substitution errors ("That" for "What" and "Same" for "Game") (fixed)
+- p541: Reference Guide heading said "Deprivation Page" instead of "Deprivation"; restored its paired original/Definitive Edition page reference line (fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
+- p546: Volumes and Targets heading said "Volumes and Targets Parts"; restored its paired original/Definitive Edition page reference line (fixed)
+- p546: Reference Guide Base Individuals text attached "area inside a standard Boundary" to Terram base metals instead of Auram (fixed)
+- p546: The source PDF's Auram Base Individuals summary says "a weather phenomenon the area inside a standard Boundary," likely missing wording such as "affecting" (not fixed)
+- p546: Vim Base Individuals text said "don't apply direction to Vim effects" instead of "don't apply to Vim effects" (fixed)
 - p546: Spelling error: "accomodate" (fixed)
+- p548: Teaching Hermetic Virtues heading said "Teaching Hermetic Virtues Property"; restored its paired original/Definitive Edition page reference line (fixed)
+- p552: Advancement Source Qualities heading had stray "Dvancement" (fixed)
 
 Found Index Issues (p558-568):
 - Markdown quick link for Appendix B pointed to the wrong generated anchor for "The Ars Magica Open License" (fixed)
@@ -2654,7 +2666,7 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > \* If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
 >
-> Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
+> Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eyes.
 >
 > Darius is content to cultivate his sinister image; he is a hoplite and an expert with Perdo magic, dedicated to the discovery and execution of traitors within the Order. However, it was not always thus; Uwe, the boy who would eventually become Darius, was born into a merchant family living in Bavaria. He enjoyed a comfortable life in a moderately prosperous household. However, shortly after Uwe reached puberty strange things began to happen. His books would fall apart, furniture he sat on would break, and the family cat died in his arms. His family became aware that there was something unsettling about the boy and were only too happy to see him taken away as an apprentice by the mysterious scholar who visited them soon after.
 >
@@ -4158,7 +4170,7 @@ After meeting this character, other characters usually find it hard to describe 
 
 A character who is simply average is always forgettable. He can't turn the ability off and may use props when building a Reputation among other criminals. He may be "that guy in the black gloves who strangles people," for example, although no-one recalls precisely what he looks like. Intimately related characters can eventually become sufficiently used to the character's forgettable face that they remember it.
 
-A character who distracts with a prop is memorable when she wishes to be. She can simply not use her devices of distraction if she wishes to make an impression. She can also switch her distracting prop. For example if she hears that someone is looking for a lady with a curious dog, she might switch to a baby, or a curious hat. A character who distracts with props is usually not recognized by random people in crowds (whose eves also follow the prop, not the face), but this protection is less perfect than a truly forgettable face.
+A character who distracts with a prop is memorable when she wishes to be. She can simply not use her devices of distraction if she wishes to make an impression. She can also switch her distracting prop. For example if she hears that someone is looking for a lady with a curious dog, she might switch to a baby, or a curious hat. A character who distracts with props is usually not recognized by random people in crowds (whose eyes also follow the prop, not the face), but this protection is less perfect than a truly forgettable face.
 
 #### Independent Study
 *Minor, General*<br>
@@ -6726,7 +6738,7 @@ The character lives according to a strict religious rule, which leaves little ti
 
 #### Repellent
 *Major, General, Tainted*<br>
-The character has developed one of the physical characteristics of his demonic creator, which causes fear and revulsion among normal humans. The character makes all rolls requiring trust with a –6 penalty. The character also gains a minor advantage from the repellent feature. As examples, a character with horns, claws, or fangs could learn to use them in melee, a scaled character might have a Soak bonus of +3, and a character with demonic eves might see in the dark.
+The character has developed one of the physical characteristics of his demonic creator, which causes fear and revulsion among normal humans. The character makes all rolls requiring trust with a –6 penalty. The character also gains a minor advantage from the repellent feature. As examples, a character with horns, claws, or fangs could learn to use them in melee, a scaled character might have a Soak bonus of +3, and a character with demonic eyes might see in the dark.
 
 #### Restricted Learning
 *Minor, General*<br>
@@ -22265,7 +22277,7 @@ A third option is to have magic on the rise, again either in opposition to the o
 >
 > **High vis:** Around 20 pawns/magus/year. Magi can do pretty much anything they want involving vis. This is probably too much vis for most sagas.
 >
->Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus noone has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
+> Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus no-one has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
 >
 > Don't forget that magi in a covenant can write books for each other. You shouldn't interfere with such activities, but should take them into account.
 
@@ -22491,19 +22503,19 @@ I plan to be part of that future, as one creator among many.
 
 ## The Ars Magica Open License
 
-### That Is the Open License?
+### What is the Open License?
 
 The text of **Ars Magica** Fifth Edition and its sourcebooks has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (also known as CC BY-SA 4.0).
 
 The new Ars Magica Open License logo also lets third party creators identify their work. You can find fan releases of their Ars Magica material available in places like DriveThruRPG.com, Itch.io, and Patreon.com, marked with that logo.
 
-### Why Release the Same as Open License?
+### Why Release the Game as Open License?
 
 Atlas Games has had the amazing opportunity to publish Ars Magica for over three decades, supported by our devoted fan community. Fifth Edition is a weighty line of over FORTY supplements, fleshing out every facet of Mythic Europe. As the stewards of this incredible piece of roleplaying history, we feel it's time to give back to our fans, and let them take the game in new directions we haven't had the resources to explore.
 
 This open license release of Ars Magica was just part of our crowdfunding campaign for Ars Magica Definitive Edition. Thank you to all our backers who made it possible!
 
-### That Does This Mean for Ars Magica?
+### What Does This Mean for Ars Magica?
 
 You're free to copy and redistribute open license material, even commercially. And you may remix, transform, and build upon that material, even commercially. You must follow the terms of the license, though, which requires attribution and that you "share alike" by distributing your contributions under the same license as the original, without placing new restrictions on it. There are also a few trademark limitations. Atlas Games cannot revoke these freedoms as long as you follow the license terms.
 
@@ -22834,7 +22846,9 @@ Award one point at the end of a session for each of the following that a charact
 | Mature tree felled onto character | +18                                                          |
 | Inside collapsing stone building  | +21                                                          |
 
-### Deprivation Page
+### Deprivation
+
+*p180, [p407](#deprivation)*
 
 1. Stamina check every interval.
 2. Ease Factor starts at 3, and increases by 1 for each further interval.
@@ -23228,7 +23242,9 @@ BASE BOUNDARY: An area 100 paces in diameter
 
 INCREASING SIZE: Multiply size by ten for each magnitude added to the spell.
 
-#### Volumes and Targets Parts
+#### Volumes and Targets
+
+*p117-162, [p314-372](#volumes-and-targets)*
 
 Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.
 
@@ -23274,7 +23290,7 @@ Dangerous liquids: a puddle half a pace across, a fifth of a pace deep.
 
 Poisons: a single dose.
 
-Auram: a weather phenomenon the 
+Auram: a weather phenomenon the area inside a standard Boundary.
 
 Corpus: an adult human being, up to Size +1.
 
@@ -23292,13 +23308,13 @@ Sand, dirt, mud, clay: ten cubic paces.
 
 Stone: one cubic pace.
 
-Base metals: one cubic foot area inside a standard Boundary.
+Base metals: one cubic foot.
 
 Precious metals: one tenth of a cubic foot.
 
 Gemstones: one cubic inch. 
 
-Vim: Size modifiers don't apply direction to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
+Vim: Size modifiers don't apply to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
 
 #### Ranges, Durations, and Targets
 
@@ -23437,7 +23453,9 @@ FAMILIAR BONDING COST: 1 pawn vis per five levels or fraction of the binding Lab
 - Opening the Arts takes 1 season, must have a score of 5 or higher in every Art or the apprentice gains a Deficiency in the Art.
 - If the apprentice has a Supernatural Ability, must have Intellego Vim Lab Total at least 5 × score in the Ability, minimum 10 for a Minor Virtue, 30 for Major (10 for a Minor Virtue with no Ability, 10 for a Major). For multiple abilities, add all the scores together. If Lab Total is at least double this level, the ability may be retained or converted into a Hermetic Virtue, otherwise, it is lost.
 
-#### Teaching Hermetic Virtues Property
+#### Teaching Hermetic Virtues
+
+*p106, [p271](#teaching-hermetic-virtues)*
 
 TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus
 
@@ -23709,7 +23727,7 @@ p168-170 p391
 
 **COPYING QUICKLY:** Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
 
-### Advancement Source Qualities Dvancement
+### Advancement Source Qualities
 
 **Exposure Source Quality:** 2
 
