@@ -103,6 +103,10 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p403: Recovery from Short-Term Fatigue heading had title-case inconsistency (fixed)
 - p407: Deprivation Table heading had trailing whitespace (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
+- p415: Infernal Creatures heading said "Infernal Oreatures" (fixed)
+- p419: Relic power heading said "SCOURCING THE INFERNAL" instead of "SCOURGING THE INFERNAL" (fixed)
+- p420: Regiones section had a missing space after comma in "phenomenon,imagine" (fixed)
+- p421: Magic in Regiones heading had title-case inconsistency (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
@@ -17546,7 +17550,7 @@ Hell is not a remote force in Mythic Europe. Demons ruin crops, cause back pains
 
 More details on the Infernal and all its works can be found in *Realms of Power: The Infernal*.
 
-### Infernal Oreatures
+### Infernal Creatures
 
 The natural forms of infernal creatures are almost always twisted, vile, and terrifying, the better to inspire fear and loathing in human beings. However, many demons can also take on attractive forms. Different sorts of attraction are better for different temptations, a beautiful young woman is good for luring a man into lust, but an apparently wise old man might be better to lure someone into heresy.
 
@@ -17664,7 +17668,7 @@ Relics are physical objects that, in some way, house part of the power of the Di
 
 1. FAITH: All relics contain a True Faith score, giving it Faith Points that may be used by its bearer as Confidence. A relic also grants Magic Resistance equal to ten times its True Faith score to its bearer. A person can only benefit from one relic at a time, any attempt to do otherwise is a sin, and means that they lose the benefits of all relics. However, a person can humbly carry other relics, while only relying on one for the benefits. A character who normally relies on a particular relic would need a very good reason to swap it for another one.
 2. DIVINE MIGHT: All relics have a Divine Might score, which limits how often their powers may be used (effectively preventing characters from over-using their powers). The Might score also acts as Magic Resistance for the relic against any spells or supernatural effects that target it directly. A relic's Divine Might is equal to the relic's Faith score (or highest Faith score, if more than one applies) multiplied by 10, and the Might Pool is refreshed with every sunrise.
-3. SCOURCING THE INFERNAL: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
+3. SCOURGING THE INFERNAL: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
 
 In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here, more can be found on pages 88 and 89 of *Realms of Power: The Divine Revised Edition*.
 
@@ -17707,7 +17711,7 @@ Occasionally, within very special supernatural areas, special types of auras ari
 
 They are called regiones (singular regio, "realm", pronounced 'REH-ghee-oh' and 'rehghee-OH-nays', with a hard 'g' in both cases).
 
-Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon,imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
+Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon, imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
 
 Just as the various floors of a building occupy the same spot of ground, so do the various levels of a regio occupy the same bit of space. It is entirely possible to pass through the bottom level of a regio without realizing that there are more levels than meet the eye.
 
@@ -17737,7 +17741,7 @@ Finally, if a character gets lost near a regio boundary, he may accidentally ent
 
 At least one of these methods of entry must apply to any regio, at least if it is to have any impact on the game. There are some regiones into which you must be led by a native, and others into which you cannot be led, or enter voluntarily, but rather must get lost. Natives of a regio can almost always enter and leave freely, but even then there are exceptions. The most secure location possible for a covenant is a regio which people can only enter by being led, but getting into such a regio in the first place is very difficult.
 
-#### Magic In Regiones
+#### Magic in Regiones
 
 Supernatural powers or spells used in a regio level are affected just as in any other aura, determined by the Realm Interaction Table. Use the aura rating of the level occupied to modify spell and other supernatural rolls. However, any power used within a regio of a realm different from that of the power attracts twice the normal number of botch dice.
 
@@ -17780,7 +17784,7 @@ Infernal vis is avoided by all sensible magi. It tends to twist any project to e
 
 ---
 
-> Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic  lingering long across the ages.
+> Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic lingering long across the ages.
 
 # Chapter 13: Bestiary
 
