@@ -70,6 +70,9 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p189: "the Quaesitores may take an interest it" appears in the source PDF; likely missing "in" before "it" (not fixed)
 - p197: "guestions" should be "questions" and "menat-arms" should be "men-at-arms" (fixed)
 - p198: "selforganize" should be "self-organize" (fixed)
+- p208: Animal Form heading had a mismatched closing quote (fixed)
+- p209: Herbam Form heading had lower-case "he" instead of "He" (fixed)
+- p240: Spell Timing heading had "Mustery" instead of "Mystery" (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
@@ -8916,7 +8919,7 @@ Pronounced 'RAY-go.'
 
 ### Forms
 
-#### Animal (An) "animal'
+#### Animal (An) "animal"
 
 Animal concerns animals of all kinds, from the fish of the sea to the birds of the air. Animal spells cannot affect people, and Hermetic theorists still debate the reason for this.
 
@@ -8948,7 +8951,7 @@ Corpus is the Art of human bodies. This Art affects dead bodies and the bodies o
 
 Pronounced 'COR-poos.'
 
-#### Herbam (he) "plant"
+#### Herbam (He) "plant"
 
 This Form concerns plants and trees. This includes plant matter of all types, including that which is no longer alive — like dead wood and linens.
 
@@ -10054,7 +10057,7 @@ Pendule quietly succumbed to death in 854 AD, but not before imparting one last 
 
 **Script Details:** The Initiate undergoes a ceremony wherein she must go an entire day and night without sleeping, casting a non-Fatiguing Imaginem spell every round to count how many individual moments pass (+3). After this rite she gains three Minor Flaws to represent how her magic becomes more illusionary, and her way of thinking about time becomes more rigid: Harmless Magic (+3), Poor Memory (faces) (+3), and a Social Handicap (+3). Because of this ordeal, the Initiate is said to begin to more closely resemble Pendule, and many of his followers adopt wild, multicolored clothing, dye their hair, or radically alter their physical appearance soon after their Initiation.
 
-#### Spell Timing (Minor Illusion Mustery)
+#### Spell Timing (Minor Illusion Mystery)
 
 This Mystery gives a maga access to several new Durations for her spells. Only those who have Initiated this Mystery may cast or invent spells and effects that use them.
 
