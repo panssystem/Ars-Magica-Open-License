@@ -107,6 +107,10 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p419: Relic power heading said "SCOURCING THE INFERNAL" instead of "SCOURGING THE INFERNAL" (fixed)
 - p420: Regiones section had a missing space after comma in "phenomenon,imagine" (fixed)
 - p421: Magic in Regiones heading had title-case inconsistency (fixed)
+- p446: Dietrich von Bern's power text says "can only to a maximum of +3" in the source PDF, likely missing a verb (not fixed)
+- p448: Portunes heading said "Safe Narbor" instead of "Safe Harbor" (fixed)
+- p465: Stellatus's human-form description had "eves" instead of "eyes" (fixed)
+- p491: Nasir heading said "the Delper" instead of "the Helper" (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
@@ -18997,7 +19001,7 @@ Vis: Leaves 6 pawns of Corpus in his armor when banished.
 
 Honos is a Roman Daimon of morality and military honor, with several temples built in his name. Honos appears as a young warrior in ancient armor, carrying a lance and a cornucopia ("horn of plenty"). Honos' temples in Rome have been destroyed or blanketed by the Dominion, although the Legion of Mithras are rumored to know the location of one surviving shrine where he can be invoked.
 
-#### Portunes, Spirit of Safe Narbor
+#### Portunes, Spirit of Safe Harbor
 
 Magic Might: 25 (Auram)
 
@@ -19910,7 +19914,7 @@ Abilities: [Area] Lore 5 (history), Awareness 8 (human beings), Brawl 7 (claws),
 Powers:
 
 *Human Form*: 1 point, Init 0, Corpus:<br>
-The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eves, in the prime of life. The transformation lasts until he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
+The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eyes, in the prime of life. The transformation lasts until he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
 
 *Instill Loyalty*, 5 points, Init 0, Mentem:<br>
 Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loyal to the dragon, and this loyalty lasts as long as Stellatus is alive.
@@ -21332,7 +21336,7 @@ Appearance: A silver-gray wolf, with a noble bearing. No matter what terrain he 
 
 Lupersus has been sent by God to guard a holy hermit, provide him with food, and, occasionally, lead those in need of advice to the hermit who can provide it. He cannot speak, and has no wish to do so. While his main focus is on the hermit, Lupersus is generally compassionate, and helps those in trouble whom he finds within his range. Sometimes he leads them to safety, but most people do not trust a wolf. In those cases, he chases them to safety. Lupersus is not an angel, but rather a divine creature, and does not have the powers shared by all angels.
 
-### Nasir, the Delper
+### Nasir, the Helper
 
 Divine Might: 25 (Corpus)
 
