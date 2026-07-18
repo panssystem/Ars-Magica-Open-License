@@ -65,6 +65,11 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p112: Templar Administrator/Commander/Office Holder had collapsed compound words: "brothersergeant" and "wellknown" (fixed)
 - p128: Failed Monk type line was missing the comma in "Minor, Social Status" (fixed)
 - p160: Memorization Ease Factors table used non-breaking spaces for padding (fixed)
+- p175: "the older magican give orders" should be "the older magi can give orders" (fixed)
+- p179: "a group of buildings in a clearing in forest" appears in the source PDF; likely missing "a" before "forest" (not fixed)
+- p189: "the Quaesitores may take an interest it" appears in the source PDF; likely missing "in" before "it" (not fixed)
+- p197: "guestions" should be "questions" and "menat-arms" should be "men-at-arms" (fixed)
+- p198: "selforganize" should be "self-organize" (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
@@ -7850,7 +7855,7 @@ Summer covenants are firmly established, and still growing. The length of a cove
 
 A Summer covenant is still growing, but the player characters do not have to worry about establishing it. In addition, they are probably not the oldest members of the covenant, so they do have local older magi to turn to for advice and assistance, if necessary. This makes a Summer covenant an excellent choice if your troupe consists of one or two experienced Ars Magica players and several newcomers. The experienced players can share the job of storyguide for the covenant, and thus provide in-character advice and guidance as the elder magi.
 
-On the other hand, Summer covenants are not normally so organized that the older magican give orders to the younger magi. Thus, the player characters are generally free to follow their own plots.
+On the other hand, Summer covenants are not normally so organized that the older magi can give orders to the younger magi. Thus, the player characters are generally free to follow their own plots.
 
 #### Aestas
 
@@ -8304,7 +8309,7 @@ Loyalty points are gained and lost for the equipment and provender given to the 
 | Specialists                                                          |     |
 | -------------------------------------------------------------------- | --- |
 | Turb Captain + Prs + Leadership | |
-| Steward + Prs + Profession: Steward | | 
+| Steward + Prs + Profession: Steward | |
 | Chamberlain + Prs + Profession: Chamberlain | |
 
 #### Familiarity
@@ -8567,9 +8572,9 @@ Magic can also be employed to save money. For example, the fertility of the cove
 
 #### Emergency Savings
 
-Sometimes, a covenant will find itself out of money (or credit), with its expenditure exceeding its income. If it cannot suddenly increase its cashflow, it will need to reduce its outgoings. There are a number of possibilities, which are a good source of stories. As detailed in the Points of Inhabitants insert above, the more privileged members of the covenant may voluntarily dispense with some of their perks and luxuries. (The points of magi or companions may be reduced to less than 5 or 3 points, respectively, and the cost saving limit on Provisions from laborers may be increased from 50%, as the covenfolk rely more on their own produce.) 
+Sometimes, a covenant will find itself out of money (or credit), with its expenditure exceeding its income. If it cannot suddenly increase its cashflow, it will need to reduce its outgoings. There are a number of possibilities, which are a good source of stories. As detailed in the Points of Inhabitants insert above, the more privileged members of the covenant may voluntarily dispense with some of their perks and luxuries. (The points of magi or companions may be reduced to less than 5 or 3 points, respectively, and the cost saving limit on Provisions from laborers may be increased from 50%, as the covenfolk rely more on their own produce.)
 
-Alternatively, the wages may be cut, but the covenfolk's Loyalty will suffer. Some of the covenfolk could be laid off, turning them into disgruntled vagabonds, possibly with an axe to grind against their former employers. 
+Alternatively, the wages may be cut, but the covenfolk's Loyalty will suffer. Some of the covenfolk could be laid off, turning them into disgruntled vagabonds, possibly with an axe to grind against their former employers.
 
 As explained above, there is a minimum number of servants and teamsters needed to keep the covenant running smoothly. If you have fewer than these minimums, it will adversely affect the functioning of the covenant — the storyguide should determine the appropriate story consequences, such as overworked staff, or magi having to forage or cook for themselves! In more severe cases of shortage or emergency, the magi might neglect entire categories of expenditure, allowing the buildings, laboratories, or weapons to go unmaintained, or letting the covenfolk starve, which will likely cause severe penalties to Loyalty.
 
@@ -8649,7 +8654,7 @@ Add any **Tithes** and **Sundry** Expenses
 
 ## The Organization of Covenfolk
 
-The organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant grew in size, or it may have developed organically over its history. This section presents a few concepts around which a covenant organization can be built. Naturally it is possible to mix-and-match; for example, a covenant's soldiers might be organized in a hierarchical fashion, but its servants and specialists might be divided into nations. The manner in which the grogs are organized can be an important determiner of the mood and feel of a covenant, and the troupe should put a bit of thought into which system they prefer. These guestions, and the lives of covenfolk more generally, are discussed in greater detail in Grogs, Chapter Two.
+The organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant grew in size, or it may have developed organically over its history. This section presents a few concepts around which a covenant organization can be built. Naturally it is possible to mix-and-match; for example, a covenant's soldiers might be organized in a hierarchical fashion, but its servants and specialists might be divided into nations. The manner in which the grogs are organized can be an important determiner of the mood and feel of a covenant, and the troupe should put a bit of thought into which system they prefer. These questions, and the lives of covenfolk more generally, are discussed in greater detail in Grogs, Chapter Two.
 
 ### Hierarchy
 
@@ -8671,7 +8676,7 @@ More information on the disposition of a noble household is given in Lords of Me
 
 #### Military Hierarchy
 
-Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord's household troops, including the knights and menat-arms. If his lord goes to war, the marshal takes charge of the men-at-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenant-in-chief, thus the later rank "lieutenant") and appoints a captain to command the men-at-arms.
+Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord's household troops, including the knights and men-at-arms. If his lord goes to war, the marshal takes charge of the men-at-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenant-in-chief, thus the later rank "lieutenant") and appoints a captain to command the men-at-arms.
 
 This model is appropriate for military-minded covenants, but not necessarily only them. In a similar way to dividing covenfolk into nations (see later), this structure can fill a role where, for example, the covenant is divided over several geographically separate sites. The difference to the system of nations is that, in a military hierarchy, each squad is not independent of each other.
 
@@ -8693,7 +8698,7 @@ Nations may also form where a covenant is split over several geographically sepa
 
 An alternative to nations is guilds; that is, organizing the grogs by their function. Many covenants simply divide their covenants into servants, specialists, and soldiers, and consider these three "guilds" sufficient — and often they are. However, the larger covenants get, the more need there is to divide the grogs into smaller guilds with more defined functions. A covenant that has more than one source of income often institutes guilds as a means to organize collecting the revenue and conducting the necessary business that keeps the income sources operational.
 
-There is also a tendency for grogs to selforganize. If there are a lot of craftsmen, then they tend to band together to mimic the guild structure of the outer world. If the covenant uses light cavalry as an elite unit, then these individuals may not want to fraternize with common foot soldiers.
+There is also a tendency for grogs to self-organize. If there are a lot of craftsmen, then they tend to band together to mimic the guild structure of the outer world. If the covenant uses light cavalry as an elite unit, then these individuals may not want to fraternize with common foot soldiers.
 
 Note that the division of grogs into guilds does not necessarily mean literal guilds; that is, a political unit that can arrange simultaneous withdrawal of services in order to coerce better conditions for their masters.
 
