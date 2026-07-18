@@ -87,6 +87,13 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - p296: Haunted lab Flaw statistics had punctuation/spacing errors (fixed)
 - p296: Astronomical Device says "and example" in the source PDF, likely "an example" (not fixed)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+- p306: Magical Wards rule said "equal to or less than or equal to its level" (fixed)
+- p314-358: Several spell-name headings were at the same Markdown heading level as LEVEL headings (fixed)
+- p318-319: Two Animal spell descriptions had "eves" instead of "eyes" (fixed)
+- p323: Comfort of the Drenched Traveler spell title had title-case inconsistency (fixed)
+- p337: Rego Corpus Spells heading said "Svells" (fixed)
+- p340: Shadows of the Fires Past spell title had title-case inconsistency (fixed)
+- p340, p348, p353: Muto Herbam Guidelines, Creo Imaginem Guidelines, and Creo Mentem Spells headings were one Markdown heading level too high (fixed)
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
@@ -12131,7 +12138,7 @@ Rego spells can create wards which protect the target from things of the appropr
 
 Wards with a Circle target are of particular note. They prevent things warded against that are within the circle from leaving, and prevent things warded against that are outside from entering. Warded things cannot act across the circle, no matter which side they are on, nor can they damage the circle, directly or indirectly. It is quite common to create such spells with a duration of Ring, as then the ward can be made to last indefinitely, with care. Such wards target the circle itself, which cannot leave the circle, and thus last as long as the circle does. However, this is not required, and the spell can be created with any Duration.
 
-The spell guidelines for wards against magical things are listed with a base range of Touch, base duration of Ring, and base target of Circle, because a ward with these parameters wards against creatures with a Might equal to or less than or equal to its level. The parameters of the spell can be changed in the normal way, so that a ward which only protected the magus (Range Personal, Target Individual) for a duration of Moon would have the same final level.
+The spell guidelines for wards against magical things are listed with a base range of Touch, base duration of Ring, and base target of Circle, because a ward with these parameters wards against creatures with a Might equal to or less than its level. The parameters of the spell can be changed in the normal way, so that a ward which only protected the magus (Range Personal, Target Individual) for a duration of Moon would have the same final level.
 
 Like any Hermetic spell, wards must Penetrate Magic Resistance to have their effect. A spell like Circular Ward Against Demons is much harder to cast at high levels, since the spell level must equal or exceed any affected demon's Might Score, and the Penetration Total must exceed it. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly. Since in most cases Hermetic wards do not actually target the creatures affected by them, most magi cannot boost their Penetration Total with an Arcane Connection to a supernatural being, unless that being is inside the circle when the ward is cast.
 
@@ -12597,7 +12604,7 @@ Turns any animal into a toad. A newly created toad will hold a certain terror fo
 
 ##### Steed of Vengeance
 R: Touch, D: Sun, T: Ind.<br>
-Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eves a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.<br>
+Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eyes a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.<br>
 (Base 15, +1 Touch, +2 Sun, +1 size)
 
 ### Perdo Animal Guidelines
@@ -12642,7 +12649,7 @@ After you point at the beast and cast this spell, it begins lashing wildly about
 
 #### LEVEL 20
 
-##### Blunt the Viper's Fangs 
+##### Blunt the Viper's Fangs
 R: Voice, D: Momentary, T: Individual<br>
 Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp weapons may be affected: this spell does not affect a weapon such as a horse's hoof or a giant snake's coils. The blunted weapon has its total damage (including Attack Advantage) reduced to half (round up). The beast may recover from the effect as if it were a Light Wound. The spell may affect animals of size up to +4.<br>
 (Base 5, +2 Voice, +1 size)
@@ -12651,7 +12658,7 @@ Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp 
 
 ##### The Falcon's Hood
 R: Touch, D: Mom, T: Ind<br>
-Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting. When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eves.<br>
+Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting. When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eyes.<br>
 (Base 20, +1 Touch)
 
 ##### Cripple the Howling Wolf
@@ -12803,7 +12810,7 @@ A 3-foot-diameter jet of water sprays from your outstretched arms towards your t
 
 #### LEVEL 40
 
-#### Deluge of Rushing and Dashing
+##### Deluge of Rushing and Dashing
 R: Voice, D: Conc, T: Ind<br>
 Causes a stream to flood, starting at the stream's nearest point to you and continuing downstream. The results of this spell are generally quite impressive. As the stream overflows its original bed, it becomes a raging torrent, sucking in everything near it. Damage from the spell can last for many years. As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.<br>
 (Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
@@ -12905,7 +12912,7 @@ Turns water into air as it enters your lungs, allowing you to breathe water as y
 
 #### LEVEL 45
 
-#### Vile Water of Sterility
+##### Vile Water of Sterility
 R: Touch, D: Year, T: Group, Ritual<br>
 Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.<br>
 (Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
@@ -12929,7 +12936,7 @@ Perdo Aquam botches might destroy all water in the caster, as Curse of the Deser
 
 #### LEVEL 5
 
-##### Comfort Of The Drenched Traveler
+##### Comfort of the Drenched Traveler
 R: Touch, D: Mom, T: Ind<br>
 Dries a person and his or her clothes.<br>
 (Base 4, +1 Touch)
@@ -12948,7 +12955,7 @@ R: Touch, D: Mom, T: Ind<br>
 Dries a single spring, so that it never flows again. This spell targets the spring, not the water in it at a particular time, so the spring does not start to flow again later.<br>
 (Base 20, +1 Touch)
 
-#### Curse of the Desert
+##### Curse of the Desert
 R: Voice, D: Mom, T: Part<br>
 Removes virtually all the fluid from the target's body, doing +15 damage, which armor does not protect against. The target must drink within a few minutes of being struck with this spell, or it dies. Casting requisites are Animal for beasts, and Corpus for humans.<br>
 (Base 10, +2 Voice, +1 Part)
@@ -13335,7 +13342,7 @@ Controlling an amount of air with great strength or great precision raises the m
 
 #### GENERAL
 
-##### Ward against Faeries of the Air 
+##### Ward against Faeries of the Air
 R: Touch, D: Ring, T: Circle<br>
 As Ward Against Faeries of the Water (ReAq Gen), but for faeries of the air. The faerie cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it. From some angles at night, the ring may be seen as a violethued dome.<br>
 (Base effect)
@@ -13711,7 +13718,7 @@ R: Voice, D: Mom, T: Ind<br>
 Turns a dead body or mindless undead body to dust in two rounds. The spell doesn't affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.<br>
 (Base 5, +2 Voice)
 
-#### The Wound That Weeps
+##### The Wound That Weeps
 R: Voice, D: Mom, T: Ind<br>
 When casting this spell, you point at the victim and a large wound opens on his or her body. The wound is not a deep one, but it bleeds profusely. This is only a Light Wound, but it looks bad.<br>
 (Base 5, +2 Voice)
@@ -13747,7 +13754,7 @@ R: Voice, D: Mom, T: Ind<br>
 Blinds a target, leaving the eyes milky with cataracts. This heals as a Heavy Wound.<br>
 (Base 20, +2 Voice)
 
-#### Twist of the Tongue
+##### Twist of the Tongue
 R: Voice, D: Mom, T: Part<br>
 Twists the target's tongue into a spiral, completely destroying the ability to speak. A grave offense to a magus. The damage heals as a Medium Wound.<br>
 (Base 15, +2 Voice, +1 Part)
@@ -13793,7 +13800,7 @@ Rego Corpus can be used to perform surgery. Detailed rules for surgery can be fo
 | 30 | • Transport the target instantly up to seven leagues |
 | 35 | • Transport the target instantly to a place you have an Arcane Connection to |
 
-### Rego Corpus Svells
+### Rego Corpus Spells
 
 #### LEVEL 5
 
@@ -13997,7 +14004,7 @@ R: Touch, D: Conc, T: Ind<br>
 You can speak with a plant for one conversation. The level of conversation depends on the type of plants; longer-lived and more noble plants have more to say. A single question and response takes ten to thirty minutes, with slower-growing plants speaking more slowly. Typically, plants can talk about the soil and about other plants around them, but have limited awareness of more momentary events, such as the passing of animals or people, unless that passing has a direct bearing on the plant (for example, a person cut its trunk). News can spread quickly through a forest when it has to, called from tree to tree on the wind. Bystanders cannot understand your conversation.<br>
 (Base 15, +1 Touch, +1 Conc)
 
-## Muto Herbam Guidelines
+### Muto Herbam Guidelines
 
 These guidelines assume that when you change a plant, it's still a plant in some way. Changing a plant into something else usually involves a spell one level of magnitude higher than the guideline most appropriate to the action. To change plants into treated or finished material (for example, wooden furniture, a vegetarian meal, linen or cotton cloth) add one magnitude to the level necessary to change plants into natural, unworked plants.
 
@@ -14257,7 +14264,7 @@ R: Voice, D: Mom, T: Ind<br>
 Heats a piece of metal so that it is too hot to touch. Something the size of a breastplate or helmet does +5 damage if in direct contact with the skin for one round. For each additional round, more damage is done, the amount dropping by two points each round (+3 damage on round two, then +1). Smaller objects do less damage. Most metal armor has leather or cloth underneath that gives the victim a +3 Soak bonus against the heat.<br>
 (Base 4, +2 Voice)
 
-#### Lamp without Flame
+##### Lamp without Flame
 R: Touch, D: Conc, T: Ind<br>
 This spell creates a steady light as bright as daylight on a cloudy day. The light has no apparent source, but illuminates an area about ten paces across, centered on a point indicated by the caster. This point may be a mobile item.<br>
 (Base 4, +1 Touch, +1 Conc)
@@ -14269,7 +14276,7 @@ R: Touch, D: Diameter, T: Ind<br>
 Forms a fire along the length of a metal blade. This flame doubles the weapon damage score for the blade (or adds +5, whichever is greater), and can start fires as well. If the spell is cast repeatedly on the same blade, the blade gets hot enough to melt after half an hour, which ends the spell. Letting the blade cool for half an hour between castings avoids this.<br>
 (Base 5, +1 Touch, +1 Diameter)
 
-#### Flash of the Scarlet Flames
+##### Flash of the Scarlet Flames
 R: Voice, D: Mom, T: Ind<br>
 A brilliant red flash explodes in the air where you designate. If you target a person's face the target needs a Stamina stress roll against an Ease Factor of 9 to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. The flash is equivalent to looking straight at the sun. In Rose of Jerbiton's version of this spell, there is a faint odor of roses in the area where the flash explodes.<br>
 (Base 5, +2 Voice)
@@ -14330,7 +14337,7 @@ Lets you see what the ashes you touch originally were, and how and when the obje
 
 #### LEVEL 15
 
-##### Shadows of the Fires past
+##### Shadows of the Fires Past
 R: Per, D: Mom, T: Vision<br>
 Allows you to see where fires have been in the past lunar month. A light red flickering haze appears where the fire was, and you gain an intuitive sense of when the fire was there. This spell does not look into the past, but detects the traces of fire.<br>
 (Base 3, +4 Vision)
@@ -14546,7 +14553,7 @@ It is more difficult to mimic a specific object or person using an Imaginem spel
 
 A base Individual for Imaginem is the equivalent of an adult human being, whether a visual image of about that size, an auditory illusion making that much noise, or whatever.
 
-## Creo Imaginem Guidelines
+### Creo Imaginem Guidelines
 
 These spells create and restore images. It is important to note that Creo Imaginem spells only create the images of things, not the things themselves. An image of a bucket will not hold water poured into it, nor will the image of a horse be able to carry a rider. This is often the first (and most important) clue that the image is just an illusion. On the other hand, the illusion of a wall may feel solid, but will present no resistance if someone pushes a hand through it.
 
@@ -14580,7 +14587,7 @@ R: Voice, D: Diam, T: Ind<br>
 Creates an image of any animal or beast up to the size of a pony (Size +1). Under your direct mental command, it moves about (within range) and makes appropriate noises. You need to be able to concentrate, and be within range, whenever you wish to direct the illusion to move in some manner. If you move out of range or stop concentrating, the illusion just freezes in place. The image does smell like an animal, but it has absolutely no effect on the sense of touch. Of course, a magus may not use this spell to create the image of an animal he or she does not know exists.<br>
 (Base 3, +2 Voice, +1 Diam, +2 move under your command)
 
-#### Phantasmal Fire
+##### Phantasmal Fire
 R: Voice, D: Sun, T: Ind<br>
 Req: Ignem<br>
 Makes an image of a fire (up to the size of a large campfire) that dances, illuminates, crackles, and (apparently) warms. It does not spread, burn, or protect against cold. Makes a great joke at gatherings of House Flambeau, although creating a real fire is even more popular.<br>
@@ -14637,14 +14644,14 @@ You can tell whether an image has been created or altered through a spell, seein
 
 #### LEVEL 5
 
-#### Prying Eyes
+##### Prying Eyes
 R: Touch, D: Conc, T: Room<br>
 You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.<br>
 (Base 1, +1 Touch, +1 Conc, +2 Room)
 
 #### LEVEL 15
 
-#### Discern Own Illusions
+##### Discern Own Illusions
 R: Per, D: Sun, T: Vision<br>
 This spell makes your own illusions appear largely transparent to you, but still discernible.<br>
 (Base 1, +2 Sun, +4 Vision)
@@ -14663,7 +14670,7 @@ R: Per, D: Sun, T: Vision<br>
 You see distant things clearly. No matter how far away something is, you can make out details as if it were only a foot or so from you. Things do not all appear to be a foot away; you can simply make out details as well as if they were. You can still judge distance accurately; in fact, more accurately than normal, to within an inch or so at a distance of several miles, since you can see as clearly as if you were judging distance a foot away.<br>
 (Base 3, +2 Sun, +4 Vision)
 
-#### Summoning the Distant Image
+##### Summoning the Distant Image
 R: Arc, D: Conc, T: Room<br>
 You can see and hear what is happening in a distant place if you have some sort of Arcane Connection to either the location or a person there.<br>
 (Base 2, +4 Arc, +1 Conc, +2 Room)
@@ -14823,7 +14830,7 @@ R: Voice, D: Sun, T: Ind<br>
 Makes any person or object appear to be a pace away from its actual position. The image cannot be placed in a solid object. As soon as the original or image moves, the spell ends.<br>
 (Base 2, +2 Voice, +2 Sun)
 
-#### Wizard's Sidestep
+##### Wizard's Sidestep
 R: Per, D: Sun, T: Ind<br>
 Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.<br>
 (Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)
@@ -14886,7 +14893,7 @@ Creo Mentem botches might create inappropriate emotions in the caster's mind.
 | 50 | • Increase one of a person's mental Characteristics by one point, to no more than +4 |
 | 55 | • Increase one of a person's mental Characteristics by one point, to no more than +5 |
 
-## Creo Mentem Spells
+### Creo Mentem Spells
 
 #### LEVEL 10
 
@@ -15223,7 +15230,7 @@ R: Eye, D: Sun, T: Ind<br>
 Enables you to completely control the loyalty, emotions, desires, interests, and activities of any person. People revert to normal when the spell ends, and may be extremely angry with the magus.<br>
 (Base 25, +1 Eye, +2 Sun)
 
-#### Incantation of Summoning the Dead
+##### Incantation of Summoning the Dead
 R: Arc, D: Conc, T: Ind, Ritual<br>
 Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven. If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.<br>
 (Base 15, +4 Arc, +1 Conc)
@@ -15235,7 +15242,7 @@ Enchants the Boundary in which the ritual is cast so that anyone moving through 
 
 #### LEVEL 55
 
-#### Exchange of the Two Minds
+##### Exchange of the Two Minds
 R: Touch, D: Year, T: Group, Ritual<br>
 This spell switches the minds (but not the souls) of two creatures. A new body greatly confuses those who are unprepared for the shock, and even those who are ready take a day to adjust completely. Magi who transport their own minds into younger, healthier bodies usually find that having a strong body entails having powerful passions that interfere with the clear thinking needed to pursue the magical Arts. Both people involved must make a Stamina stress roll against an Ease Factor of 3, rolled before the switch is made, to survive the transfer. If only one person fails the roll, that person dies and the spell fails. The other target is unaffected.<br>
 (Base 20, +1 Touch, +4 Year, +2 Group)
@@ -23785,7 +23792,7 @@ p168-170 p391
 | Coat Of Flame | CrIg | 25 | [344](#coat-of-flame) |
 | Coerce The Spirits Of The Night | ReMe | 20 | [357](#coerce-the-spirits-of-the-night) |
 | Coils Of The Entangling Plants | ReHe | 20 | [342](#coils-of-the-entangling-plants) |
-| Comfort Of The Drenched Traveler | PeAq | 5 | [323](#comfort-of-the-drenched-traveler) |
+| Comfort of the Drenched Traveler | PeAq | 5 | [323](#comfort-of-the-drenched-traveler) |
 | Commanding The Harnessed Beast | ReAn | 30 | [320](#commanding-the-harnessed-beast) |
 | Confusion Of The Insane Vibrations | ReIm | 30 | [352](#confusion-of-the-insane-vibrations) |
 | Confusion Of The Numbed Will | ReMe | 15 | [357](#confusion-of-the-numbed-will) |
